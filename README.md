@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Backend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/69628f9e25e18715077f68eb?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 10 |
+| **[PACR](https://www.linkedin.com/company/98359211)** | **[Backend Developer Intern (Unpaid, Remote)](https://jobright.ai/jobs/info/6962859825e18715077f672e?utm_campaign=1079&utm_source=git)** | Delaware, United States | Remote | Jan 10 |
+| **[TORT Co.](www.tortco.com)** | **[Unity Developer Intern](https://jobright.ai/jobs/info/6962845aa112b4026610eede?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Opzly AI, Inc.](opzly.ai)** | **[Content Developer - Intern](https://jobright.ai/jobs/info/696271322cbf4e44756c64ab?utm_campaign=1079&utm_source=git)** | Newark, DE | Remote | Jan 10 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 Intern - Meshing (Bachelors)](https://jobright.ai/jobs/info/69626f0d2cbf4e44756c63bb?utm_campaign=1079&utm_source=git)** | Evanston, IL | Hybrid | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f135f4f462172a5a7d4537?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
@@ -99,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6945c1da63141d1884554f28?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Jan 10 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern-SRE](https://jobright.ai/jobs/info/694f73f029655e4dd658f6e0?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Jan 10 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Mobile/TV Development Intern](https://jobright.ai/jobs/info/696252f22cbf4e44756c4dc8?utm_campaign=1079&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
-| **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineering Intern, Embedded](https://jobright.ai/jobs/info/6962158c25e18715077ef39e?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Advanced Technology](https://jobright.ai/jobs/info/696213a3a112b40266107c9a?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Jan 10 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineering Intern, Tooling](https://jobright.ai/jobs/info/696213492cbf4e44756c0a80?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Corporate Applications Intern](https://jobright.ai/jobs/info/6962406aa112b4026610a2f5?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 10 |
@@ -117,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[DiDi](https://www.didiglobal.com)** | **[Architect Engineer, Motion Planning (Summer Intern)](https://jobright.ai/jobs/info/6961c9b0a112b40266105709?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 09 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6961c915a112b402661056a9?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 09 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Testbed infrastructure Intern 2026 (Summer 2026)](https://jobright.ai/jobs/info/6961c900f3f4cd132506cbe1?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 09 |
+| **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineering Intern, Embedded](https://jobright.ai/jobs/info/6961c8fbf3f4cd132506cbde?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Jan 09 |
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op May 2026 - Software Engineering - 8-12 Months](https://jobright.ai/jobs/info/6961c6daf3f4cd132506cab1?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 09 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Software Engineer - Corporate Internship](https://jobright.ai/jobs/info/6961c6d4e7ed9a5731ba9862?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 09 |
 | **[Bastian Solutions](https://www.bastiansolutions.com/)** | **[Software Developer (May 2026 Grads)](https://jobright.ai/jobs/info/6961c661f3f4cd132506ca64?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Jan 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Business Technology Solutions Intern - Software Engineer](https://jobright.ai/jobs/info/6961798da112b402660ffe96?utm_campaign=1079&utm_source=git)** | North Chicago, IL | On Site | Jan 09 |
 | **[Typeface](https://www.typeface.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6961950be7ed9a5731ba6fb8?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Jan 09 |
 | **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Quality Assurance Engineer Internship](https://jobright.ai/jobs/info/696174acf3f4cd1325066cec?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Jan 09 |
-| **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[IT -Software Engineer Intern](https://jobright.ai/jobs/info/69252440f0beb0723261b03d?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 09 |
-| **[D2L](http://www.d2l.com)** | **[Software Developer - Spring 2026 Co-op (Kitchener Office)](https://jobright.ai/jobs/info/6961978ef3f4cd132506a584?utm_campaign=1079&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 09 |
-| ↳ | **[Test Developer- Spring 2026 Co-op (Kitchener Office)](https://jobright.ai/jobs/info/6961986ea112b40266103057?utm_campaign=1079&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
