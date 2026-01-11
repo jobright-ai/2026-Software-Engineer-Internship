@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tyonek Native Corp](https://www.tyonek.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6963ffba2cbf4e44756d9cfe?utm_campaign=1079&utm_source=git)** | Warner Robins, GA | On Site | Jan 11 |
 | **[Forestallers](http://forestallers.com/)** | **[Web Development Intern](https://jobright.ai/jobs/info/6963efe825e187150780768c?utm_campaign=1079&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Business Technology Solutions Intern - Software Engineer](https://jobright.ai/jobs/info/6963d0e02cbf4e44756d74de?utm_campaign=1079&utm_source=git)** | North Chicago, IL | On Site | Jan 11 |
 | ↳ | **[Summer Intern – Digital Systems QA](https://jobright.ai/jobs/info/6963d0d2a112b4026611de27?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 11 |
@@ -67,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d40174a1b456627b1fba5?utm_campaign=1079&utm_source=git)** | Garyville, LA | On Site | Jan 11 |
 | ↳ | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d1bee221b890c27803577?utm_campaign=1079&utm_source=git)** | Anacortes, WA | On Site | Jan 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Intern Opportunities for University Students, Mountain View](https://jobright.ai/jobs/info/6946a51863141d188456682e?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Jan 11 |
+| **[Munich Re](https://www.munichre.com)** | **[Application Developer Intern](https://jobright.ai/jobs/info/69560c07aa05c26e7ab0536b?utm_campaign=1079&utm_source=git)** | Cincinnati Metro | On Site | Jan 11 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d2a9ad046ab6061cf3a93?utm_campaign=1079&utm_source=git)** | Martinez, CA | On Site | Jan 11 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Technology, Data and Innovation (TDI) - New York 2026](https://jobright.ai/jobs/info/690df52ad046ab6061cf9f5d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Numbers) - Summer 2026](https://jobright.ai/jobs/info/690e62d644146d3b6ec5389e?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jan 11 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[UiPath](https://www.uipath.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6961d6e8f3f4cd132506d472?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Jan 09 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - Software Engineer Intern](https://jobright.ai/jobs/info/6961cbefa112b40266105863?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 09 |
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op May 2026 - Software Engineering - 8-12 Months](https://jobright.ai/jobs/info/6961cbebe7ed9a5731ba9b63?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 09 |
-| **[DiDi](https://www.didiglobal.com)** | **[Architect Engineer, Motion Planning (Summer Intern)](https://jobright.ai/jobs/info/6961c9b0a112b40266105709?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 09 |
+| ↳ | **[Co-op May 2026 - Software Engineering - 8-12 Months](https://jobright.ai/jobs/info/6961ca0da112b40266105743?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
