@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Frontend Intern](https://jobright.ai/jobs/info/6963a8252cbf4e44756d5d6b?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Jan 11 |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/6963c478a112b4026611d2d0?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 11 |
+| **[LodgeLink](https://www.lodgelink.com)** | **[Graduate Intern Software Engineering](https://jobright.ai/jobs/info/6963bbda25e1871507804837?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Jan 11 |
+| **[SWIVEL](https://www.getswivel.io)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68fe1b95e0c73b3a1119679c?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Jan 11 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Programme - Technology, Data and Innovation (TDI) – Cary 2026](https://jobright.ai/jobs/info/690df66cd046ab6061cf9f87?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Jan 11 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d40174a1b456627b1fba5?utm_campaign=1079&utm_source=git)** | Garyville, LA | On Site | Jan 11 |
 | ↳ | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d1bee221b890c27803577?utm_campaign=1079&utm_source=git)** | Anacortes, WA | On Site | Jan 11 |
@@ -95,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Micro-Computing / Stagiaire, en micro-informatique](https://jobright.ai/jobs/info/69632d2a2cbf4e44756cfbf8?utm_campaign=1079&utm_source=git)** | Varennes, Quebec, Canada | Hybrid | Jan 10 |
 | **[Opzly AI, Inc.](opzly.ai)** | **[Content Developer - Intern](https://jobright.ai/jobs/info/696271322cbf4e44756c64ab?utm_campaign=1079&utm_source=git)** | Newark, DE | Remote | Jan 10 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 Intern - Meshing (Bachelors)](https://jobright.ai/jobs/info/69626f0d2cbf4e44756c63bb?utm_campaign=1079&utm_source=git)** | Evanston, IL | Hybrid | Jan 10 |
+| **[Primetals Technologies](https://primetals.com)** | **[Quality Assurance Engineer Internship](https://jobright.ai/jobs/info/6963bb7125e18715078047d3?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f135f4f462172a5a7d4537?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
 | ↳ | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f13306f462172a5a7d414f?utm_campaign=1079&utm_source=git)** | Glenview, IL | On Site | Jan 10 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Product Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/693173f34c474121999ef9dc?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 10 |
@@ -139,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineering Intern, Tooling](https://jobright.ai/jobs/info/696213492cbf4e44756c0a80?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Corporate Applications Intern](https://jobright.ai/jobs/info/6962406aa112b4026610a2f5?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 10 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineering Intern, Tooling](https://jobright.ai/jobs/info/69620e8f25e18715077eeded?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jan 10 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6961ff2fe7ed9a5731bab3cf?utm_campaign=1079&utm_source=git)** | Southern Pines, NC | On Site | Jan 09 |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6961fd95a112b4026610702a?utm_campaign=1079&utm_source=git)** | Southern Pines, NC | On Site | Jan 09 |
 | ↳ | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6961fd81a112b40266107024?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Jan 09 |
 | ↳ | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6961fca8a112b40266106ff2?utm_campaign=1079&utm_source=git)** | Sparks, NV | On Site | Jan 09 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Systems Software Engineering Intern - Winter 2026](https://jobright.ai/jobs/info/696337c525e18715077fe0ae?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6961c915a112b402661056a9?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 09 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Testbed infrastructure Intern 2026 (Summer 2026)](https://jobright.ai/jobs/info/6961c900f3f4cd132506cbe1?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 09 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineering Intern, Embedded](https://jobright.ai/jobs/info/6961c8fbf3f4cd132506cbde?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Jan 09 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Software Engineer - Corporate Internship](https://jobright.ai/jobs/info/6961c6d4e7ed9a5731ba9862?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 09 |
-| **[Bastian Solutions](https://www.bastiansolutions.com/)** | **[Software Developer (May 2026 Grads)](https://jobright.ai/jobs/info/6961c661f3f4cd132506ca64?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Jan 09 |
-| **[KLA](https://www.kla.com)** | **[Software Intern (GPU Optimization)](https://jobright.ai/jobs/info/6961c63ba112b402661054fe?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
