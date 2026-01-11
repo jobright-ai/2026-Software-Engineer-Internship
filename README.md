@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Quality Assurance Intern (Summer 2026)](https://jobright.ai/jobs/info/6963713025e1871507801351?utm_campaign=1079&utm_source=git)** | Princeton, NJ | Hybrid | Jan 11 |
 | **[Eyefinity](http://www.eyefinity.com/)** | **[Internship, Software Engineer](https://jobright.ai/jobs/info/696333462cbf4e44756cfcdb?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern in Micro-Computing / Stagiaire, en micro-informatique](https://jobright.ai/jobs/info/69632d2a2cbf4e44756cfbf8?utm_campaign=1079&utm_source=git)** | Varennes, Quebec, Canada | Hybrid | Jan 10 |
 | **[Opzly AI, Inc.](opzly.ai)** | **[Content Developer - Intern](https://jobright.ai/jobs/info/696271322cbf4e44756c64ab?utm_campaign=1079&utm_source=git)** | Newark, DE | Remote | Jan 10 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Whatnot](https://www.whatnot.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6929b0ad4c474121999ca0fe?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 10 |
 | **[ASML](https://www.asml.com)** | **[Internship - Software Development Engineer in Test](https://jobright.ai/jobs/info/6945a0e3951654073537bcb2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 10 |
 | **[Whatnot](https://www.whatnot.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6929a30966796e3028f8cc7e?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 10 |
+| **[Stripe](https://stripe.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/69635fb425e18715077fef48?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 10 |
 | **[ASML](https://www.asml.com)** | **[Internship - Algorithm Engineering Intern](https://jobright.ai/jobs/info/69464a2063141d18845600f4?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 10 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Computational Designer, 3D Specialist (Summer)](https://jobright.ai/jobs/info/6945f14763141d18845589c6?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Jan 10 |
 | **[Whatnot](https://www.whatnot.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6929a3fcfa28370be2694e8c?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jan 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Business Technology Solutions Intern - Software Engineer](https://jobright.ai/jobs/info/6961798da112b402660ffe96?utm_campaign=1079&utm_source=git)** | North Chicago, IL | On Site | Jan 09 |
 | **[Typeface](https://www.typeface.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6961950be7ed9a5731ba6fb8?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Jan 09 |
 | **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Quality Assurance Engineer Internship](https://jobright.ai/jobs/info/696174acf3f4cd1325066cec?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Jan 09 |
-| **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[IT -Software Engineer Intern](https://jobright.ai/jobs/info/69252440f0beb0723261b03d?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 09 |
-| **[D2L](http://www.d2l.com)** | **[Software Developer - Spring 2026 Co-op (Kitchener Office)](https://jobright.ai/jobs/info/6961978ef3f4cd132506a584?utm_campaign=1079&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
