@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tyonek Native Corp](https://www.tyonek.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6963ffba2cbf4e44756d9cfe?utm_campaign=1079&utm_source=git)** | Warner Robins, GA | On Site | Jan 11 |
+| **[Forestallers](http://forestallers.com/)** | **[Web Development Intern](https://jobright.ai/jobs/info/6963efe825e187150780768c?utm_campaign=1079&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Business Technology Solutions Intern - Software Engineer](https://jobright.ai/jobs/info/6963d0e02cbf4e44756d74de?utm_campaign=1079&utm_source=git)** | North Chicago, IL | On Site | Jan 11 |
 | ↳ | **[Summer Intern – Digital Systems QA](https://jobright.ai/jobs/info/6963d0d2a112b4026611de27?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 11 |
 | **[LodgeLink](https://www.lodgelink.com)** | **[Graduate Intern Software Engineering](https://jobright.ai/jobs/info/6963bbda25e1871507804837?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Jan 11 |
@@ -139,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6945c1da63141d1884554f28?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Jan 10 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern-SRE](https://jobright.ai/jobs/info/694f73f029655e4dd658f6e0?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Jan 10 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Mobile/TV Development Intern](https://jobright.ai/jobs/info/696252f22cbf4e44756c4dc8?utm_campaign=1079&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
+| **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineering Intern, Embedded](https://jobright.ai/jobs/info/6962158c25e18715077ef39e?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Advanced Technology](https://jobright.ai/jobs/info/696213a3a112b40266107c9a?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Jan 10 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineering Intern, Tooling](https://jobright.ai/jobs/info/696213492cbf4e44756c0a80?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Corporate Applications Intern](https://jobright.ai/jobs/info/6962406aa112b4026610a2f5?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - Software Engineer Intern](https://jobright.ai/jobs/info/6961cbefa112b40266105863?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 09 |
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op May 2026 - Software Engineering - 8-12 Months](https://jobright.ai/jobs/info/6961cbebe7ed9a5731ba9b63?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 09 |
 | **[DiDi](https://www.didiglobal.com)** | **[Architect Engineer, Motion Planning (Summer Intern)](https://jobright.ai/jobs/info/6961c9b0a112b40266105709?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 09 |
-| **[Electronic Arts (EA)](https://www.ea.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6961c915a112b402661056a9?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 09 |
-| **[Astranis Space Technologies](http://www.astranis.com)** | **[Testbed infrastructure Intern 2026 (Summer 2026)](https://jobright.ai/jobs/info/6961c900f3f4cd132506cbe1?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 09 |
-| **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineering Intern, Embedded](https://jobright.ai/jobs/info/6961c8fbf3f4cd132506cbde?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
