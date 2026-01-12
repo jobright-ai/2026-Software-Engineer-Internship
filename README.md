@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Forestallers](http://forestallers.com/)** | **[Web Development Intern](https://jobright.ai/jobs/info/6963efe825e187150780768c?utm_campaign=1079&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Business Technology Solutions Intern - Software Engineer](https://jobright.ai/jobs/info/6963d0e02cbf4e44756d74de?utm_campaign=1079&utm_source=git)** | North Chicago, IL | On Site | Jan 11 |
 | ↳ | **[Summer Intern – Digital Systems QA](https://jobright.ai/jobs/info/6963d0d2a112b4026611de27?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 11 |
 | **[LodgeLink](https://www.lodgelink.com)** | **[Graduate Intern Software Engineering](https://jobright.ai/jobs/info/6963bbda25e1871507804837?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Jan 11 |
@@ -146,7 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineering Intern, Tooling](https://jobright.ai/jobs/info/696213492cbf4e44756c0a80?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Corporate Applications Intern](https://jobright.ai/jobs/info/6962406aa112b4026610a2f5?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 10 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineering Intern, Tooling](https://jobright.ai/jobs/info/69620e8f25e18715077eeded?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jan 10 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6961fd95a112b4026610702a?utm_campaign=1079&utm_source=git)** | Southern Pines, NC | On Site | Jan 09 |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6961ff2fe7ed9a5731bab3cf?utm_campaign=1079&utm_source=git)** | Southern Pines, NC | On Site | Jan 09 |
 | ↳ | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6961fd81a112b40266107024?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Jan 09 |
 | ↳ | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6961fca8a112b40266106ff2?utm_campaign=1079&utm_source=git)** | Sparks, NV | On Site | Jan 09 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Systems Software Engineering Intern - Winter 2026](https://jobright.ai/jobs/info/696337c525e18715077fe0ae?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 09 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[UiPath](https://www.uipath.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6961d6e8f3f4cd132506d472?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Jan 09 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - Software Engineer Intern](https://jobright.ai/jobs/info/6961cbefa112b40266105863?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 09 |
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op May 2026 - Software Engineering - 8-12 Months](https://jobright.ai/jobs/info/6961cbebe7ed9a5731ba9b63?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 09 |
-| ↳ | **[Co-op May 2026 - Software Engineering - 8-12 Months](https://jobright.ai/jobs/info/6961ca0da112b40266105743?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 09 |
+| **[DiDi](https://www.didiglobal.com)** | **[Architect Engineer, Motion Planning (Summer Intern)](https://jobright.ai/jobs/info/6961c9b0a112b40266105709?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 09 |
+| **[Electronic Arts (EA)](https://www.ea.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6961c915a112b402661056a9?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
