@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69445066dd382f5f566a6b8c?utm_campaign=1079&utm_source=git)** | North Bethesda, Maryland | Hybrid | Jan 11 |
+| **[Monarch Quantum](https://monarchquantum.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/696476e7a112b40266125408?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jan 11 |
+| **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - UNDERGRAD Only (AI pipeline, statistical modeling, Kubernetes, Docker, distributed systems))](https://jobright.ai/jobs/info/6964701625e187150780ce87?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Jan 11 |
 | **[S&P Global](https://www.spglobal.com)** | **[Ratings - Software Engineer Intern (Early Careers)](https://jobright.ai/jobs/info/696463542cbf4e44756de785?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 11 |
 | ↳ | **[Ratings- Software Engineer Intern (Early Careers)](https://jobright.ai/jobs/info/69645c6d2cbf4e44756de534?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 11 |
-| **[Independent Force LLC](www.independentforceusa.com)** | **[Web Development Intern](https://jobright.ai/jobs/info/69645b8b25e187150780c6c5?utm_campaign=1079&utm_source=git)** | Ohio, United States | Remote | Jan 11 |
 | **[Kwaza Games LLC](http://etwaves.online)** | **[(Internship/Unpaid) Unity Programmer/3D Modeling/ AI prompting](https://jobright.ai/jobs/info/696451422cbf4e44756de251?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Business Technology Solutions Intern - Software Engineer](https://jobright.ai/jobs/info/6963d0e02cbf4e44756d74de?utm_campaign=1079&utm_source=git)** | North Chicago, IL | On Site | Jan 11 |
 | ↳ | **[Summer Intern – Digital Systems QA](https://jobright.ai/jobs/info/6963d0d2a112b4026611de27?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 11 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineering Intern, Tooling](https://jobright.ai/jobs/info/696213492cbf4e44756c0a80?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Corporate Applications Intern](https://jobright.ai/jobs/info/6962406aa112b4026610a2f5?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 10 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineering Intern, Tooling](https://jobright.ai/jobs/info/69620e8f25e18715077eeded?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jan 10 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6961ff2fe7ed9a5731bab3cf?utm_campaign=1079&utm_source=git)** | Southern Pines, NC | On Site | Jan 09 |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6961fd95a112b4026610702a?utm_campaign=1079&utm_source=git)** | Southern Pines, NC | On Site | Jan 09 |
 | ↳ | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6961fd81a112b40266107024?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Jan 09 |
 | ↳ | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6961fca8a112b40266106ff2?utm_campaign=1079&utm_source=git)** | Sparks, NV | On Site | Jan 09 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Systems Software Engineering Intern - Winter 2026](https://jobright.ai/jobs/info/696337c525e18715077fe0ae?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 09 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Software Engineer Internship (Summer 2026)](https://jobright.ai/jobs/info/6961d9d7f3f4cd132506d5de?utm_campaign=1079&utm_source=git)** | Des Moines, IA | On Site | Jan 09 |
 | **[DiDi](https://www.didiglobal.com)** | **[Architect Engineer, Motion Planning (Summer Intern)](https://jobright.ai/jobs/info/6961d88ba112b40266105fd7?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Jan 09 |
-| **[Principal Financial Group](https://www.principalam.com/)** | **[Software Engineer Internship (Summer 2026)](https://jobright.ai/jobs/info/6961d769a112b40266105f41?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Jan 09 |
-| **[UiPath](https://www.uipath.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6961d6e8f3f4cd132506d472?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
