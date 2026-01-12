@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HII](https://hii.com)** | **[Software Engineering Intern 3 - 2026](https://jobright.ai/jobs/info/6964bd12a112b4026612a649?utm_campaign=1079&utm_source=git)** | Roanoke, VA | Hybrid | Jan 12 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Innovation Services - Software Developer](https://jobright.ai/jobs/info/6964bc7c2cbf4e44756e4170?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, CA, H3B 0B3 | Hybrid | Jan 12 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Full Stack AI Applications Intern - PEY](https://jobright.ai/jobs/info/691efce609cc522e8773ced8?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 12 |
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69445066dd382f5f566a6b8c?utm_campaign=1079&utm_source=git)** | North Bethesda, Maryland | Hybrid | Jan 11 |
 | **[Monarch Quantum](https://monarchquantum.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/696476e7a112b40266125408?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jan 11 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - UNDERGRAD Only (AI pipeline, statistical modeling, Kubernetes, Docker, distributed systems))](https://jobright.ai/jobs/info/6964701625e187150780ce87?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Jan 11 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d40174a1b456627b1fba5?utm_campaign=1079&utm_source=git)** | Garyville, LA | On Site | Jan 11 |
 | ↳ | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d1bee221b890c27803577?utm_campaign=1079&utm_source=git)** | Anacortes, WA | On Site | Jan 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Intern Opportunities for University Students, Mountain View](https://jobright.ai/jobs/info/6946a51863141d188456682e?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Jan 11 |
-| **[Munich Re](https://www.munichre.com)** | **[Application Developer Intern](https://jobright.ai/jobs/info/69560c07aa05c26e7ab0536b?utm_campaign=1079&utm_source=git)** | Cincinnati Metro | On Site | Jan 11 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d2a9ad046ab6061cf3a93?utm_campaign=1079&utm_source=git)** | Martinez, CA | On Site | Jan 11 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Technology, Data and Innovation (TDI) - New York 2026](https://jobright.ai/jobs/info/690df52ad046ab6061cf9f5d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Numbers) - Summer 2026](https://jobright.ai/jobs/info/690e62d644146d3b6ec5389e?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jan 11 |
@@ -90,8 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Robot (PhD)](https://jobright.ai/jobs/info/696384ee2cbf4e44756d34b0?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Jan 11 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Summer - PNT Resilience, Onsite](https://jobright.ai/jobs/info/69378e811c1c2161c13f5b2c?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | On Site | Jan 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68f328e89a65fd3458584603?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 11 |
-| **[ByteDance](http://bytedance.com)** | **[Cloud Acceleration Engineer Intern (DPU & AI Infra)- 2026 Start(PHD)](https://jobright.ai/jobs/info/68d766d77a37c712687cbe0a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Research Engineer Intern (Ads ML Infra) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68f18114ef766b3f0fd0ed4f?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Jan 11 |
+| ↳ | **[Research Engineer Intern (Ads ML Infra) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68f18114ef766b3f0fd0ed4f?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Jan 11 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[IT Cloud & Infrastructure Intern](https://jobright.ai/jobs/info/68d72b2a894705799a2f1267?utm_campaign=1079&utm_source=git)** | Jackson, MS | On Site | Jan 11 |
 | **[Epic Games](https://epicgames.com)** | **[Engine Programmer Intern](https://jobright.ai/jobs/info/68f1a070f462172a5a7dab76?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Jan 11 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Payment Network) - Global Payment - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/692ae0394c474121999ccd06?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6961fca8a112b40266106ff2?utm_campaign=1079&utm_source=git)** | Sparks, NV | On Site | Jan 09 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Systems Software Engineering Intern - Winter 2026](https://jobright.ai/jobs/info/696337c525e18715077fe0ae?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 09 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Software Engineer Internship (Summer 2026)](https://jobright.ai/jobs/info/6961d9d7f3f4cd132506d5de?utm_campaign=1079&utm_source=git)** | Des Moines, IA | On Site | Jan 09 |
-| **[DiDi](https://www.didiglobal.com)** | **[Architect Engineer, Motion Planning (Summer Intern)](https://jobright.ai/jobs/info/6961d88ba112b40266105fd7?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
