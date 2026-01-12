@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kwaza Games LLC](http://etwaves.online)** | **[(Internship/Unpaid) Unity Programmer/3D Modeling/ AI prompting](https://jobright.ai/jobs/info/696451422cbf4e44756de251?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 11 |
+| **[Vet Rocket](https://vetrocket.com/)** | **[Junior Software Developer / Paid Intern (Part-Time, Locals Only)](https://jobright.ai/jobs/info/69644a9b2cbf4e44756ddcc0?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Business Technology Solutions Intern - Software Engineer](https://jobright.ai/jobs/info/6963d0e02cbf4e44756d74de?utm_campaign=1079&utm_source=git)** | North Chicago, IL | On Site | Jan 11 |
 | ↳ | **[Summer Intern – Digital Systems QA](https://jobright.ai/jobs/info/6963d0d2a112b4026611de27?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 11 |
 | **[LodgeLink](https://www.lodgelink.com)** | **[Graduate Intern Software Engineering](https://jobright.ai/jobs/info/6963bbda25e1871507804837?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Jan 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UiPath](https://www.uipath.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6961d6e8f3f4cd132506d472?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Jan 09 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - Software Engineer Intern](https://jobright.ai/jobs/info/6961cbefa112b40266105863?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 09 |
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op May 2026 - Software Engineering - 8-12 Months](https://jobright.ai/jobs/info/6961cbebe7ed9a5731ba9b63?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 09 |
-| **[DiDi](https://www.didiglobal.com)** | **[Architect Engineer, Motion Planning (Summer Intern)](https://jobright.ai/jobs/info/6961c9b0a112b40266105709?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 09 |
-| **[Electronic Arts (EA)](https://www.ea.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6961c915a112b402661056a9?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
