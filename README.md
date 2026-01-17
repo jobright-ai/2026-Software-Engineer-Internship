@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SmartTaxAI](https://smarttaxai-waitlist.com)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/696bc83d5fc86241853b1e20?utm_campaign=1079&utm_source=git)** | Boston, MA | Remote | Jan 17 |
-| **[Partners Law](http://www.partnerslawgroup.com/)** | **[Technology Intern](https://jobright.ai/jobs/info/696bc645350cf43803131577?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 17 |
+| **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Software Development (Summer 2026)](https://jobright.ai/jobs/info/696bdd1ddb26b618950f4bbd?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 17 |
+| **[PwC](http://pwc.com)** | **[Software Engineering - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd95adb26b618950f4a93?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 17 |
+| ↳ | **[Software Engineering - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd802db26b618950f4a3c?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 17 |
+| ↳ | **[Software Engineering - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd7f9350cf438031317d8?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Jan 17 |
+| ↳ | **[Software Engineering - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd7afdb26b618950f4a25?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
+| ↳ | **[Software Engineering - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd79a350cf438031317cb?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Jan 17 |
+| ↳ | **[Software Engineering - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd6555fc86241853b204e?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
+| ↳ | **[Software Engineering - Summer 2027 Internship](https://jobright.ai/jobs/info/696bcff5db26b618950f4932?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 17 |
+| ↳ | **[Software Engineering - Summer 2027 Internship](https://jobright.ai/jobs/info/696bcde3350cf43803131674?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Jan 17 |
+| ↳ | **[Software Engineering - Summer 2027 Internship](https://jobright.ai/jobs/info/696bcdd1350cf4380313166b?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Jan 17 |
+| ↳ | **[Software Engineering - Summer 2027 Internship](https://jobright.ai/jobs/info/696bcd5c5fc86241853b1f19?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Jan 17 |
 | **[CLEAR](http://www.clearme.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/696baf9c350cf4380312f8c1?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern - Information Technology](https://jobright.ai/jobs/info/695d764ef1f8465b79f3a2c2?utm_campaign=1079&utm_source=git)** | Frisco, TX | Hybrid | Jan 17 |
 | **[SBA Communications](http://www.sbasite.com)** | **[Intern - Asset Development](https://jobright.ai/jobs/info/68fb8eb14129dd33cd132beb?utm_campaign=1079&utm_source=git)** | Hillsborough County, FL | On Site | Jan 17 |
@@ -98,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Oceaneering](http://www.oceaneering.com/)** | **[IT Integration Developer Intern](https://jobright.ai/jobs/info/6933d3f8f131d96e484678a7?utm_campaign=1079&utm_source=git)** | Greater Houston | Hybrid | Jan 17 |
 | **[York Space Systems LLC](http://www.yorkspacesystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6933cd10a0dde7020e2f1dff?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69681e2c1703f05405a9bd50?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 17 |
-| ↳ | **[AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6967d3b1639b452fb57d6485?utm_campaign=1079&utm_source=git)** | Armonk, NY | Hybrid | Jan 17 |
 | ↳ | **[Z Infrastructure Solutions Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6966a1f65ad3a93f8231f0a7?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 17 |
+| ↳ | **[AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6967d3b1639b452fb57d6485?utm_campaign=1079&utm_source=git)** | Armonk, NY | Hybrid | Jan 17 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/68cf63e8dbd9fb154ede76db?utm_campaign=1079&utm_source=git)** | Pittsburgh Region | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6967b1b1639b452fb57d450f?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Jan 17 |
 | ↳ | **[Software Developer Intern Austin 2026](https://jobright.ai/jobs/info/69677c79639b452fb57d151d?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 17 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Aerospace Software Developer Intern - Undergraduate](https://jobright.ai/jobs/info/696b221a350cf43803127a33?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | On Site | Jan 16 |
 | **[Lendio](http://lendio.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6943536194730b7398766080?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Jan 16 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Avionics Software Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/696b2141350cf438031279b6?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jan 16 |
-| **[Saronic Technologies](https://www.saronic.com)** | **[Forward Deployed Engineer Intern](https://jobright.ai/jobs/info/696b1f7b5fc86241853a8106?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 16 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Aerospace Software Developer Intern - Undergraduate](https://jobright.ai/jobs/info/696b1f4c5fc86241853a80f3?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jan 16 |
-| ↳ | **[Summer 2026 Avionics Software Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/696b1e565fc86241853a8076?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | On Site | Jan 16 |
-| **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Software Development Intern (Summer 2026; HAV)](https://jobright.ai/jobs/info/696b15085fc86241853a60e6?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Jan 16 |
-| **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Research Engineer Intern 2026](https://jobright.ai/jobs/info/696b0d84350cf43803125098?utm_campaign=1079&utm_source=git)** | Jupiter, FL | On Site | Jan 16 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/696b08dddb26b618950e840a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 16 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Engineer Intern 2026](https://jobright.ai/jobs/info/696b07875fc86241853a52fd?utm_campaign=1079&utm_source=git)** | Jupiter, FL | On Site | Jan 16 |
-| **[Cisco](http://www.cisco.com)** | **[Software Engineer Backend/Platform Systems II (Intern) – United States](https://jobright.ai/jobs/info/696b06895fc86241853a51b6?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 16 |
-| ↳ | **[Software Engineer Full Stack & Application Development II (Intern) – United States](https://jobright.ai/jobs/info/696b04295fc86241853a4e2a?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
