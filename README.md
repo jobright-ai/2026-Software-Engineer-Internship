@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Front End Intern](https://jobright.ai/jobs/info/696e4cd4350cf43803150c95?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Jan 19 |
+| **[Nokia](http://www.nokia.com)** | **[R&D Radio Software Developer Intern](https://jobright.ai/jobs/info/696e4722350cf438031509af?utm_campaign=1079&utm_source=git)** | Coppell, TX | On Site | Jan 19 |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer (SkillBridge Intern) - 23875](https://jobright.ai/jobs/info/68cce080d11b445e0bee3779?utm_campaign=1079&utm_source=git)** | Greater Roanoke Area | On Site | Jan 19 |
+| **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - IT (May 2026)](https://jobright.ai/jobs/info/696e4024db26b61895112f68?utm_campaign=1079&utm_source=git)** | Green Bay, WI | Hybrid | Jan 19 |
+| **[Waters Corporation](http://www.waters.com)** | **[IT Intern - Software Development Platform Automation](https://jobright.ai/jobs/info/696e3eafdb26b61895112eed?utm_campaign=1079&utm_source=git)** | Milford, MA | Hybrid | Jan 19 |
+| **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 Software Developer Intern / Vokey](https://jobright.ai/jobs/info/696e3c4a5fc86241853d07b5?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | On Site | Jan 19 |
+| **[TD](https://www.td.com)** | **[Software Developer Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/696b2b495fc86241853a8827?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 19 |
+| **[Nokia](http://www.nokia.com)** | **[R&D Radio Software Developer Intern](https://jobright.ai/jobs/info/696e36b4350cf43803150212?utm_campaign=1079&utm_source=git)** | 3201 Olympus Boulevard, Dallas, Texas, 75019-4520, US | On Site | Jan 19 |
 | **[TD](https://www.td.com)** | **[AI2 Software Engineer Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/69548e6caa05c26e7aaf0c50?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
 | **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69127894c98948514c47c06f?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Jan 19 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Software Engineering Intern, AMER](https://jobright.ai/jobs/info/68cd5df71ad6b16f02898c6d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 19 |
@@ -89,6 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer - Internship (Summer 2026)](https://jobright.ai/jobs/info/696de8835fc86241853cae91?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 19 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Information Systems Technology](https://jobright.ai/jobs/info/696e00305fc86241853cd53f?utm_campaign=1079&utm_source=git)** | Chesterfield, VA | On Site | Jan 18 |
 | **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d360935649778e20924f?utm_campaign=1079&utm_source=git)** | US > Arizona > Phoenix | On Site | Jan 18 |
+| **[sommes](http://www.sommes54.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/696e36865fc86241853d04dc?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 18 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/69436ef4dd382f5f56697c83?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | ↳ | **[Software Intern, Summer (Synthesis)](https://jobright.ai/jobs/info/69438b5794730b739876b418?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Frameworks (Network Systems and Tools)](https://jobright.ai/jobs/info/69343149f131d96e48469eb9?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 18 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SBA Communications](http://www.sbasite.com)** | **[Intern - Asset Development](https://jobright.ai/jobs/info/68fb8eb14129dd33cd132beb?utm_campaign=1079&utm_source=git)** | Hillsborough County, FL | On Site | Jan 17 |
 | **[Citi](https://www.citi.com)** | **[Technology, Application Development, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/69162339286ccf0a15132c67?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 17 |
 | ↳ | **[Technology, Application Development, Summer Analyst, New York/New Jersey - USA, 2026](https://jobright.ai/jobs/info/69161df56f36db06ef0530c3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/6933544bf131d96e4846207f?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Jan 17 |
-| **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Enterprise Document Management Systems (EDMS) Summer Intern](https://jobright.ai/jobs/info/68dfabf16be63b6ec997249f?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Jan 17 |
-| **[Citi](https://www.citi.com)** | **[Technology, Application Development, Summer Analyst, Jacksonville - USA, 2026](https://jobright.ai/jobs/info/6916017a9c388539cbdf736a?utm_campaign=1079&utm_source=git)** | Jacksonville, FL | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Cloud Developer Intern](https://jobright.ai/jobs/info/6967d56b639b452fb57d68bd?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 17 |
-| ↳ | **[Cloud Developer Intern](https://jobright.ai/jobs/info/695ed10c08ab990f282a1bb3?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Jan 17 |
-| ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/6967106a639b452fb57ca6e8?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Jan 17 |
-| ↳ | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/6933480bf131d96e484616e4?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Jan 17 |
-| ↳ | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/696b90ec5fc86241853af261?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Jan 17 |
-| ↳ | **[Cloud Developer Intern](https://jobright.ai/jobs/info/695ebbc008ab990f282a052d?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
