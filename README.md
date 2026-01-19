@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Software Developer Intern – Top Secret Clearance Required](https://jobright.ai/jobs/info/696ea2b8350cf438031569e3?utm_campaign=1079&utm_source=git)** | Fairfax, VA | Hybrid | Jan 19 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/696ea26d5fc86241853d6c8a?utm_campaign=1079&utm_source=git)** | Manassas, VA | On Site | Jan 19 |
+| **[Atomic Object](http://atomicobject.com)** | **[Atomic Intern Grand Rapids, 2026](https://jobright.ai/jobs/info/696e98ba5fc86241853d579c?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Jan 19 |
+| **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/696e96805fc86241853d5304?utm_campaign=1079&utm_source=git)** | Lebanon, VA | Hybrid | Jan 19 |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineering Intern (Summer 2026) (Onsite) (Open)](https://jobright.ai/jobs/info/696e95f65fc86241853d51c0?utm_campaign=1079&utm_source=git)** | Marlborough, MA | On Site | Jan 19 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/696e955d5fc86241853d5079?utm_campaign=1079&utm_source=git)** | Hauppauge, NY | On Site | Jan 19 |
+| **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[US 2026 Functional Testing Intern](https://jobright.ai/jobs/info/696e9351350cf43803154a27?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 19 |
+| **[Moog Inc.](http://www.moog.com)** | **[Intern, IT/Computer Science](https://jobright.ai/jobs/info/696e926edb26b61895116f86?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Jan 19 |
+| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Software Engineer (Spring 2027)](https://jobright.ai/jobs/info/696e8de7db26b61895116b4f?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jan 19 |
+| **[Concora Credit](https://about.concoracredit.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/696e8db5350cf438031543f9?utm_campaign=1079&utm_source=git)** | US-OH-Akron | On Site | Jan 19 |
+| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Design Assurance Engineer (Spring 2027)](https://jobright.ai/jobs/info/696e8b75db26b6189511689d?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jan 19 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Software Engineer Technical Intern - Melbourne FL](https://jobright.ai/jobs/info/696e89ad5fc86241853d41fb?utm_campaign=1079&utm_source=git)** | United States-Florida-Melbourne | On Site | Jan 19 |
 | **[General Dynamics](https://www.gd.com)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/696e88ed350cf43803153faf?utm_campaign=1079&utm_source=git)** | USA-VA-Manassas | On Site | Jan 19 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Design Assurance Engineer (Fall 2026)](https://jobright.ai/jobs/info/696e86d95fc86241853d3f17?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jan 19 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69445066dd382f5f566a6b8c?utm_campaign=1079&utm_source=git)** | North Bethesda, Maryland | Hybrid | Jan 17 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Testbed Infrastructure Intern 2026 (Summer 2026)](https://jobright.ai/jobs/info/6961c900f3f4cd132506cbe1?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
 | **[Oracle](https://www.oracle.com/)** | **[Software Engineer Intern - Oracle Retail](https://jobright.ai/jobs/info/696db72c350cf43803149143?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Jan 17 |
-| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Agentic Browser Research Engineer (Summer)](https://jobright.ai/jobs/info/696c22e35fc86241853b4bd6?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/69338044a0dde7020e2ee9ff?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | On Site | Jan 17 |
-| **[Pulsewave](https://www.pulsewave.app/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/696ce0015fc86241853bfc4f?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Remote | Jan 17 |
-| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Agentic Browser Research Engineer (Summer)](https://jobright.ai/jobs/info/696bf143350cf438031325d4?utm_campaign=1079&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/693364d0a0dde7020e2ed645?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | On Site | Jan 17 |
-| **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Software Development (Summer 2026)](https://jobright.ai/jobs/info/696bdd1ddb26b618950f4bbd?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 17 |
-| **[PwC](http://pwc.com)** | **[Software Engineering - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd95adb26b618950f4a93?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 17 |
-| ↳ | **[Software Engineering - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd802db26b618950f4a3c?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 17 |
-| ↳ | **[Software Engineering - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd7f9350cf438031317d8?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Jan 17 |
-| ↳ | **[Software Engineering - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd7afdb26b618950f4a25?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
-| ↳ | **[Software Engineering - Summer 2027 Internship](https://jobright.ai/jobs/info/696bd79a350cf438031317cb?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
