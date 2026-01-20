@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nightwing](nightwing.com)** | **[Software Developer - Intern](https://jobright.ai/jobs/info/696f4c1a9c3c5263345607b8?utm_campaign=1079&utm_source=git)** | Sterling, VA | Hybrid | Jan 20 |
+| **[VSP Vision](https://vspglobal.com/)** | **[Internship, Software Engineer](https://jobright.ai/jobs/info/696f43f40f4e0f657ea3abbd?utm_campaign=1079&utm_source=git)** | Remote US | Remote | Jan 20 |
+| **[Visa](https://www.visa.com)** | **[Software Engineer, Intern - Summer 2026, Austin](https://jobright.ai/jobs/info/6966663c5ad3a93f8231ba8b?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 20 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/696f3aa10f4e0f657ea391f1?utm_campaign=1079&utm_source=git)** | Simi Valley, CA | On Site | Jan 20 |
+| **[Relativity](http://www.relativity.com)** | **[Software Engineering Intern - Data Breach Response](https://jobright.ai/jobs/info/696f35e79c3c52633455e615?utm_campaign=1079&utm_source=git)** | Illinois | Hybrid | Jan 19 |
+| **[Visa](https://www.visa.com)** | **[Software Engineer, Intern - Summer 2026, Foster City](https://jobright.ai/jobs/info/696671757a34f5392054eddc?utm_campaign=1079&utm_source=git)** | Foster City, CA | Hybrid | Jan 19 |
 | **[Relativity](http://www.relativity.com)** | **[Software Engineering Intern - Ingestion](https://jobright.ai/jobs/info/696f328c0f4e0f657ea38d7a?utm_campaign=1079&utm_source=git)** | Illinois | Hybrid | Jan 19 |
 | ↳ | **[Software Engineering Intern - Search](https://jobright.ai/jobs/info/696f30e09c3c52633455e1f4?utm_campaign=1079&utm_source=git)** | Illinois | Hybrid | Jan 19 |
 | ↳ | **[Software Engineering Intern - Matter Admin](https://jobright.ai/jobs/info/696f2d1582817106e9764aaf?utm_campaign=1079&utm_source=git)** | Illinois | Hybrid | Jan 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[[Online Assessment]Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/690d44c84a1b456627b1feee?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 19 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Software Developer Intern](https://jobright.ai/jobs/info/6969c3eb639b452fb57fadb9?utm_campaign=1079&utm_source=git)** | Strongsville, OH | On Site | Jan 19 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 Software Developer Intern / Vokey](https://jobright.ai/jobs/info/696df5f05fc86241853cb5ea?utm_campaign=1079&utm_source=git)** | Carlsbad, California, United States of America | On Site | Jan 19 |
-| **[Nominal](https://www.nominal.io)** | **[Software Engineer - Internship (Summer 2026)](https://jobright.ai/jobs/info/696de8ebdb26b6189510d667?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jan 19 |
-| ↳ | **[Software Engineer - Internship (Summer 2026)](https://jobright.ai/jobs/info/696de8835fc86241853cae91?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 19 |
-| **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Information Systems Technology](https://jobright.ai/jobs/info/696e00305fc86241853cd53f?utm_campaign=1079&utm_source=git)** | Chesterfield, VA | On Site | Jan 18 |
-| **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d360935649778e20924f?utm_campaign=1079&utm_source=git)** | US > Arizona > Phoenix | On Site | Jan 18 |
-| **[sommes](http://www.sommes54.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/696e36865fc86241853d04dc?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 18 |
-| **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/69436ef4dd382f5f56697c83?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
