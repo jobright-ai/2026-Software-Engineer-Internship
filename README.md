@@ -57,8 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AdMesh](https://useadmesh.com)** | **[Growth Engineer Intern](https://jobright.ai/jobs/info/696f14609c3c52633455d9ed?utm_campaign=1079&utm_source=git)** | United States | On Site | Jan 19 |
+| **[Relativity](http://www.relativity.com)** | **[Software Engineering Intern - Ingestion](https://jobright.ai/jobs/info/696f328c0f4e0f657ea38d7a?utm_campaign=1079&utm_source=git)** | Illinois | Hybrid | Jan 19 |
+| ↳ | **[Software Engineering Intern - Search](https://jobright.ai/jobs/info/696f30e09c3c52633455e1f4?utm_campaign=1079&utm_source=git)** | Illinois | Hybrid | Jan 19 |
+| ↳ | **[Software Engineering Intern - Matter Admin](https://jobright.ai/jobs/info/696f2d1582817106e9764aaf?utm_campaign=1079&utm_source=git)** | Illinois | Hybrid | Jan 19 |
+| **[Visa](https://www.visa.com)** | **[Software Engineer, Intern - Summer 2026, Bellevue](https://jobright.ai/jobs/info/69666b56a112b40266146464?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Jan 19 |
 | **[narb](https://narb.cc/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/696f144d82817106e97645b2?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 19 |
+| **[Relativity](http://www.relativity.com)** | **[Software Engineering Intern - Ingestion](https://jobright.ai/jobs/info/696f23250f4e0f657ea385fd?utm_campaign=1079&utm_source=git)** | Illinois, United States | Hybrid | Jan 19 |
+| ↳ | **[Software Engineering Intern - Data Breach Response](https://jobright.ai/jobs/info/696f22f70f4e0f657ea385f5?utm_campaign=1079&utm_source=git)** | Illinois, United States | Hybrid | Jan 19 |
+| ↳ | **[Software Engineering Intern - Matter Admin](https://jobright.ai/jobs/info/696f22a90f4e0f657ea385ea?utm_campaign=1079&utm_source=git)** | Illinois, United States | Hybrid | Jan 19 |
+| ↳ | **[Software Engineering Intern - Search](https://jobright.ai/jobs/info/696f22170f4e0f657ea385bd?utm_campaign=1079&utm_source=git)** | Illinois, United States | Hybrid | Jan 19 |
+| **[Intapp](http://www.intapp.com)** | **[IT Business Applications Intern](https://jobright.ai/jobs/info/696f1d5c9c3c52633455db8a?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 19 |
+| **[narb](https://narb.cc/)** | **[Mobile Application Developer Intern](https://jobright.ai/jobs/info/696f192b82817106e97646ba?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 19 |
+| **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/6965a610a112b4026613b125?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 19 |
+| ↳ | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6965ffb4a112b40266140bcd?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 19 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[SW Engineer Intern](https://jobright.ai/jobs/info/696abdc75fc862418539d26c?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Jan 19 |
 | **[DISH TV](https://www.dish.com)** | **[IT Digital Solutions Intern](https://jobright.ai/jobs/info/696eef10db26b618951208f0?utm_campaign=1079&utm_source=git)** | Englewood, CO | On Site | Jan 19 |
 | **[MAHLE](https://www.mahle.com)** | **[Software Engineering Intern (Jan - Aug 2026)](https://jobright.ai/jobs/info/695d4286fbd62a0a6565ca40?utm_campaign=1079&utm_source=git)** | Lockport, NY | On Site | Jan 19 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d360935649778e20924f?utm_campaign=1079&utm_source=git)** | US > Arizona > Phoenix | On Site | Jan 18 |
 | **[sommes](http://www.sommes54.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/696e36865fc86241853d04dc?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 18 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/69436ef4dd382f5f56697c83?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
-| ↳ | **[Software Intern, Summer (Synthesis)](https://jobright.ai/jobs/info/69438b5794730b739876b418?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Frameworks (Network Systems and Tools)](https://jobright.ai/jobs/info/69343149f131d96e48469eb9?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 18 |
-| **[Two Sigma](https://www.twosigma.com/)** | **[Software Engineering Internship - NYC](https://jobright.ai/jobs/info/691793d945fb6f5ead89c3d0?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jan 18 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[AWS Tech intern, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/691795e6bcdbf3560c9c9224?utm_campaign=1079&utm_source=git)** | Greater São Paulo Area | On Site | Jan 18 |
-| **[Cisco](http://www.cisco.com)** | **[Quality Assurance I (Intern) - United States](https://jobright.ai/jobs/info/6917e66545fb6f5ead89fa93?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Jan 18 |
-| **[Ramp](https://ramp.com)** | **[Software Engineer Internship / Backend](https://jobright.ai/jobs/info/694626d0d1953b5d11bf3fc2?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Jan 18 |
-| ↳ | **[Software Engineer Internship / Android](https://jobright.ai/jobs/info/69188814bcdbf3560c9d289e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 18 |
-| **[Cisco](http://www.cisco.com)** | **[AI Software QA II (Intern) - United States](https://jobright.ai/jobs/info/692e0d97fa28370be26a0aef?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Supplier Quality Assurance Engineer)](https://jobright.ai/jobs/info/691fe2a23f782d2f1afc127a?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Jan 18 |
-| **[Motion](http://www.dragosupply.com/)** | **[Cloud SRE Intern](https://jobright.ai/jobs/info/695497fef1f8465b79ebc607?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 18 |
-| **[ByteDance](http://bytedance.com)** | **[Research Intern (RDMA/High Speed Network) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68a3cdad37d3cc6b0d579b45?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
