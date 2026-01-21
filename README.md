@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Software Development Engineer in Test Intern](https://jobright.ai/jobs/info/693765c11c1c2161c13f3dc7?utm_campaign=1079&utm_source=git)** | Lake Oswego, OR | On Site | Jan 21 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Cloud Engineer (Summer 2026)](https://jobright.ai/jobs/info/6970a66c333b6343a14d2bca?utm_campaign=1079&utm_source=git)** | Miami, FL | Hybrid | Jan 21 |
+| ↳ | **[Intern, Cloud Engineer (Summer 2026)](https://jobright.ai/jobs/info/6970a5b7587dfa0bb55e4449?utm_campaign=1079&utm_source=git)** | New Orleans, LA | Hybrid | Jan 21 |
+| ↳ | **[Intern, Cloud Engineer (Summer 2026)](https://jobright.ai/jobs/info/6970a0f951f726477182efcb?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 21 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Software Development Intern](https://jobright.ai/jobs/info/6970a0ed51f726477182efc9?utm_campaign=1079&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Jan 21 |
 | **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69709d53333b6343a14d2a0f?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jan 21 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Cloud Engineer (Summer 2026)](https://jobright.ai/jobs/info/69709c0c333b6343a14d296c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 21 |
 | ↳ | **[Intern, Cloud Engineer (Summer 2026)](https://jobright.ai/jobs/info/69709b63587dfa0bb55e4195?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | ↳ | **[Intern, Cloud Engineer (Summer 2026)](https://jobright.ai/jobs/info/697099d951f726477182edb9?utm_campaign=1079&utm_source=git)** | Jackson, MS | On Site | Jan 21 |
-| **[GenPark](https://genpark.ai)** | **[Full Stack Engineer Intern](https://jobright.ai/jobs/info/6970997451f726477182eb02?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 21 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Cloud Engineer (Summer 2026)](https://jobright.ai/jobs/info/697098fc333b6343a14d286e?utm_campaign=1079&utm_source=git)** | Montgomery, AL | On Site | Jan 21 |
+| ↳ | **[Intern, Cloud Engineer (Summer 2026)](https://jobright.ai/jobs/info/697098fc333b6343a14d286e?utm_campaign=1079&utm_source=git)** | Montgomery, AL | On Site | Jan 21 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Embedded Software Developer Summer Intern](https://jobright.ai/jobs/info/6966c832a112b4026614c732?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Jan 21 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineer Intern - Onsite (CO)](https://jobright.ai/jobs/info/69709442587dfa0bb55e2680?utm_campaign=1079&utm_source=git)** | Aurora, CO | On Site | Jan 21 |
 | **[GlobalFoundries](https://gf.com/)** | **[System-on-Chip Design Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/696565552cbf4e44756edd6a?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Capella Space](http://www.capellaspace.com)** | **[Flight Software Engineering Intern](https://jobright.ai/jobs/info/693c632a50bbaf76504fa95b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 | **[Dark Wolf](https://darkwolfsolutions.com/)** | **[UF College Fair - Internship](https://jobright.ai/jobs/info/696fdeea0f4e0f657ea42569?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 20 |
 | **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Summer Internship- Software Quality Assurance (Graduate Level)](https://jobright.ai/jobs/info/696fdc520f4e0f657ea42247?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Jan 20 |
-| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Test Engineer Intern, Advanced Rail Technology](https://jobright.ai/jobs/info/696fdb910f4e0f657ea4216b?utm_campaign=1079&utm_source=git)** | Leased Off - Fort Worth, TX - 397 | On Site | Jan 20 |
-| ↳ | **[Test Engineer Intern, Advanced Rail Technology](https://jobright.ai/jobs/info/696fdb610f4e0f657ea4213a?utm_campaign=1079&utm_source=git)** | Ft. Worth | On Site | Jan 20 |
-| **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/696fd7013ed06875134abf1d?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
