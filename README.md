@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69707ca7587dfa0bb55e19ad?utm_campaign=1079&utm_source=git)** | Colorado | On Site | Jan 20 |
+| **[Sigma](http://sigmacomputing.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69708f6b587dfa0bb55e2442?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 21 |
+| ↳ | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/69708c7951f726477182d044?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 21 |
+| **[GlobalFoundries](https://gf.com/)** | **[Software Engineering Intern, Cloud Platform (Summer 2026)](https://jobright.ai/jobs/info/69655410a112b40266132cb2?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 21 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69708770333b6343a14d08b0?utm_campaign=1079&utm_source=git)** | Possible | On Site | Jan 20 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69707ca7587dfa0bb55e19ad?utm_campaign=1079&utm_source=git)** | Colorado | On Site | Jan 20 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Software Engineer Intern – Workflow (Summer 2026)](https://jobright.ai/jobs/info/6970796351f726477182c635?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 20 |
 | **[Okta](http://www.okta.com)** | **[Software Engineer AI Intern (Summer 2026)](https://jobright.ai/jobs/info/6970780c333b6343a14cff00?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Performance Engineering](https://jobright.ai/jobs/info/6970773c333b6343a14cfebf?utm_campaign=1079&utm_source=git)** | Iowa City, IA | On Site | Jan 20 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Software Developer, Summer 2026 (Internship) - 10 weeks](https://jobright.ai/jobs/info/696ff2123ed06875134ae354?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 20 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/696ff0cb3ed06875134adfd4?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/696ff52982817106e9770309?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 20 |
-| **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Front End Developer](https://jobright.ai/jobs/info/696ff5c20f4e0f657ea44657?utm_campaign=1079&utm_source=git)** | CT Southington | Hybrid | Jan 20 |
-| ↳ | **[IT Intern - Front End Developer](https://jobright.ai/jobs/info/696ffad73ed06875134afb2a?utm_campaign=1079&utm_source=git)** | NY LI Jericho | Hybrid | Jan 20 |
+| **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Front End Developer](https://jobright.ai/jobs/info/696ffad73ed06875134afb2a?utm_campaign=1079&utm_source=git)** | NY LI Jericho | Hybrid | Jan 20 |
+| ↳ | **[IT Intern - Front End Developer](https://jobright.ai/jobs/info/696ff5c20f4e0f657ea44657?utm_campaign=1079&utm_source=git)** | CT Southington | Hybrid | Jan 20 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Intern, R&D Undergraduate Summer - Computer Science Research Institute (CSRI), CA, Remote](https://jobright.ai/jobs/info/696fceda0f4e0f657ea418e0?utm_campaign=1079&utm_source=git)** | Livermore, CA | Remote | Jan 20 |
 | **[Alstom](https://www.alstom.com/)** | **[ATS Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/696ff2ba82817106e976fd6c?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Jan 20 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Intern, R&D Graduate Summer - Computer Science Research Institute (CSRI), CA, Remote](https://jobright.ai/jobs/info/696fce4e0f4e0f657ea41896?utm_campaign=1079&utm_source=git)** | Livermore, CA | Remote | Jan 20 |
 | **[Electrify America](https://www.electrifyamerica.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/696fce350f4e0f657ea4188a?utm_campaign=1079&utm_source=git)** | Ashburn, VA | Hybrid | Jan 20 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Software Engineering Intern - PWS](https://jobright.ai/jobs/info/696fcc330f4e0f657ea41748?utm_campaign=1079&utm_source=git)** | Appleton, WI | On Site | Jan 20 |
-| **[Sandisk](https://www.sandisk.com/en-in)** | **[Summer 2026 Intern, Software Development Engineering (Masters)](https://jobright.ai/jobs/info/696ffc7482817106e977159f?utm_campaign=1079&utm_source=git)** | Milpitas, CA | Hybrid | Jan 20 |
-| **[Genworth](https://www.genworth.com)** | **[Angular Web Developer Intern](https://jobright.ai/jobs/info/696fc9f40f4e0f657ea415b9?utm_campaign=1079&utm_source=git)** | Raleigh, North Carolina | Hybrid | Jan 20 |
-| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Engineering Intern, Digital & Connected - Summer 2026](https://jobright.ai/jobs/info/696fc9540f4e0f657ea4154a?utm_campaign=1079&utm_source=git)** | New Britain, CT, United States | On Site | Jan 20 |
-| **[RTX](http://www.raytheon.com)** | **[Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/696fc8ea0f4e0f657ea41504?utm_campaign=1079&utm_source=git)** | US-MN-BURNSVILLE-NORTH ~ 2900 County Rd 42 W ~ NORTH BLDG | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
