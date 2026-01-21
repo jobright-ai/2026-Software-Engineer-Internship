@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boeing](https://www.boeing.co.uk)** | **[Software Development Intern](https://jobright.ai/jobs/info/6970a0ed51f726477182efc9?utm_campaign=1079&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Jan 21 |
+| **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69709d53333b6343a14d2a0f?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jan 21 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Cloud Engineer (Summer 2026)](https://jobright.ai/jobs/info/69709c0c333b6343a14d296c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 21 |
+| ↳ | **[Intern, Cloud Engineer (Summer 2026)](https://jobright.ai/jobs/info/69709b63587dfa0bb55e4195?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
+| ↳ | **[Intern, Cloud Engineer (Summer 2026)](https://jobright.ai/jobs/info/697099d951f726477182edb9?utm_campaign=1079&utm_source=git)** | Jackson, MS | On Site | Jan 21 |
+| **[GenPark](https://genpark.ai)** | **[Full Stack Engineer Intern](https://jobright.ai/jobs/info/6970997451f726477182eb02?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 21 |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Cloud Engineer (Summer 2026)](https://jobright.ai/jobs/info/697098fc333b6343a14d286e?utm_campaign=1079&utm_source=git)** | Montgomery, AL | On Site | Jan 21 |
+| **[Seagate Technology](http://www.seagate.com)** | **[Embedded Software Developer Summer Intern](https://jobright.ai/jobs/info/6966c832a112b4026614c732?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Jan 21 |
+| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineer Intern - Onsite (CO)](https://jobright.ai/jobs/info/69709442587dfa0bb55e2680?utm_campaign=1079&utm_source=git)** | Aurora, CO | On Site | Jan 21 |
+| **[GlobalFoundries](https://gf.com/)** | **[System-on-Chip Design Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/696565552cbf4e44756edd6a?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Jan 21 |
 | **[Sigma](http://sigmacomputing.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69708f6b587dfa0bb55e2442?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 21 |
 | ↳ | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/69708c7951f726477182d044?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[GlobalFoundries](https://gf.com/)** | **[Software Engineering Intern, Cloud Platform (Summer 2026)](https://jobright.ai/jobs/info/69655410a112b40266132cb2?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 21 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Test Engineer Intern, Advanced Rail Technology](https://jobright.ai/jobs/info/696fdb910f4e0f657ea4216b?utm_campaign=1079&utm_source=git)** | Leased Off - Fort Worth, TX - 397 | On Site | Jan 20 |
 | ↳ | **[Test Engineer Intern, Advanced Rail Technology](https://jobright.ai/jobs/info/696fdb610f4e0f657ea4213a?utm_campaign=1079&utm_source=git)** | Ft. Worth | On Site | Jan 20 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/696fd7013ed06875134abf1d?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Jan 20 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Software Developer, Summer 2026 (Internship) - 10 weeks](https://jobright.ai/jobs/info/696ff2123ed06875134ae354?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 20 |
-| **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/696ff0cb3ed06875134adfd4?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Jan 20 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/696ff52982817106e9770309?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 20 |
-| **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Front End Developer](https://jobright.ai/jobs/info/696ffad73ed06875134afb2a?utm_campaign=1079&utm_source=git)** | NY LI Jericho | Hybrid | Jan 20 |
-| ↳ | **[IT Intern - Front End Developer](https://jobright.ai/jobs/info/696ff5c20f4e0f657ea44657?utm_campaign=1079&utm_source=git)** | CT Southington | Hybrid | Jan 20 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Intern, R&D Undergraduate Summer - Computer Science Research Institute (CSRI), CA, Remote](https://jobright.ai/jobs/info/696fceda0f4e0f657ea418e0?utm_campaign=1079&utm_source=git)** | Livermore, CA | Remote | Jan 20 |
-| **[Alstom](https://www.alstom.com/)** | **[ATS Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/696ff2ba82817106e976fd6c?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Jan 20 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Intern, R&D Graduate Summer - Computer Science Research Institute (CSRI), CA, Remote](https://jobright.ai/jobs/info/696fce4e0f4e0f657ea41896?utm_campaign=1079&utm_source=git)** | Livermore, CA | Remote | Jan 20 |
-| **[Electrify America](https://www.electrifyamerica.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/696fce350f4e0f657ea4188a?utm_campaign=1079&utm_source=git)** | Ashburn, VA | Hybrid | Jan 20 |
-| **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Software Engineering Intern - PWS](https://jobright.ai/jobs/info/696fcc330f4e0f657ea41748?utm_campaign=1079&utm_source=git)** | Appleton, WI | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
