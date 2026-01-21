@@ -57,11 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 Intern - Software Development (Masters)](https://jobright.ai/jobs/info/697101f251f7264771832ec9?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | Hybrid | Jan 21 |
+| **[GenPark](https://genpark.ai)** | **[Front end developer intern](https://jobright.ai/jobs/info/697101d651f7264771832eba?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 21 |
+| **[CourseStorm](http://www.coursestorm.com)** | **[2026 Summer Internship - Software Engineering](https://jobright.ai/jobs/info/6970fc9b587dfa0bb55e7f66?utm_campaign=1079&utm_source=git)** | Maine, IL | Remote | Jan 21 |
+| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/696462ad25e187150780c80a?utm_campaign=1079&utm_source=git)** | Vancouver, WA | Hybrid | Jan 21 |
+| **[Nightwing](nightwing.com)** | **[Software Engineer Intern - 2026](https://jobright.ai/jobs/info/6969f91e639b452fb57feed8?utm_campaign=1079&utm_source=git)** | Sterling, VA | On Site | Jan 21 |
+| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/696cd0d55fc86241853bdd9d?utm_campaign=1079&utm_source=git)** | Corvallis, OR | Hybrid | Jan 21 |
 | **[Inspire Medical Systems](http://www.inspiresleep.com)** | **[Algorithm Development Intern](https://jobright.ai/jobs/info/6970f17351f726477183264f?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Frontend Intern - Remote / Unpaid](https://jobright.ai/jobs/info/6970ef07587dfa0bb55e77f2?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 21 |
-| **[Inspire Medical Systems](http://www.inspiresleep.com)** | **[Algorithm Development Intern](https://jobright.ai/jobs/info/6970eee0333b6343a14d60c7?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
+| ↳ | **[Algorithm Development Intern](https://jobright.ai/jobs/info/6970eee0333b6343a14d60c7?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
 | **[Sodask苏打问——Uniyond Education Technology Inc](https://sodask.us/)** | **[Software Engineer Intern (Unpaid) – OPT/CPT Eligible](https://jobright.ai/jobs/info/6970ec4a587dfa0bb55e762b?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Thermagia Engineering](thermagiaengineering.us)** | **[Firmware Test Engineering Intern](https://jobright.ai/jobs/info/6970e6b0333b6343a14d5b58?utm_campaign=1079&utm_source=git)** | Massachusetts, United States | Remote | Jan 21 |
+| **[Realtor.com](https://www.realtor.com/)** | **[Software Engineer Intern - Consumer Web Connections](https://jobright.ai/jobs/info/6971026a51f7264771832f81?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 21 |
+| **[Seagate Technology](http://www.seagate.com)** | **[Product Assurance Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/696978ee1703f05405ab67a6?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Jan 21 |
+| **[SAP](https://www.sap.com)** | **[SAP NS2 SuccessFactors HCM Cloud Operations Intern](https://jobright.ai/jobs/info/6970ff1751f7264771832d45?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Jan 21 |
 | **[CommScope](http://www.commscope.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/6938869eb95c305f206db7cd?utm_campaign=1079&utm_source=git)** | Claremont, NC | On Site | Jan 21 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Hardware](https://jobright.ai/jobs/info/693833dcb95c305f206d6b5e?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 21 |
 | **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6938bd31aabec14a727da8c9?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 21 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer-Intern](https://jobright.ai/jobs/info/69703c2e51f7264771826d10?utm_campaign=1079&utm_source=git)** | Colorado | On Site | Jan 20 |
 | **[Enact Mortgage Insurance](https://enactmi.com)** | **[Angular Web Developer Intern](https://jobright.ai/jobs/info/697010f40f4e0f657ea46c9d?utm_campaign=1079&utm_source=git)** | Raleigh, NC | Hybrid | Jan 20 |
 | **[Oracle](https://www.oracle.com/)** | **[Software Engineer Intern - Customer Success Services](https://jobright.ai/jobs/info/697010c23ed06875134b0f49?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 20 |
-| **[Clayton](http://www.claytonhomes.com/)** | **[Associate Professional, Intern](https://jobright.ai/jobs/info/69702f0c587dfa0bb55db196?utm_campaign=1079&utm_source=git)** | Maryville, TN | On Site | Jan 20 |
-| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[ESS Application Engineering Intern](https://jobright.ai/jobs/info/68fc2c54f55bb021a88a128d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 20 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Internship, Software Engineer - TechEdge Program - Summer 2026](https://jobright.ai/jobs/info/6970086382817106e97724fc?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Jan 20 |
-| **[Blackline Safety](https://www.blacklinesafety.com)** | **[Firmware Intern](https://jobright.ai/jobs/info/6970084e3ed06875134b0708?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 20 |
-| **[Dassault Falcon Jet](http://www.dassaultfalcon.com)** | **[Summer Intern - Continuous Improvement Identification and Enhancement Project](https://jobright.ai/jobs/info/697005b782817106e977230b?utm_campaign=1079&utm_source=git)** | Arkansas, United States | On Site | Jan 20 |
-| **[Travelers](https://www.travelers.com)** | **[Engineering Development Program (EDP) - Intern](https://jobright.ai/jobs/info/6970037f3ed06875134b03c9?utm_campaign=1079&utm_source=git)** | Hartford, CT | On Site | Jan 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Site/Systems Reliability Intern, Summer 2026](https://jobright.ai/jobs/info/696fff013ed06875134aff43?utm_campaign=1079&utm_source=git)** | Orlando, FL, USA | Hybrid | Jan 20 |
-| **[Premier Inc.](http://www.premierinc.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/696ffe2e3ed06875134afe82?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
