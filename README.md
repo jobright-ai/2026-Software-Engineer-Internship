@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69707ca7587dfa0bb55e19ad?utm_campaign=1079&utm_source=git)** | Colorado | On Site | Jan 20 |
+| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Software Engineer Intern – Workflow (Summer 2026)](https://jobright.ai/jobs/info/6970796351f726477182c635?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 20 |
+| **[Okta](http://www.okta.com)** | **[Software Engineer AI Intern (Summer 2026)](https://jobright.ai/jobs/info/6970780c333b6343a14cff00?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Performance Engineering](https://jobright.ai/jobs/info/6970773c333b6343a14cfebf?utm_campaign=1079&utm_source=git)** | Iowa City, IA | On Site | Jan 20 |
 | **[Siemens](https://www.siemens.com)** | **[Solutions Engineering Internship](https://jobright.ai/jobs/info/697062a551f726477182b4f7?utm_campaign=1079&utm_source=git)** | Wendell, NC | On Site | Jan 20 |
 | **[Moloco](http://www.moloco.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6970602d51f726477182b3e5?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | On Site | Jan 20 |
 | **[Oracle](https://www.oracle.com/)** | **[Software Engineer Intern - Customer Success Services](https://jobright.ai/jobs/info/69705f4351f726477182b33a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 20 |
@@ -89,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Internship, Software Engineer - TechEdge Program - Summer 2026](https://jobright.ai/jobs/info/697023fa0f4e0f657ea49347?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Jan 20 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Associate Professional, Intern](https://jobright.ai/jobs/info/697020880f4e0f657ea47aea?utm_campaign=1079&utm_source=git)** | Maryville, TN | On Site | Jan 20 |
 | **[Expedition Technology](https://www.exptechinc.com)** | **[Summer 2026 Internship in Software Engineering](https://jobright.ai/jobs/info/69701c1c0f4e0f657ea47547?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Jan 20 |
-| **[Epic Games](https://epicgames.com)** | **[Engine Programmer Intern](https://jobright.ai/jobs/info/6970733b333b6343a14cfd6c?utm_campaign=1079&utm_source=git)** | Cary,North Carolina,United States | On Site | Jan 20 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer-Intern](https://jobright.ai/jobs/info/69703c2e51f7264771826d10?utm_campaign=1079&utm_source=git)** | Colorado | On Site | Jan 20 |
 | **[Enact Mortgage Insurance](https://enactmi.com)** | **[Angular Web Developer Intern](https://jobright.ai/jobs/info/697010f40f4e0f657ea46c9d?utm_campaign=1079&utm_source=git)** | Raleigh, NC | Hybrid | Jan 20 |
 | **[Oracle](https://www.oracle.com/)** | **[Software Engineer Intern - Customer Success Services](https://jobright.ai/jobs/info/697010c23ed06875134b0f49?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genworth](https://www.genworth.com)** | **[Angular Web Developer Intern](https://jobright.ai/jobs/info/696fc9f40f4e0f657ea415b9?utm_campaign=1079&utm_source=git)** | Raleigh, North Carolina | Hybrid | Jan 20 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Engineering Intern, Digital & Connected - Summer 2026](https://jobright.ai/jobs/info/696fc9540f4e0f657ea4154a?utm_campaign=1079&utm_source=git)** | New Britain, CT, United States | On Site | Jan 20 |
 | **[RTX](http://www.raytheon.com)** | **[Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/696fc8ea0f4e0f657ea41504?utm_campaign=1079&utm_source=git)** | US-MN-BURNSVILLE-NORTH ~ 2900 County Rd 42 W ~ NORTH BLDG | On Site | Jan 20 |
-| **[Truveta](https://www.truveta.com)** | **[Winter Software Engineering Intern](https://jobright.ai/jobs/info/68dbbe2897329f2f7731cce2?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | Hybrid | Jan 20 |
-| **[Electrify America](https://www.electrifyamerica.com)** | **[iOS Developer Intern](https://jobright.ai/jobs/info/696fc6c682817106e976d44a?utm_campaign=1079&utm_source=git)** | Ashburn, VA | Hybrid | Jan 20 |
-| **[Nokia](http://www.nokia.com)** | **[Web Portal Dev Co-op/Intern](https://jobright.ai/jobs/info/696fc45b82817106e976d2c3?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
