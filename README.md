@@ -89,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Internship, Software Engineer - TechEdge Program - Summer 2026](https://jobright.ai/jobs/info/697023fa0f4e0f657ea49347?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Jan 20 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Associate Professional, Intern](https://jobright.ai/jobs/info/697020880f4e0f657ea47aea?utm_campaign=1079&utm_source=git)** | Maryville, TN | On Site | Jan 20 |
 | **[Expedition Technology](https://www.exptechinc.com)** | **[Summer 2026 Internship in Software Engineering](https://jobright.ai/jobs/info/69701c1c0f4e0f657ea47547?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Jan 20 |
+| **[Epic Games](https://epicgames.com)** | **[Engine Programmer Intern](https://jobright.ai/jobs/info/6970733b333b6343a14cfd6c?utm_campaign=1079&utm_source=git)** | Cary,North Carolina,United States | On Site | Jan 20 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer-Intern](https://jobright.ai/jobs/info/69703c2e51f7264771826d10?utm_campaign=1079&utm_source=git)** | Colorado | On Site | Jan 20 |
 | **[Enact Mortgage Insurance](https://enactmi.com)** | **[Angular Web Developer Intern](https://jobright.ai/jobs/info/697010f40f4e0f657ea46c9d?utm_campaign=1079&utm_source=git)** | Raleigh, NC | Hybrid | Jan 20 |
 | **[Oracle](https://www.oracle.com/)** | **[Software Engineer Intern - Customer Success Services](https://jobright.ai/jobs/info/697010c23ed06875134b0f49?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Truveta](https://www.truveta.com)** | **[Winter Software Engineering Intern](https://jobright.ai/jobs/info/68dbbe2897329f2f7731cce2?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | Hybrid | Jan 20 |
 | **[Electrify America](https://www.electrifyamerica.com)** | **[iOS Developer Intern](https://jobright.ai/jobs/info/696fc6c682817106e976d44a?utm_campaign=1079&utm_source=git)** | Ashburn, VA | Hybrid | Jan 20 |
 | **[Nokia](http://www.nokia.com)** | **[Web Portal Dev Co-op/Intern](https://jobright.ai/jobs/info/696fc45b82817106e976d2c3?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Jan 20 |
-| **[Truveta](https://www.truveta.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68d1fdc717554c2d9eee20ca?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
