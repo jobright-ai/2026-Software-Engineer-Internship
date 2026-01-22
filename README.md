@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandisk](https://www.sandisk.com/en-in)** | **[Intern - System Design Verification Engineering](https://jobright.ai/jobs/info/693a3ed048a8ce22990e3ddd?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Jan 22 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Enovia PLM Developer Intern Summer 2026](https://jobright.ai/jobs/info/691aa30715b4156367189930?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Remote | Jan 22 |
+| **[Netflix](https://www.netflix.com)** | **[Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)](https://jobright.ai/jobs/info/6971a56651f726477183fd7b?utm_campaign=1079&utm_source=git)** | Los Gatos, CA | On Site | Jan 22 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Software Engineer Intern (Class of 2027)](https://jobright.ai/jobs/info/69395ed356b68f3dc4e6ce2d?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/6971c15f51f7264771843664?utm_campaign=1079&utm_source=git)** | Goodfield, IL | On Site | Jan 22 |
 | **[Amway](http://www.amway.com)** | **[Software Engineering Intern, Summer 2026 (42563)](https://jobright.ai/jobs/info/6959eebaaa05c26e7ab389d6?utm_campaign=1079&utm_source=git)** | Ada, MI | On Site | Jan 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[Quality Assurance Tester and Analyst Co-op (NU Students only)](https://jobright.ai/jobs/info/69712eed587dfa0bb55eb75f?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Jan 21 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Design Assurance Engineer (Summer 2026)](https://jobright.ai/jobs/info/696e84d7350cf43803153b70?utm_campaign=1079&utm_source=git)** | Neenah, WI | On Site | Jan 21 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern - Software Development, Engineering Tools](https://jobright.ai/jobs/info/6971274c333b6343a14d984d?utm_campaign=1079&utm_source=git)** | US-MA-Milford | On Site | Jan 21 |
-| **[Jabil](https://www.jabil.com)** | **[Cloud Developer Intern](https://jobright.ai/jobs/info/69714563333b6343a14dbf5f?utm_campaign=1079&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 21 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - IT Infrastructure](https://jobright.ai/jobs/info/6971265f587dfa0bb55eaf22?utm_campaign=1079&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
-| **[Vitamix](http://vitamix.com)** | **[Information Technology, Service Management (Project Management/Business Analysis) Intern (Hybrid)](https://jobright.ai/jobs/info/69714a69333b6343a14dcb8d?utm_campaign=1079&utm_source=git)** | Olmsted, OH | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
