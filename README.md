@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Publicis Sapient](https://www.publicissapient.com)** | **[Software Engineer Intern (Class of 2027)](https://jobright.ai/jobs/info/69395ed356b68f3dc4e6ce2d?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/6971c15f51f7264771843664?utm_campaign=1079&utm_source=git)** | Goodfield, IL | On Site | Jan 22 |
+| **[Amway](http://www.amway.com)** | **[Software Engineering Intern, Summer 2026 (42563)](https://jobright.ai/jobs/info/6959eebaaa05c26e7ab389d6?utm_campaign=1079&utm_source=git)** | Ada, MI | On Site | Jan 22 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/697068d7587dfa0bb55e0ba6?utm_campaign=1079&utm_source=git)** | Burr Ridge, IL | On Site | Jan 22 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Quality Assurance Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69013438d5259a1b3cff2e82?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | Jan 22 |
 | **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern, Antenna Systems](https://jobright.ai/jobs/info/6971eaf3cda45e6953582158?utm_campaign=1079&utm_source=git)** | Duluth, GA | On Site | Jan 22 |
 | **[Maximus](http://www.maximus.com/)** | **[Software Engineering Intern, Digital Solutions](https://jobright.ai/jobs/info/6971d27347b64f4e963e0d77?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | Jan 21 |
 | **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Typescript/Nest.js, Postgres, Docker, Microservices, AI/ML - Backend Development Internship](https://jobright.ai/jobs/info/6971d241b707bf728a4b5e6c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Cloud Developer Intern](https://jobright.ai/jobs/info/69714563333b6343a14dbf5f?utm_campaign=1079&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 21 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - IT Infrastructure](https://jobright.ai/jobs/info/6971265f587dfa0bb55eaf22?utm_campaign=1079&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
 | **[Vitamix](http://vitamix.com)** | **[Information Technology, Service Management (Project Management/Business Analysis) Intern (Hybrid)](https://jobright.ai/jobs/info/69714a69333b6343a14dcb8d?utm_campaign=1079&utm_source=git)** | Olmsted, OH | Hybrid | Jan 21 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Information Technology (Software Development)](https://jobright.ai/jobs/info/6971211e333b6343a14d9426?utm_campaign=1079&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
-| **[Syngenta](http://www.syngenta.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69711bf651f726477183552f?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Jan 21 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Software Tools Engineering Intern](https://jobright.ai/jobs/info/69711b3b51f72647718354ab?utm_campaign=1079&utm_source=git)** | Glendale-Wisconsin-United States of America | On Site | Jan 21 |
-| **[General Dynamics](https://www.gd.com)** | **[Intern Engineer - Software Engineer](https://jobright.ai/jobs/info/6971398251f7264771837060?utm_campaign=1079&utm_source=git)** | USA-CA-San Jose | On Site | Jan 21 |
-| **[Orbis Investments](https://www.orbis.com/Home)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6971391c51f7264771836ff8?utm_campaign=1079&utm_source=git)** | Vancouver | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
