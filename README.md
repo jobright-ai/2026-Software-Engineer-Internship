@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Okta](http://www.okta.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6971c376333b6343a14e7886?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 21 |
 | **[What's The Move](wtmofficial.com)** | **[iOS Developer Intern](https://jobright.ai/jobs/info/6971b745587dfa0bb55f8291?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Multi-Modal Sensing & Secure AI Devices](https://jobright.ai/jobs/info/6971b6a8333b6343a14e6c36?utm_campaign=1079&utm_source=git)** | United States, Washington, Redmond | On Site | Jan 21 |
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[Intern - Software Implementation](https://jobright.ai/jobs/info/6971afaa51f7264771842359?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Jan 21 |
@@ -136,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[IT Enterprise Architecture Summer (STAR) Intern](https://jobright.ai/jobs/info/6971588b51f726477183a48d?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, ADAS Core Software Team (Bachelors)](https://jobright.ai/jobs/info/69715a6751f726477183a6cf?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Jan 21 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Software Developer Intern - Summer 2026](https://jobright.ai/jobs/info/6971563e51f726477183a1d7?utm_campaign=1079&utm_source=git)** | Toledo, OH | On Site | Jan 21 |
+| **[Mesocore](http://www.mesocore.com)** | **[Internet Architect](https://jobright.ai/jobs/info/6971bc3b51f7264771842f68?utm_campaign=1079&utm_source=git)** | West Palm Beach, FL | On Site | Jan 21 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Resident Engineer Intern Summer 2026](https://jobright.ai/jobs/info/6971360151f7264771836c0b?utm_campaign=1079&utm_source=git)** | Columbus, MS | On Site | Jan 21 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/6960f9e6f3f4cd132505fb37?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jan 21 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – IT Software Engineering (Summer 2026)](https://jobright.ai/jobs/info/69713167333b6343a14da2c9?utm_campaign=1079&utm_source=git)** | US-WI-West Bend | On Site | Jan 21 |
@@ -143,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[IT Enterprise Architecture Summer (STAR) Intern](https://jobright.ai/jobs/info/69714eaa333b6343a14dd4ab?utm_campaign=1079&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 21 |
 | **[Tri-State Generation and Transmission Association, Inc.](http://www.tristategt.org)** | **[IT Business Applications Intern](https://jobright.ai/jobs/info/69714c37587dfa0bb55ee741?utm_campaign=1079&utm_source=git)** | Westminster, CO | On Site | Jan 21 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[Quality Assurance Tester and Analyst Co-op (NU Students only)](https://jobright.ai/jobs/info/69712eed587dfa0bb55eb75f?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Jan 21 |
+| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Design Assurance Engineer (Summer 2026)](https://jobright.ai/jobs/info/696e84d7350cf43803153b70?utm_campaign=1079&utm_source=git)** | Neenah, WI | On Site | Jan 21 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern - Software Development, Engineering Tools](https://jobright.ai/jobs/info/6971274c333b6343a14d984d?utm_campaign=1079&utm_source=git)** | US-MA-Milford | On Site | Jan 21 |
 | **[Jabil](https://www.jabil.com)** | **[Cloud Developer Intern](https://jobright.ai/jobs/info/69714563333b6343a14dbf5f?utm_campaign=1079&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Jan 21 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - IT Infrastructure](https://jobright.ai/jobs/info/6971265f587dfa0bb55eaf22?utm_campaign=1079&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orbis Investments](https://www.orbis.com/Home)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6971391c51f7264771836ff8?utm_campaign=1079&utm_source=git)** | Vancouver | Hybrid | Jan 21 |
 | **[SRI](http://www.sri.com)** | **[Intern](https://jobright.ai/jobs/info/69713b40333b6343a14dacdf?utm_campaign=1079&utm_source=git)** | US-NJ-Princeton | On Site | Jan 21 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Technology Summer Internship - Engineer (Philadelphia)](https://jobright.ai/jobs/info/6971158d51f7264771835254?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
-| **[TA Instruments](http://www.tainstruments.com)** | **[Intern - Software Development, Engineering Tools](https://jobright.ai/jobs/info/6971359a51f7264771836b8c?utm_campaign=1079&utm_source=git)** | 01757 | On Site | Jan 21 |
-| **[Landis+Gyr](https://www.landisgyr.com/)** | **[Intern - Firmware Engineering](https://jobright.ai/jobs/info/6971098b51f7264771834692?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Jan 21 |
-| **[Veradigm®](https://veradigm.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6971247e333b6343a14d95dd?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
