@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Full stack engineer intern](https://jobright.ai/jobs/info/6971dcbfb707bf728a4b662e?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Jan 22 |
+| **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern, Antenna Systems](https://jobright.ai/jobs/info/6971eaf3cda45e6953582158?utm_campaign=1079&utm_source=git)** | Duluth, GA | On Site | Jan 22 |
 | **[Maximus](http://www.maximus.com/)** | **[Software Engineering Intern, Digital Solutions](https://jobright.ai/jobs/info/6971d27347b64f4e963e0d77?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | Jan 21 |
 | **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Typescript/Nest.js, Postgres, Docker, Microservices, AI/ML - Backend Development Internship](https://jobright.ai/jobs/info/6971d241b707bf728a4b5e6c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Software Intern Summer 2026](https://jobright.ai/jobs/info/6971d1b5b707bf728a4b5dff?utm_campaign=1079&utm_source=git)** | Littleton, CO | On Site | Jan 21 |
