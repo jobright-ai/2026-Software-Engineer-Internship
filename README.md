@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Software Engineering SME](https://jobright.ai/jobs/info/69726aed584a1c1ef6fd6b19?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Jan 22 |
+| **[GlossGenius](https://glossgenius.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6972688a584a1c1ef6fd69aa?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Jan 22 |
+| **[Rubrik](http://rubrik.com)** | **[Frontend Engineering Internship, Summer 2026](https://jobright.ai/jobs/info/69726775584a1c1ef6fd692f?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jan 22 |
 | **[Assurant](https://www.assurant.com/)** | **[Summer 2026: Software Engineering Intern](https://jobright.ai/jobs/info/697260eb9b83b424830e595b?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 22 |
-| **[Sallie Mae](https://www.salliemae.com)** | **[IT Architecture Intern - AI & Cloud](https://jobright.ai/jobs/info/69725bf24ccbf64f8df257a9?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 22 |
-| **[Assurant](https://www.assurant.com/)** | **[Summer 2026: Software Engineering Intern](https://jobright.ai/jobs/info/697256264ccbf64f8df23f63?utm_campaign=1079&utm_source=git)** | United States Virtual | Remote | Jan 22 |
+| ↳ | **[Summer 2026: Software Engineering Intern](https://jobright.ai/jobs/info/697256264ccbf64f8df23f63?utm_campaign=1079&utm_source=git)** | United States Virtual | Remote | Jan 22 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Fellow Engineer Intern - Onsite (PA)](https://jobright.ai/jobs/info/697250749b83b424830e38b4?utm_campaign=1079&utm_source=git)** | PA602: 302 Science Park Road, Bldg 5C 302 Science Park Road Building 5C, State College, PA, 16803-2214 USA | On Site | Jan 22 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[2026 Summer Internship Program - Technology (Full Stack Development)](https://jobright.ai/jobs/info/69724fa69b83b424830e3848?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Jan 22 |
 | **[Aptiv](http://www.aptiv.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697244034ccbf64f8df2322b?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Jan 22 |
@@ -146,15 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Sentinel Group](http://sentinelgroup.com)** | **[Software Developer Summer (Python) Intern 2026](https://jobright.ai/jobs/info/69718f6d333b6343a14e2a58?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 21 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, ADAS Core Software Team (Bachelors)](https://jobright.ai/jobs/info/69714f7951f7264771839957?utm_campaign=1079&utm_source=git)** | Milford, MI | Hybrid | Jan 21 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - PhD Architecture](https://jobright.ai/jobs/info/6971698d333b6343a14df23a?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jan 21 |
-| **[SprintRay Inc.](http://sprintray.com/)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/69718b1351f726477183e666?utm_campaign=1079&utm_source=git)** | 2710 Media Center Dr, Los Angeles, Americas, 90065, US | On Site | Jan 21 |
 | **[Framatome](http://www.framatome.com)** | **[Intern / Co - Op Software/Computer Science Engineer](https://jobright.ai/jobs/info/69718fb7587dfa0bb55f4043?utm_campaign=1079&utm_source=git)** | US-WA-Richland | On Site | Jan 21 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6969d3741703f05405abe1b3?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 21 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - PhD Architecture](https://jobright.ai/jobs/info/69716375587dfa0bb55f0502?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jan 21 |
 | **[Allegion](https://www.allegion.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69715bfc333b6343a14de6a8?utm_campaign=1079&utm_source=git)** | Golden, CO | On Site | Jan 21 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer - Software Engineer](https://jobright.ai/jobs/info/69715611587dfa0bb55ef67b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 21 |
-| ↳ | **[Intern Engineer - Software Engineering](https://jobright.ai/jobs/info/6971542f51f7264771839f9c?utm_campaign=1079&utm_source=git)** | Bloomington, MN | On Site | Jan 21 |
+| **[Crusoe](https://crusoe.ai)** | **[Software Engineering Intern, Network Team, Summer 2026](https://jobright.ai/jobs/info/697270989b83b424830e616d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 21 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer - Software Engineering](https://jobright.ai/jobs/info/6971542f51f7264771839f9c?utm_campaign=1079&utm_source=git)** | Bloomington, MN | On Site | Jan 21 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6971539d587dfa0bb55ef3fa?utm_campaign=1079&utm_source=git)** | La Crosse, WI | On Site | Jan 21 |
 | **[Eulerity](https://www.eulerity.com)** | **[Backend Developer Winter/Spring Intern](https://jobright.ai/jobs/info/6945f1f7d1953b5d11befc3a?utm_campaign=1079&utm_source=git)** | NYC Metro Area | On Site | Jan 21 |
-| **[Northmarq](http://www.northmarq.com)** | **[Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/6971526a51f7264771839e14?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
-| **[Just In.](justinapp.us)** | **[Frontend Developer](https://jobright.ai/jobs/info/69714ec0587dfa0bb55eed51?utm_campaign=1079&utm_source=git)** | New York, NY | Remote | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
