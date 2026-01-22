@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Auctane](https://auctane.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6969723a639b452fb57f503d?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 22 |
+| **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/6939f7eb48a8ce22990deb57?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Jan 22 |
 | **[Amazon](https://amazon.com)** | **[Cloud Support Engineer Internship - 2026 (US)](https://jobright.ai/jobs/info/697206b4cda45e6953583ab1?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Jan 22 |
 | ↳ | **[Cloud Support Engineer Internship - 2026 (US)](https://jobright.ai/jobs/info/697223f6cda45e6953586662?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
 | **[York Space Systems LLC](http://www.yorkspacesystems.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6933f7d5764507023d1baf82?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Jan 22 |
@@ -73,8 +75,10 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[SW Developer Intern](https://jobright.ai/jobs/info/69668043a112b40266146ed8?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Jan 22 |
 | **[Watlow](http://www.watlow.com)** | **[Software Engineering Co-Op](https://jobright.ai/jobs/info/691d4378bcdbf3560c9eee45?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Jan 22 |
 | **[Pegasystems](http://www.pega.com)** | **[Software Engineering Intern, Internal Development Experience - Summer 2026](https://jobright.ai/jobs/info/697215becda45e69535844e4?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Jan 22 |
+| **[IBM](http://www.ibm.com)** | **[SW Developer Intern](https://jobright.ai/jobs/info/69667e3a5ad3a93f8231c536?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Jan 22 |
 | **[Sandisk](https://www.sandisk.com/en-in)** | **[Intern - System Design Verification Engineering](https://jobright.ai/jobs/info/693a3ed048a8ce22990e3ddd?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Jan 22 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Enovia PLM Developer Intern Summer 2026](https://jobright.ai/jobs/info/691aa30715b4156367189930?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Remote | Jan 22 |
+| **[Greystone](https://www.greystone.com)** | **[Summer 2026: Full Stack Engineer Internship](https://jobright.ai/jobs/info/691d25000b7dff73415003d7?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Netflix](https://www.netflix.com)** | **[Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)](https://jobright.ai/jobs/info/6971a56651f726477183fd7b?utm_campaign=1079&utm_source=git)** | Los Gatos, CA | On Site | Jan 22 |
 | **[Nokia](http://www.nokia.com)** | **[Test Developer Co-op/Intern](https://jobright.ai/jobs/info/6955f1e9f1f8465b79ece0ad?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Jan 22 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Software Engineer Intern (Class of 2027)](https://jobright.ai/jobs/info/69395ed356b68f3dc4e6ce2d?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
@@ -87,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Typescript/Nest.js, Postgres, Docker, Microservices, AI/ML - Backend Development Internship](https://jobright.ai/jobs/info/6971d241b707bf728a4b5e6c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Software Intern Summer 2026](https://jobright.ai/jobs/info/6971d1b5b707bf728a4b5dff?utm_campaign=1079&utm_source=git)** | Littleton, CO | On Site | Jan 21 |
 | **[Okta](http://www.okta.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6971c376333b6343a14e7886?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 21 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Multi-Modal Sensing & Secure AI Devices](https://jobright.ai/jobs/info/6971b6a8333b6343a14e6c36?utm_campaign=1079&utm_source=git)** | United States, Washington, Redmond | On Site | Jan 21 |
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[Intern - Software Implementation](https://jobright.ai/jobs/info/6971afaa51f7264771842359?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Jan 21 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - PhD Architecture](https://jobright.ai/jobs/info/6971ae6b333b6343a14e5fb8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 21 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/6971aba151f72647718420b8?utm_campaign=1079&utm_source=git)** | Troy, MI | Hybrid | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: Quantum Primitives Software Developer](https://jobright.ai/jobs/info/69714356333b6343a14dbacd?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Jan 21 |
 | **[Podium Automation](https://www.podiumautomation.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/697142ce587dfa0bb55ed10a?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern - Software Development, Engineering Tools](https://jobright.ai/jobs/info/697142ad587dfa0bb55ed0a5?utm_campaign=1079&utm_source=git)** | Milford, MA | On Site | Jan 21 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Software Developer, Summer 2026 (Internship) - 10 weeks](https://jobright.ai/jobs/info/6971405a333b6343a14db405?utm_campaign=1079&utm_source=git)** | San Ramon, CA | On Site | Jan 21 |
-| **[SRI](http://www.sri.com)** | **[Intern](https://jobright.ai/jobs/info/69715e0d51f726477183ab03?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | Jan 21 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[IT Enterprise Architecture Summer (STAR) Intern](https://jobright.ai/jobs/info/69713f24587dfa0bb55ec91d?utm_campaign=1079&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
