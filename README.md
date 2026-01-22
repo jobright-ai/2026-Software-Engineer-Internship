@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legrand, North America](http://www.legrand.us)** | **[Intern - Software QA (Polaris)](https://jobright.ai/jobs/info/697186cd51f726477183e2ae?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 21 |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Application Development](https://jobright.ai/jobs/info/697185e3587dfa0bb55f37f2?utm_campaign=1079&utm_source=git)** | Okemos, MI | Hybrid | Jan 21 |
+| **[AdTheorent](http://www.adtheorent.com)** | **[QA Engineer Intern](https://jobright.ai/jobs/info/697183dc51f726477183dfbc?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Jan 21 |
+| **[Framatome](http://www.framatome.com)** | **[Intern / Co - Op Software/Computer Science Engineer](https://jobright.ai/jobs/info/6971822a333b6343a14e1d58?utm_campaign=1079&utm_source=git)** | Onsite | On Site | Jan 21 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69717f7851f726477183dc18?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Jan 21 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Intern - Software QA (Polaris)](https://jobright.ai/jobs/info/69717f0651f726477183dba0?utm_campaign=1079&utm_source=git)** | CA-ON-Markham | On Site | Jan 21 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering Intern - Orlando, FL](https://jobright.ai/jobs/info/69717eee51f726477183db8b?utm_campaign=1079&utm_source=git)** | Florida | On Site | Jan 21 |
@@ -66,9 +70,15 @@ For a complete list, click the following sortable link below:
 | **[AWC, Inc.](https://www.awc-inc.com/)** | **[Intern](https://jobright.ai/jobs/info/69717a4d587dfa0bb55f2c3f?utm_campaign=1079&utm_source=git)** | Baton Rouge, Louisiana, United States | On Site | Jan 21 |
 | **[AdTheorent](http://www.adtheorent.com)** | **[QA Engineer Intern](https://jobright.ai/jobs/info/697179d051f726477183d59f?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Jan 21 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering Intern - Orlando, FL](https://jobright.ai/jobs/info/6971799f587dfa0bb55f2b65?utm_campaign=1079&utm_source=git)** | Possible | On Site | Jan 21 |
+| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Design Assurance Engineer (Fall 2026)](https://jobright.ai/jobs/info/696e86d95fc86241853d3f17?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jan 21 |
 | **[SprintRay Inc.](http://sprintray.com/)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/69717353333b6343a14e10bb?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
+| **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[IT Enterprise Architecture Summer (STAR) Intern](https://jobright.ai/jobs/info/69718cfa51f726477183e873?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
+| **[AWC, Inc.](https://www.awc-inc.com/)** | **[Intern](https://jobright.ai/jobs/info/6971893d51f726477183e492?utm_campaign=1079&utm_source=git)** | Houston, Texas, United States | On Site | Jan 21 |
+| **[Sentinel Group](http://sentinelgroup.com)** | **[Software Developer Summer (Python) Intern 2026](https://jobright.ai/jobs/info/69718f6d333b6343a14e2a58?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 21 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, ADAS Core Software Team (Bachelors)](https://jobright.ai/jobs/info/69714f7951f7264771839957?utm_campaign=1079&utm_source=git)** | Milford, MI | Hybrid | Jan 21 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - PhD Architecture](https://jobright.ai/jobs/info/6971698d333b6343a14df23a?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jan 21 |
+| **[SprintRay Inc.](http://sprintray.com/)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/69718b1351f726477183e666?utm_campaign=1079&utm_source=git)** | 2710 Media Center Dr, Los Angeles, Americas, 90065, US | On Site | Jan 21 |
+| **[Framatome](http://www.framatome.com)** | **[Intern / Co - Op Software/Computer Science Engineer](https://jobright.ai/jobs/info/69718fb7587dfa0bb55f4043?utm_campaign=1079&utm_source=git)** | US-WA-Richland | On Site | Jan 21 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6969d3741703f05405abe1b3?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 21 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - PhD Architecture](https://jobright.ai/jobs/info/69716375587dfa0bb55f0502?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jan 21 |
 | **[Allegion](https://www.allegion.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69715bfc333b6343a14de6a8?utm_campaign=1079&utm_source=git)** | Golden, CO | On Site | Jan 21 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[AI Compiler Intern - Summer 2026](https://jobright.ai/jobs/info/6962669c25e18715077f4633?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 21 |
 | **[Cadence](https://www.cadence.com)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/68fff8d7e04ac838fb5be11a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 21 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineering Intern - C#](https://jobright.ai/jobs/info/69389e14aabec14a727d84fc?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Jan 21 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Site/Systems Reliability Intern, Summer 2026](https://jobright.ai/jobs/info/6970c52a51f726477182f730?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Jan 21 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68acf41e758f2e4ac3009d1a?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jan 21 |
-| **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Information Systems Technology](https://jobright.ai/jobs/info/6970ea88333b6343a14d5e03?utm_campaign=1079&utm_source=git)** | Chesterfield, VA | On Site | Jan 21 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Test Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68c62d657d0db41142735f74?utm_campaign=1079&utm_source=git)** | Delaware, OH | On Site | Jan 21 |
-| **[Cintas](https://www.cintas.com)** | **[IT Intern - Middleware Mobility](https://jobright.ai/jobs/info/6970bfc551f726477182f679?utm_campaign=1079&utm_source=git)** | Mason, OH | On Site | Jan 21 |
-| **[The Trade Desk](http://thetradedesk.com)** | **[Summer 2026 Toronto Software Engineering Internship](https://jobright.ai/jobs/info/691c975cff70244984168b73?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate QA Analyst](https://jobright.ai/jobs/info/6938f25faabec14a727de453?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
-| **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Summer 2026 (Canada)](https://jobright.ai/jobs/info/691c8402ff70244984168441?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 21 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[IT Innovation Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/695495bc5bb7de448ef78f54?utm_campaign=1079&utm_source=git)** | Parsippany, NJ | On Site | Jan 21 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Research Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68ffc96f0ab3b222462adfa8?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
