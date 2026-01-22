@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6972a47d9b83b424830eae59?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Jan 22 |
+| ↳ | **[Software Engineer - Intern](https://jobright.ai/jobs/info/6972a40e4ccbf64f8df2af07?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | On Site | Jan 22 |
+| **[Click Bond](http://clickbond.com)** | **[Intern, Quality Assurance Engineering-CT](https://jobright.ai/jobs/info/69729d539b83b424830e9e1a?utm_campaign=1079&utm_source=git)** | Watertown, CT | On Site | Jan 22 |
 | **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Cloud & Infrastructure Engineering Intern](https://jobright.ai/jobs/info/697298394ccbf64f8df29452?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 22 |
-| **[TD](https://www.td.com)** | **[Software Engineer Intern/Coop (UofT Talent Connect)](https://jobright.ai/jobs/info/697297ee9b83b424830e91cb?utm_campaign=1079&utm_source=git)** | London, Ontario | Hybrid | Jan 22 |
-| ↳ | **[Software Engineer Intern/Coop (UofT Talent Connect)](https://jobright.ai/jobs/info/697296859b83b424830e8e8b?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 22 |
 | **[Copeland](https://www.copeland.com)** | **[2026 Associate Agile Engineer Internship](https://jobright.ai/jobs/info/697295504ccbf64f8df28dcc?utm_campaign=1079&utm_source=git)** | Remote US Ohio | Remote | Jan 22 |
 | **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[Co-op/Internship: Software Engineer, Product Development (Summer 2026)](https://jobright.ai/jobs/info/69729266584a1c1ef6fd902b?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 22 |
 | **[Draper](https://www.draper.com)** | **[Embedded Software Intern](https://jobright.ai/jobs/info/697291784ccbf64f8df286b3?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Jan 22 |
@@ -69,7 +70,9 @@ For a complete list, click the following sortable link below:
 | **[Northmarq](http://www.northmarq.com)** | **[Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69728987584a1c1ef6fd84f9?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Jan 22 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Integration Engineer, AI Platforms (Summer 2026)](https://jobright.ai/jobs/info/69728901584a1c1ef6fd8462?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jan 22 |
 | **[Spectra Logic](https://www.spectralogic.com)** | **[Software Intern, Solutions](https://jobright.ai/jobs/info/697287809b83b424830e7843?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Jan 22 |
+| **[TD](https://www.td.com)** | **[Software Engineer Intern/Co-op (UofT Talent Connect)](https://jobright.ai/jobs/info/6972a42a584a1c1ef6fdb5bf?utm_campaign=1079&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 22 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Integration Engineer, AI Platforms (Summer 2026)](https://jobright.ai/jobs/info/697285074ccbf64f8df27776?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Jan 22 |
+| **[Millennium EMS Solutions Ltd.](https://www.mems.ca/)** | **[Software Developer Intern (C# / .NET / Azure)](https://jobright.ai/jobs/info/6972a36a4ccbf64f8df2ad6f?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jan 22 |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Interactive Development Intern](https://jobright.ai/jobs/info/69727dcc9b83b424830e6dcb?utm_campaign=1079&utm_source=git)** | Chicago, Illinois | On Site | Jan 22 |
 | **[Hirani Engineering and Land Surveying, D.P.C.](https://www.hiranigroup.com/)** | **[Programming Intern](https://jobright.ai/jobs/info/69727a97584a1c1ef6fd7509?utm_campaign=1079&utm_source=git)** | Hirani Corporate Office - Hicksville, NY 11801 US (Primary) | On Site | Jan 22 |
 | **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Cloud & Infrastructure Engineering Intern](https://jobright.ai/jobs/info/697278a5584a1c1ef6fd7309?utm_campaign=1079&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jan 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[Intern - Software Implementation](https://jobright.ai/jobs/info/69719d3251f726477183f6dc?utm_campaign=1079&utm_source=git)** | Alpharetta, GA, US | On Site | Jan 21 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69717f7851f726477183dc18?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Jan 21 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Intern - Software QA (Polaris)](https://jobright.ai/jobs/info/69717f0651f726477183dba0?utm_campaign=1079&utm_source=git)** | CA-ON-Markham | On Site | Jan 21 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering Intern - Orlando, FL](https://jobright.ai/jobs/info/69717eee51f726477183db8b?utm_campaign=1079&utm_source=git)** | Florida | On Site | Jan 21 |
-| **[Framatome North America](www.framatome.com/en)** | **[Intern / Co - Op Software/Computer Science Engineer](https://jobright.ai/jobs/info/69717e52587dfa0bb55f30df?utm_campaign=1079&utm_source=git)** | Richland, WA | On Site | Jan 21 |
-| **[ProductNow](https://productnow.ai)** | **[Fullstack Software Engineer Intern](https://jobright.ai/jobs/info/69717bb2587dfa0bb55f2dea?utm_campaign=1079&utm_source=git)** | Palo Alto | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
