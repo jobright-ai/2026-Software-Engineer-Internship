@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69731ea51790715e866c1d3f?utm_campaign=1079&utm_source=git)** | Colorado | On Site | Jan 22 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Enterprise Applications and Technology Services (EATS) Intern](https://jobright.ai/jobs/info/6973115c206da320f49d1e0a?utm_campaign=1079&utm_source=git)** | Wake County, NC | Remote | Jan 22 |
 | **[Lumafield](https://www.lumafield.com)** | **[Software Engineering Intern (Systems)](https://jobright.ai/jobs/info/69730d0e206da320f49d16c7?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Jan 22 |
 | **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Internship IOS & Android App Developer US Residents Only](https://jobright.ai/jobs/info/69730ba61790715e866c07ae?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[York Space Systems LLC](http://www.yorkspacesystems.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6933f7d5764507023d1baf82?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Jan 22 |
 | **[Genuine Parts Company](http://genpt.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6933a1f7a0dde7020e2efd48?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Solution Design and Implementation](https://jobright.ai/jobs/info/68cd9542b2a74e1837ed911b?utm_campaign=1079&utm_source=git)** | Fort Smith, AR | On Site | Jan 22 |
-| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Software Power Systems Engineering Intern](https://jobright.ai/jobs/info/696071aba1bbea1d9a7b4848?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
