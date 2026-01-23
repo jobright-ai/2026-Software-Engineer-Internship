@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[Java Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/696db3b25fc86241853c78d2?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Jan 23 |
+| ↳ | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/696c44ce350cf43803136a57?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
+| **[GenPark](https://genpark.ai)** | **[Full stack engineer](https://jobright.ai/jobs/info/69734b6437785856350d2c3a?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 23 |
 | **[Crane Aerospace & Electronics](http://www.craneae.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697343e4206da320f49d4fae?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Jan 23 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/69733e70bc8e722e7b181a6f?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO | On Site | Jan 23 |
 | ↳ | **[2026 Summer Intern: Associate Quality Assurance Analyst](https://jobright.ai/jobs/info/69733cd31790715e866c3649?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
@@ -108,8 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/6972c1d4584a1c1ef6fdd3bf?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | ↳ | **[Software Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/6972c1019b83b424830ec869?utm_campaign=1079&utm_source=git)** | New York, New York | On Site | Jan 22 |
 | **[EBSCO Industries, Inc.](http://www.ebscoind.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69698eb6639b452fb57f7ac7?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 22 |
-| **[Terranova](https://www.terranova.inc/)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/697339c41790715e866c2f49?utm_campaign=1079&utm_source=git)** | Berkeley | On Site | Jan 22 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6973379a1790715e866c2b99?utm_campaign=1079&utm_source=git)** | Berkeley | On Site | Jan 22 |
+| **[Terranova](https://www.terranova.inc/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6973379a1790715e866c2b99?utm_campaign=1079&utm_source=git)** | Berkeley | On Site | Jan 22 |
+| ↳ | **[Computer Engineering Intern](https://jobright.ai/jobs/info/697339c41790715e866c2f49?utm_campaign=1079&utm_source=git)** | Berkeley | On Site | Jan 22 |
 | **[Flock Safety](https://www.flocksafety.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6972f589694e99351d143d9f?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[SW Engineer – Microservice Developer Intern](https://jobright.ai/jobs/info/6972da7f0488fd59f7d5d55c?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Jan 22 |
 | **[Relativity](http://www.relativity.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6972b7d04ccbf64f8df2c362?utm_campaign=1079&utm_source=git)** | Illinois | Hybrid | Jan 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Full Stack Software Developer Intern (Summer 2026)](https://jobright.ai/jobs/info/697285c1584a1c1ef6fd8091?utm_campaign=1079&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 22 |
 | **[Persona AI](https://personainc.ai/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6972c76a584a1c1ef6fdd999?utm_campaign=1079&utm_source=git)** | Greater Houston | On Site | Jan 22 |
 | **[Assurant](https://www.assurant.com/)** | **[Summer 2026: Software Engineering Intern](https://jobright.ai/jobs/info/697260eb9b83b424830e595b?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 22 |
-| ↳ | **[Summer 2026: Software Engineering Intern](https://jobright.ai/jobs/info/697256264ccbf64f8df23f63?utm_campaign=1079&utm_source=git)** | United States Virtual | Remote | Jan 22 |
-| **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/697280304ccbf64f8df272fe?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 22 |
-| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Fellow Engineer Intern - Onsite (PA)](https://jobright.ai/jobs/info/697250749b83b424830e38b4?utm_campaign=1079&utm_source=git)** | PA602: 302 Science Park Road, Bldg 5C 302 Science Park Road Building 5C, State College, PA, 16803-2214 USA | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
