@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6972ebc71d55d64a20534d00?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 22 |
+| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Web Developer Summer Intern](https://jobright.ai/jobs/info/6972eb5898522904c697bcd6?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 22 |
+| **[Glydways](https://www.glydways.com)** | **[Software Engineering Intern (Dispatch – Fleet Optimization)](https://jobright.ai/jobs/info/6972ea2198522904c697bbe2?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 22 |
+| **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6972e7890488fd59f7d5e528?utm_campaign=1079&utm_source=git)** | New Brunswick, NJ | On Site | Jan 22 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972e45498522904c697b808?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 22 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Applications Developer Summer Intern](https://jobright.ai/jobs/info/6972dffb1d55d64a205342a8?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 22 |
 | **[Draper](https://www.draper.com)** | **[Embedded Software Intern](https://jobright.ai/jobs/info/6972d3480488fd59f7d5cb8c?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Jan 22 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6972d2751d55d64a2053320a?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Jan 22 |
@@ -64,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Relativity](http://www.relativity.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6972d03d98522904c697a1c4?utm_campaign=1079&utm_source=git)** | Illinois, United States | Hybrid | Jan 22 |
 | **[Pcuro](www.pcuro.com)** | **[Front-End Developer Intern (Next.js / React) - (Unpaid/Remote)](https://jobright.ai/jobs/info/6972d0240488fd59f7d5c724?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Castleton Commodities International](http://www.cci.com/)** | **[Full-Stack Software Engineer Internship (Summer 2026)](https://jobright.ai/jobs/info/6972cfab0488fd59f7d5c69d?utm_campaign=1079&utm_source=git)** | Stamford, CT | On Site | Jan 22 |
+| **[Spot Parking](https://www.spotparking.app)** | **[Web Development Intern (ReactJS)](https://jobright.ai/jobs/info/6972e7a31d55d64a20534a3e?utm_campaign=1079&utm_source=git)** | Provo, UT | On Site | Jan 22 |
 | **[Snap Inc.](https://careers.snap.com/)** | **[Software Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/6972c83e584a1c1ef6fdda1c?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jan 22 |
 | **[Serco](https://www.serco.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6972ae6e4ccbf64f8df2b97f?utm_campaign=1079&utm_source=git)** | Kirtland Air Force Base, NM | On Site | Jan 22 |
 | **[Snap Inc.](https://careers.snap.com/)** | **[Software Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/6972b63e584a1c1ef6fdc859?utm_campaign=1079&utm_source=git)** | Bellevue, Washington | On Site | Jan 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pegasystems](http://www.pega.com)** | **[Software Engineering Intern, Internal Development Experience - Summer 2026](https://jobright.ai/jobs/info/697215becda45e69535844e4?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Jan 22 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6939d00c48a8ce22990dd1a3?utm_campaign=1079&utm_source=git)** | Texas, United States | On Site | Jan 22 |
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/6939ff47ac80bb5492bc7b80?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
-| ↳ | **[SW Developer Intern](https://jobright.ai/jobs/info/69667e3a5ad3a93f8231c536?utm_campaign=1079&utm_source=git)** | Austin, TX | Remote | Jan 22 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[RISK Strategy & Governance Automation Intern](https://jobright.ai/jobs/info/693a4c8348a8ce22990e482a?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 22 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Investment Management, Fixed Income Platform Engineering](https://jobright.ai/jobs/info/695a1076aa05c26e7ab3ad88?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 22 |
-| **[Sandisk](https://www.sandisk.com/en-in)** | **[Intern - System Design Verification Engineering](https://jobright.ai/jobs/info/693a3ed048a8ce22990e3ddd?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Jan 22 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Enovia PLM Developer Intern Summer 2026](https://jobright.ai/jobs/info/691aa30715b4156367189930?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Remote | Jan 22 |
-| **[Greystone](https://www.greystone.com)** | **[Summer 2026: Full Stack Engineer Internship](https://jobright.ai/jobs/info/691d25000b7dff73415003d7?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
