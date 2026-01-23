@@ -57,15 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NVIDIA](https://www.nvidia.com)** | **[System Software Engineering Intern, Video - Summer 2026](https://jobright.ai/jobs/info/6972f834206da320f49ceeb3?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 22 |
+| **[Glydways](https://www.glydways.com)** | **[Software Engineering Intern (Dispatch – Fleet Optimization)](https://jobright.ai/jobs/info/6972f68d694e99351d143e86?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 22 |
 | **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6972ebc71d55d64a20534d00?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Web Developer Summer Intern](https://jobright.ai/jobs/info/6972eb5898522904c697bcd6?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 22 |
 | **[Glydways](https://www.glydways.com)** | **[Software Engineering Intern (Dispatch – Fleet Optimization)](https://jobright.ai/jobs/info/6972ea2198522904c697bbe2?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 22 |
 | **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6972e7890488fd59f7d5e528?utm_campaign=1079&utm_source=git)** | New Brunswick, NJ | On Site | Jan 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972e45498522904c697b808?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 22 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Applications Developer Summer Intern](https://jobright.ai/jobs/info/6972dffb1d55d64a205342a8?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 22 |
+| **[Nokia](http://www.nokia.com)** | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/6972f9a5206da320f49cef88?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Jan 22 |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/6972f86b206da320f49ceedd?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 22 |
 | **[Draper](https://www.draper.com)** | **[Embedded Software Intern](https://jobright.ai/jobs/info/6972d3480488fd59f7d5cb8c?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Jan 22 |
+| **[SAP](https://www.sap.com)** | **[SAP NS2 Enterprise Business Systems Intern](https://jobright.ai/jobs/info/6972f4041790715e866be1ad?utm_campaign=1079&utm_source=git)** | Herndon, VA, US, 20171 | Hybrid | Jan 22 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6972d2751d55d64a2053320a?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Jan 22 |
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Software Engineering](https://jobright.ai/jobs/info/6972d2230488fd59f7d5c9f8?utm_campaign=1079&utm_source=git)** | Wilmington, MA | Hybrid | Jan 22 |
+| **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[US 2026 Functional Testing Intern](https://jobright.ai/jobs/info/696e9351350cf43803154a27?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
 | **[Relativity](http://www.relativity.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6972d03d98522904c697a1c4?utm_campaign=1079&utm_source=git)** | Illinois, United States | Hybrid | Jan 22 |
 | **[Pcuro](www.pcuro.com)** | **[Front-End Developer Intern (Next.js / React) - (Unpaid/Remote)](https://jobright.ai/jobs/info/6972d0240488fd59f7d5c724?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Castleton Commodities International](http://www.cci.com/)** | **[Full-Stack Software Engineer Internship (Summer 2026)](https://jobright.ai/jobs/info/6972cfab0488fd59f7d5c69d?utm_campaign=1079&utm_source=git)** | Stamford, CT | On Site | Jan 22 |
@@ -83,6 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/6972c1d4584a1c1ef6fdd3bf?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | ↳ | **[Software Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/6972c1019b83b424830ec869?utm_campaign=1079&utm_source=git)** | New York, New York | On Site | Jan 22 |
 | **[EBSCO Industries, Inc.](http://www.ebscoind.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69698eb6639b452fb57f7ac7?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 22 |
+| **[Flock Safety](https://www.flocksafety.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6972f589694e99351d143d9f?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[SW Engineer – Microservice Developer Intern](https://jobright.ai/jobs/info/6972da7f0488fd59f7d5d55c?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Jan 22 |
 | **[Relativity](http://www.relativity.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6972b7d04ccbf64f8df2c362?utm_campaign=1079&utm_source=git)** | Illinois | Hybrid | Jan 22 |
 | **[Snap Inc.](https://careers.snap.com/)** | **[Software Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/6972b75d4ccbf64f8df2c2e2?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Jan 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Express](http://www.americanexpress.com)** | **[American Express Canada - Campus Undergraduate Technology Software Engineer Internship - HIRING FOR FUTURE OPPORTUNITIES](https://jobright.ai/jobs/info/6972181347b64f4e963e49d8?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 22 |
 | **[Microsoft](https://www.microsoft.com)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69723d19584a1c1ef6fd38e4?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 22 |
 | **[Cintas](https://www.cintas.com)** | **[IT Intern - SAP FICO](https://jobright.ai/jobs/info/6972178bcda18b74386469e2?utm_campaign=1079&utm_source=git)** | Mason, OH | On Site | Jan 22 |
-| **[Pegasystems](http://www.pega.com)** | **[Software Engineer Intern, Services Engineering - Summer 2026](https://jobright.ai/jobs/info/6938b2d8b95c305f206dee91?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Jan 22 |
-| **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Startup Engineer Intern](https://jobright.ai/jobs/info/691abc2f15b415636718a3f5?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 22 |
-| **[IBM](http://www.ibm.com)** | **[SW Developer Intern](https://jobright.ai/jobs/info/69668043a112b40266146ed8?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Jan 22 |
-| **[Watlow](http://www.watlow.com)** | **[Software Engineering Co-Op](https://jobright.ai/jobs/info/691d4378bcdbf3560c9eee45?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Jan 22 |
-| **[Pegasystems](http://www.pega.com)** | **[Software Engineering Intern, Internal Development Experience - Summer 2026](https://jobright.ai/jobs/info/697215becda45e69535844e4?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Jan 22 |
-| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6939d00c48a8ce22990dd1a3?utm_campaign=1079&utm_source=git)** | Texas, United States | On Site | Jan 22 |
-| **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/6939ff47ac80bb5492bc7b80?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
