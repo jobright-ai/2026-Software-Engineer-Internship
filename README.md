@@ -57,16 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Frontend Developer](https://jobright.ai/jobs/info/6973b24b37785856350d8b36?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 23 |
-| ↳ | **[Front end developer](https://jobright.ai/jobs/info/6973b0fd206da320f49db2c6?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 23 |
+| **[Botpress](https://botpress.com)** | **[Software Developer Intern - SUMMER 2026](https://jobright.ai/jobs/info/6973bab9206da320f49db770?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 23 |
+| **[GenPark](https://genpark.ai)** | **[Front end developer](https://jobright.ai/jobs/info/6973b698206da320f49db4c4?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 23 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Software Developer Intern](https://jobright.ai/jobs/info/6973afb3bc8e722e7b188810?utm_campaign=1079&utm_source=git)** | Strongsville, OH | On Site | Jan 23 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ad9037785856350d8875?utm_campaign=1079&utm_source=git)** | Texas Remote Work | Remote | Jan 23 |
 | ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ad3cbc8e722e7b187e80?utm_campaign=1079&utm_source=git)** | Virginia Remote Work | Remote | Jan 23 |
 | ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ac9537785856350d86d0?utm_campaign=1079&utm_source=git)** | California Southern Remote Work | Remote | Jan 23 |
 | ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ac8037785856350d86a0?utm_campaign=1079&utm_source=git)** | Utah Remote Work | Remote | Jan 23 |
 | ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ac80bc8e722e7b187b85?utm_campaign=1079&utm_source=git)** | Nevada Remote Work | Remote | Jan 23 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Computer Science Majors](https://jobright.ai/jobs/info/6973ac78bc8e722e7b187ae9?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Jan 23 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ac5a206da320f49db030?utm_campaign=1079&utm_source=git)** | Vermont Remote Work | Remote | Jan 23 |
+| ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ac5a206da320f49db030?utm_campaign=1079&utm_source=git)** | Vermont Remote Work | Remote | Jan 23 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Computer Science Majors](https://jobright.ai/jobs/info/6973abaebc8e722e7b187897?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Enterprise Architecture and AI Governance](https://jobright.ai/jobs/info/6973aba1206da320f49daf83?utm_campaign=1079&utm_source=git)** | CT Stamford HQ | On Site | Jan 23 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ab5c206da320f49daf3f?utm_campaign=1079&utm_source=git)** | Georgia Remote Work | Remote | Jan 23 |
@@ -75,7 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973aace37785856350d83f3?utm_campaign=1079&utm_source=git)** | Ohio Remote Work | Remote | Jan 23 |
 | ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973aa6cbc8e722e7b187360?utm_campaign=1079&utm_source=git)** | New York Remote Work | Remote | Jan 23 |
 | ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973aa2a206da320f49dae4a?utm_campaign=1079&utm_source=git)** | Maryland Remote Work | Remote | Jan 23 |
-| ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973a911bc8e722e7b186e3f?utm_campaign=1079&utm_source=git)** | California Northern Remote Work | Remote | Jan 23 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Computer Science Majors](https://jobright.ai/jobs/info/6973a97737785856350d81dd?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Jan 23 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973a911bc8e722e7b186e3f?utm_campaign=1079&utm_source=git)** | California Northern Remote Work | Remote | Jan 23 |
 | **[Second Wind Pro](https://secondwind.pro/)** | **[Back End Engineer (Grad Intern)](https://jobright.ai/jobs/info/6973a8dcbc8e722e7b186d42?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973a7a437785856350d7f15?utm_campaign=1079&utm_source=git)** | Culver City, CA | On Site | Jan 23 |
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Enterprise Architecture and AI Governance](https://jobright.ai/jobs/info/6973a77b37785856350d7edb?utm_campaign=1079&utm_source=git)** | NY WP Hamilton | On Site | Jan 23 |
@@ -84,8 +84,9 @@ For a complete list, click the following sortable link below:
 | **[Amentum](https://www.amentum.com/)** | **[Software Programmer Intern](https://jobright.ai/jobs/info/69739def37785856350d683a?utm_campaign=1079&utm_source=git)** | US-TN-Tullahoma | On Site | Jan 23 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Full Stack Developer](https://jobright.ai/jobs/info/69739c8ebc8e722e7b18660a?utm_campaign=1079&utm_source=git)** | AMER - Canada - Ontario - Offsite/Home | On Site | Jan 23 |
 | ↳ | **[Intern, Full Stack Developer](https://jobright.ai/jobs/info/69739c3337785856350d6735?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jan 23 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/69739924bc8e722e7b1863e7?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Jan 23 |
 | **[Amentum](https://www.amentum.com/)** | **[Software Programmer Intern](https://jobright.ai/jobs/info/697398fa37785856350d6556?utm_campaign=1079&utm_source=git)** | Tullahoma, TN | On Site | Jan 23 |
-| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/6973b197bc8e722e7b1888e1?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 23 |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/6973c0ccbc8e722e7b189105?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 23 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Transformation Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6973913737785856350d6279?utm_campaign=1079&utm_source=git)** | Parsippany, NJ | On Site | Jan 23 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - IT (May 2026)](https://jobright.ai/jobs/info/696e4024db26b61895112f68?utm_campaign=1079&utm_source=git)** | Green Bay, WI | Hybrid | Jan 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Software Engineer paid intern (May and August hires)](https://jobright.ai/jobs/info/6956dc1caa05c26e7ab1074b?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern (Dispatch – Fleet Optimization)](https://jobright.ai/jobs/info/6972f68d694e99351d143e86?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Siemens](https://www.siemens.com)** | **[XPS Leadership Program - Technology Intern](https://jobright.ai/jobs/info/6972ffb1694e99351d144514?utm_campaign=1079&utm_source=git)** | Raleigh, NC | Hybrid | Jan 22 |
 | **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6972ebc71d55d64a20534d00?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Web Developer Summer Intern](https://jobright.ai/jobs/info/6972eb5898522904c697bcd6?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
