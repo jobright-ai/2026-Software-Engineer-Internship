@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Enterprise Applications and Technology Services (EATS) Intern](https://jobright.ai/jobs/info/6973115c206da320f49d1e0a?utm_campaign=1079&utm_source=git)** | Wake County, NC | Remote | Jan 22 |
+| **[Lumafield](https://www.lumafield.com)** | **[Software Engineering Intern (Systems)](https://jobright.ai/jobs/info/69730d0e206da320f49d16c7?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Jan 22 |
 | **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Internship IOS & Android App Developer US Residents Only](https://jobright.ai/jobs/info/69730ba61790715e866c07ae?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[Comptroller - Web Developer Summer Intern](https://jobright.ai/jobs/info/69730a89206da320f49d0b2a?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Jan 22 |
-| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/697309361790715e866bfc81?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 22 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[Comptroller - Applications Developer Summer Intern](https://jobright.ai/jobs/info/697308031790715e866bf766?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Jan 22 |
+| ↳ | **[Comptroller - Applications Developer Summer Intern](https://jobright.ai/jobs/info/697308031790715e866bf766?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Jan 22 |
 | ↳ | **[Comptroller - Web Developer Summer Intern](https://jobright.ai/jobs/info/697307f5694e99351d144f95?utm_campaign=1079&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Jan 22 |
 | ↳ | **[Comptroller - Applications Developer Summer Intern](https://jobright.ai/jobs/info/697307cf206da320f49cff8e?utm_campaign=1079&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Jan 22 |
 | **[Glydways](https://www.glydways.com)** | **[Software Engineering Intern (Dispatch – Fleet Optimization)](https://jobright.ai/jobs/info/6972ea2198522904c697bbe2?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genuine Parts Company](http://genpt.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6933a1f7a0dde7020e2efd48?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Solution Design and Implementation](https://jobright.ai/jobs/info/68cd9542b2a74e1837ed911b?utm_campaign=1079&utm_source=git)** | Fort Smith, AR | On Site | Jan 22 |
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Software Power Systems Engineering Intern](https://jobright.ai/jobs/info/696071aba1bbea1d9a7b4848?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 22 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/69054f30ff462851feffc995?utm_campaign=1079&utm_source=git)** | Lexington, KY | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
