@@ -57,30 +57,32 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Jr Developer Intern](https://jobright.ai/jobs/info/6973de24206da320f49dd715?utm_campaign=1079&utm_source=git)** | Windsor Mill, MD | On Site | Jan 23 |
+| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Power Platform Engineer](https://jobright.ai/jobs/info/6973dce3206da320f49dd5d3?utm_campaign=1079&utm_source=git)** | Draper, UT, USA | On Site | Jan 23 |
+| **[Square](https://block.xyz)** | **[Mobile Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6973dc44206da320f49dd558?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jan 23 |
+| **[Teradyne](http://www.teradyne.com)** | **[Software Engineer Intern / Summer 2026 (Teradyne, Deer Park, IL)](https://jobright.ai/jobs/info/6973d194206da320f49dcc00?utm_campaign=1079&utm_source=git)** | Deer Park, IL | Hybrid | Jan 23 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[IT Intern - Software Development, Engineering Tools](https://jobright.ai/jobs/info/6973d033bc8e722e7b189fa9?utm_campaign=1079&utm_source=git)** | US-MA-Milford | On Site | Jan 23 |
 | **[Watchfire](https://www.watchfiresigns.com/)** | **[Intern IT Application Development](https://jobright.ai/jobs/info/6973cea337785856350da0dd?utm_campaign=1079&utm_source=git)** | Danville, IL 61832, USA | Hybrid | Jan 23 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Intern - Software Quality Engineering (IoT)](https://jobright.ai/jobs/info/6973ce6937785856350da094?utm_campaign=1079&utm_source=git)** | Markham, ON, CA | On Site | Jan 23 |
 | **[Auctane](https://auctane.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69693465639b452fb57f0293?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 23 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[IT Intern - Software Development, Engineering Tools](https://jobright.ai/jobs/info/6973cdc137785856350d9fdb?utm_campaign=1079&utm_source=git)** | Milford, MA, US | On Site | Jan 23 |
-| **[Talentix](https://thetalentix.com/)** | **[Backend Software Engineer – Python / Cloud - Internship](https://jobright.ai/jobs/info/6973cdabbc8e722e7b189c99?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jan 23 |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/6973cbeabc8e722e7b189a6f?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 23 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6973cad1bc8e722e7b189907?utm_campaign=1079&utm_source=git)** | Roswell, GA, United States | On Site | Jan 23 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Intern - Software Quality Engineering (IoT)](https://jobright.ai/jobs/info/6973c90ebc8e722e7b1896fd?utm_campaign=1079&utm_source=git)** | CA-ON-Markham | On Site | Jan 23 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6973c7ef37785856350d9920?utm_campaign=1079&utm_source=git)** | Roswell, GA | On Site | Jan 23 |
 | **[NOV](https://www.nov.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6973c517bc8e722e7b18927a?utm_campaign=1079&utm_source=git)** | 10353 Richmond Avenue, Houston, TX, 77042, US | On Site | Jan 23 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Computer Science Majors](https://jobright.ai/jobs/info/6973c50c37785856350d95a2?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
 | **[Botpress](https://botpress.com)** | **[Software Developer Intern - SUMMER 2026](https://jobright.ai/jobs/info/6973bab9206da320f49db770?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 23 |
-| **[GenPark](https://genpark.ai)** | **[Front end developer](https://jobright.ai/jobs/info/6973b698206da320f49db4c4?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 23 |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/6973d6eabc8e722e7b18a5f8?utm_campaign=1079&utm_source=git)** | United States of America, California, San Jose | Hybrid | Jan 23 |
+| **[TA Instruments](http://www.tainstruments.com)** | **[IT Intern - Software Development, Engineering Tools](https://jobright.ai/jobs/info/6973d775206da320f49dd1be?utm_campaign=1079&utm_source=git)** | 01757 | On Site | Jan 23 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Software Developer Intern](https://jobright.ai/jobs/info/6973afb3bc8e722e7b188810?utm_campaign=1079&utm_source=git)** | Strongsville, OH | On Site | Jan 23 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ad9037785856350d8875?utm_campaign=1079&utm_source=git)** | Texas Remote Work | Remote | Jan 23 |
 | ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ad3cbc8e722e7b187e80?utm_campaign=1079&utm_source=git)** | Virginia Remote Work | Remote | Jan 23 |
 | ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ac9537785856350d86d0?utm_campaign=1079&utm_source=git)** | California Southern Remote Work | Remote | Jan 23 |
-| ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ac8037785856350d86a0?utm_campaign=1079&utm_source=git)** | Utah Remote Work | Remote | Jan 23 |
 | ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ac80bc8e722e7b187b85?utm_campaign=1079&utm_source=git)** | Nevada Remote Work | Remote | Jan 23 |
+| ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ac8037785856350d86a0?utm_campaign=1079&utm_source=git)** | Utah Remote Work | Remote | Jan 23 |
 | ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ac5a206da320f49db030?utm_campaign=1079&utm_source=git)** | Vermont Remote Work | Remote | Jan 23 |
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Enterprise Architecture and AI Governance](https://jobright.ai/jobs/info/6973aba1206da320f49daf83?utm_campaign=1079&utm_source=git)** | CT Stamford HQ | On Site | Jan 23 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ab5c206da320f49daf3d?utm_campaign=1079&utm_source=git)** | Florida Remote Work | Remote | Jan 23 |
-| ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ab5c206da320f49daf3f?utm_campaign=1079&utm_source=git)** | Georgia Remote Work | Remote | Jan 23 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ab5c206da320f49daf3f?utm_campaign=1079&utm_source=git)** | Georgia Remote Work | Remote | Jan 23 |
+| ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ab5c206da320f49daf3d?utm_campaign=1079&utm_source=git)** | Florida Remote Work | Remote | Jan 23 |
 | ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ab0b206da320f49daeed?utm_campaign=1079&utm_source=git)** | Oregon Remote Work | Remote | Jan 23 |
 | ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973aace37785856350d83f3?utm_campaign=1079&utm_source=git)** | Ohio Remote Work | Remote | Jan 23 |
 | ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973aa6cbc8e722e7b187360?utm_campaign=1079&utm_source=git)** | New York Remote Work | Remote | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/6973396c1790715e866c2e5e?utm_campaign=1079&utm_source=git)** | Overland Park, KS | On Site | Jan 23 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: System Quality Assurance Co-op, Robots (July to December)](https://jobright.ai/jobs/info/69733832bc8e722e7b180b97?utm_campaign=1079&utm_source=git)** | Needham, MA | On Site | Jan 23 |
 | ↳ | **[Fall 2026: Software Engineering Co-op (July to December)`](https://jobright.ai/jobs/info/6973361a1790715e866c2b42?utm_campaign=1079&utm_source=git)** | Needham, MA | On Site | Jan 23 |
-| **[Terranova](https://www.terranova.inc/)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/6973c40cbc8e722e7b1891b2?utm_campaign=1079&utm_source=git)** | Berkeley, CA | On Site | Jan 23 |
-| **[Flock Safety](https://www.flocksafety.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69732ead206da320f49d3118?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
