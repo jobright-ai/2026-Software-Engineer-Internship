@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Embedded Software Intern](https://jobright.ai/jobs/info/691e2ee43f782d2f1afb1f7d?utm_campaign=1079&utm_source=git)** | Everett, WA | On Site | Jan 23 |
+| **[Altec](https://www.altec.com/altec-capital/)** | **[Information Services Software Development Internship Summer 2026](https://jobright.ai/jobs/info/68ccf06a77add66568abc551?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 23 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/696dab4a350cf438031472a5?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 23 |
+| ↳ | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/6946fdabd1953b5d11c01c18?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer Intern](https://jobright.ai/jobs/info/6893a548a9199876488ded96?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | Hybrid | Jan 23 |
+| **[ByteDance](http://bytedance.com)** | **[Researcher Intern (Vision and Graphics)- 2026 Start (PhD)](https://jobright.ai/jobs/info/690145fe4539ea1f2141ecaa?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 23 |
+| **[S&P Global](https://www.spglobal.com)** | **[Ratings - Software Engineer Intern (Early Careers)](https://jobright.ai/jobs/info/6973530637785856350d3012?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 23 |
 | **[Oracle](https://www.oracle.com/)** | **[Java Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/696db3b25fc86241853c78d2?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Jan 23 |
 | ↳ | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/696c44ce350cf43803136a57?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
 | **[GenPark](https://genpark.ai)** | **[Full stack engineer](https://jobright.ai/jobs/info/69734b6437785856350d2c3a?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 23 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Cloud & Infrastructure Engineering Intern](https://jobright.ai/jobs/info/697278a5584a1c1ef6fd7309?utm_campaign=1079&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jan 22 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Enterprise Engineering Systems Intern (Summer)](https://jobright.ai/jobs/info/69729531584a1c1ef6fd95a6?utm_campaign=1079&utm_source=git)** | Auburn Hills - Michigan - USA | Hybrid | Jan 22 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Full Stack Software Developer Intern (Summer 2026)](https://jobright.ai/jobs/info/697276664ccbf64f8df267ac?utm_campaign=1079&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 22 |
-| **[Federal Reserve Bank of Chicago](http://www.chicagofed.org)** | **[Summer 2026 Intern-Computer Science and Software Engineering](https://jobright.ai/jobs/info/6972752f9b83b424830e63c6?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
-| **[GlossGenius](https://glossgenius.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6972688a584a1c1ef6fd69aa?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Jan 22 |
-| **[Rubrik](http://rubrik.com)** | **[Frontend Engineering Internship, Summer 2026](https://jobright.ai/jobs/info/69726775584a1c1ef6fd692f?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jan 22 |
-| **[Spectra Logic](https://www.spectralogic.com)** | **[Software Intern, Solutions](https://jobright.ai/jobs/info/69728a4d584a1c1ef6fd85d9?utm_campaign=1079&utm_source=git)** | Boulder, Colorado | Hybrid | Jan 22 |
-| **[ParsonsKellogg](https://parsonskellogg.com)** | **[Full Stack Software Developer Intern (Summer 2026)](https://jobright.ai/jobs/info/697285c1584a1c1ef6fd8091?utm_campaign=1079&utm_source=git)** | US - MD, Annapolis Junction | On Site | Jan 22 |
-| **[Persona AI](https://personainc.ai/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6972c76a584a1c1ef6fdd999?utm_campaign=1079&utm_source=git)** | Greater Houston | On Site | Jan 22 |
-| **[Assurant](https://www.assurant.com/)** | **[Summer 2026: Software Engineering Intern](https://jobright.ai/jobs/info/697260eb9b83b424830e595b?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
