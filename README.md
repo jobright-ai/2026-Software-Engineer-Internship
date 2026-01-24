@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/6975132b37785856350f08dd?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 24 |
+| **[Dark Wolf](https://darkwolfsolutions.com/)** | **[UF College Fair - Internship](https://jobright.ai/jobs/info/697525f8bc8e722e7b1a0b2c?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 24 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Design Assurance Engineering Intern](https://jobright.ai/jobs/info/6975249b206da320f49f38f6?utm_campaign=1079&utm_source=git)** | Maple Grove, MN | On Site | Jan 24 |
 | **[Blackrock Neurotech](https://blackrockmicro.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69750606bc8e722e7b19ff1f?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Sorn AI](https://sorn.ai)** | **[Software Engineer Internship (Remote)](https://jobright.ai/jobs/info/6974fad3206da320f49f2c5d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Stagiaire en développement logiciel / Software Development Intern](https://jobright.ai/jobs/info/6974e768206da320f49f0fba?utm_campaign=1079&utm_source=git)** | Brossard, Quebec, Canada | Hybrid | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legrand, North America](http://www.legrand.us)** | **[Intern - Software Quality Engineering (IoT)](https://jobright.ai/jobs/info/697435c8206da320f49e55f8?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 23 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69741693206da320f49e2b57?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 23 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Web Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69743469bc8e722e7b19297d?utm_campaign=1079&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Jan 23 |
-| **[Okta](http://www.okta.com)** | **[Software Engineer Business Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/69741311bc8e722e7b18f366?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
