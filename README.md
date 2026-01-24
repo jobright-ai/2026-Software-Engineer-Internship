@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blackrock Neurotech](https://blackrockmicro.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69750606bc8e722e7b19ff1f?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
+| **[The Sunrise State](https://sunrisestate.in)** | **[Frontend Developer Intern (Ghost CMS theme)](https://jobright.ai/jobs/info/6974fe0d206da320f49f2cd8?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/6974fad4206da320f49f2c5f?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 24 |
+| **[Sorn AI](https://sorn.ai)** | **[Software Engineer Internship (Remote)](https://jobright.ai/jobs/info/6974fad3206da320f49f2c5d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
 | **[RDL](www.rdlnet.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6974ec82bc8e722e7b19e37a?utm_campaign=1079&utm_source=git)** | Prescott, AZ | On Site | Jan 24 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Stagiaire en développement logiciel / Software Development Intern](https://jobright.ai/jobs/info/6974e768206da320f49f0fba?utm_campaign=1079&utm_source=git)** | Brossard, Quebec, Canada | Hybrid | Jan 24 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
@@ -142,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[iManage](https://imanage.com)** | **[Software Engineer Intern (Frontend)](https://jobright.ai/jobs/info/69742634206da320f49e487a?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742415bc8e722e7b19197a?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 23 |
 | **[SAS](http://www.sas.com)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742409206da320f49e45f2?utm_campaign=1079&utm_source=git)** | North Carolina | Hybrid | Jan 23 |
-| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69743ca237785856350e3690?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
-| ↳ | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69744295206da320f49e66a1?utm_campaign=1079&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
+| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69744295206da320f49e66a1?utm_campaign=1079&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
+| ↳ | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69743ca237785856350e3690?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Enterprise Architecture and AI Governance](https://jobright.ai/jobs/info/69741da137785856350e1690?utm_campaign=1079&utm_source=git)** | White Plains, NY | On Site | Jan 23 |
 | **[SAS](http://www.sas.com)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69741c8637785856350e1568?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 23 |
 | **[Alcon](http://www.alcon.com)** | **[Software Intern](https://jobright.ai/jobs/info/6973ff9537785856350de7ba?utm_campaign=1079&utm_source=git)** | Lake Forest, California | On Site | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AM General LLC](http://www.amgeneral.com)** | **[Internship - ERP Systems](https://jobright.ai/jobs/info/69741a98206da320f49e3ba2?utm_campaign=1079&utm_source=git)** | Mishawaka, Indiana, United States | On Site | Jan 23 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697418e1bc8e722e7b190f8f?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Jan 23 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Intern - Software Quality Engineering (IoT)](https://jobright.ai/jobs/info/697435c8206da320f49e55f8?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 23 |
-| **[Total Quality Logistics](http://www.tql.com/)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69741693206da320f49e2b57?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 23 |
-| **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Web Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69743469bc8e722e7b19297d?utm_campaign=1079&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Jan 23 |
-| **[Okta](http://www.okta.com)** | **[Software Engineer Business Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/69741311bc8e722e7b18f366?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 23 |
-| **[Total Quality Logistics](http://www.tql.com/)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69741053bc8e722e7b18f14a?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
