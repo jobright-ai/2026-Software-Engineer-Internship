@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens](https://www.siemens.com)** | **[Solutions Offers Internship](https://jobright.ai/jobs/info/6974524437785856350e6604?utm_campaign=1079&utm_source=git)** | Wendell, NC | On Site | Jan 23 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/69744ce9206da320f49e70f9?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Jan 23 |
 | **[Gesture](https://gesture.vip)** | **[Full Stack & AI Engineering Intern](https://jobright.ai/jobs/info/69744ba337785856350e48ed?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jan 23 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Technical Design Intern](https://jobright.ai/jobs/info/697445cf37785856350e3d0c?utm_campaign=1079&utm_source=git)** | San Carlos, CA | Hybrid | Jan 23 |
@@ -70,10 +71,13 @@ For a complete list, click the following sortable link below:
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/697432d9bc8e722e7b192885?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Jan 23 |
 | **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/697432cdbc8e722e7b19287f?utm_campaign=1079&utm_source=git)** | Chattanooga, TN | Hybrid | Jan 23 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Flight Software Engineer Undergraduate Intern](https://jobright.ai/jobs/info/697432a6206da320f49e5380?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Jan 23 |
+| **[XDR Radiology](https://www.xdrradiology.com)** | **[Programming / Software Development Intern](https://jobright.ai/jobs/info/697450e6206da320f49e8c2d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/6974311f206da320f49e52c7?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Jan 23 |
 | **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/69743098206da320f49e5287?utm_campaign=1079&utm_source=git)** | Mobile, AL | Hybrid | Jan 23 |
+| **[Jean Coutu](http://www.jeancoutu.com)** | **[Quality Assurance Intern / Étudiant­·e assurance qualité](https://jobright.ai/jobs/info/6974517e206da320f49e8cac?utm_campaign=1079&utm_source=git)** | Laval, Quebec, Canada | On Site | Jan 23 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69742d2037785856350e2716?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jan 23 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Aerospace Software Engineer Undergraduate Intern](https://jobright.ai/jobs/info/69742d0437785856350e26e9?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Jan 23 |
+| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Software Designer Intern / Stagiaire en conception de logiciels](https://jobright.ai/jobs/info/69744fa937785856350e5a28?utm_campaign=1079&utm_source=git)** | Laval, Quebec, Canada | On Site | Jan 23 |
 | **[RDL](www.rdlnet.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6974297e206da320f49e4b47?utm_campaign=1079&utm_source=git)** | Prescott,AZ,US | On Site | Jan 23 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/697428a7206da320f49e4aa2?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Torn Banner Studios](http://www.tornbanner.com/)** | **[Game Programmer Intern](https://jobright.ai/jobs/info/697427ef37785856350e21f3?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
@@ -81,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[iManage](https://imanage.com)** | **[Software Engineer Intern (Frontend)](https://jobright.ai/jobs/info/69742634206da320f49e487a?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742415bc8e722e7b19197a?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 23 |
 | **[SAS](http://www.sas.com)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742409206da320f49e45f2?utm_campaign=1079&utm_source=git)** | North Carolina | Hybrid | Jan 23 |
-| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69744295206da320f49e66a1?utm_campaign=1079&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
-| ↳ | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69743ca237785856350e3690?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
+| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69743ca237785856350e3690?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
+| ↳ | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69744295206da320f49e66a1?utm_campaign=1079&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Enterprise Architecture and AI Governance](https://jobright.ai/jobs/info/69741da137785856350e1690?utm_campaign=1079&utm_source=git)** | White Plains, NY | On Site | Jan 23 |
 | **[SAS](http://www.sas.com)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69741c8637785856350e1568?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 23 |
 | **[Alcon](http://www.alcon.com)** | **[Software Intern](https://jobright.ai/jobs/info/6973ff9537785856350de7ba?utm_campaign=1079&utm_source=git)** | Lake Forest, California | On Site | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Watchfire](https://www.watchfiresigns.com/)** | **[Intern IT Application Development](https://jobright.ai/jobs/info/6973cea337785856350da0dd?utm_campaign=1079&utm_source=git)** | Danville, IL 61832, USA | Hybrid | Jan 23 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Intern - Software Quality Engineering (IoT)](https://jobright.ai/jobs/info/6973ce6937785856350da094?utm_campaign=1079&utm_source=git)** | Markham, ON, CA | On Site | Jan 23 |
 | **[Auctane](https://auctane.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69693465639b452fb57f0293?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 23 |
-| **[TA Instruments](http://www.tainstruments.com)** | **[IT Intern - Software Development, Engineering Tools](https://jobright.ai/jobs/info/6973cdc137785856350d9fdb?utm_campaign=1079&utm_source=git)** | Milford, MA, US | On Site | Jan 23 |
-| **[Rheem Manufacturing](http://www.rheem.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6973cad1bc8e722e7b189907?utm_campaign=1079&utm_source=git)** | Roswell, GA, United States | On Site | Jan 23 |
-| **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Intern - Software Quality Engineering (IoT)](https://jobright.ai/jobs/info/6973c90ebc8e722e7b1896fd?utm_campaign=1079&utm_source=git)** | CA-ON-Markham | On Site | Jan 23 |
-| **[Rheem Manufacturing](http://www.rheem.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6973c7ef37785856350d9920?utm_campaign=1079&utm_source=git)** | Roswell, GA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
