@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/697440fbbc8e722e7b193a54?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Jan 23 |
+| **[WEX](http://www.wexinc.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/6974409537785856350e39b0?utm_campaign=1079&utm_source=git)** | Maine, United States | Remote | Jan 23 |
+| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Typescript / Nest.js, Postgres, Docker, Microservices, AI/ML - Backend Internship](https://jobright.ai/jobs/info/69743ed4bc8e722e7b19388a?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
+| **[Candid Intelligence](https://www.candidintelligence.com/)** | **[Software Engineering Intern (AI & Systems)](https://jobright.ai/jobs/info/69743da1bc8e722e7b193776?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Flight Controls Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/69743cce37785856350e36a9?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Jan 23 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/697432d9bc8e722e7b192885?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Jan 23 |
 | **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/697432cdbc8e722e7b19287f?utm_campaign=1079&utm_source=git)** | Chattanooga, TN | Hybrid | Jan 23 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Flight Software Engineer Undergraduate Intern](https://jobright.ai/jobs/info/697432a6206da320f49e5380?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Jan 23 |
@@ -71,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[iManage](https://imanage.com)** | **[Software Engineer Intern (Frontend)](https://jobright.ai/jobs/info/69742634206da320f49e487a?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742415bc8e722e7b19197a?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 23 |
 | **[SAS](http://www.sas.com)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742409206da320f49e45f2?utm_campaign=1079&utm_source=git)** | North Carolina | Hybrid | Jan 23 |
+| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69743ca237785856350e3690?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Enterprise Architecture and AI Governance](https://jobright.ai/jobs/info/69741da137785856350e1690?utm_campaign=1079&utm_source=git)** | White Plains, NY | On Site | Jan 23 |
 | **[SAS](http://www.sas.com)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69741c8637785856350e1568?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 23 |
 | **[Alcon](http://www.alcon.com)** | **[Software Intern](https://jobright.ai/jobs/info/6973ff9537785856350de7ba?utm_campaign=1079&utm_source=git)** | Lake Forest, California | On Site | Jan 23 |
@@ -80,7 +86,9 @@ For a complete list, click the following sortable link below:
 | **[AM General LLC](http://www.amgeneral.com)** | **[Internship - ERP Systems](https://jobright.ai/jobs/info/69741a98206da320f49e3ba2?utm_campaign=1079&utm_source=git)** | Mishawaka, Indiana, United States | On Site | Jan 23 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697418e1bc8e722e7b190f8f?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Jan 23 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Computer Science Majors](https://jobright.ai/jobs/info/6974183c206da320f49e3b2e?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Jan 23 |
+| **[Legrand, North America](http://www.legrand.us)** | **[Intern - Software Quality Engineering (IoT)](https://jobright.ai/jobs/info/697435c8206da320f49e55f8?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 23 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69741693206da320f49e2b57?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 23 |
+| **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Web Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69743469bc8e722e7b19297d?utm_campaign=1079&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Jan 23 |
 | **[Okta](http://www.okta.com)** | **[Software Engineer Business Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/69741311bc8e722e7b18f366?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 23 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69741053bc8e722e7b18f14a?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
 | **[10Beauty](https://www.10beauty.co)** | **[Embedded Software Internship](https://jobright.ai/jobs/info/69740fea37785856350df4d8?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Jan 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NOV](https://www.nov.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6973c517bc8e722e7b18927a?utm_campaign=1079&utm_source=git)** | 10353 Richmond Avenue, Houston, TX, 77042, US | On Site | Jan 23 |
 | **[Botpress](https://botpress.com)** | **[Software Developer Intern - SUMMER 2026](https://jobright.ai/jobs/info/6973bab9206da320f49db770?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 23 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/6973d6eabc8e722e7b18a5f8?utm_campaign=1079&utm_source=git)** | United States of America, California, San Jose | Hybrid | Jan 23 |
-| **[TA Instruments](http://www.tainstruments.com)** | **[IT Intern - Software Development, Engineering Tools](https://jobright.ai/jobs/info/6973d775206da320f49dd1be?utm_campaign=1079&utm_source=git)** | 01757 | On Site | Jan 23 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Software Developer Intern](https://jobright.ai/jobs/info/6973afb3bc8e722e7b188810?utm_campaign=1079&utm_source=git)** | Strongsville, OH | On Site | Jan 23 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ad9037785856350d8875?utm_campaign=1079&utm_source=git)** | Texas Remote Work | Remote | Jan 23 |
-| ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ad3cbc8e722e7b187e80?utm_campaign=1079&utm_source=git)** | Virginia Remote Work | Remote | Jan 23 |
-| ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ac9537785856350d86d0?utm_campaign=1079&utm_source=git)** | California Southern Remote Work | Remote | Jan 23 |
-| ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ac8037785856350d86a0?utm_campaign=1079&utm_source=git)** | Utah Remote Work | Remote | Jan 23 |
-| ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ac80bc8e722e7b187b85?utm_campaign=1079&utm_source=git)** | Nevada Remote Work | Remote | Jan 23 |
-| ↳ | **[Software Engineering - 2026 Summer Internship](https://jobright.ai/jobs/info/6973ac5a206da320f49db030?utm_campaign=1079&utm_source=git)** | Vermont Remote Work | Remote | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
