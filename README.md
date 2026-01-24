@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DiDi](https://www.didiglobal.com)** | **[Architect Engineer, Motion Planning (Summer Intern)](https://jobright.ai/jobs/info/6961c9b0a112b40266105709?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Billing Solutions Analyst](https://jobright.ai/jobs/info/68afe548b47fb001d688e55c?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
+| **[Giga](https://giga.ai)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6958f37ff1f8465b79ef9470?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Researcher Intern (Intelligent Creation-Vision and Graphics)- 2026 Start (PhD)](https://jobright.ai/jobs/info/6967edaef25a380066964566?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
+| ↳ | **[Researcher Intern (Vision and Graphics)- 2026 Start (PhD)](https://jobright.ai/jobs/info/693cfbbf50bbaf7650502f93?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
+| ↳ | **[[Online Assessment] Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6966a1725ad3a93f8231efd7?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
+| ↳ | **[Backend Software Engineer Intern (TikTok-PGC-UCP) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/6967cfa81703f05405a96f56?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
+| **[Altec](https://www.altec.com/altec-capital/)** | **[Information Services Quality Assurance Internship Summer 2026](https://jobright.ai/jobs/info/68ce6d13846f0b04af679c99?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 24 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Tech Art](https://jobright.ai/jobs/info/68e6b022e8daec61499ad6bb?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/691f956409cc522e87743532?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Jan 24 |
 | **[Western Digital](https://www.westerndigital.com)** | **[IT Intern for Workflow Automation](https://jobright.ai/jobs/info/691e4db5a49a885af9a277d6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6973f287bc8e722e7b18d86e?utm_campaign=1079&utm_source=git)** | Beavercreek, OH | On Site | Jan 23 |
 | **[Ciena](http://www.ciena.com)** | **[Summer Intern / Co-op – Software Developer (Agentic AI)](https://jobright.ai/jobs/info/6974102237785856350df4f9?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Computer Science/Software Engineering Intern](https://jobright.ai/jobs/info/6973eded206da320f49de654?utm_campaign=1079&utm_source=git)** | Chantilly, VA | Hybrid | Jan 23 |
-| **[SPX Technologies](https://www.spx.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/6973ec4ebc8e722e7b18cd53?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jan 23 |
-| **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Software Engineering](https://jobright.ai/jobs/info/6973ebc437785856350dbc8d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
-| **[Veryable](http://veryableops.com)** | **[Platform Engineer Intern](https://jobright.ai/jobs/info/6973e7c6bc8e722e7b18c171?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jan 23 |
-| **[RTX](http://www.raytheon.com)** | **[Flight Controls Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/6973e3a7206da320f49ddc5e?utm_campaign=1079&utm_source=git)** | US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121 | On Site | Jan 23 |
-| **[Square](https://block.xyz)** | **[Mobile Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6973e29dbc8e722e7b18b65d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
-| **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Aerospace Software Engineer Undergraduate Intern](https://jobright.ai/jobs/info/6973e1f137785856350db2b0?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Jan 23 |
-| **[Watchfire](https://www.watchfiresigns.com/)** | **[Intern IT Application Development](https://jobright.ai/jobs/info/6973fecc206da320f49e0e94?utm_campaign=1079&utm_source=git)** | Danville, IL | On Site | Jan 23 |
-| **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Jr Developer Intern](https://jobright.ai/jobs/info/6973de24206da320f49dd715?utm_campaign=1079&utm_source=git)** | Windsor Mill, MD | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
