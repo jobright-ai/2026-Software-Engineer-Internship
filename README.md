@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/6974e866206da320f49f1007?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 24 |
+| **[RDL](www.rdlnet.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6974ec82bc8e722e7b19e37a?utm_campaign=1079&utm_source=git)** | Prescott, AZ | On Site | Jan 24 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Stagiaire en développement logiciel / Software Development Intern](https://jobright.ai/jobs/info/6974e768206da320f49f0fba?utm_campaign=1079&utm_source=git)** | Brossard, Quebec, Canada | Hybrid | Jan 24 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
 | **[ABB](https://global.abb/group/en)** | **[FP Internship: Web development](https://jobright.ai/jobs/info/6974e599206da320f49f0f33?utm_campaign=1079&utm_source=git)** | Location, WV | Hybrid | Jan 24 |
@@ -124,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69744275bc8e722e7b193b3c?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 23 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/697440fbbc8e722e7b193a54?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Jan 23 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/6974409537785856350e39b0?utm_campaign=1079&utm_source=git)** | Maine, United States | Remote | Jan 23 |
-| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Typescript / Nest.js, Postgres, Docker, Microservices, AI/ML - Backend Internship](https://jobright.ai/jobs/info/69743ed4bc8e722e7b19388a?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Candid Intelligence](https://www.candidintelligence.com/)** | **[Software Engineering Intern (AI & Systems)](https://jobright.ai/jobs/info/69743da1bc8e722e7b193776?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Flight Controls Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/69743cce37785856350e36a9?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Jan 23 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[Software Engineer Intern - Applications](https://jobright.ai/jobs/info/6974e03c37785856350ee6f9?utm_campaign=1079&utm_source=git)** | Campbell, CA, US | On Site | Jan 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69741693206da320f49e2b57?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 23 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Web Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69743469bc8e722e7b19297d?utm_campaign=1079&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Jan 23 |
 | **[Okta](http://www.okta.com)** | **[Software Engineer Business Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/69741311bc8e722e7b18f366?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 23 |
+| **[Total Quality Logistics](http://www.tql.com/)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69741053bc8e722e7b18f14a?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
