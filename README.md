@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/697535dbbc8e722e7b1a2778?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 24 |
 | **[Dark Wolf](https://darkwolfsolutions.com/)** | **[UF College Fair - Internship](https://jobright.ai/jobs/info/697525f8bc8e722e7b1a0b2c?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 24 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Design Assurance Engineering Intern](https://jobright.ai/jobs/info/6975249b206da320f49f38f6?utm_campaign=1079&utm_source=git)** | Maple Grove, MN | On Site | Jan 24 |
 | **[Blackrock Neurotech](https://blackrockmicro.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69750606bc8e722e7b19ff1f?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Master's Degree)](https://jobright.ai/jobs/info/696913a0f25a380066979e4b?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Jan 24 |
 | ↳ | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Bachelor's Degree)](https://jobright.ai/jobs/info/6950b255a2668b7f545392eb?utm_campaign=1079&utm_source=git)** | Milford, MI | Hybrid | Jan 24 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern - Embedded](https://jobright.ai/jobs/info/68ccf751d11b445e0bee527b?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | Jan 24 |
-| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Applications - Summer 2026](https://jobright.ai/jobs/info/6974b405206da320f49ee3af?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 24 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Autonomous Driving (Master's Degree)](https://jobright.ai/jobs/info/696b5a2bdb26b618950ef20c?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Jan 24 |
 | **[Cisco](http://www.cisco.com)** | **[Quality Assurance I (Intern) - United States](https://jobright.ai/jobs/info/695b51ebf1f8465b79f16c49?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Jan 24 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Information & Digital (I&D) Intern](https://jobright.ai/jobs/info/691ab51115b415636718a020?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
