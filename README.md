@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Imperative Care](http://www.imperativecare.com)** | **[Software Engineer Intern - Applications](https://jobright.ai/jobs/info/697490dd206da320f49eda35?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Software Engineering - Washington](https://jobright.ai/jobs/info/697490c3206da320f49ed9ba?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 24 |
+| **[Imperative Care](http://www.imperativecare.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69749042bc8e722e7b19ace6?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[Software Engineer Intern - Applications](https://jobright.ai/jobs/info/69747bccbc8e722e7b198cc2?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
 | ↳ | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69747882206da320f49eb657?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Research Intern](https://jobright.ai/jobs/info/69746f53bc8e722e7b19807a?utm_campaign=1079&utm_source=git)** | St. Paul, MN, US | On Site | Jan 23 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Flight Software Engineer Undergraduate Intern](https://jobright.ai/jobs/info/697432a6206da320f49e5380?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Jan 23 |
 | **[XDR Radiology](https://www.xdrradiology.com)** | **[Programming / Software Development Intern](https://jobright.ai/jobs/info/697450e6206da320f49e8c2d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 23 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/6974311f206da320f49e52c7?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Jan 23 |
-| **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/69743098206da320f49e5287?utm_campaign=1079&utm_source=git)** | Mobile, AL | Hybrid | Jan 23 |
 | **[Jean Coutu](http://www.jeancoutu.com)** | **[Quality Assurance Intern / Étudiant­·e assurance qualité](https://jobright.ai/jobs/info/6974517e206da320f49e8cac?utm_campaign=1079&utm_source=git)** | Laval, Quebec, Canada | On Site | Jan 23 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69742d2037785856350e2716?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jan 23 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Aerospace Software Engineer Undergraduate Intern](https://jobright.ai/jobs/info/69742d0437785856350e26e9?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lila Sciences](https://www.lila.ai)** | **[Intern, Security & Cloud Engineering](https://jobright.ai/jobs/info/6973f8f1206da320f49e0436?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Jan 23 |
 | **[Square](https://block.xyz)** | **[Mobile Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6973dc44206da320f49dd558?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jan 23 |
 | **[Teradyne](http://www.teradyne.com)** | **[Software Engineer Intern / Summer 2026 (Teradyne, Deer Park, IL)](https://jobright.ai/jobs/info/6973d194206da320f49dcc00?utm_campaign=1079&utm_source=git)** | Deer Park, IL | Hybrid | Jan 23 |
-| **[TA Instruments](http://www.tainstruments.com)** | **[IT Intern - Software Development, Engineering Tools](https://jobright.ai/jobs/info/6973d033bc8e722e7b189fa9?utm_campaign=1079&utm_source=git)** | US-MA-Milford | On Site | Jan 23 |
-| **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6973f85637785856350ddb2f?utm_campaign=1079&utm_source=git)** | Westerville, OH | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
