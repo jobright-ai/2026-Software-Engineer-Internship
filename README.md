@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[SAP Development - Intern](https://jobright.ai/jobs/info/6975d112206da320f49fcbbc?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 25 |
 | **[Crustdata (YC F24)](https://crustdata.com/)** | **[Software Engineering Intern (Forward Deployed) / Summer 2026](https://jobright.ai/jobs/info/6975c28137785856350fa065?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | Hybrid | Jan 24 |
 | **[Virtru](https://www.virtru.com)** | **[Graduate Software Developer Intern](https://jobright.ai/jobs/info/6975a8fcbc8e722e7b1a891f?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 | ↳ | **[Software Developer in Test(SDET) Intern](https://jobright.ai/jobs/info/6975a7ad37785856350f908d?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Infotainment Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/697554e1206da320f49f5a50?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
 | **[Dark Wolf](https://darkwolfsolutions.com/)** | **[UF College Fair - Internship](https://jobright.ai/jobs/info/697525f8bc8e722e7b1a0b2c?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 24 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Design Assurance Engineering Intern](https://jobright.ai/jobs/info/6975249b206da320f49f38f6?utm_campaign=1079&utm_source=git)** | Maple Grove, MN | On Site | Jan 24 |
-| **[Blackrock Neurotech](https://blackrockmicro.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69750606bc8e722e7b19ff1f?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Sorn AI](https://sorn.ai)** | **[Software Engineer Internship (Remote)](https://jobright.ai/jobs/info/6974fad3206da320f49f2c5d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Stagiaire en développement logiciel / Software Development Intern](https://jobright.ai/jobs/info/6974e768206da320f49f0fba?utm_campaign=1079&utm_source=git)** | Brossard, Quebec, Canada | Hybrid | Jan 24 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
@@ -122,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/691f956409cc522e87743532?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Jan 24 |
 | **[Western Digital](https://www.westerndigital.com)** | **[IT Intern for Workflow Automation](https://jobright.ai/jobs/info/691e4db5a49a885af9a277d6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
 | ↳ | **[Summer 2026 Intern - Software Engineering (Firmware)](https://jobright.ai/jobs/info/693b81b4d4054a2bc02562d2?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
-| **[Nintendo](http://nintendo.com)** | **[Intern - Software Engineer, Server Application (NTD)](https://jobright.ai/jobs/info/6975b687206da320f49fc03e?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 24 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[Software Engineer Intern - Applications](https://jobright.ai/jobs/info/697490dd206da320f49eda35?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Software Engineering - Washington](https://jobright.ai/jobs/info/697490c3206da320f49ed9ba?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 24 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69749042bc8e722e7b19ace6?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Torn Banner Studios](http://www.tornbanner.com/)** | **[Game Programmer Intern](https://jobright.ai/jobs/info/697427ef37785856350e21f3?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Loop](https://loop.com)** | **[2026 Software Engineer Intern, Full-Stack](https://jobright.ai/jobs/info/697426a2206da320f49e48ee?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Jan 23 |
 | **[iManage](https://imanage.com)** | **[Software Engineer Intern (Frontend)](https://jobright.ai/jobs/info/69742634206da320f49e487a?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
+| **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742415bc8e722e7b19197a?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
