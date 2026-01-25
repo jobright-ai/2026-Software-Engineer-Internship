@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[dataing](https://www.dataing.io/)** | **[Product Engineer Intern – Consumer AI Startup ❤️❤️❤️](https://jobright.ai/jobs/info/69764863bc8e722e7b1af86a?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Constellation Space (YC W26)](https://constellation-io.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6976448abc8e722e7b1adfac?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Second Wind Pro](https://secondwind.pro/)** | **[Back End Engineer (Grad Intern)](https://jobright.ai/jobs/info/69763daabc8e722e7b1adf28?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Design Assurance Engineering Intern](https://jobright.ai/jobs/info/69763cda37785856350fec44?utm_campaign=1079&utm_source=git)** | Maple Grove, MN | On Site | Jan 25 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Frontend Intern / Remote / Unpaid](https://jobright.ai/jobs/info/697624c5bc8e722e7b1adc52?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
-| ↳ | **[Dev Intern - Remote / Unpaid](https://jobright.ai/jobs/info/6976230ebc8e722e7b1adb93?utm_campaign=1079&utm_source=git)** | Florida, United States | Remote | Jan 25 |
 | **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69761f54206da320f4a00c6b?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Crustdata (YC F24)](https://crustdata.com/)** | **[Software Engineering Intern (Forward Deployed) / Summer 2026](https://jobright.ai/jobs/info/69761f2f37785856350fe869?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Embedded Systems Software Engineer, AI Platforms (Summer 2026)](https://jobright.ai/jobs/info/69761ba1206da320f4a00a06?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Flight Controls Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/69743cce37785856350e36a9?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Jan 23 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[Software Engineer Intern - Applications](https://jobright.ai/jobs/info/6974e03c37785856350ee6f9?utm_campaign=1079&utm_source=git)** | Campbell, CA, US | On Site | Jan 23 |
 | ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/6974df62bc8e722e7b19df1d?utm_campaign=1079&utm_source=git)** | Campbell, CA, US | On Site | Jan 23 |
-| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/697432d9bc8e722e7b192885?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
