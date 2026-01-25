@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/697535dbbc8e722e7b1a2778?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 24 |
+| **[DartIQ.ai](www.dartiq.ai)** | **[Engineering Intern](https://jobright.ai/jobs/info/69755aa5206da320f49f5ad2?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 24 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Infotainment Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/697554e1206da320f49f5a50?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
 | **[Dark Wolf](https://darkwolfsolutions.com/)** | **[UF College Fair - Internship](https://jobright.ai/jobs/info/697525f8bc8e722e7b1a0b2c?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 24 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Design Assurance Engineering Intern](https://jobright.ai/jobs/info/6975249b206da320f49f38f6?utm_campaign=1079&utm_source=git)** | Maple Grove, MN | On Site | Jan 24 |
 | **[Blackrock Neurotech](https://blackrockmicro.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69750606bc8e722e7b19ff1f?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697418e1bc8e722e7b190f8f?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Jan 23 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Intern - Software Quality Engineering (IoT)](https://jobright.ai/jobs/info/697435c8206da320f49e55f8?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 23 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69741693206da320f49e2b57?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 23 |
-| **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Web Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69743469bc8e722e7b19297d?utm_campaign=1079&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
