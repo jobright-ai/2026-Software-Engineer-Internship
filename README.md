@@ -121,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/691f956409cc522e87743532?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Jan 24 |
 | **[Western Digital](https://www.westerndigital.com)** | **[IT Intern for Workflow Automation](https://jobright.ai/jobs/info/691e4db5a49a885af9a277d6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
 | ↳ | **[Summer 2026 Intern - Software Engineering (Firmware)](https://jobright.ai/jobs/info/693b81b4d4054a2bc02562d2?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
+| **[Nintendo](http://nintendo.com)** | **[Intern - Software Engineer, Server Application (NTD)](https://jobright.ai/jobs/info/6975b687206da320f49fc03e?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 24 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[Software Engineer Intern - Applications](https://jobright.ai/jobs/info/697490dd206da320f49eda35?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Software Engineering - Washington](https://jobright.ai/jobs/info/697490c3206da320f49ed9ba?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 24 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69749042bc8e722e7b19ace6?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
@@ -128,6 +129,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69747882206da320f49eb657?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Research Intern](https://jobright.ai/jobs/info/69746f53bc8e722e7b19807a?utm_campaign=1079&utm_source=git)** | St. Paul, MN, US | On Site | Jan 23 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Technology Internship, Brookings Technology (Job ID 2026-3809)](https://jobright.ai/jobs/info/69746d73206da320f49eac11?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
+| **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[IT Solutions Internship](https://jobright.ai/jobs/info/6975b6cb37785856350f9b82?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Jan 23 |
 | **[Siemens](https://www.siemens.com)** | **[Solutions Offers Internship](https://jobright.ai/jobs/info/6974524437785856350e6604?utm_campaign=1079&utm_source=git)** | Wendell, NC | On Site | Jan 23 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/6975abf437785856350f9460?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Jan 23 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/69744ce9206da320f49e70f9?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Loop](https://loop.com)** | **[2026 Software Engineer Intern, Full-Stack](https://jobright.ai/jobs/info/697426a2206da320f49e48ee?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Jan 23 |
 | **[iManage](https://imanage.com)** | **[Software Engineer Intern (Frontend)](https://jobright.ai/jobs/info/69742634206da320f49e487a?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742415bc8e722e7b19197a?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 23 |
-| **[SAS](http://www.sas.com)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742409206da320f49e45f2?utm_campaign=1079&utm_source=git)** | North Carolina | Hybrid | Jan 23 |
-| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69743ca237785856350e3690?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
