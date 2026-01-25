@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clarity](https://clarityapp.io)** | **[Internship - Software Engineering Intern](https://jobright.ai/jobs/info/687674c0ae2f413e4a5afd36?utm_campaign=1079&utm_source=git)** | Herndon, VA | Remote | Jan 24 |
 | **[Silicon Valley Consulting](https://siliconvalleyconsulting.io)** | **[AI-Enabled Software Engineer Intern (Spring '26 and Summer '26)](https://jobright.ai/jobs/info/69758fa4bc8e722e7b1a59da?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Jan 24 |
 | **[DartIQ.ai](www.dartiq.ai)** | **[Engineering Intern](https://jobright.ai/jobs/info/69757dad206da320f49f7e45?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 24 |
 | **[Virtru](https://www.virtru.com)** | **[Software Developer in Test(SDET) Intern](https://jobright.ai/jobs/info/6975648837785856350f34f4?utm_campaign=1079&utm_source=git)** | Washington, DC - Hybrid | Hybrid | Jan 24 |
@@ -129,13 +130,13 @@ For a complete list, click the following sortable link below:
 | **[Crystal Dynamics](http://crystald.com)** | **[Technical Design Intern](https://jobright.ai/jobs/info/697445cf37785856350e3d0c?utm_campaign=1079&utm_source=git)** | San Carlos, CA | Hybrid | Jan 23 |
 | **[Alcon](http://www.alcon.com)** | **[Software Intern](https://jobright.ai/jobs/info/697445cf206da320f49e68c7?utm_campaign=1079&utm_source=git)** | Lake Forest, CA | On Site | Jan 23 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69744275bc8e722e7b193b3c?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 23 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Test Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69759834206da320f49f8d40?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 23 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/697440fbbc8e722e7b193a54?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Jan 23 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/6974409537785856350e39b0?utm_campaign=1079&utm_source=git)** | Maine, United States | Remote | Jan 23 |
 | **[Candid Intelligence](https://www.candidintelligence.com/)** | **[Software Engineering Intern (AI & Systems)](https://jobright.ai/jobs/info/69743da1bc8e722e7b193776?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Flight Controls Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/69743cce37785856350e36a9?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA | On Site | Jan 23 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[Software Engineer Intern - Applications](https://jobright.ai/jobs/info/6974e03c37785856350ee6f9?utm_campaign=1079&utm_source=git)** | Campbell, CA, US | On Site | Jan 23 |
 | ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/6974df62bc8e722e7b19df1d?utm_campaign=1079&utm_source=git)** | Campbell, CA, US | On Site | Jan 23 |
-| **[Terranova](https://www.terranova.inc/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69758e70206da320f49f8878?utm_campaign=1079&utm_source=git)** | Berkeley, CA | On Site | Jan 23 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/697432d9bc8e722e7b192885?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Jan 23 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Flight Software Engineer Undergraduate Intern](https://jobright.ai/jobs/info/697432a6206da320f49e5380?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Jan 23 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/6974311f206da320f49e52c7?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Jan 23 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[iManage](https://imanage.com)** | **[Software Engineer Intern (Frontend)](https://jobright.ai/jobs/info/69742634206da320f49e487a?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742415bc8e722e7b19197a?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 23 |
 | **[SAS](http://www.sas.com)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742409206da320f49e45f2?utm_campaign=1079&utm_source=git)** | North Carolina | Hybrid | Jan 23 |
-| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69744295206da320f49e66a1?utm_campaign=1079&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
-| ↳ | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69743ca237785856350e3690?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
+| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69743ca237785856350e3690?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
+| ↳ | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69744295206da320f49e66a1?utm_campaign=1079&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Enterprise Architecture and AI Governance](https://jobright.ai/jobs/info/69741da137785856350e1690?utm_campaign=1079&utm_source=git)** | White Plains, NY | On Site | Jan 23 |
 | **[SAS](http://www.sas.com)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69741c8637785856350e1568?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 23 |
 | **[Alcon](http://www.alcon.com)** | **[Software Intern](https://jobright.ai/jobs/info/6973ff9537785856350de7ba?utm_campaign=1079&utm_source=git)** | Lake Forest, California | On Site | Jan 23 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Software Engineering Internship, 2026](https://jobright.ai/jobs/info/697403e737785856350dec27?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
-| ↳ | **[Software Engineer, New Grad](https://jobright.ai/jobs/info/6974077dbc8e722e7b18eb9a?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
