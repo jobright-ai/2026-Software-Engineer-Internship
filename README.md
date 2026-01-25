@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DartIQ.ai](www.dartiq.ai)** | **[Engineering Intern](https://jobright.ai/jobs/info/69755aa5206da320f49f5ad2?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 24 |
+| **[Virtru](https://www.virtru.com)** | **[Software Developer in Test(SDET) Intern](https://jobright.ai/jobs/info/6975648837785856350f34f4?utm_campaign=1079&utm_source=git)** | Washington, DC - Hybrid | Hybrid | Jan 24 |
+| ↳ | **[Graduate Software Developer Intern](https://jobright.ai/jobs/info/69756469bc8e722e7b1a2bfe?utm_campaign=1079&utm_source=git)** | Washington DC - Hybrid | Hybrid | Jan 24 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Infotainment Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/697554e1206da320f49f5a50?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
 | **[Dark Wolf](https://darkwolfsolutions.com/)** | **[UF College Fair - Internship](https://jobright.ai/jobs/info/697525f8bc8e722e7b1a0b2c?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 24 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Design Assurance Engineering Intern](https://jobright.ai/jobs/info/6975249b206da320f49f38f6?utm_campaign=1079&utm_source=git)** | Maple Grove, MN | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AM General LLC](http://www.amgeneral.com)** | **[Internship - ERP Systems](https://jobright.ai/jobs/info/69741a98206da320f49e3ba2?utm_campaign=1079&utm_source=git)** | Mishawaka, Indiana, United States | On Site | Jan 23 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697418e1bc8e722e7b190f8f?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Jan 23 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Intern - Software Quality Engineering (IoT)](https://jobright.ai/jobs/info/697435c8206da320f49e55f8?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 23 |
-| **[Total Quality Logistics](http://www.tql.com/)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69741693206da320f49e2b57?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
