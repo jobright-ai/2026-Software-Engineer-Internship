@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ninth Wave](https://ninth-wave.com/)** | **[Jr. Java Software Developer Internship](https://jobright.ai/jobs/info/69424554bdcf884a5ade1f5d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 25 |
 | **[Appian](http://www.appian.com)** | **[Software Quality Engineer Intern](https://jobright.ai/jobs/info/68b246b0bc187f64e1bda31c?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Jan 25 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Digital Transformation](https://jobright.ai/jobs/info/68e9917cf195760c354aacec?utm_campaign=1079&utm_source=git)** | Allen, TX | On Site | Jan 25 |
 | **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/691dd640ad5a517034796d9a?utm_campaign=1079&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Software Designer Intern / Stagiaire en conception de logiciels](https://jobright.ai/jobs/info/69744fa937785856350e5a28?utm_campaign=1079&utm_source=git)** | Laval, Quebec, Canada | On Site | Jan 23 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69757d13bc8e722e7b1a4f38?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jan 23 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/697428a7206da320f49e4aa2?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
-| **[Torn Banner Studios](http://www.tornbanner.com/)** | **[Game Programmer Intern](https://jobright.ai/jobs/info/697427ef37785856350e21f3?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
