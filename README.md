@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Software engineer intern](https://jobright.ai/jobs/info/697627b9206da320f4a00dd9?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 25 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Frontend Intern / Remote / Unpaid](https://jobright.ai/jobs/info/697624c5bc8e722e7b1adc52?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
+| ↳ | **[Dev Intern - Remote / Unpaid](https://jobright.ai/jobs/info/6976230ebc8e722e7b1adb93?utm_campaign=1079&utm_source=git)** | Florida, United States | Remote | Jan 25 |
+| **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69761f54206da320f4a00c6b?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Crustdata (YC F24)](https://crustdata.com/)** | **[Software Engineering Intern (Forward Deployed) / Summer 2026](https://jobright.ai/jobs/info/69761f2f37785856350fe869?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Embedded Systems Software Engineer, AI Platforms (Summer 2026)](https://jobright.ai/jobs/info/69761ba1206da320f4a00a06?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Jan 25 |
 | ↳ | **[Internship, Software Engineer, AI Hardware Infrastructure (Summer 2026)](https://jobright.ai/jobs/info/697619ab37785856350fe49d?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Jan 25 |
@@ -90,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health QA Engineer Intern 2026](https://jobright.ai/jobs/info/693c8c2950bbaf76504fc2d4?utm_campaign=1079&utm_source=git)** | Jupiter, FL | On Site | Jan 24 |
 | **[Kiewit](http://www.kiewit.com)** | **[Integrative Engineer Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/695870a09f1b381eb2715e71?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Jan 24 |
 | ↳ | **[Quantity Takeoff Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/69586c08f1f8465b79ef11cb?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Jan 24 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Engineer - Software Engineering](https://jobright.ai/jobs/info/6971542f51f7264771839f9c?utm_campaign=1079&utm_source=git)** | Bloomington, MN | On Site | Jan 24 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health QA Engineer Intern 2026](https://jobright.ai/jobs/info/693c91b749a7695fbd034ce2?utm_campaign=1079&utm_source=git)** | Jupiter, FL | On Site | Jan 24 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Training & QA Technology](https://jobright.ai/jobs/info/693c8dd0aa598a08c3ed611f?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 24 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026: SVL](https://jobright.ai/jobs/info/6974c68b37785856350ed99d?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Jan 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Imperative Care](http://www.imperativecare.com)** | **[Software Engineer Intern - Applications](https://jobright.ai/jobs/info/6974e03c37785856350ee6f9?utm_campaign=1079&utm_source=git)** | Campbell, CA, US | On Site | Jan 23 |
 | ↳ | **[Software Engineer Intern, Robotics](https://jobright.ai/jobs/info/6974df62bc8e722e7b19df1d?utm_campaign=1079&utm_source=git)** | Campbell, CA, US | On Site | Jan 23 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/697432d9bc8e722e7b192885?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Jan 23 |
-| **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Flight Software Engineer Undergraduate Intern](https://jobright.ai/jobs/info/697432a6206da320f49e5380?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Jan 23 |
-| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/6974311f206da320f49e52c7?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Jan 23 |
-| **[Jean Coutu](http://www.jeancoutu.com)** | **[Quality Assurance Intern / Étudiant­·e assurance qualité](https://jobright.ai/jobs/info/6974517e206da320f49e8cac?utm_campaign=1079&utm_source=git)** | Laval, Quebec, Canada | On Site | Jan 23 |
-| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69742d2037785856350e2716?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jan 23 |
-| **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Aerospace Software Engineer Undergraduate Intern](https://jobright.ai/jobs/info/69742d0437785856350e26e9?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
