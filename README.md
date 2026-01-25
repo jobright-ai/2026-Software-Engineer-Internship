@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Oracle Health and Analytics](https://jobright.ai/jobs/info/696dd5afdb26b6189510cb70?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - System Software Engineering](https://jobright.ai/jobs/info/691fc36a09cc522e87745328?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Jan 25 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[SAP Development - Intern](https://jobright.ai/jobs/info/6975d112206da320f49fcbbc?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 25 |
 | **[Crustdata (YC F24)](https://crustdata.com/)** | **[Software Engineering Intern (Forward Deployed) / Summer 2026](https://jobright.ai/jobs/info/6975c28137785856350fa065?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | Hybrid | Jan 24 |
 | **[Virtru](https://www.virtru.com)** | **[Graduate Software Developer Intern](https://jobright.ai/jobs/info/6975a8fcbc8e722e7b1a891f?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iManage](https://imanage.com)** | **[Software Engineer Intern (Frontend)](https://jobright.ai/jobs/info/69742634206da320f49e487a?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742415bc8e722e7b19197a?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 23 |
 | **[SAS](http://www.sas.com)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742409206da320f49e45f2?utm_campaign=1079&utm_source=git)** | North Carolina | Hybrid | Jan 23 |
-| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69744295206da320f49e66a1?utm_campaign=1079&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
-| ↳ | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69743ca237785856350e3690?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
