@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Software engineer intern](https://jobright.ai/jobs/info/697627b9206da320f4a00dd9?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 25 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Design Assurance Engineering Intern](https://jobright.ai/jobs/info/69763cda37785856350fec44?utm_campaign=1079&utm_source=git)** | Maple Grove, MN | On Site | Jan 25 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Frontend Intern / Remote / Unpaid](https://jobright.ai/jobs/info/697624c5bc8e722e7b1adc52?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
 | ↳ | **[Dev Intern - Remote / Unpaid](https://jobright.ai/jobs/info/6976230ebc8e722e7b1adb93?utm_campaign=1079&utm_source=git)** | Florida, United States | Remote | Jan 25 |
 | **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69761f54206da320f4a00c6b?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
