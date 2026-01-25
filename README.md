@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DartIQ.ai](www.dartiq.ai)** | **[Engineering Intern](https://jobright.ai/jobs/info/69757dad206da320f49f7e45?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 24 |
 | **[Virtru](https://www.virtru.com)** | **[Software Developer in Test(SDET) Intern](https://jobright.ai/jobs/info/6975648837785856350f34f4?utm_campaign=1079&utm_source=git)** | Washington, DC - Hybrid | Hybrid | Jan 24 |
 | ↳ | **[Graduate Software Developer Intern](https://jobright.ai/jobs/info/69756469bc8e722e7b1a2bfe?utm_campaign=1079&utm_source=git)** | Washington DC - Hybrid | Hybrid | Jan 24 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Infotainment Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/697554e1206da320f49f5a50?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
@@ -139,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69742d2037785856350e2716?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jan 23 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Aerospace Software Engineer Undergraduate Intern](https://jobright.ai/jobs/info/69742d0437785856350e26e9?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Jan 23 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Software Designer Intern / Stagiaire en conception de logiciels](https://jobright.ai/jobs/info/69744fa937785856350e5a28?utm_campaign=1079&utm_source=git)** | Laval, Quebec, Canada | On Site | Jan 23 |
-| **[RDL](www.rdlnet.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6974297e206da320f49e4b47?utm_campaign=1079&utm_source=git)** | Prescott,AZ,US | On Site | Jan 23 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69757d13bc8e722e7b1a4f38?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jan 23 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/697428a7206da320f49e4aa2?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Torn Banner Studios](http://www.tornbanner.com/)** | **[Game Programmer Intern](https://jobright.ai/jobs/info/697427ef37785856350e21f3?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Loop](https://loop.com)** | **[2026 Software Engineer Intern, Full-Stack](https://jobright.ai/jobs/info/697426a2206da320f49e48ee?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Internship, 2026](https://jobright.ai/jobs/info/6973e757bc8e722e7b18c040?utm_campaign=1079&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Jan 23 |
 | **[AM General LLC](http://www.amgeneral.com)** | **[Internship - ERP Systems](https://jobright.ai/jobs/info/69741a98206da320f49e3ba2?utm_campaign=1079&utm_source=git)** | Mishawaka, Indiana, United States | On Site | Jan 23 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697418e1bc8e722e7b190f8f?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Jan 23 |
-| **[Legrand, North America](http://www.legrand.us)** | **[Intern - Software Quality Engineering (IoT)](https://jobright.ai/jobs/info/697435c8206da320f49e55f8?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
