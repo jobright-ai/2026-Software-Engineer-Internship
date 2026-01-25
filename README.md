@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crustdata (YC F24)](https://crustdata.com/)** | **[Software Engineering Intern (Forward Deployed) / Summer 2026](https://jobright.ai/jobs/info/6975c28137785856350fa065?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | Hybrid | Jan 24 |
 | **[Virtru](https://www.virtru.com)** | **[Graduate Software Developer Intern](https://jobright.ai/jobs/info/6975a8fcbc8e722e7b1a891f?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 | ↳ | **[Software Developer in Test(SDET) Intern](https://jobright.ai/jobs/info/6975a7ad37785856350f908d?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 | **[AlteraSF](www.alterasf.com)** | **[Software Engineer Intern (Remote)](https://jobright.ai/jobs/info/6975a77c206da320f49fb584?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Torn Banner Studios](http://www.tornbanner.com/)** | **[Game Programmer Intern](https://jobright.ai/jobs/info/697427ef37785856350e21f3?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Loop](https://loop.com)** | **[2026 Software Engineer Intern, Full-Stack](https://jobright.ai/jobs/info/697426a2206da320f49e48ee?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Jan 23 |
 | **[iManage](https://imanage.com)** | **[Software Engineer Intern (Frontend)](https://jobright.ai/jobs/info/69742634206da320f49e487a?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
-| **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742415bc8e722e7b19197a?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
