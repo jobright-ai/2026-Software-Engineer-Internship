@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Virtru](https://www.virtru.com)** | **[Graduate Software Developer Intern](https://jobright.ai/jobs/info/6975a8fcbc8e722e7b1a891f?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
+| ↳ | **[Software Developer in Test(SDET) Intern](https://jobright.ai/jobs/info/6975a7ad37785856350f908d?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
+| **[AlteraSF](www.alterasf.com)** | **[Software Engineer Intern (Remote)](https://jobright.ai/jobs/info/6975a77c206da320f49fb584?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Clarity](https://clarityapp.io)** | **[Internship - Software Engineering Intern](https://jobright.ai/jobs/info/687674c0ae2f413e4a5afd36?utm_campaign=1079&utm_source=git)** | Herndon, VA | Remote | Jan 24 |
 | **[Silicon Valley Consulting](https://siliconvalleyconsulting.io)** | **[AI-Enabled Software Engineer Intern (Spring '26 and Summer '26)](https://jobright.ai/jobs/info/69758fa4bc8e722e7b1a59da?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Jan 24 |
 | **[DartIQ.ai](www.dartiq.ai)** | **[Engineering Intern](https://jobright.ai/jobs/info/69757dad206da320f49f7e45?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 24 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
 | **[ABB](https://global.abb/group/en)** | **[FP Internship: Web development](https://jobright.ai/jobs/info/6974e599206da320f49f0f33?utm_campaign=1079&utm_source=git)** | Location, WV | Hybrid | Jan 24 |
 | **[GitHub](https://github.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697470a8bc8e722e7b1982ee?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
+| **[RDL](www.rdlnet.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6975a850bc8e722e7b1a8856?utm_campaign=1079&utm_source=git)** | Prescott, AZ | On Site | Jan 24 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health QA Engineer Intern 2026](https://jobright.ai/jobs/info/693c8c2950bbaf76504fc2d4?utm_campaign=1079&utm_source=git)** | Jupiter, FL | On Site | Jan 24 |
 | **[Kiewit](http://www.kiewit.com)** | **[Integrative Engineer Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/695870a09f1b381eb2715e71?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Jan 24 |
 | ↳ | **[Quantity Takeoff Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/69586c08f1f8465b79ef11cb?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Jan 24 |
@@ -125,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Research Intern](https://jobright.ai/jobs/info/69746f53bc8e722e7b19807a?utm_campaign=1079&utm_source=git)** | St. Paul, MN, US | On Site | Jan 23 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Technology Internship, Brookings Technology (Job ID 2026-3809)](https://jobright.ai/jobs/info/69746d73206da320f49eac11?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
 | **[Siemens](https://www.siemens.com)** | **[Solutions Offers Internship](https://jobright.ai/jobs/info/6974524437785856350e6604?utm_campaign=1079&utm_source=git)** | Wendell, NC | On Site | Jan 23 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/6975abf437785856350f9460?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Jan 23 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/69744ce9206da320f49e70f9?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Jan 23 |
 | **[Gesture](https://gesture.vip)** | **[Full Stack & AI Engineering Intern](https://jobright.ai/jobs/info/69744ba337785856350e48ed?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jan 23 |
 | **[Crystal Dynamics](http://crystald.com)** | **[Technical Design Intern](https://jobright.ai/jobs/info/697445cf37785856350e3d0c?utm_campaign=1079&utm_source=git)** | San Carlos, CA | Hybrid | Jan 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742415bc8e722e7b19197a?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 23 |
 | **[SAS](http://www.sas.com)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69742409206da320f49e45f2?utm_campaign=1079&utm_source=git)** | North Carolina | Hybrid | Jan 23 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69743ca237785856350e3690?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Jan 23 |
-| ↳ | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69744295206da320f49e66a1?utm_campaign=1079&utm_source=git)** | Denver, CO | Hybrid | Jan 23 |
-| **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Enterprise Architecture and AI Governance](https://jobright.ai/jobs/info/69741da137785856350e1690?utm_campaign=1079&utm_source=git)** | White Plains, NY | On Site | Jan 23 |
-| **[SAS](http://www.sas.com)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/69741c8637785856350e1568?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 23 |
-| **[Alcon](http://www.alcon.com)** | **[Software Intern](https://jobright.ai/jobs/info/6973ff9537785856350de7ba?utm_campaign=1079&utm_source=git)** | Lake Forest, California | On Site | Jan 23 |
-| **[Perpay Inc.](http://www.perpay.com)** | **[Software Engineering Internship, 2026](https://jobright.ai/jobs/info/697403e737785856350dec27?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
