@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crustdata (YC F24)](https://crustdata.com/)** | **[Software Engineering Intern (Forward Deployed) / Summer 2026](https://jobright.ai/jobs/info/69761f2f37785856350fe869?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 25 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Embedded Systems Software Engineer, AI Platforms (Summer 2026)](https://jobright.ai/jobs/info/69761ba1206da320f4a00a06?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Jan 25 |
+| ↳ | **[Internship, Software Engineer, AI Hardware Infrastructure (Summer 2026)](https://jobright.ai/jobs/info/697619ab37785856350fe49d?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Jan 25 |
+| **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Engineering](https://jobright.ai/jobs/info/693dd78e49a7695fbd044bd0?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 25 |
 | **[Ninth Wave](https://ninth-wave.com/)** | **[Jr. Java Software Developer Internship](https://jobright.ai/jobs/info/69424554bdcf884a5ade1f5d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 25 |
 | **[Appian](http://www.appian.com)** | **[Software Quality Engineer Intern](https://jobright.ai/jobs/info/68b246b0bc187f64e1bda31c?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Jan 25 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Digital Transformation](https://jobright.ai/jobs/info/68e9917cf195760c354aacec?utm_campaign=1079&utm_source=git)** | Allen, TX | On Site | Jan 25 |
@@ -119,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[DiDi](https://www.didiglobal.com)** | **[Architect Engineer, Motion Planning (Summer Intern)](https://jobright.ai/jobs/info/6961c9b0a112b40266105709?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Billing Solutions Analyst](https://jobright.ai/jobs/info/68afe548b47fb001d688e55c?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
 | **[Giga](https://giga.ai)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6958f37ff1f8465b79ef9470?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok-PGC-UCP) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/6967cfa81703f05405a96f56?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Information Services Quality Assurance Internship Summer 2026](https://jobright.ai/jobs/info/68ce6d13846f0b04af679c99?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 24 |
 | **[Garner Health](https://www.getgarner.com/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/68e69823ae2b894b1d71ba15?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Tech Art](https://jobright.ai/jobs/info/68e6b022e8daec61499ad6bb?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jean Coutu](http://www.jeancoutu.com)** | **[Quality Assurance Intern / Étudiant­·e assurance qualité](https://jobright.ai/jobs/info/6974517e206da320f49e8cac?utm_campaign=1079&utm_source=git)** | Laval, Quebec, Canada | On Site | Jan 23 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Software Engineering Internship](https://jobright.ai/jobs/info/69742d2037785856350e2716?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jan 23 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Aerospace Software Engineer Undergraduate Intern](https://jobright.ai/jobs/info/69742d0437785856350e26e9?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Jan 23 |
-| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Software Designer Intern / Stagiaire en conception de logiciels](https://jobright.ai/jobs/info/69744fa937785856350e5a28?utm_campaign=1079&utm_source=git)** | Laval, Quebec, Canada | On Site | Jan 23 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69757d13bc8e722e7b1a4f38?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jan 23 |
-| **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/697428a7206da320f49e4aa2?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
