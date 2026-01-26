@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oxmaint AI : EAM/CMMS](https://www.oxmaint.com/)** | **[Software Engineer Intern (Nvidia GPU Training)](https://jobright.ai/jobs/info/6976b3b7206da320f4a05947?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Mouser Electronics](http://mouser.com)** | **[Information Services Intern - Platform](https://jobright.ai/jobs/info/6976cb3b206da320f4a07ba8?utm_campaign=1079&utm_source=git)** | Mansfield, TX | On Site | Jan 25 |
+| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Software Engineer (Fall 2026)](https://jobright.ai/jobs/info/696e82ad350cf43803153921?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jan 25 |
 | **[Mouser Electronics](http://mouser.com)** | **[Information Services Intern - Platform](https://jobright.ai/jobs/info/69769bf7206da320f4a0551f?utm_campaign=1079&utm_source=git)** | Mansfield, TX, United States | On Site | Jan 25 |
 | **[Find Me](https://fyndme.co)** | **[Flutter Application Developer (Android & iOS) – Unpaid Internship](https://jobright.ai/jobs/info/69768d03206da320f4a053d3?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Acima](https://www.acima.com/)** | **[Acima Software Engineering Intern](https://jobright.ai/jobs/info/697680d1bc8e722e7b1b1f60?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Jan 25 |
 | **[Upbound Group](https://www.upbound.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69767a7c37785856351014da?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Jan 25 |
-| **[Constellation Space (YC W26)](https://constellation-io.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697669c83778585635100fcc?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Constellation Space (YC W26)](https://constellation-io.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6976448abc8e722e7b1adfac?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Second Wind Pro](https://secondwind.pro/)** | **[Back End Engineer (Grad Intern)](https://jobright.ai/jobs/info/69763daabc8e722e7b1adf28?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Design Assurance Engineering Intern](https://jobright.ai/jobs/info/69763cda37785856350fec44?utm_campaign=1079&utm_source=git)** | Maple Grove, MN | On Site | Jan 25 |
 | **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69761f54206da320f4a00c6b?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[DartIQ.ai](www.dartiq.ai)** | **[Engineering Intern](https://jobright.ai/jobs/info/69757dad206da320f49f7e45?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 24 |
 | **[Virtru](https://www.virtru.com)** | **[Software Developer in Test(SDET) Intern](https://jobright.ai/jobs/info/6975648837785856350f34f4?utm_campaign=1079&utm_source=git)** | Washington, DC - Hybrid | Hybrid | Jan 24 |
 | ↳ | **[Graduate Software Developer Intern](https://jobright.ai/jobs/info/69756469bc8e722e7b1a2bfe?utm_campaign=1079&utm_source=git)** | Washington DC - Hybrid | Hybrid | Jan 24 |
-| **[Flock Safety](https://www.flocksafety.com)** | **[Device Quality Assurance Intern](https://jobright.ai/jobs/info/69768195bc8e722e7b1b1faa?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
-| ↳ | **[Device Software Engineering Intern](https://jobright.ai/jobs/info/697681ed206da320f4a05247?utm_campaign=1079&utm_source=git)** | Remote - USA | Remote | Jan 24 |
+| **[Flock Safety](https://www.flocksafety.com)** | **[Device Software Engineering Intern](https://jobright.ai/jobs/info/697681ed206da320f4a05247?utm_campaign=1079&utm_source=git)** | Remote - USA | Remote | Jan 24 |
+| ↳ | **[Device Quality Assurance Intern](https://jobright.ai/jobs/info/69768195bc8e722e7b1b1faa?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Infotainment Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/697554e1206da320f49f5a50?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
 | **[Dark Wolf](https://darkwolfsolutions.com/)** | **[UF College Fair - Internship](https://jobright.ai/jobs/info/697525f8bc8e722e7b1a0b2c?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 24 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Design Assurance Engineering Intern](https://jobright.ai/jobs/info/6975249b206da320f49f38f6?utm_campaign=1079&utm_source=git)** | Maple Grove, MN | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69744275bc8e722e7b193b3c?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 23 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Test Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69759834206da320f49f8d40?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 23 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/697440fbbc8e722e7b193a54?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Jan 23 |
-| **[WEX](http://www.wexinc.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/6974409537785856350e39b0?utm_campaign=1079&utm_source=git)** | Maine, United States | Remote | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
