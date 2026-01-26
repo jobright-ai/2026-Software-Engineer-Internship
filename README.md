@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/6977b0ae52f3c27ec643cc0b?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 26 |
+| **[Ciena](http://www.ciena.com)** | **[Summer Intern / Co-op – Software Developer (Agentic AI)](https://jobright.ai/jobs/info/6977ae0b88e2b47213bb9bb3?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jan 26 |
+| **[Carolina Senior Marketing](https://carolinaseniormarketing.com)** | **[Web Developer Intern](https://jobright.ai/jobs/info/6977abbc88e2b47213bb97eb?utm_campaign=1079&utm_source=git)** | Morrisville, NC | On Site | Jan 26 |
+| **[Parsons Corporation](http://www.parsons.com)** | **[Full Stack Software Developer Intern (Summer 2026)](https://jobright.ai/jobs/info/6977ab9588e2b47213bb979c?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD | On Site | Jan 26 |
 | **[EBSCO Industries, Inc.](http://www.ebscoind.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69698eb6639b452fb57f7ac7?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 26 |
 | **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Internship](https://jobright.ai/jobs/info/69778e4188e2b47213bb74b9?utm_campaign=1079&utm_source=git)** | Columbia, MD | Hybrid | Jan 26 |
 | **[RBCx](https://www.rbcx.com/)** | **[2026 Summer - RBCx, Junior Developer Intern (4 Months)](https://jobright.ai/jobs/info/69778cc688e2b47213bb72e0?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern – Backend Software Engineer, Fleet Tooling (Bachelor's Degree)](https://jobright.ai/jobs/info/696983c3639b452fb57f6145?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Jan 24 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Embedded Systems Intern](https://jobright.ai/jobs/info/6957e5859f1b381eb270d2e5?utm_campaign=1079&utm_source=git)** | Warrendale, PA | On Site | Jan 24 |
 | **[DiDi](https://www.didiglobal.com)** | **[Architect Engineer, Motion Planning (Summer Intern)](https://jobright.ai/jobs/info/6961c9b0a112b40266105709?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Billing Solutions Analyst](https://jobright.ai/jobs/info/68afe548b47fb001d688e55c?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
-| **[Giga](https://giga.ai)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6958f37ff1f8465b79ef9470?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
-| **[Altec](https://www.altec.com/altec-capital/)** | **[Information Services Quality Assurance Internship Summer 2026](https://jobright.ai/jobs/info/68ce6d13846f0b04af679c99?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 24 |
-| **[Garner Health](https://www.getgarner.com/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/68e69823ae2b894b1d71ba15?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
