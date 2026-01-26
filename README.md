@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PlayOps](https://playops.world/)** | **[AI Game Systems & HTML Narrative Intern (12 Weeks)](https://jobright.ai/jobs/info/697782b388e2b47213bb65f7?utm_campaign=1079&utm_source=git)** | KC Metro Area | Remote | Jan 26 |
+| **[EBSCO Industries, Inc.](http://www.ebscoind.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69698eb6639b452fb57f7ac7?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 26 |
+| **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Internship](https://jobright.ai/jobs/info/69778e4188e2b47213bb74b9?utm_campaign=1079&utm_source=git)** | Columbia, MD | Hybrid | Jan 26 |
+| **[RBCx](https://www.rbcx.com/)** | **[2026 Summer - RBCx, Junior Developer Intern (4 Months)](https://jobright.ai/jobs/info/69778cc688e2b47213bb72e0?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - RBCx, Junior Developer Intern (4 Months)](https://jobright.ai/jobs/info/6977a35f52f3c27ec643b5aa?utm_campaign=1079&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Jan 26 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e894bd046ab6061cfea51?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jan 26 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Cloud Engineer](https://jobright.ai/jobs/info/69229db37795cd460c8366c4?utm_campaign=1079&utm_source=git)** | Irving, TX | Hybrid | Jan 26 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Software Engineering](https://jobright.ai/jobs/info/693ff81550bbaf7650520e86?utm_campaign=1079&utm_source=git)** | Brookfield, WI | Hybrid | Jan 26 |
@@ -78,8 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69773057fdeb8243a279f6b7?utm_campaign=1079&utm_source=git)** | USA - Redmond, WA | On Site | Jan 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Glendale System Software Engineering Internship, Fall 2026](https://jobright.ai/jobs/info/69772fdd88e2b47213baff5e?utm_campaign=1079&utm_source=git)** | Glendale, CA, USA | On Site | Jan 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloud Engineering [Vancouver]](https://jobright.ai/jobs/info/69772d2c52f3c27ec643246c?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 26 |
-| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern – Digital and Analytics](https://jobright.ai/jobs/info/69772375fdeb8243a279f370?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloud Engineering [Vancouver]](https://jobright.ai/jobs/info/6977221e88e2b47213bafc0d?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jan 26 |
+| ↳ | **[SAP iXp Intern - Cloud Engineering [Vancouver]](https://jobright.ai/jobs/info/6977221e88e2b47213bafc0d?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jan 26 |
 | **[Flock Safety](https://www.flocksafety.com)** | **[Device Software Engineering Intern](https://jobright.ai/jobs/info/697715cd52f3c27ec6431bbf?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
 | ↳ | **[Device Quality Assurance Intern](https://jobright.ai/jobs/info/6977149752f3c27ec6431ac8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 25 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6976ea5bfdeb8243a279b338?utm_campaign=1079&utm_source=git)** | Salem, VA | Hybrid | Jan 25 |
@@ -112,8 +114,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Researcher Intern (Intelligent Creation-Vision and Graphics)- 2026 Start (PhD)](https://jobright.ai/jobs/info/6976e9bb52f3c27ec642dc5f?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | **[Silicon Valley Consulting](https://siliconvalleyconsulting.io)** | **[AI-Enabled Software Engineer Intern (Spring '26 and Summer '26)](https://jobright.ai/jobs/info/69758fa4bc8e722e7b1a59da?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Jan 24 |
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Applications - Summer 2026](https://jobright.ai/jobs/info/6976e95888e2b47213bab5eb?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Researcher Intern (Vision and Graphics)- 2026 Start (PhD)](https://jobright.ai/jobs/info/6976e994fdeb8243a279aed8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
-| ↳ | **[[Online Assessment] Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6976dfeb206da320f4a087b8?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | **[DartIQ.ai](www.dartiq.ai)** | **[Engineering Intern](https://jobright.ai/jobs/info/69757dad206da320f49f7e45?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 24 |
 | **[Virtru](https://www.virtru.com)** | **[Software Developer in Test(SDET) Intern](https://jobright.ai/jobs/info/6975648837785856350f34f4?utm_campaign=1079&utm_source=git)** | Washington, DC - Hybrid | Hybrid | Jan 24 |
 | ↳ | **[Graduate Software Developer Intern](https://jobright.ai/jobs/info/69756469bc8e722e7b1a2bfe?utm_campaign=1079&utm_source=git)** | Washington DC - Hybrid | Hybrid | Jan 24 |
