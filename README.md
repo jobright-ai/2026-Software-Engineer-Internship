@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Backend Intern](https://jobright.ai/jobs/info/69773178fdeb8243a279f791?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 26 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Backend Intern - Remote / Unpaid](https://jobright.ai/jobs/info/69774f7e88e2b47213bb23a1?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | Jan 26 |
+| ↳ | **[Python & FastAPI Developer Intern](https://jobright.ai/jobs/info/69774dab52f3c27ec6434616?utm_campaign=1079&utm_source=git)** | Washington, United States | Remote | Jan 26 |
+| **[ByteDance](http://bytedance.com)** | **[Cloud Acceleration Engineer Intern (DPU & AI Infra)- 2026 Start(PHD)](https://jobright.ai/jobs/info/6905376363502c0aded79975?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 26 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6977490f88e2b47213bb201d?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jan 26 |
+| ↳ | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/697747fa88e2b47213bb200b?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 26 |
+| **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Traffic Infrastructure Product Management)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69058504ff462851feffe29a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 26 |
+| **[MathWorks](http://www.mathworks.com)** | **[Software Engineer in Test Intern - EDG](https://jobright.ai/jobs/info/694c033c1a572a617dde4c3d?utm_campaign=1079&utm_source=git)** | Natick, MA | Hybrid | Jan 26 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - IEF - Software Engineering College Intern](https://jobright.ai/jobs/info/697730c052f3c27ec643258e?utm_campaign=1079&utm_source=git)** | Savannah, GA | On Site | Jan 26 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6977306052f3c27ec643254b?utm_campaign=1079&utm_source=git)** | USA - Sunnyvale, CA | On Site | Jan 26 |
 | ↳ | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69773057fdeb8243a279f6b7?utm_campaign=1079&utm_source=git)** | USA - Redmond, WA | On Site | Jan 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Imperative Care](http://www.imperativecare.com)** | **[Software Engineer Intern - Applications](https://jobright.ai/jobs/info/697490dd206da320f49eda35?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Software Engineering - Washington](https://jobright.ai/jobs/info/697490c3206da320f49ed9ba?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 24 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69749042bc8e722e7b19ace6?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
-| **[Imperative Care](http://www.imperativecare.com)** | **[Software Engineer Intern - Applications](https://jobright.ai/jobs/info/69747bccbc8e722e7b198cc2?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
-| ↳ | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69747882206da320f49eb657?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
-| **[University of St. Thomas](http://www.stthomas.edu)** | **[Research Intern](https://jobright.ai/jobs/info/69746f53bc8e722e7b19807a?utm_campaign=1079&utm_source=git)** | St. Paul, MN, US | On Site | Jan 23 |
-| **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Technology Internship, Brookings Technology (Job ID 2026-3809)](https://jobright.ai/jobs/info/69746d73206da320f49eac11?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
-| **[Siemens](https://www.siemens.com)** | **[Solutions Offers Internship](https://jobright.ai/jobs/info/6974524437785856350e6604?utm_campaign=1079&utm_source=git)** | Wendell, NC | On Site | Jan 23 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/6975abf437785856350f9460?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
