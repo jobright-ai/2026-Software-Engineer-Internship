@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Flock Safety](https://www.flocksafety.com)** | **[Device Software Engineering Intern](https://jobright.ai/jobs/info/697715cd52f3c27ec6431bbf?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
 | ↳ | **[Device Quality Assurance Intern](https://jobright.ai/jobs/info/6977149752f3c27ec6431ac8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 25 |
-| **[Value Aligners](Valuealigners.com)** | **[CyberSecurity Full Stack Developer Intern](https://jobright.ai/jobs/info/6976fd9488e2b47213bae703?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Jan 25 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6976ea5bfdeb8243a279b338?utm_campaign=1079&utm_source=git)** | Salem, VA | Hybrid | Jan 25 |
 | **[Mouser Electronics](http://mouser.com)** | **[Information Services Intern - Platform](https://jobright.ai/jobs/info/6976cb3b206da320f4a07ba8?utm_campaign=1079&utm_source=git)** | Mansfield, TX | On Site | Jan 25 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Software Engineer (Fall 2026)](https://jobright.ai/jobs/info/696e82ad350cf43803153921?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jan 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Solutions Offers Internship](https://jobright.ai/jobs/info/6974524437785856350e6604?utm_campaign=1079&utm_source=git)** | Wendell, NC | On Site | Jan 23 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/6975abf437785856350f9460?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Jan 23 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/69744ce9206da320f49e70f9?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Jan 23 |
+| **[Gesture](https://gesture.vip)** | **[Full Stack & AI Engineering Intern](https://jobright.ai/jobs/info/69744ba337785856350e48ed?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
