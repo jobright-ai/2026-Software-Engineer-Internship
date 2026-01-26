@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Cloud Engineer](https://jobright.ai/jobs/info/69229db37795cd460c8366c4?utm_campaign=1079&utm_source=git)** | Irving, TX | Hybrid | Jan 26 |
+| **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Software Engineering](https://jobright.ai/jobs/info/693ff81550bbaf7650520e86?utm_campaign=1079&utm_source=git)** | Brookfield, WI | Hybrid | Jan 26 |
 | **[Veranex](https://www.veranexsolutions.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/691d61febcdbf3560c9f063d?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 26 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[WSP IT Intern, Berkeley Heights Office (2026 Summer)](https://jobright.ai/jobs/info/6947a16f63141d188457570d?utm_campaign=1079&utm_source=git)** | Berkeley Heights, NJ | On Site | Jan 26 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Fall 2026)](https://jobright.ai/jobs/info/68b406d0bc187f64e1be2e4b?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Jan 26 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Tektronix](http://www.tek.com)** | **[Services Business Systems Intern (Summer 2006)](https://jobright.ai/jobs/info/68e9859165768b6412b1d0ce?utm_campaign=1079&utm_source=git)** | Beaverton, OR | Hybrid | Jan 26 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[WSP IT Intern, Chicago Office (2026 Summer)](https://jobright.ai/jobs/info/6947abbf63141d188457615c?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Backend Intern - Remote / Unpaid](https://jobright.ai/jobs/info/69774f7e88e2b47213bb23a1?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | Jan 26 |
-| ↳ | **[Python & FastAPI Developer Intern](https://jobright.ai/jobs/info/69774dab52f3c27ec6434616?utm_campaign=1079&utm_source=git)** | Washington, United States | Remote | Jan 26 |
 | **[ByteDance](http://bytedance.com)** | **[Cloud Acceleration Engineer Intern (DPU & AI Infra)- 2026 Start(PHD)](https://jobright.ai/jobs/info/6905376363502c0aded79975?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 26 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6977490f88e2b47213bb201d?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jan 26 |
 | ↳ | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/697747fa88e2b47213bb200b?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 26 |
@@ -114,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[DartIQ.ai](www.dartiq.ai)** | **[Engineering Intern](https://jobright.ai/jobs/info/69757dad206da320f49f7e45?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 24 |
 | **[Virtru](https://www.virtru.com)** | **[Software Developer in Test(SDET) Intern](https://jobright.ai/jobs/info/6975648837785856350f34f4?utm_campaign=1079&utm_source=git)** | Washington, DC - Hybrid | Hybrid | Jan 24 |
 | ↳ | **[Graduate Software Developer Intern](https://jobright.ai/jobs/info/69756469bc8e722e7b1a2bfe?utm_campaign=1079&utm_source=git)** | Washington DC - Hybrid | Hybrid | Jan 24 |
-| **[Flock Safety](https://www.flocksafety.com)** | **[Device Software Engineering Intern](https://jobright.ai/jobs/info/697681ed206da320f4a05247?utm_campaign=1079&utm_source=git)** | Remote - USA | Remote | Jan 24 |
-| ↳ | **[Device Quality Assurance Intern](https://jobright.ai/jobs/info/69768195bc8e722e7b1b1faa?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
+| **[Flock Safety](https://www.flocksafety.com)** | **[Device Quality Assurance Intern](https://jobright.ai/jobs/info/69768195bc8e722e7b1b1faa?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
+| ↳ | **[Device Software Engineering Intern](https://jobright.ai/jobs/info/697681ed206da320f4a05247?utm_campaign=1079&utm_source=git)** | Remote - USA | Remote | Jan 24 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Infotainment Engineering Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/697554e1206da320f49f5a50?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
 | **[Dark Wolf](https://darkwolfsolutions.com/)** | **[UF College Fair - Internship](https://jobright.ai/jobs/info/697525f8bc8e722e7b1a0b2c?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 24 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Design Assurance Engineering Intern](https://jobright.ai/jobs/info/6975249b206da320f49f38f6?utm_campaign=1079&utm_source=git)** | Maple Grove, MN | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Information Services Quality Assurance Internship Summer 2026](https://jobright.ai/jobs/info/68ce6d13846f0b04af679c99?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Jan 24 |
 | **[Garner Health](https://www.getgarner.com/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/68e69823ae2b894b1d71ba15?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Tech Art](https://jobright.ai/jobs/info/68e6b022e8daec61499ad6bb?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
-| **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/691f956409cc522e87743532?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
