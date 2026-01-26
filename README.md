@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oxmaint AI : EAM/CMMS](https://www.oxmaint.com/)** | **[Software Engineer Intern (Nvidia GPU Training)](https://jobright.ai/jobs/info/6976b3b7206da320f4a05947?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Mouser Electronics](http://mouser.com)** | **[Information Services Intern - Platform](https://jobright.ai/jobs/info/69769bf7206da320f4a0551f?utm_campaign=1079&utm_source=git)** | Mansfield, TX, United States | On Site | Jan 25 |
 | **[Find Me](https://fyndme.co)** | **[Flutter Application Developer (Android & iOS) – Unpaid Internship](https://jobright.ai/jobs/info/69768d03206da320f4a053d3?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 25 |
 | **[Acima](https://www.acima.com/)** | **[Acima Software Engineering Intern](https://jobright.ai/jobs/info/697680d1bc8e722e7b1b1f60?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Jan 25 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Sorn AI](https://sorn.ai)** | **[Software Engineer Internship (Remote)](https://jobright.ai/jobs/info/6974fad3206da320f49f2c5d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Stagiaire en développement logiciel / Software Development Intern](https://jobright.ai/jobs/info/6974e768206da320f49f0fba?utm_campaign=1079&utm_source=git)** | Brossard, Quebec, Canada | Hybrid | Jan 24 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
-| **[ABB](https://global.abb/group/en)** | **[FP Internship: Web development](https://jobright.ai/jobs/info/6974e599206da320f49f0f33?utm_campaign=1079&utm_source=git)** | Location, WV | Hybrid | Jan 24 |
 | **[GitHub](https://github.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697470a8bc8e722e7b1982ee?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health QA Engineer Intern 2026](https://jobright.ai/jobs/info/693c8c2950bbaf76504fc2d4?utm_campaign=1079&utm_source=git)** | Jupiter, FL | On Site | Jan 24 |
 | **[Kiewit](http://www.kiewit.com)** | **[Integrative Engineer Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/695870a09f1b381eb2715e71?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Jan 24 |
@@ -147,7 +147,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69747882206da320f49eb657?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Research Intern](https://jobright.ai/jobs/info/69746f53bc8e722e7b19807a?utm_campaign=1079&utm_source=git)** | St. Paul, MN, US | On Site | Jan 23 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Technology Internship, Brookings Technology (Job ID 2026-3809)](https://jobright.ai/jobs/info/69746d73206da320f49eac11?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
-| **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[IT Solutions Internship](https://jobright.ai/jobs/info/6975b6cb37785856350f9b82?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Jan 23 |
 | **[Siemens](https://www.siemens.com)** | **[Solutions Offers Internship](https://jobright.ai/jobs/info/6974524437785856350e6604?utm_campaign=1079&utm_source=git)** | Wendell, NC | On Site | Jan 23 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/6975abf437785856350f9460?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Jan 23 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/69744ce9206da320f49e70f9?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Jan 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69744275bc8e722e7b193b3c?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 23 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Test Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69759834206da320f49f8d40?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 23 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[2026 JMP Summer Intern; Advanced Analytics Testing](https://jobright.ai/jobs/info/697440fbbc8e722e7b193a54?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Jan 23 |
+| **[WEX](http://www.wexinc.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/6974409537785856350e39b0?utm_campaign=1079&utm_source=git)** | Maine, United States | Remote | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
