@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Value Aligners](Valuealigners.com)** | **[CyberSecurity Full Stack Developer Intern](https://jobright.ai/jobs/info/6976fd9488e2b47213bae703?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Jan 25 |
+| **[GenPark](https://genpark.ai)** | **[Front end intern](https://jobright.ai/jobs/info/6976f97a52f3c27ec64306f2?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Jan 25 |
 | **[CENENCE](https://www.linkedin.com/company/105336376)** | **[Web Developer / Coder Student Internship (College Credit)](https://jobright.ai/jobs/info/6976eb8d88e2b47213babbb7?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jan 25 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6976ea5bfdeb8243a279b338?utm_campaign=1079&utm_source=git)** | Salem, VA | Hybrid | Jan 25 |
 | **[Mouser Electronics](http://mouser.com)** | **[Information Services Intern - Platform](https://jobright.ai/jobs/info/6976cb3b206da320f4a07ba8?utm_campaign=1079&utm_source=git)** | Mansfield, TX | On Site | Jan 25 |
@@ -84,13 +86,14 @@ For a complete list, click the following sortable link below:
 | **[Virtru](https://www.virtru.com)** | **[Graduate Software Developer Intern](https://jobright.ai/jobs/info/6975a8fcbc8e722e7b1a891f?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 | ↳ | **[Software Developer in Test(SDET) Intern](https://jobright.ai/jobs/info/6975a7ad37785856350f908d?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 | **[AlteraSF](www.alterasf.com)** | **[Software Engineer Intern (Remote)](https://jobright.ai/jobs/info/6975a77c206da320f49fb584?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern (TikTok-PGC-UCP) - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/6976fbfdfdeb8243a279da7b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
+| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Vehicle Controls - Summer 2026](https://jobright.ai/jobs/info/6976f84388e2b47213badf30?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
 | **[Clarity](https://clarityapp.io)** | **[Internship - Software Engineering Intern](https://jobright.ai/jobs/info/687674c0ae2f413e4a5afd36?utm_campaign=1079&utm_source=git)** | Herndon, VA | Remote | Jan 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Researcher Intern (Intelligent Creation-Vision and Graphics)- 2026 Start (PhD)](https://jobright.ai/jobs/info/6976e9bb52f3c27ec642dc5f?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | **[Silicon Valley Consulting](https://siliconvalleyconsulting.io)** | **[AI-Enabled Software Engineer Intern (Spring '26 and Summer '26)](https://jobright.ai/jobs/info/69758fa4bc8e722e7b1a59da?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Jan 24 |
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Applications - Summer 2026](https://jobright.ai/jobs/info/6976e95888e2b47213bab5eb?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Researcher Intern (Vision and Graphics)- 2026 Start (PhD)](https://jobright.ai/jobs/info/6976e994fdeb8243a279aed8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
-| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Embedded Platforms - Summer 2026](https://jobright.ai/jobs/info/6976dfa9bc8e722e7b1b536f?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
-| **[TikTok](https://www.tiktok.com)** | **[[Online Assessment] Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6976dfeb206da320f4a087b8?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
+| ↳ | **[[Online Assessment] Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6976dfeb206da320f4a087b8?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | **[DartIQ.ai](www.dartiq.ai)** | **[Engineering Intern](https://jobright.ai/jobs/info/69757dad206da320f49f7e45?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 24 |
 | **[Virtru](https://www.virtru.com)** | **[Software Developer in Test(SDET) Intern](https://jobright.ai/jobs/info/6975648837785856350f34f4?utm_campaign=1079&utm_source=git)** | Washington, DC - Hybrid | Hybrid | Jan 24 |
 | ↳ | **[Graduate Software Developer Intern](https://jobright.ai/jobs/info/69756469bc8e722e7b1a2bfe?utm_campaign=1079&utm_source=git)** | Washington DC - Hybrid | Hybrid | Jan 24 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69747882206da320f49eb657?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Research Intern](https://jobright.ai/jobs/info/69746f53bc8e722e7b19807a?utm_campaign=1079&utm_source=git)** | St. Paul, MN, US | On Site | Jan 23 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Technology Internship, Brookings Technology (Job ID 2026-3809)](https://jobright.ai/jobs/info/69746d73206da320f49eac11?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
-| **[Siemens](https://www.siemens.com)** | **[Solutions Offers Internship](https://jobright.ai/jobs/info/6974524437785856350e6604?utm_campaign=1079&utm_source=git)** | Wendell, NC | On Site | Jan 23 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/6975abf437785856350f9460?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Jan 23 |
-| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/69744ce9206da320f49e70f9?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Jan 23 |
-| **[Gesture](https://gesture.vip)** | **[Full Stack & AI Engineering Intern](https://jobright.ai/jobs/info/69744ba337785856350e48ed?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jan 23 |
+| **[Terranova](https://www.terranova.inc/)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/6976fbfdfdeb8243a279da79?utm_campaign=1079&utm_source=git)** | Berkeley, CA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
