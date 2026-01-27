@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/6978d9f939f7f96cc6d1351b?utm_campaign=1079&utm_source=git)** | Overland Park, KS | On Site | Jan 27 |
+| **[Publix Super Markets](https://www.publix.com/)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/6978d5e088e2b47213bcf261?utm_campaign=1079&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| ↳ | **[Intern - Asset Protection & Data Systems](https://jobright.ai/jobs/info/6978d3af88e2b47213bcf0d4?utm_campaign=1079&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| ↳ | **[Intern – Industrial Operations Software Engineer](https://jobright.ai/jobs/info/6978d15d39f7f96cc6d13008?utm_campaign=1079&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[Business Systems Quality Assurance Intern (IT) (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bfe5a22c9dc0d3d53e216?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | **[Lillup](https://www.lillup.com/)** | **[iOS Developer Internship (Remote, Unpaid)](https://jobright.ai/jobs/info/6978c8dd88e2b47213bce9a0?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Payments Technology Intern](https://jobright.ai/jobs/info/6978c54952f3c27ec645116e?utm_campaign=1079&utm_source=git)** | Quincy, MA | On Site | Jan 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[Software Engineer in Test Intern - Summer 2026](https://jobright.ai/jobs/info/697804bdfdeb8243a27b0384?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 | **[Platform Aerospace](https://platformaerospace.com/)** | **[SOFTWARE ENGINEERING INTERN with Security Clearance](https://jobright.ai/jobs/info/6978ca4b52f3c27ec6451456?utm_campaign=1079&utm_source=git)** | Hollywood, MD | On Site | Jan 26 |
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[Software Engineer Intern, FCM - Summer 2026](https://jobright.ai/jobs/info/6978044288e2b47213bc0e3c?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
-| **[Hunter Agriculture](https://senninger.com)** | **[Intern - Enterprise Applications Operations Analyst](https://jobright.ai/jobs/info/69782d7652f3c27ec6445bd5?utm_campaign=1079&utm_source=git)** | San Marcos, California, United States | On Site | Jan 26 |
-| **[QTC Management, Inc.](http://www.qtcm.com)** | **[Intern II (Quality Assurance)](https://jobright.ai/jobs/info/69781fff88e2b47213bc1fdd?utm_campaign=1079&utm_source=git)** | New City, New York, United States | Remote | Jan 26 |
-| **[RefinedScience](https://www.refinedscience.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/697826f8fdeb8243a27b1be4?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 26 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Applications Engineering (Summer 2026)](https://jobright.ai/jobs/info/69782991fdeb8243a27b1eb8?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
