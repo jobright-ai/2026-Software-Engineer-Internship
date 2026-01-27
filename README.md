@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/6978d9f939f7f96cc6d1351b?utm_campaign=1079&utm_source=git)** | Overland Park, KS | On Site | Jan 27 |
+| **[Solidigm](https://www.solidigmtechnology.com)** | **[Software/Firmware Engineer Graduate Intern](https://jobright.ai/jobs/info/6978e50d88e2b47213bcf9a3?utm_campaign=1079&utm_source=git)** | Rancho Cordova, CA | On Site | Jan 27 |
+| **[Nokia](http://www.nokia.com)** | **[Cloud & Portfolio Incubation Intern](https://jobright.ai/jobs/info/695d2511f1f8465b79f34e6b?utm_campaign=1079&utm_source=git)** | Naperville, IL | On Site | Jan 27 |
+| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/6978e36b52f3c27ec64522a7?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 27 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/6978e19052f3c27ec64521ab?utm_campaign=1079&utm_source=git)** | Frisco, TX | On Site | Jan 27 |
+| ↳ | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/6978d9f939f7f96cc6d1351b?utm_campaign=1079&utm_source=git)** | Overland Park, KS | On Site | Jan 27 |
 | **[Publix Super Markets](https://www.publix.com/)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/6978d5e088e2b47213bcf261?utm_campaign=1079&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | ↳ | **[Intern - Asset Protection & Data Systems](https://jobright.ai/jobs/info/6978d3af88e2b47213bcf0d4?utm_campaign=1079&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | ↳ | **[Intern – Industrial Operations Software Engineer](https://jobright.ai/jobs/info/6978d15d39f7f96cc6d13008?utm_campaign=1079&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
@@ -69,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6923f5d638cd5478a8d5841b?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jan 27 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - ETD Software Engineer](https://jobright.ai/jobs/info/6978bbac39f7f96cc6d1242d?utm_campaign=1079&utm_source=git)** | Boise, ID | On Site | Jan 27 |
 | **[ASML](https://www.asml.com)** | **[Internship - Software Quality Assurance](https://jobright.ai/jobs/info/6940ad77aa598a08c3f04edf?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 27 |
+| **[Sallie Mae](https://www.salliemae.com)** | **[Software Engineering Intern - Full Stack](https://jobright.ai/jobs/info/6978e41539f7f96cc6d13a70?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 27 |
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/6939ee0c56b68f3dc4e73e1e?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Jan 27 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Intern Opportunities for University Students, Redmond](https://jobright.ai/jobs/info/69400bfd50bbaf7650522aa8?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 27 |
 | **[metalenz](https://www.metalenz.com/)** | **[Camera Software Intern](https://jobright.ai/jobs/info/6942482c14ee092a69008f59?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Jan 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[Web Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6978088bfdeb8243a27b0551?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 | **[TSMC Washington](http://www.wafertech.com)** | **[2026 Summer Intern - IT Corporate Information Systems](https://jobright.ai/jobs/info/6978501752f3c27ec644a942?utm_campaign=1079&utm_source=git)** | Camas, WA | On Site | Jan 26 |
 | **[Platform Aerospace](https://platformaerospace.com/)** | **[SOFTWARE ENGINEERING INTERN](https://jobright.ai/jobs/info/6978281d52f3c27ec6445588?utm_campaign=1079&utm_source=git)** | Hollywood, MD, US | On Site | Jan 26 |
-| **[Garda Capital Partners](https://www.gardacp.com/)** | **[Software Engineer Intern (Python)](https://jobright.ai/jobs/info/697829a4fdeb8243a27b1ec2?utm_campaign=1079&utm_source=git)** | Wayzata, MN | On Site | Jan 26 |
-| **[Texas Instruments](http://www.ti.com)** | **[Smart Manufacturing and Automation Software Engineering Intern (Lehi, UT)](https://jobright.ai/jobs/info/697823a652f3c27ec6445025?utm_campaign=1079&utm_source=git)** | 4000 Flash Drive, Lehi, UT, 84043, US | On Site | Jan 26 |
-| **[NinjaTrader](http://www.ninjatrader.com)** | **[Software Engineer in Test Intern - Summer 2026](https://jobright.ai/jobs/info/697804bdfdeb8243a27b0384?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
-| **[Platform Aerospace](https://platformaerospace.com/)** | **[SOFTWARE ENGINEERING INTERN with Security Clearance](https://jobright.ai/jobs/info/6978ca4b52f3c27ec6451456?utm_campaign=1079&utm_source=git)** | Hollywood, MD | On Site | Jan 26 |
-| **[NinjaTrader](http://www.ninjatrader.com)** | **[Software Engineer Intern, FCM - Summer 2026](https://jobright.ai/jobs/info/6978044288e2b47213bc0e3c?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
