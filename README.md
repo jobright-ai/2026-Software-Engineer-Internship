@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/697911b288e2b47213bd2d81?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 27 |
+| **[Battelle](http://www.battelle.org)** | **[Medical Devices Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69791b5652f3c27ec645606f?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Jan 27 |
+| **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69791b2d39f7f96cc6d1782a?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
+| **[Blackline Safety](https://www.blacklinesafety.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69791aa839f7f96cc6d1778c?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jan 27 |
+| **[GenPark](https://genpark.ai)** | **[Full Stack developer intern](https://jobright.ai/jobs/info/697918af52f3c27ec6455d21?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 27 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/6971c15f51f7264771843664?utm_campaign=1079&utm_source=git)** | Goodfield, IL | On Site | Jan 27 |
+| ↳ | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/697068d7587dfa0bb55e0ba6?utm_campaign=1079&utm_source=git)** | Burr Ridge, IL | On Site | Jan 27 |
 | **[AskBio Inc.](http://www.askbio.com/)** | **[Intern- IT, AI Team, Business Process and Change Management](https://jobright.ai/jobs/info/69790bd839f7f96cc6d1670b?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Jan 27 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern-Embedded Software Engineering-Murrysville, PA-Summer 2026](https://jobright.ai/jobs/info/69790b9f52f3c27ec64553f0?utm_campaign=1079&utm_source=git)** | Murrysville, Pennsylvania, United States | On Site | Jan 27 |
 | **[Mechvanta Engineering](mechvantaengineering.us)** | **[Firmware Test Engineering Intern](https://jobright.ai/jobs/info/69790b2188e2b47213bd266d?utm_campaign=1079&utm_source=git)** | Massachusetts, United States | Remote | Jan 27 |
@@ -69,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Momentive](https://www.momentive.com/)** | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/6969be951703f05405abbba8?utm_campaign=1079&utm_source=git)** | Niskayuna, NY | On Site | Jan 27 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Manufacturing Software Engineering Intern](https://jobright.ai/jobs/info/69405e4caa598a08c3f000d5?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jan 27 |
 | **[Nokia](http://www.nokia.com)** | **[Software Engineer Co-op/Intern](https://jobright.ai/jobs/info/696bc43b5fc86241853b1da3?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Jan 27 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Software Engineer](https://jobright.ai/jobs/info/69791d4039f7f96cc6d17af9?utm_campaign=1079&utm_source=git)** | Draper, UT | Remote | Jan 27 |
 | **[Expeditors](http://www.expeditors.com)** | **[Intern (Developer) - GT Connected Systems and Infrastructure](https://jobright.ai/jobs/info/6978fdab88e2b47213bd0894?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 27 |
 | **[homehudl](www.homehudl.com)** | **[Frontend Developer](https://jobright.ai/jobs/info/6978fcb652f3c27ec645495e?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Paradigm Life](http://paradigmlife.net)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6978fa1039f7f96cc6d14e0c?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | Remote | Jan 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Quality Assurance](https://jobright.ai/jobs/info/6978244a88e2b47213bc24bb?utm_campaign=1079&utm_source=git)** | Southington, CT | On Site | Jan 26 |
 | **[Bold Orange](https://boldorange.com/)** | **[Technology Intern](https://jobright.ai/jobs/info/6978345839f7f96cc6d07d8d?utm_campaign=1079&utm_source=git)** | Greater Indianapolis | On Site | Jan 26 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer Intern - Oracle Health and Analytics](https://jobright.ai/jobs/info/696dd5b7db26b6189510cbb2?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 26 |
-| **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Software/Test/Systems Engineering Intern- Summer 2026 - ATAS - Hill AFB, UT](https://jobright.ai/jobs/info/69782d1152f3c27ec6445b54?utm_campaign=1079&utm_source=git)** | Georgia, United States | On Site | Jan 26 |
-| **[DRW](http://drw.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/695c3fbbf1f8465b79f24817?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 26 |
-| **[Jean Coutu](http://www.jeancoutu.com)** | **[Quality Assurance Intern / Étudiant­·e assurance qualité](https://jobright.ai/jobs/info/6978473688e2b47213bc5c60?utm_campaign=1079&utm_source=git)** | Laval, Quebec, Canada | On Site | Jan 26 |
-| **[Bear Robotics](https://bearrobotics.ai)** | **[Software Engineering Summer Internship, Strategic Integrations](https://jobright.ai/jobs/info/697821a0fdeb8243a27b15c4?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Jan 26 |
-| **[Crowe](https://www.crowe.com/)** | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/695c4bc9f1f8465b79f262fd?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
-| **[Octasic](http://www.octasic.com/)** | **[Software Tools Developer Intern](https://jobright.ai/jobs/info/6978400152f3c27ec6447c28?utm_campaign=1079&utm_source=git)** | Montréal-Est, Quebec, Canada | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
