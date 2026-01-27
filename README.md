@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Fullstack Development Intern / Remote / Unpaid](https://jobright.ai/jobs/info/6978a34d88e2b47213bcc5ab?utm_campaign=1079&utm_source=git)** | Boston, MA | Remote | Jan 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDW Computer Science / Computer Engineering Interns, Fall 2026](https://jobright.ai/jobs/info/6978b16e88e2b47213bcc8c0?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 27 |
+| **[Skydio](https://www.skydio.com)** | **[Cloud Software Engineer Intern](https://jobright.ai/jobs/info/6940a43250bbaf765052ae04?utm_campaign=1079&utm_source=git)** | San Mateo, CA | Hybrid | Jan 27 |
+| **[Corsair](http://www.corsair.com)** | **[Web Producer and QA Intern](https://jobright.ai/jobs/info/69406ff4aa598a08c3f00e4a?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| **[Skydio](https://www.skydio.com)** | **[Wireless Software Engineer Intern](https://jobright.ai/jobs/info/6940aada49a7695fbd063169?utm_campaign=1079&utm_source=git)** | San Mateo, CA | Hybrid | Jan 27 |
+| **[Copart](http://www.copart.com)** | **[Data & AI QA Intern](https://jobright.ai/jobs/info/6978ae9c52f3c27ec644f178?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jan 27 |
+| **[Skydio](https://www.skydio.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/6940b55daa598a08c3f053b9?utm_campaign=1079&utm_source=git)** | San Mateo, CA | Hybrid | Jan 27 |
+| **[Walt Disney World](https://disneyworld.disney.go.com)** | **[WDW Computer Science / Computer Engineering Interns, Fall 2026](https://jobright.ai/jobs/info/6978accc52f3c27ec644f106?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 27 |
+| **[Ramp](https://ramp.com)** | **[Software Engineer Internship, Android](https://jobright.ai/jobs/info/68cc0cd5128dc347fd91e2a0?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 27 |
+| **[Affirm](https://www.affirm.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69250e16ec574f4265bbb12d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 27 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6906ceb563502c0aded83292?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Jan 27 |
+| **[Nokia Bell Labs](https://www.bell-labs.com/prize)** | **[Bell Labs AI-RAN Research Intern](https://jobright.ai/jobs/info/6940cee7aa598a08c3f06bb5?utm_campaign=1079&utm_source=git)** | New Providence, NJ | On Site | Jan 27 |
+| **[GenPark](https://genpark.ai)** | **[Junior Software Engineer Intern](https://jobright.ai/jobs/info/6978a42c88e2b47213bcc5c7?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[Release Management Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bfbfff1f8465b79f209e4?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | **[ByteDance](http://bytedance.com)** | **[Infrastructure Engineer Intern (Compute Infrastructure - Cloud-Native ) - 2026 Start (PHD)](https://jobright.ai/jobs/info/68ceff8c846f0b04af67e5d6?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 27 |
 | **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69088aadbcccf20de59d13db?utm_campaign=1079&utm_source=git)** | Bartlesville, OK | Hybrid | Jan 27 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Fusion](https://www.pacificfusion.com)** | **[Summer 2026 Internship - Software Engineering](https://jobright.ai/jobs/info/696ad36d5fc862418539f74d?utm_campaign=1079&utm_source=git)** | San Leandro, CA | On Site | Jan 26 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/6977f203fdeb8243a27aefe7?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
 | ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/6977f16e88e2b47213bbf8b7?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD | On Site | Jan 26 |
-| ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/6977f15b52f3c27ec6442358?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jan 26 |
-| ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/6977eefb52f3c27ec6441fb9?utm_campaign=1079&utm_source=git)** | Rome, NY | On Site | Jan 26 |
-| **[MITRE](http://www.mitre.org)** | **[Software Engineering Intern - Orlando, Fl](https://jobright.ai/jobs/info/697819b552f3c27ec644461c?utm_campaign=1079&utm_source=git)** | Orlando, FL | Hybrid | Jan 26 |
-| ↳ | **[Software Systems Engineering Intern--Omaha, NE](https://jobright.ai/jobs/info/69780beefdeb8243a27b06cc?utm_campaign=1079&utm_source=git)** | Bellevue, NE | On Site | Jan 26 |
-| **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/6977ee4188e2b47213bbf1af?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Jan 26 |
-| **[BambooHR](http://www.BambooHR.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/697815acfdeb8243a27b0b65?utm_campaign=1079&utm_source=git)** | Draper, UT | Hybrid | Jan 26 |
-| **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/6977ed09fdeb8243a27ae4c7?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Jan 26 |
-| ↳ | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/6977ec78fdeb8243a27ae36f?utm_campaign=1079&utm_source=git)** | Honolulu, HI | On Site | Jan 26 |
-| **[Fortinet](http://www.fortinet.com)** | **[Software Development Intern - GenAI](https://jobright.ai/jobs/info/6977e7bd88e2b47213bbe5f6?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 26 |
-| **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, 2026 Summer Games Software Developer Intern](https://jobright.ai/jobs/info/6977e4c352f3c27ec6440da8?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Jan 26 |
-| **[Businessolver](https://www.businessolver.com)** | **[Software Engineering Internship (ISU) - Java (Work-from-Home)](https://jobright.ai/jobs/info/6977e0ee88e2b47213bbde81?utm_campaign=1079&utm_source=git)** | Work Remotely | Remote | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
