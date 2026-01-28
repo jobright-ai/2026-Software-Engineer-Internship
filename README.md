@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ST Engineering iDirect](http://www.idirect.net)** | **[Engineering Intern-Test Automation](https://jobright.ai/jobs/info/69796ff90791bc1d723018a3?utm_campaign=1079&utm_source=git)** | Herndon, VA, US | On Site | Jan 27 |
+| **[FieldAI](https://www.fieldai.com)** | **[Software Engineer, Validation & Verification, Intern (Summer 2026)](https://jobright.ai/jobs/info/69796a5188e2b47213bdb37a?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jan 27 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Software Development Engineer Intern 2026](https://jobright.ai/jobs/info/6979697188e2b47213bdb29e?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Jan 27 |
+| **[ASML](https://www.asml.com)** | **[Internship - Software Bench Top  Engineer (Summer 2026)](https://jobright.ai/jobs/info/697968e288e2b47213bdb205?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jan 27 |
+| **[Calix](http://www.calix.com)** | **[Software Engineering Intern, PON](https://jobright.ai/jobs/info/6979663c39f7f96cc6d1ef76?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Jan 27 |
 | **[AEVEX](https://www.aevex.com/)** | **[Software Engineering Internship](https://jobright.ai/jobs/info/697964c439f7f96cc6d1ee56?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Jan 27 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Technology Summer Internship Program](https://jobright.ai/jobs/info/695a07309f1b381eb272b1da?utm_campaign=1079&utm_source=git)** | Pontiac, MI | On Site | Jan 27 |
 | **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697960be39f7f96cc6d1eb0e?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 27 |
@@ -68,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Brinks Home](https://brinkshome.com/)** | **[Test Analyst Intern](https://jobright.ai/jobs/info/6979559052f3c27ec645b8d7?utm_campaign=1079&utm_source=git)** | Farmers Branch, TX | Hybrid | Jan 27 |
 | **[KLA](https://www.kla.com)** | **[Full Stack Software Intern](https://jobright.ai/jobs/info/697953b388e2b47213bd898d?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | **[Velera](https://www.velera.com)** | **[Enterprise Architect Intern - REMOTE](https://jobright.ai/jobs/info/6979524239f7f96cc6d1c9fb?utm_campaign=1079&utm_source=git)** | Remote-USA | Remote | Jan 27 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern -Embedded Test Engineer - Murrysville, PA-May - August 2026](https://jobright.ai/jobs/info/69796e5b9c90a224ecc326f5?utm_campaign=1079&utm_source=git)** | Murrysville, PA | On Site | Jan 27 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MS/PhD, Software Engineer, Simulation](https://jobright.ai/jobs/info/69794f0552f3c27ec645b13a?utm_campaign=1079&utm_source=git)** | Mountain View, CA, USA | Hybrid | Jan 27 |
 | **[Nokia](http://www.nokia.com)** | **[Software Dev Intern](https://jobright.ai/jobs/info/695d2456f1f8465b79f34df3?utm_campaign=1079&utm_source=git)** | Naperville, IL | Hybrid | Jan 27 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Engineering (Applications)](https://jobright.ai/jobs/info/69794c2752f3c27ec645addc?utm_campaign=1079&utm_source=git)** | Roseville, CA | On Site | Jan 27 |
@@ -82,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[High School Intern (AZ) - IT (US Persons)](https://jobright.ai/jobs/info/695d7c38f5f3c43f38e24969?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Jan 27 |
 | **[iCapital](https://icapital.com)** | **[Quality Assurance - Summer 2026 Intern](https://jobright.ai/jobs/info/695d7f76f5f3c43f38e24ed4?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Web Tools](https://jobright.ai/jobs/info/6979442839f7f96cc6d1bb91?utm_campaign=1079&utm_source=git)** | Novi, MI | On Site | Jan 27 |
-| **[Geopogo](https://www.geopogo.com)** | **[Unreal Engine 5 Development Intern](https://jobright.ai/jobs/info/697943db88e2b47213bd7ad8?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Jan 27 |
 | **[Haven Studios Inc](https://www.havenstudios.com/en)** | **[Gameplay Programmer Intern](https://jobright.ai/jobs/info/6979438852f3c27ec645a173?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal | On Site | Jan 27 |
 | **[Ascension](https://www.ascensionpress.com)** | **[Technology Intern](https://jobright.ai/jobs/info/6979430b88e2b47213bd78c0?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Technology Platform Intern](https://jobright.ai/jobs/info/6979430452f3c27ec6459ff7?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | Jan 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Paradigm Life](http://paradigmlife.net)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6978fa1039f7f96cc6d14e0c?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | Remote | Jan 27 |
 | **[Criteo](http://www.criteo.com)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/6978f99852f3c27ec6454267?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 27 |
 | ↳ | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/6978f88388e2b47213bd0566?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 27 |
-| **[Phillips Edison & Company](http://phillipsedison.com)** | **[Information Technology Intern (Fall 2026 - Software Development)](https://jobright.ai/jobs/info/6978f35688e2b47213bd01b7?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Jan 27 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern – Software Engineering, Architecture & Requirements](https://jobright.ai/jobs/info/69790bd952f3c27ec6455425?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | Hybrid | Jan 27 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Technology Assurance Intern / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6978eec139f7f96cc6d141fe?utm_campaign=1079&utm_source=git)** | Omaha, NE | Hybrid | Jan 27 |
-| ↳ | **[Technology Assurance Intern / Multiple Locations Summer 2027](https://jobright.ai/jobs/info/6978eb8088e2b47213bcfcc0?utm_campaign=1079&utm_source=git)** | South Santa Clara Valley, CA | Hybrid | Jan 27 |
-| **[Nokia](http://www.nokia.com)** | **[Software Dev/AI Tools - Co-op/Intern](https://jobright.ai/jobs/info/69790c6b52f3c27ec645548e?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
