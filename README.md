@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Embedded Software Engineer Intern (Audio Products)](https://jobright.ai/jobs/info/695de225924bd9135dd47724?utm_campaign=1079&utm_source=git)** | Portland, OR | On Site | Jan 27 |
+| **[RTX](http://www.raytheon.com)** | **[Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/6979be580791bc1d723086c4?utm_campaign=1079&utm_source=git)** | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | On Site | Jan 27 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/695de870821f2713684b0b70?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 27 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Software Application Developer Intern for GOES-R Series Satellites](https://jobright.ai/jobs/info/6979a925d7df290257fc1db9?utm_campaign=1079&utm_source=git)** | Houston, TX | Hybrid | Jan 27 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Year-Round - AI For Autonomy, Hybrid](https://jobright.ai/jobs/info/695d3e16fbd62a0a6565c730?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Al Warren Oil](https://www.alwarrenoil.com)** | **[Software Developer - Summer Internship 2026](https://jobright.ai/jobs/info/697946de88e2b47213bd7d67?utm_campaign=1079&utm_source=git)** | Bensenville, IL | On Site | Jan 27 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Intern - Manufacturing Software Engineer](https://jobright.ai/jobs/info/69793e6a52f3c27ec64594c9?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Jan 27 |
 | **[Jean Coutu](http://www.jeancoutu.com)** | **[Quality Assurance Intern / Étudiant­·e assurance qualité](https://jobright.ai/jobs/info/69794cad39f7f96cc6d1c498?utm_campaign=1079&utm_source=git)** | Laval, Quebec, Canada | On Site | Jan 27 |
-| **[Starkey Hearing](https://www.starkey.com/)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69793db988e2b47213bd6b8d?utm_campaign=1079&utm_source=git)** | Eden Prairie, MN | On Site | Jan 27 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[Financial Systems Integration Intern Spring 2026](https://jobright.ai/jobs/info/69793dee88e2b47213bd6c3b?utm_campaign=1079&utm_source=git)** | US - Remote (Any Location) | Remote | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
