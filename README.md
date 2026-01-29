@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Teradyne](http://www.teradyne.com)** | **[Intern - Technical](https://jobright.ai/jobs/info/697ac236f6fc293b0a2cbcf2?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Jan 28 |
+| **[Whisker](https://www.litter-robot.com/)** | **[Mobile Software Engineering Intern](https://jobright.ai/jobs/info/695ed6d10badca5763af4d78?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Jan 28 |
+| **[Emergence AI](https://www.emergence.ai)** | **[Summer Research Internship](https://jobright.ai/jobs/info/697abe908dbbf73badc80e71?utm_campaign=1079&utm_source=git)** | Remote Worker - N/A | Remote | Jan 28 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - IT Software Engineer](https://jobright.ai/jobs/info/695f0de5a1bbea1d9a79dd69?utm_campaign=1079&utm_source=git)** | Boise, ID | On Site | Jan 28 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Software Engineer (Summer)](https://jobright.ai/jobs/info/697ab492f6fc293b0a2ca7ab?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Jan 28 |
 | **[Treevah](https://filterfolder.com/)** | **[Software Engineering Intern — Spring/Summer (Remote, Unpaid)](https://jobright.ai/jobs/info/697ab1b19d60e431a16c509d?utm_campaign=1079&utm_source=git)** | Chicago, IL | Remote | Jan 28 |
 | **[Cadence](https://www.cadence.com)** | **[Intern-Backend Developer](https://jobright.ai/jobs/info/697aa9ec8dbbf73badc7e9ee?utm_campaign=1079&utm_source=git)** | SANTA FE 01 | On Site | Jan 28 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Software Developer (Innovation) Summer Intern](https://jobright.ai/jobs/info/697aa8e99d60e431a16c4228?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Jan 28 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Software Developer Intern (Risk Innovation)](https://jobright.ai/jobs/info/697ac1f78dbbf73badc811af?utm_campaign=1079&utm_source=git)** | US-NC-Cary HQ | Remote | Jan 28 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/697aa367f6fc293b0a2c8b83?utm_campaign=1079&utm_source=git)** | Santa Clara, California, USA | On Site | Jan 28 |
 | ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/697aa3648dbbf73badc7df88?utm_campaign=1079&utm_source=git)** | Bellevue, Washington, USA | On Site | Jan 28 |
+| **[Emergence AI](https://www.emergence.ai)** | **[Summer Research Internship](https://jobright.ai/jobs/info/697ac0a9f6fc293b0a2cbb8d?utm_campaign=1079&utm_source=git)** | Hybrid Remote | Hybrid | Jan 28 |
 | **[Ceyepher Security](https://ceyephersecurity.com)** | **[Frontend Developer Intern (Unpaid)](https://jobright.ai/jobs/info/697aa2cd9d60e431a16c393d?utm_campaign=1079&utm_source=git)** | Nashville, TN | Remote | Jan 28 |
 | **[vRad (Virtual Radiologic)](http://www.vrad.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697a9ff29d60e431a16c35bc?utm_campaign=1079&utm_source=git)** | Edina, MN | Hybrid | Jan 28 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/697a9f459d60e431a16c34d8?utm_campaign=1079&utm_source=git)** | Seattle, Washington, USA | On Site | Jan 28 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 – Software Engineer Intern](https://jobright.ai/jobs/info/697aa3e48dbbf73badc7e030?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | On Site | Jan 28 |
 | **[Analog Devices](http://www.analog.com)** | **[Digital Implementation Engineering Intern](https://jobright.ai/jobs/info/697a50a4a8de441ca7357cac?utm_campaign=1079&utm_source=git)** | US, TX, Dallas, Tollway | On Site | Jan 28 |
 | **[Jabil](https://www.jabil.com)** | **[Quality Assurance Intern – Cloud Applications](https://jobright.ai/jobs/info/697a4fe7a5b9804527e023fa?utm_campaign=1079&utm_source=git)** | Lexington, KY | On Site | Jan 28 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 – Software Engineer Intern](https://jobright.ai/jobs/info/697aa3c58dbbf73badc7e003?utm_campaign=1079&utm_source=git)** | North Carolina | On Site | Jan 28 |
-| ↳ | **[Summer 2026 – Software Engineer Intern](https://jobright.ai/jobs/info/697a9ddc9d60e431a16c33e8?utm_campaign=1079&utm_source=git)** | US-NC-Cary HQ | On Site | Jan 28 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Solutions Engineer Intern](https://jobright.ai/jobs/info/697a6bd9f6fc293b0a2c3bfb?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | On Site | Jan 28 |
 | ↳ | **[Summer 2026 – Software Engineer Intern](https://jobright.ai/jobs/info/697a9ce9f6fc293b0a2c84b9?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | On Site | Jan 28 |
-| ↳ | **[Summer 2026 - Solutions Engineer Intern](https://jobright.ai/jobs/info/697a6bd9f6fc293b0a2c3bfb?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | On Site | Jan 28 |
 | ↳ | **[Summer 2026 - Solutions Engineer Intern](https://jobright.ai/jobs/info/697a744c8dbbf73badc79810?utm_campaign=1079&utm_source=git)** | North Carolina | On Site | Jan 28 |
+| ↳ | **[Summer 2026 – Software Engineer Intern](https://jobright.ai/jobs/info/697a9ddc9d60e431a16c33e8?utm_campaign=1079&utm_source=git)** | US-NC-Cary HQ | On Site | Jan 28 |
+| ↳ | **[Summer 2026 – Software Engineer Intern](https://jobright.ai/jobs/info/697aa3c58dbbf73badc7e003?utm_campaign=1079&utm_source=git)** | North Carolina | On Site | Jan 28 |
 | **[LMI](http://www.lmi.org)** | **[Software Development Intern (FIU Students)](https://jobright.ai/jobs/info/697a7a93f6fc293b0a2c4cb6?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Jan 28 |
-| **[Square](https://block.xyz)** | **[Embedded/Firmware Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/697a6d8e9d60e431a16bec00?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jan 28 |
-| **[Blackline Safety](https://www.blacklinesafety.com)** | **[Firmware Intern (4 Months)](https://jobright.ai/jobs/info/697a7145f6fc293b0a2c4233?utm_campaign=1079&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Jan 28 |
-| **[BambooHR](http://www.BambooHR.com)** | **[Cloud Engineering Intern](https://jobright.ai/jobs/info/697a4cd4a5b9804527e021cf?utm_campaign=1079&utm_source=git)** | Utah | Hybrid | Hybrid | Jan 28 |
-| **[Solidigm](https://www.solidigmtechnology.com)** | **[Data Center Customer Tools Software Engineering Graduate Intern](https://jobright.ai/jobs/info/697a70fe9d60e431a16befde?utm_campaign=1079&utm_source=git)** | Rancho Cordova, CA | On Site | Jan 28 |
-| **[BambooHR](http://www.BambooHR.com)** | **[Business Systems Engineering Intern](https://jobright.ai/jobs/info/697a466ca8de441ca7357021?utm_campaign=1079&utm_source=git)** | Utah | Hybrid | Hybrid | Jan 28 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Firmware Test Development - Intern](https://jobright.ai/jobs/info/697a460da8de441ca7356ee5?utm_campaign=1079&utm_source=git)** | Mequon, WI | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
