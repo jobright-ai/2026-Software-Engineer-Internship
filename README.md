@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ModMed](https://www.modmed.com)** | **[Software Architect - Intern](https://jobright.ai/jobs/info/6944685694730b7398779110?utm_campaign=1079&utm_source=git)** | Boca Raton, FL | On Site | Jan 30 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Software Engineer Intern (Embedded Software & Telematics) - The Toro Company](https://jobright.ai/jobs/info/697c91a9137a051025658d48?utm_campaign=1079&utm_source=git)** | Hennepin County, MN | On Site | Jan 30 |
+| **[ST Engineering iDirect](http://www.idirect.net)** | **[Engineering Intern-Test Automation](https://jobright.ai/jobs/info/697aea1d1423772304eada2d?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Jan 30 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/690a84474a1b456627b08be5?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | Jan 30 |
+| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Digital Systems QA](https://jobright.ai/jobs/info/6960e1c6f3f4cd132505f0a6?utm_campaign=1079&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Waterloo University Co-Op Internship Opportunities](https://jobright.ai/jobs/info/697c7c513f57a33569664067?utm_campaign=1079&utm_source=git)** | United States, Washington, Redmond | Hybrid | Jan 30 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/697c7793137a0510256573ef?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | Remote | Jan 30 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Software Development - Internship](https://jobright.ai/jobs/info/697c2f8b1136d179eeefe9e3?utm_campaign=1079&utm_source=git)** | Newport Beach, CA | On Site | Jan 29 |
@@ -116,6 +121,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Application Development - Summer Intern](https://jobright.ai/jobs/info/697c562e3f57a33569660736?utm_campaign=1079&utm_source=git)** | Fishers, IN | On Site | Jan 29 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/697bec751136d179eeef8b05?utm_campaign=1079&utm_source=git)** | US - Remote (Any Location) | Remote | Jan 29 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Solution Engineering, Public Sector](https://jobright.ai/jobs/info/697c0fe41423772304ec5ec7?utm_campaign=1079&utm_source=git)** | Greater Richmond Region | On Site | Jan 29 |
+| **[LaunchCapital](http://www.launchcapital.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/697c7fa43f57a3356966440b?utm_campaign=1079&utm_source=git)** | Fishers, IN | On Site | Jan 29 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/697be87b0b88cc7d6422ccfb?utm_campaign=1079&utm_source=git)** | US - CO, Colorado Springs | Hybrid | Jan 29 |
 | **[Milliman](http://www.milliman.com)** | **[Software Engineering Intern- Summer 2026 (May Start)](https://jobright.ai/jobs/info/697be70a0b88cc7d6422cab6?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
 | **[MassMutual Ascend](https://massmutualascend.com)** | **[Application Development Intern (Summer 2026)](https://jobright.ai/jobs/info/6960361aa1bbea1d9a7b134f?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Jan 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Quality Assurance & Business Analyst Intern](https://jobright.ai/jobs/info/697bc73f1136d179eeef4d18?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | **[Ripple](http://ripple.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69407b5449a7695fbd05fbc4?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 29 |
 | **[EQ Bank | Equitable Bank](http://www.eqbank.ca)** | **[Software Developer - Summer Intern 2026](https://jobright.ai/jobs/info/697be19c1423772304ec217d?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | Jan 29 |
-| ↳ | **[Software Developer - Summer Intern 2026](https://jobright.ai/jobs/info/697be18d0b88cc7d6422c2e0?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 29 |
-| **[Robinhood](https://www.robinhood.com)** | **[Software Developer Intern, Web (Summer 2026)](https://jobright.ai/jobs/info/691db11161dc50590a649243?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 29 |
-| **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Embedded Software Engineer (Summer 2026)](https://jobright.ai/jobs/info/695fc8a8a1bbea1d9a7a88ca?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 29 |
-| **[Wellabe](https://www.wellabe.com)** | **[Summer 2026 Cloud Technician Internship- Onsite Des Moines, Iowa](https://jobright.ai/jobs/info/697bdf301136d179eeef772b?utm_campaign=1079&utm_source=git)** | Des Moines, IA | On Site | Jan 29 |
-| **[Daikin Comfort](http://www.daikincomfort.com)** | **[Programmer Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/697beb221136d179eeef88c9?utm_campaign=1079&utm_source=git)** | Waller, TX | On Site | Jan 29 |
-| **[Teachworks](http://teachworks.com)** | **[Software Developer - Intern](https://jobright.ai/jobs/info/697bbdba1136d179eeef41c3?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | Remote | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
