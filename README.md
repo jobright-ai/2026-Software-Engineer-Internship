@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Arena Software Engineer Intern](https://jobright.ai/jobs/info/697ce76d727747250d579228?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Jan 30 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/697cf9fc727747250d57b54c?utm_campaign=1079&utm_source=git)** | RTP, North Carolina, US | On Site | Jan 30 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/697cf7be727747250d57b3a4?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | Remote | Jan 30 |
+| **[Anduril Industries](https://www.anduril.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697cf092137a05102565e70c?utm_campaign=1079&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jan 30 |
+| **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Radar Graphical User Interface Developer Intern](https://jobright.ai/jobs/info/697ceb26137a05102565d526?utm_campaign=1079&utm_source=git)** | Beavercreek Township, Ohio | On Site | Jan 30 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Year Round - Formal Methods, Remote](https://jobright.ai/jobs/info/697ce56f137a05102565cf5f?utm_campaign=1079&utm_source=git)** | Livermore, CA | Remote | Jan 30 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer Intern](https://jobright.ai/jobs/info/690d2adf221b890c27804294?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Jan 30 |
+| **[DentalScan](https://www.replyquick.ai/dentalscan)** | **[Full Stack Engineer Internship](https://jobright.ai/jobs/info/697cfb5f137a05102565f530?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 30 |
+| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Application Engineer Intern](https://jobright.ai/jobs/info/697cf4cc137a05102565f033?utm_campaign=1079&utm_source=git)** | Foster City, CA | Hybrid | Jan 30 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Simulation and software development, AI (Summer 2026)](https://jobright.ai/jobs/info/697cd5a4727747250d578857?utm_campaign=1079&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Jan 30 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer and Winter)](https://jobright.ai/jobs/info/6964680aa112b40266124e8f?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 30 |
 | **[Virtua Health](https://www.virtua.org/)** | **[IT Applications Analyst Intern](https://jobright.ai/jobs/info/697cd331727747250d578772?utm_campaign=1079&utm_source=git)** | Marlton, NJ | On Site | Jan 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer - Intern](https://jobright.ai/jobs/info/697ce66a727747250d579164?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | Hybrid | Jan 29 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Solution Engineering, Public Sector](https://jobright.ai/jobs/info/697c0fe41423772304ec5ec7?utm_campaign=1079&utm_source=git)** | Greater Richmond Region | On Site | Jan 29 |
 | **[LaunchCapital](http://www.launchcapital.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/697c7fa43f57a3356966440b?utm_campaign=1079&utm_source=git)** | Fishers, IN | On Site | Jan 29 |
-| **[ParsonsKellogg](https://parsonskellogg.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/697be87b0b88cc7d6422ccfb?utm_campaign=1079&utm_source=git)** | US - CO, Colorado Springs | Hybrid | Jan 29 |
-| **[Milliman](http://www.milliman.com)** | **[Software Engineering Intern- Summer 2026 (May Start)](https://jobright.ai/jobs/info/697be70a0b88cc7d6422cab6?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
-| **[MassMutual Ascend](https://massmutualascend.com)** | **[Application Development Intern (Summer 2026)](https://jobright.ai/jobs/info/6960361aa1bbea1d9a7b134f?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Jan 29 |
-| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697be4241136d179eeef7f45?utm_campaign=1079&utm_source=git)** | Quincy, MA | On Site | Jan 29 |
-| **[Beyond New Horizons](www.bnh-jv.com)** | **[Engineering/Computer Science Co-ops - Beginning Fall 2026](https://jobright.ai/jobs/info/697c08ee0b88cc7d6422f638?utm_campaign=1079&utm_source=git)** | Manchester, TN | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
