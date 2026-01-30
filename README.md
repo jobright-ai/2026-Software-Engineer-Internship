@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Software Development - Internship](https://jobright.ai/jobs/info/697c2f8b1136d179eeefe9e3?utm_campaign=1079&utm_source=git)** | Newport Beach, CA | On Site | Jan 29 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Intern](https://jobright.ai/jobs/info/697c2dd01136d179eeefe7aa?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Jan 29 |
+| **[Tempo (YC S23)](https://www.tempo.new/)** | **[Design Engineering Intern](https://jobright.ai/jobs/info/697c29b51136d179eeefe34f?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 29 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/697c27f01136d179eeefe16e?utm_campaign=1079&utm_source=git)** | Overland Park, KS | On Site | Jan 29 |
+| **[Voldex](https://voldex.com)** | **[Game Developer Internship - Voldex Games](https://jobright.ai/jobs/info/697c27a31136d179eeefe112?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Remote | Jan 29 |
+| **[Octasic](http://www.octasic.com/)** | **[Embedded Software Developer Intern (Low-Level)](https://jobright.ai/jobs/info/697c277f1136d179eeefe0f3?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 29 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Software Development](https://jobright.ai/jobs/info/697c04bf0b88cc7d6422f2cd?utm_campaign=1079&utm_source=git)** | Mississauga | Hybrid | Jan 29 |
 | **[Glanbia Nutritionals](http://www.glanbianutritionals.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/697c1f1a1136d179eeefd3b5?utm_campaign=1079&utm_source=git)** | Sharonville, OH | On Site | Jan 29 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Raytheon Intern - Software Engineer (Onsite)](https://jobright.ai/jobs/info/697c1d440b88cc7d64231871?utm_campaign=1079&utm_source=git)** | Annapolis, MD | On Site | Jan 29 |
@@ -147,14 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Science - SCI](https://jobright.ai/jobs/info/697bd0961136d179eeef565a?utm_campaign=1079&utm_source=git)** | Pleasanton | Hybrid | Jan 29 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697bd14f1423772304ebffa2?utm_campaign=1079&utm_source=git)** | Horsham, PA | Hybrid | Jan 29 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Software Engineering Intern (Rockwall, TX)](https://jobright.ai/jobs/info/697bb0c51423772304ebdb46?utm_campaign=1079&utm_source=git)** | Rockwall, TX | On Site | Jan 29 |
-| **[KLA](https://www.kla.com)** | **[Software Intern (HPC Infrastructure)](https://jobright.ai/jobs/info/697bd23d0b88cc7d6422a227?utm_campaign=1079&utm_source=git)** | USA-CA-Milpitas-KLA | On Site | Jan 29 |
+| **[KLA](https://www.kla.com)** | **[Software Intern (HPC Infrastructure)](https://jobright.ai/jobs/info/697bdde21423772304ec190f?utm_campaign=1079&utm_source=git)** | USA-CA-Milpitas-KLA | On Site | Jan 29 |
 | **[Pivotal](https://pivotal.aero)** | **[Internship, Software Engineering (Summer 2026)](https://jobright.ai/jobs/info/697bccd71423772304ebfaac?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jan 29 |
 | **[Integrate](http://integrate.co)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697bae481423772304ebda0d?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jan 29 |
 | **[Jonas Software](http://www.jonassoftware.com)** | **[Intern Software Developer](https://jobright.ai/jobs/info/697bac811136d179eeef322f?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 29 |
-| **[Trackunit](https://www.trackunit.com/)** | **[Android Software Development Intern](https://jobright.ai/jobs/info/697bd3050b88cc7d6422a3d1?utm_campaign=1079&utm_source=git)** | London, Ontario, Canada | Hybrid | Jan 29 |
-| **[Fiserv](http://www.fiserv.com)** | **[Technology - Summer Intern](https://jobright.ai/jobs/info/697baa3d0b88cc7d64227801?utm_campaign=1079&utm_source=git)** | King of Prussia, Pennsylvania | On Site | Jan 29 |
-| **[Trackunit](https://www.trackunit.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/697bd7f20b88cc7d6422aeec?utm_campaign=1079&utm_source=git)** | London, Ontario, Canada | Hybrid | Jan 29 |
-| **[Ericsson](https://www.ericsson.com)** | **[Integration Tools Developer Coop/Intern](https://jobright.ai/jobs/info/697ba55b1136d179eeef2d64?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 29 |
-| **[The Voleon Group](http://voleon.com/)** | **[Software Engineer Intern - (Summer 2026)](https://jobright.ai/jobs/info/68cfa8a4846f0b04af683b3c?utm_campaign=1079&utm_source=git)** | Berkeley, CA | Hybrid | Jan 29 |
-| **[Trusted Concepts, Inc.](http://trustedconcepts.com)** | **[Summer Research Intern](https://jobright.ai/jobs/info/697bc17b1136d179eeef45ca?utm_campaign=1079&utm_source=git)** | Arlington, Virginia | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
