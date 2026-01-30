@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Waterloo University Co-Op Internship Opportunities](https://jobright.ai/jobs/info/697c7c513f57a33569664067?utm_campaign=1079&utm_source=git)** | United States, Washington, Redmond | Hybrid | Jan 30 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/697c7793137a0510256573ef?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | Remote | Jan 30 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Software Development - Internship](https://jobright.ai/jobs/info/697c2f8b1136d179eeefe9e3?utm_campaign=1079&utm_source=git)** | Newport Beach, CA | On Site | Jan 29 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Automotive Systems & Applications Engineer - Intern](https://jobright.ai/jobs/info/697c5b23727747250d570b4d?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 29 |
 | **[Drive DeVilbiss Healthcare](http://www.drivemedical.com/)** | **[Intern I](https://jobright.ai/jobs/info/697c56a7137a0510256547ee?utm_campaign=1079&utm_source=git)** | Somerset, PA | On Site | Jan 29 |
@@ -128,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Solution Engineering, Public Sector](https://jobright.ai/jobs/info/697bdb7d1136d179eeef6f39?utm_campaign=1079&utm_source=git)** | Virginia - Mclean | On Site | Jan 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Integration Engineer, Service Tooling (Summer 2026)](https://jobright.ai/jobs/info/697bbf8e1136d179eeef43aa?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jan 29 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Raytheon Intern - Software Engineer (Onsite)](https://jobright.ai/jobs/info/697bf7c01136d179eeef9c84?utm_campaign=1079&utm_source=git)** | US-MD-ANNAPOLIS-905 ~ 2551 Riva Rd ~ BLDG 905 | On Site | Jan 29 |
-| **[ParsonsKellogg](https://parsonskellogg.com)** | **[Test Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/697bf80f1423772304ec45cc?utm_campaign=1079&utm_source=git)** | US - Remote (Any Location) | Remote | Jan 29 |
-| ↳ | **[Test Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/697bf59d1136d179eeef98f9?utm_campaign=1079&utm_source=git)** | US - CO, Colorado Springs | Hybrid | Jan 29 |
+| **[ParsonsKellogg](https://parsonskellogg.com)** | **[Test Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/697bf59d1136d179eeef98f9?utm_campaign=1079&utm_source=git)** | US - CO, Colorado Springs | Hybrid | Jan 29 |
+| ↳ | **[Test Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/697bf80f1423772304ec45cc?utm_campaign=1079&utm_source=git)** | US - Remote (Any Location) | Remote | Jan 29 |
 | **[Ripple](http://ripple.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69405d0949a7695fbd05e397?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research Creative Developer Intern](https://jobright.ai/jobs/info/697bd8610b88cc7d6422afe3?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Jan 29 |
 | **[International Monetary Fund](http://www.imf.org/)** | **[Fund Internship Program (FIP) - Enterprise Search Intern - Information Technology Department](https://jobright.ai/jobs/info/697bd8370b88cc7d6422af8b?utm_campaign=1079&utm_source=git)** | USA, Washington DC | On Site | Jan 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wellabe](https://www.wellabe.com)** | **[Summer 2026 Cloud Technician Internship- Onsite Des Moines, Iowa](https://jobright.ai/jobs/info/697bdf301136d179eeef772b?utm_campaign=1079&utm_source=git)** | Des Moines, IA | On Site | Jan 29 |
 | **[Daikin Comfort](http://www.daikincomfort.com)** | **[Programmer Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/697beb221136d179eeef88c9?utm_campaign=1079&utm_source=git)** | Waller, TX | On Site | Jan 29 |
 | **[Teachworks](http://teachworks.com)** | **[Software Developer - Intern](https://jobright.ai/jobs/info/697bbdba1136d179eeef41c3?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | Remote | Jan 29 |
-| **[IBM](http://www.ibm.com)** | **[IBM Research Creative Developer Intern](https://jobright.ai/jobs/info/697be6771423772304ec283e?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Jan 29 |
-| ↳ | **[IBM Research Creative Developer Intern](https://jobright.ai/jobs/info/697be3660b88cc7d6422c773?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
