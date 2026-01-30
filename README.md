@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Syft Inc.](https://syft.style/)** | **[Frontend Engineer — Chrome Extension (React)](https://jobright.ai/jobs/info/697d11bf137a05102566070e?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 30 |
+| **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program-Technology](https://jobright.ai/jobs/info/697d0f1f3f57a3356966c377?utm_campaign=1079&utm_source=git)** | King of Prussia, Pennsylvania | On Site | Jan 30 |
+| **[TripArc](https://www.trip-arc.com/)** | **[Intern - Software Developer](https://jobright.ai/jobs/info/697d0a7e3f57a3356966bf27?utm_campaign=1079&utm_source=git)** | Toronto | On Site | Jan 30 |
+| **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Full-Stack Engineer Intern- Summer 2026 Internship](https://jobright.ai/jobs/info/697d09663f57a3356966bde5?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 30 |
+| **[Renesas Electronics](https://www.renesas.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697d07d3137a05102565fc4e?utm_campaign=1079&utm_source=git)** | Austin, TEXAS | Hybrid | Jan 30 |
+| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Firmware Engineer - PFD](https://jobright.ai/jobs/info/697d079e3f57a3356966bbef?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Jan 30 |
+| **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Radar Graphical User Interface Developer Intern](https://jobright.ai/jobs/info/697d06fc727747250d57bc8a?utm_campaign=1079&utm_source=git)** | Beavercreek Township, OH | On Site | Jan 30 |
 | **[SK hynix America](https://www.skhynix.com/eng/index.jsp)** | **[Intern - AI Hardware & Software (Summer 2026)](https://jobright.ai/jobs/info/697d0101137a05102565f80a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 30 |
 | **[Gwinnett County Government](https://www.gwinnettcounty.com)** | **[Intern - Full Stack Software Development - Public Safety](https://jobright.ai/jobs/info/697cff92137a05102565f715?utm_campaign=1079&utm_source=git)** | Gwinnett County, GA | On Site | Jan 30 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Simulation and software development, AI (Summer 2026)](https://jobright.ai/jobs/info/697cfdd23f57a3356966b61a?utm_campaign=1079&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[Test Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/697bf50b1423772304ec3ffc?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Jan 29 |
 | **[NationGraph](https://www.nationgraph.com/)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/697cff84727747250d57b899?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | Jan 29 |
 | **[Harvey](https://harvey.ai)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697d00f03f57a3356966b7dd?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Jan 29 |
-| **[International Monetary Fund](http://www.imf.org/)** | **[Fund Internship Program (FIP) - Enterprise Search Intern - Information Technology Department](https://jobright.ai/jobs/info/697bf40e1423772304ec3e3d?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Jan 29 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Autonomous Systems Intern - Silicon Valley, CA - Summer 2026](https://jobright.ai/jobs/info/697bf3680b88cc7d6422de93?utm_campaign=1079&utm_source=git)** | Santa Clara, California - United States of America | On Site | Jan 29 |
-| **[Americo Financial Life and Annuity](http://americo.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69655cbca112b40266133491?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Jan 29 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e894bd046ab6061cfea51?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Jan 29 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[Test Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/697bf0c41136d179eeef926f?utm_campaign=1079&utm_source=git)** | US - Remote (Any Location) | Remote | Jan 29 |
-| **[LaunchCapital](http://www.launchcapital.com)** | **[Application Development - Intern](https://jobright.ai/jobs/info/697c53f2137a0510256546df?utm_campaign=1079&utm_source=git)** | King of Prussia, PA | On Site | Jan 29 |
-| ↳ | **[Application Development Intern - Summer Intern](https://jobright.ai/jobs/info/697c576c137a051025654839?utm_campaign=1079&utm_source=git)** | Fishers, IN | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
