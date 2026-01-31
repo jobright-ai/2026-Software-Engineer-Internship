@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALO](https://www.aloyoga.com/)** | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697dac82ce48107c0541fb08?utm_campaign=1079&utm_source=git)** | San Ramon, CA | On Site | Jan 30 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Quality Assurance Intern](https://jobright.ai/jobs/info/697dab5b7f40342e15d69224?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 30 |
+| **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - HR/Payroll Systems](https://jobright.ai/jobs/info/697dab26abff4c399a9c80db?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
+| ↳ | **[Engineering Intern - ERP Finance Systems](https://jobright.ai/jobs/info/697daafdce48107c0541f98b?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
+| ↳ | **[Engineering Intern - Business Technology Operations (Foundational PIM)](https://jobright.ai/jobs/info/697daabece48107c0541f948?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
+| ↳ | **[Engineering Intern - Retail Technology](https://jobright.ai/jobs/info/697daabaabff4c399a9c8064?utm_campaign=1079&utm_source=git)** | San Ramon, CA | On Site | Jan 30 |
+| ↳ | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697da96babff4c399a9c7f29?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[IT Finance Technical Intern](https://jobright.ai/jobs/info/697d9d12ce48107c0541eb3c?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Jan 30 |
 | **[KLA](https://www.kla.com)** | **[Software Intern (GPU Optimization)](https://jobright.ai/jobs/info/6961c63ba112b402661054fe?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Jan 30 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026: Software Developer Co-op, 4 Months](https://jobright.ai/jobs/info/697d90fbabff4c399a9c6138?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[ITV Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/697d2eb33f57a3356966f770?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | Jan 30 |
 | **[SK hynix America](https://www.skhynix.com/eng/index.jsp)** | **[Intern - AI Hardware & Software (Summer 2026)](https://jobright.ai/jobs/info/697d0101137a05102565f80a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 30 |
 | **[Gwinnett County Government](https://www.gwinnettcounty.com)** | **[Intern - Full Stack Software Development - Public Safety](https://jobright.ai/jobs/info/697cff92137a05102565f715?utm_campaign=1079&utm_source=git)** | Gwinnett County, GA | On Site | Jan 30 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Simulation and software development, AI (Summer 2026)](https://jobright.ai/jobs/info/697cfdd23f57a3356966b61a?utm_campaign=1079&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 30 |
-| **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/697cfd433f57a3356966b5a8?utm_campaign=1079&utm_source=git)** | San Jose, California, US | On Site | Jan 30 |
-| **[Harvey](https://harvey.ai)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697d1b1b3f57a3356966d238?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
-| **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/697cf9fc727747250d57b54c?utm_campaign=1079&utm_source=git)** | RTP, North Carolina, US | On Site | Jan 30 |
-| **[Magnet Forensics](http://magnetforensics.com)** | **[Software Developer Engineer in Test Co-op (Summer 2026)](https://jobright.ai/jobs/info/697d161d3f57a3356966cbea?utm_campaign=1079&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Jan 30 |
-| ↳ | **[Software Developer Co-op (Summer 2026)](https://jobright.ai/jobs/info/697d1464137a051025660a16?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 30 |
-| **[Semtech](http://www.semtech.com)** | **[IT Intern](https://jobright.ai/jobs/info/697d18e2137a051025660fa8?utm_campaign=1079&utm_source=git)** | USA - Camarillo, CA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
