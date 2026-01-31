@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69680730f25a380066965c15?utm_campaign=1079&utm_source=git)** | Lowell, MI | On Site | Jan 31 |
+| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Oliver Wyman -Vector- Software Development Intern](https://jobright.ai/jobs/info/69614b1aa112b402660fd0e9?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
+| **[Intuitive](https://www.intuitive.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6944962394730b739877cb54?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 31 |
+| **[Shipflow](https://www.shipflopw.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697dc4917f40342e15d6a439?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 31 |
+| **[Bear Robotics](https://bearrobotics.ai)** | **[Software Engineering Intern, Cloud Infrastructure](https://jobright.ai/jobs/info/697dc1197f40342e15d6a349?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Jan 31 |
 | **[Modular](https://www.modular.com)** | **[Software Engineering Intern, Cloud Inference](https://jobright.ai/jobs/info/697db706ce48107c05420628?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Jan 31 |
 | **[Modular](https://www.modular.com)** | **[AI Kernel Engineering Intern](https://jobright.ai/jobs/info/697db3e7abff4c399a9c8abd?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697dac82ce48107c0541fb08?utm_campaign=1079&utm_source=git)** | San Ramon, CA | On Site | Jan 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Internship Program-Technology](https://jobright.ai/jobs/info/697d0f1f3f57a3356966c377?utm_campaign=1079&utm_source=git)** | King of Prussia, Pennsylvania | On Site | Jan 30 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Returning Intern - Software Quality Engineer Intern - Onsite (AZ)](https://jobright.ai/jobs/info/697d2ab3137a051025662cb2?utm_campaign=1079&utm_source=git)** | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | On Site | Jan 30 |
 | **[TripArc](https://www.trip-arc.com/)** | **[Intern - Software Developer](https://jobright.ai/jobs/info/697d0a7e3f57a3356966bf27?utm_campaign=1079&utm_source=git)** | Toronto | On Site | Jan 30 |
-| **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Full-Stack Engineer Intern- Summer 2026 Internship](https://jobright.ai/jobs/info/697d09663f57a3356966bde5?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 30 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697d07d3137a05102565fc4e?utm_campaign=1079&utm_source=git)** | Austin, TEXAS | Hybrid | Jan 30 |
-| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Firmware Engineer - PFD](https://jobright.ai/jobs/info/697d079e3f57a3356966bbef?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Jan 30 |
-| **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Radar Graphical User Interface Developer Intern](https://jobright.ai/jobs/info/697d06fc727747250d57bc8a?utm_campaign=1079&utm_source=git)** | Beavercreek Township, OH | On Site | Jan 30 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[ITV Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/697d2eb33f57a3356966f770?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
