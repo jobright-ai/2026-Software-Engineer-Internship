@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Modular](https://www.modular.com)** | **[Mojo Compiler Intern](https://jobright.ai/jobs/info/697e0a157f40342e15d6ef99?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Jan 31 |
+| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Computational Designer (Summer)](https://jobright.ai/jobs/info/6945f0bf7d506e3808f131e3?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Jan 31 |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern-SRE](https://jobright.ai/jobs/info/696b501fdb26b618950ed8a3?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Jan 31 |
+| **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/6946219c63141d188455ce71?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Jan 31 |
+| **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/6943b87350bbaf765055b276?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 31 |
+| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Computational Designer, 3D Specialist (Summer)](https://jobright.ai/jobs/info/6945f14763141d18845589c6?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Jan 31 |
+| **[Microsoft](https://www.microsoft.com)** | **[Software Engineer - CTJ - Top Secret: Internship Opportunities](https://jobright.ai/jobs/info/697310a9206da320f49d1b8c?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jan 31 |
+| **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer and Winter)](https://jobright.ai/jobs/info/697e06237f40342e15d6e64c?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Jan 31 |
+| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Information Systems](https://jobright.ai/jobs/info/697e02aace48107c054243a1?utm_campaign=1079&utm_source=git)** | Port Washington, NY | On Site | Jan 31 |
 | **[Typeface](https://www.typeface.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6961950be7ed9a5731ba6fb8?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Jan 31 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineer, Tooling (Internship)](https://jobright.ai/jobs/info/69620e8f25e18715077eeded?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jan 31 |
 | ↳ | **[Embedded Software Engineer (Internship)](https://jobright.ai/jobs/info/6962158c25e18715077ef39e?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 31 |
@@ -98,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[WEX](http://www.wexinc.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/697d827f7f40342e15d64c7e?utm_campaign=1079&utm_source=git)** | Maine, United States | Remote | Jan 30 |
 | **[Siemens](https://www.siemens.com)** | **[Fire Safety Software Engineering Intern](https://jobright.ai/jobs/info/697d826b7f40342e15d64c65?utm_campaign=1079&utm_source=git)** | Troy Hills, NJ | On Site | Jan 30 |
 | **[Flatiron School](http://flatironschool.com)** | **[Post-Grad Software Engineer Apprentice Work/Study Program](https://jobright.ai/jobs/info/697d825fce48107c0541b4a9?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 30 |
-| **[Kwaza Games LLC](http://etwaves.online)** | **[(Internship/Unpaid) Unity Programmer/3D Modeling/ AI prompting](https://jobright.ai/jobs/info/697d9d627f40342e15d683ef?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Testbed Infrastructure Intern 2026 (Summer 2026)](https://jobright.ai/jobs/info/6961c30ee7ed9a5731ba95fb?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Jan 30 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Firmware Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/697d7b88727747250d586511?utm_campaign=1079&utm_source=git)** | Shakopee, United States | On Site | Jan 30 |
 | **[Viasat](http://www.viasat.com)** | **[Embedded Software Engineer Intern - Viasat Government](https://jobright.ai/jobs/info/697d7b683f57a335696764a1?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Jan 30 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Solutions Architect Intern, NVIDIA Infrastructure Services - Summer 2026](https://jobright.ai/jobs/info/697d2a7b727747250d57ed4f?utm_campaign=1079&utm_source=git)** | US, TX, Houston | On Site | Jan 30 |
 | ↳ | **[Solutions Architect Intern, NVIDIA Infrastructure Services - Summer 2026](https://jobright.ai/jobs/info/697d29893f57a3356966e998?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara | On Site | Jan 30 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[ITV Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/697d29593f57a3356966e924?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697d28d8727747250d57e927?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 30 |
-| **[Leidos](https://www.leidos.com/)** | **[Embedded Design Engineering Intern – Firmware](https://jobright.ai/jobs/info/697d28513f57a3356966e687?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jan 30 |
-| **[Seagate Technology](http://www.seagate.com)** | **[Test Process & Firmware Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/697d2710727747250d57e45a?utm_campaign=1079&utm_source=git)** | Shakopee, United States | On Site | Jan 30 |
-| **[Flexspring](https://www.flexspring.com)** | **[Full Stack Engineer Co-op](https://jobright.ai/jobs/info/697d4944727747250d581828?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Remote | Jan 30 |
-| **[Jean Coutu](http://www.jeancoutu.com)** | **[Quality Assurance Intern / Étudiant­·e assurance qualité](https://jobright.ai/jobs/info/697d259a3f57a3356966e02a?utm_campaign=1079&utm_source=git)** | Laval, Quebec, Canada | On Site | Jan 30 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697d256f3f57a3356966dfe1?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jan 30 |
-| **[TripArc](https://www.trip-arc.com/)** | **[Intern - Software Developer](https://jobright.ai/jobs/info/697d25493f57a3356966df70?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
-| **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program-Technology](https://jobright.ai/jobs/info/697d24e9137a051025661ed5?utm_campaign=1079&utm_source=git)** | King of Prussia, PA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
