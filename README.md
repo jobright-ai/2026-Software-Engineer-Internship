@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 Intern - Meshing (Bachelors)](https://jobright.ai/jobs/info/69626f0d2cbf4e44756c63bb?utm_campaign=1079&utm_source=git)** | Evanston, IL | Hybrid | Jan 31 |
+| **[Intuit](https://www.intuit.com)** | **[Summer 2026: Software Developer Co-op, 8 Months](https://jobright.ai/jobs/info/697e3b807f40342e15d71918?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
+| ↳ | **[Summer 2026: Software Developer Co-op, 4 Months](https://jobright.ai/jobs/info/697e3adece48107c05427eba?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Software Test Engineer Internship](https://jobright.ai/jobs/info/697e30a07f40342e15d6fe28?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697e2d17abff4c399a9ceb6f?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
-| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/697e2ba6abff4c399a9ceac0?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 31 |
-| **[dataing](https://www.dataing.io/)** | **[Product Engineer Intern – Consumer AI Startup 💝💝💝](https://jobright.ai/jobs/info/697e27bbce48107c05426226?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Software Engineering (12-month) - Burlington, ON, Canada](https://jobright.ai/jobs/info/697e23c6abff4c399a9ce906?utm_campaign=1079&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jan 31 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Test Process & Firmware Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/697e1d22abff4c399a9ce65d?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Jan 31 |
 | ↳ | **[Firmware Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/697e189bce48107c05425cf6?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Jan 31 |
@@ -111,8 +112,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697da96babff4c399a9c7f29?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[IT Finance Technical Intern](https://jobright.ai/jobs/info/697d9d12ce48107c0541eb3c?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Jan 30 |
 | **[KLA](https://www.kla.com)** | **[Software Intern (GPU Optimization)](https://jobright.ai/jobs/info/6961c63ba112b402661054fe?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Jan 30 |
-| **[Intuit](https://www.intuit.com)** | **[Summer 2026: Software Developer Co-op, 4 Months](https://jobright.ai/jobs/info/697d90fbabff4c399a9c6138?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
-| ↳ | **[Summer 2026: Software Developer Co-op, 8 Months](https://jobright.ai/jobs/info/697d8d7f7f40342e15d6708a?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Quality Assurance Intern](https://jobright.ai/jobs/info/697d8c0cabff4c399a9c4c61?utm_campaign=1079&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Solutions Architect Intern, NVIDIA Infrastructure Services - Summer 2026](https://jobright.ai/jobs/info/697d8616abff4c399a9c3d59?utm_campaign=1079&utm_source=git)** | North Billings, ND | On Site | Jan 30 |
 | **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern - Viasat Government](https://jobright.ai/jobs/info/697d83fece48107c0541b5d1?utm_campaign=1079&utm_source=git)** | Marlborough, MA | On Site | Jan 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697d4b5d137a0510256657ef?utm_campaign=1079&utm_source=git)** | Santa Clara,CA | On Site | Jan 30 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Empowering Tomorrow's tech leaders](https://jobright.ai/jobs/info/697d4a1f3f57a335696716db?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[Virtru](https://www.virtru.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/697d46103f57a3356967144c?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
+| **[Genmab](https://www.genmab.com)** | **[Programming Intern - Application Performance Monitoring (APM)](https://jobright.ai/jobs/info/697d3fd6727747250d5811a7?utm_campaign=1079&utm_source=git)** | Princeton | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
