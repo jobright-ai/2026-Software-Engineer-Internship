@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tyler Technologies](https://www.tylertech.com)** | **[Software Development Intern, Summer 2026](https://jobright.ai/jobs/info/697d3af7727747250d580ae9?utm_campaign=1079&utm_source=git)** | Yarmouth, ME | On Site | Jan 30 |
+| **[Harbinger](https://harbingermotors.com)** | **[Intern, Software Engineering (Firmware)](https://jobright.ai/jobs/info/697d3af0727747250d580ae2?utm_campaign=1079&utm_source=git)** | Garden Grove, CA | On Site | Jan 30 |
+| **[Stealthfintech](https://www.linkedin.com/company/111012171)** | **[Design Engineer / Human Interaction Internship](https://jobright.ai/jobs/info/697d38d6137a051025664700?utm_campaign=1079&utm_source=git)** | New York, NY | Remote | Jan 30 |
+| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Firmware Engineer - PFD](https://jobright.ai/jobs/info/697d3879137a051025664684?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 30 |
+| **[Etsy](https://www.etsy.com/)** | **[Software Engineering Intern, 2026 (Brooklyn, NY)](https://jobright.ai/jobs/info/697d383b137a05102566463d?utm_campaign=1079&utm_source=git)** | Brooklyn, New York | Hybrid | Jan 30 |
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program-Application Development](https://jobright.ai/jobs/info/697d2d123f57a3356966f2e3?utm_campaign=1079&utm_source=git)** | Fishers, IN | On Site | Jan 30 |
 | **[Compugen Inc](http://www.compugen.com/)** | **[AI, Sharepoint, and CRM Integration Intern](https://jobright.ai/jobs/info/697d2d01727747250d57f3de?utm_campaign=1079&utm_source=git)** | Ontario, Canada | Hybrid | Jan 30 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Solutions Architect Intern, NVIDIA Infrastructure Services - Summer 2026](https://jobright.ai/jobs/info/697d2a7b727747250d57ed4f?utm_campaign=1079&utm_source=git)** | US, TX, Houston | On Site | Jan 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tempo (YC S23)](https://www.tempo.new/)** | **[Design Engineering Intern](https://jobright.ai/jobs/info/697c29b51136d179eeefe34f?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 29 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/697c27f01136d179eeefe16e?utm_campaign=1079&utm_source=git)** | Overland Park, KS | On Site | Jan 29 |
 | **[Voldex](https://voldex.com)** | **[Game Developer Internship - Voldex Games](https://jobright.ai/jobs/info/697c27a31136d179eeefe112?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Remote | Jan 29 |
-| **[Octasic](http://www.octasic.com/)** | **[Embedded Software Developer Intern (Low-Level)](https://jobright.ai/jobs/info/697c277f1136d179eeefe0f3?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 29 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Software Development](https://jobright.ai/jobs/info/697c04bf0b88cc7d6422f2cd?utm_campaign=1079&utm_source=git)** | Mississauga | Hybrid | Jan 29 |
-| **[Glanbia Nutritionals](http://www.glanbianutritionals.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/697c1f1a1136d179eeefd3b5?utm_campaign=1079&utm_source=git)** | Sharonville, OH | On Site | Jan 29 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Raytheon Intern - Software Engineer (Onsite)](https://jobright.ai/jobs/info/697c1d440b88cc7d64231871?utm_campaign=1079&utm_source=git)** | Annapolis, MD | On Site | Jan 29 |
-| **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Observability & Monitoring - Internship](https://jobright.ai/jobs/info/697c393b0b88cc7d6423435a?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
