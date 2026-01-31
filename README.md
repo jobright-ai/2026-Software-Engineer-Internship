@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Find Me](https://fyndme.co)** | **[Senior Full Stack Developer Internship (Next.js, Node.js, PostgreSQL)](https://jobright.ai/jobs/info/697d6627137a051025668768?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 30 |
+| **[Box](http://www.box.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697d65f0727747250d584a2e?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | Jan 30 |
+| **[Sigma](http://sigmacomputing.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697d6539137a05102566864f?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
+| **[PACCAR](http://www.paccar.com/)** | **[Rapid Prototyping Intern](https://jobright.ai/jobs/info/697d645d137a05102566852f?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Jan 30 |
+| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Web Developer](https://jobright.ai/jobs/info/697d60c2137a051025668157?utm_campaign=1079&utm_source=git)** | Montvale, NJ, US | Hybrid | Jan 30 |
+| **[1Password](https://1password.com)** | **[Developer Intern - Insights - Summer 2026](https://jobright.ai/jobs/info/697d5f7d727747250d58433d?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jan 30 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697d5d54727747250d58407d?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jan 30 |
-| **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Software Development Engineer in Test](https://jobright.ai/jobs/info/697d5cf5727747250d58400a?utm_campaign=1079&utm_source=git)** | Midvale, UT | On Site | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - Business Technology Operations (Foundational PIM)](https://jobright.ai/jobs/info/697d5cc7137a051025667c99?utm_campaign=1079&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
 | **[Nuro](https://nuro.ai)** | **[Software Engineer Intern, Pose (Vehicle State Estimation)](https://jobright.ai/jobs/info/697d5c98727747250d583f7c?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Jan 30 |
 | **[1Password](https://1password.com)** | **[Developer Intern - Knox - Summer 2026](https://jobright.ai/jobs/info/697d5c6e727747250d583f50?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jan 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/694472d294730b739877a1ff?utm_campaign=1079&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 30 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Flight Software Intern (Spring 2026)](https://jobright.ai/jobs/info/6944c5e094730b73987806f7?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/694473e9dd382f5f566a9c47?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Jan 30 |
-| **[Cisco](http://www.cisco.com)** | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/6927198ad47de4798ecd9fe7?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Jan 30 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Autonomous Systems Intern - Silicon Valley, CA - Summer 2026](https://jobright.ai/jobs/info/697c9a0e137a051025658f47?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 30 |
-| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Hippocampus](https://jobright.ai/jobs/info/68c83a9795f5211cd2ce2c82?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jan 30 |
-| ↳ | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/68d00686846f0b04af686fbb?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Jan 30 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, IT - Software Engineering - MSP (Summer 2026)](https://jobright.ai/jobs/info/695f882da1bbea1d9a7a4595?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
