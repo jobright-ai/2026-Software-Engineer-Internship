@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/697e58e27f40342e15d722e4?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 31 |
+| **[Ericsson](https://www.ericsson.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/697e42f6ce48107c05427f92?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 Intern - Meshing (Bachelors)](https://jobright.ai/jobs/info/69626f0d2cbf4e44756c63bb?utm_campaign=1079&utm_source=git)** | Evanston, IL | Hybrid | Jan 31 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026: Software Developer Co-op, 8 Months](https://jobright.ai/jobs/info/697e3b807f40342e15d71918?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
 | ↳ | **[Summer 2026: Software Developer Co-op, 4 Months](https://jobright.ai/jobs/info/697e3adece48107c05427eba?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intuitive](https://www.intuitive.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697d4dc23f57a33569671a38?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 30 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697d4b5d137a0510256657ef?utm_campaign=1079&utm_source=git)** | Santa Clara,CA | On Site | Jan 30 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Empowering Tomorrow's tech leaders](https://jobright.ai/jobs/info/697d4a1f3f57a335696716db?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 30 |
-| **[Virtru](https://www.virtru.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/697d46103f57a3356967144c?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
-| **[Genmab](https://www.genmab.com)** | **[Programming Intern - Application Performance Monitoring (APM)](https://jobright.ai/jobs/info/697d3fd6727747250d5811a7?utm_campaign=1079&utm_source=git)** | Princeton | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
