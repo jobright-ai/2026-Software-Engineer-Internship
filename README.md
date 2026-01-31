@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exiger](http://www.exiger.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/696159d7e7ed9a5731ba1ff6?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Jan 31 |
+| **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Intern](https://jobright.ai/jobs/info/6944e8ba94730b73987818e8?utm_campaign=1079&utm_source=git)** | Centennial, CO | On Site | Jan 31 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Dynamics & Controls - Autonomous Driving (PhD)](https://jobright.ai/jobs/info/695e24373c6a895ac5eef7a0?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
 | **[Beckman Coulter Diagnostics](http://www.beckmancoulter.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693aefcc5f2c001987ecec00?utm_campaign=1079&utm_source=git)** | Chaska, MN | Hybrid | Jan 31 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Dynamics & Controls - Autonomous Driving (PhD)](https://jobright.ai/jobs/info/695e18412847344df4739db1?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/697d21543f57a3356966d7b0?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 30 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineer Intern - BACHELOR'S Degree](https://jobright.ai/jobs/info/697d21273f57a3356966d78f?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jan 30 |
 | **[TRUMPF](https://www.trumpf.com/de_DE/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/697d3eb63f57a33569670f20?utm_campaign=1079&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
-| **[Syft Inc.](https://syft.style/)** | **[Backend Engineer — AI / ML (Python, LLMs, AWS)](https://jobright.ai/jobs/info/697d1a87727747250d57d339?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 30 |
-| **[Capstone Research Corporation](https://capstoneresearchcorp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697d17e33f57a3356966ce2a?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
