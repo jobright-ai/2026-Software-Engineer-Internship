@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Modular](https://www.modular.com)** | **[Software Engineering Intern, Cloud Inference](https://jobright.ai/jobs/info/697db706ce48107c05420628?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Jan 31 |
+| **[Modular](https://www.modular.com)** | **[AI Kernel Engineering Intern](https://jobright.ai/jobs/info/697db3e7abff4c399a9c8abd?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697dac82ce48107c0541fb08?utm_campaign=1079&utm_source=git)** | San Ramon, CA | On Site | Jan 30 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Quality Assurance Intern](https://jobright.ai/jobs/info/697dab5b7f40342e15d69224?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - HR/Payroll Systems](https://jobright.ai/jobs/info/697dab26abff4c399a9c80db?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Firmware Engineer - PFD](https://jobright.ai/jobs/info/697d079e3f57a3356966bbef?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Jan 30 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) - Radar Graphical User Interface Developer Intern](https://jobright.ai/jobs/info/697d06fc727747250d57bc8a?utm_campaign=1079&utm_source=git)** | Beavercreek Township, OH | On Site | Jan 30 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[ITV Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/697d2eb33f57a3356966f770?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | Jan 30 |
-| **[SK hynix America](https://www.skhynix.com/eng/index.jsp)** | **[Intern - AI Hardware & Software (Summer 2026)](https://jobright.ai/jobs/info/697d0101137a05102565f80a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 30 |
-| **[Gwinnett County Government](https://www.gwinnettcounty.com)** | **[Intern - Full Stack Software Development - Public Safety](https://jobright.ai/jobs/info/697cff92137a05102565f715?utm_campaign=1079&utm_source=git)** | Gwinnett County, GA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
