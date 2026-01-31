@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Dynamics & Controls - Autonomous Driving (PhD)](https://jobright.ai/jobs/info/695e24373c6a895ac5eef7a0?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
+| **[Beckman Coulter Diagnostics](http://www.beckmancoulter.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693aefcc5f2c001987ecec00?utm_campaign=1079&utm_source=git)** | Chaska, MN | Hybrid | Jan 31 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Dynamics & Controls - Autonomous Driving (PhD)](https://jobright.ai/jobs/info/695e18412847344df4739db1?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 31 |
+| **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6969c5ec639b452fb57fb5db?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Jan 31 |
+| **[OpenSesame](http://www.OpenSesame.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69210a2900c9ee50eaecb099?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 31 |
+| **[The Andersons, Inc.](http://www.andersonsinc.com)** | **[SAP Intern (March 2026)](https://jobright.ai/jobs/info/69445bfd94730b73987784c2?utm_campaign=1079&utm_source=git)** | Maumee, OH | On Site | Jan 31 |
+| **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Firmware Engineer - Spring 2026 (Wilmington, MA)](https://jobright.ai/jobs/info/697dd5777f40342e15d6c5c5?utm_campaign=1079&utm_source=git)** | Wilmington, MA | On Site | Jan 31 |
+| **[ByteDance](http://bytedance.com)** | **[Research Intern (AI-Native Databases) - 2026 Summer (PhD)](https://jobright.ai/jobs/info/694481fedd382f5f566aae79?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 31 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Advanced Technology](https://jobright.ai/jobs/info/696213a3a112b40266107c9a?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Jan 31 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69680730f25a380066965c15?utm_campaign=1079&utm_source=git)** | Lowell, MI | On Site | Jan 31 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Oliver Wyman -Vector- Software Development Intern](https://jobright.ai/jobs/info/69614b1aa112b402660fd0e9?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6944962394730b739877cb54?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 31 |
-| **[Shipflow](https://www.shipflopw.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697dc4917f40342e15d6a439?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 31 |
 | **[Bear Robotics](https://bearrobotics.ai)** | **[Software Engineering Intern, Cloud Infrastructure](https://jobright.ai/jobs/info/697dc1197f40342e15d6a349?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Jan 31 |
 | **[Modular](https://www.modular.com)** | **[Software Engineering Intern, Cloud Inference](https://jobright.ai/jobs/info/697db706ce48107c05420628?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Jan 31 |
 | **[Modular](https://www.modular.com)** | **[AI Kernel Engineering Intern](https://jobright.ai/jobs/info/697db3e7abff4c399a9c8abd?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Jan 30 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TRUMPF](https://www.trumpf.com/de_DE/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/697d3eb63f57a33569670f20?utm_campaign=1079&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
 | **[Syft Inc.](https://syft.style/)** | **[Backend Engineer — AI / ML (Python, LLMs, AWS)](https://jobright.ai/jobs/info/697d1a87727747250d57d339?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Capstone Research Corporation](https://capstoneresearchcorp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697d17e33f57a3356966ce2a?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Jan 30 |
-| **[Emergence AI](https://www.emergence.ai)** | **[Summer Research Internship](https://jobright.ai/jobs/info/697d17533f57a3356966cd75?utm_campaign=1079&utm_source=git)** | United States | Hybrid | Jan 30 |
-| **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/697d16bd137a051025660cf5?utm_campaign=1079&utm_source=git)** | Triangle, NC | On Site | Jan 30 |
-| **[Syft Inc.](https://syft.style/)** | **[Frontend Engineer — Chrome Extension (React)](https://jobright.ai/jobs/info/697d11bf137a05102566070e?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 30 |
-| **[Virtru](https://www.virtru.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/697d2ee5137a051025663795?utm_campaign=1079&utm_source=git)** | Washington, DC - Hybrid | Hybrid | Jan 30 |
-| **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program-Application Development](https://jobright.ai/jobs/info/697d2c87137a051025663153?utm_campaign=1079&utm_source=git)** | Fishers, Indiana | On Site | Jan 30 |
-| ↳ | **[Corporate Internship Program-Technology](https://jobright.ai/jobs/info/697d0f1f3f57a3356966c377?utm_campaign=1079&utm_source=git)** | King of Prussia, Pennsylvania | On Site | Jan 30 |
-| **[RTX](http://www.raytheon.com)** | **[2026 Returning Intern - Software Quality Engineer Intern - Onsite (AZ)](https://jobright.ai/jobs/info/697d2ab3137a051025662cb2?utm_campaign=1079&utm_source=git)** | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 | On Site | Jan 30 |
-| **[TripArc](https://www.trip-arc.com/)** | **[Intern - Software Developer](https://jobright.ai/jobs/info/697d0a7e3f57a3356966bf27?utm_campaign=1079&utm_source=git)** | Toronto | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
