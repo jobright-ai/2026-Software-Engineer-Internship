@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://www.raytheon.com)** | **[2026 Software Engineering Intern - Gen4 Radar - Onsite (CA)](https://jobright.ai/jobs/info/697fd3c9abff4c399a9e79bf?utm_campaign=1079&utm_source=git)** | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 | On Site | Feb 01 |
+| **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697fcb4fce48107c0543d977?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 01 |
 | **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Computer Science (OT Software)](https://jobright.ai/jobs/info/697fc112abff4c399a9e52b3?utm_campaign=1079&utm_source=git)** | Aiken, SC | On Site | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697fba24ce48107c0543b941?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Feb 01 |
-| **[PrepTech Foundation](https://www.preptechfoundation.org/)** | **[Mobile App Development Intern](https://jobright.ai/jobs/info/697fae97ce48107c0543ae61?utm_campaign=1079&utm_source=git)** | Monmouth Junction, NJ | Remote | Feb 01 |
-| **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/697fadecabff4c399a9e3c99?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
+| ↳ | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/697fadecabff4c399a9e3c99?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[Audiokinetic](https://www.audiokinetic.com/)** | **[Intern, Software Development (Special Projects)](https://jobright.ai/jobs/info/697fa769ce48107c0543a95d?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697f9b477f40342e15d841ea?utm_campaign=1079&utm_source=git)** | San Francisco, CA and New York City, NY | On Site | Feb 01 |
 | **[Woman's Hospital](http://www.womans.org/)** | **[Information Systems - Summer Internship](https://jobright.ai/jobs/info/697f9adcce48107c0543a4e6?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Feb 01 |
@@ -92,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[First Solar](http://www.firstsolar.com)** | **[Development Engineering Intern (Spring & Summer 2026)](https://jobright.ai/jobs/info/6960276f7ebc25398eb618e7?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[LaunchCapital](http://www.launchcapital.com)** | **[Corporate Internship Program-Technology](https://jobright.ai/jobs/info/697f03c57f40342e15d7c02d?utm_campaign=1079&utm_source=git)** | King of Prussia, PA | On Site | Jan 31 |
 | ↳ | **[Corporate Internship Program-Application Development](https://jobright.ai/jobs/info/697f02f37f40342e15d7bf21?utm_campaign=1079&utm_source=git)** | Fishers, IN | On Site | Jan 31 |
+| **[DigitalOcean](http://www.digitalocean.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697a8db49d60e431a16c1938?utm_campaign=1079&utm_source=git)** | Boston, MA | Remote | Jan 31 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 Intern - Meshing (Bachelors)](https://jobright.ai/jobs/info/69626f0d2cbf4e44756c63bb?utm_campaign=1079&utm_source=git)** | Evanston, IL | Hybrid | Jan 31 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026: Software Developer Co-op, 8 Months](https://jobright.ai/jobs/info/697e3b807f40342e15d71918?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
 | ↳ | **[Summer 2026: Software Developer Co-op, 4 Months](https://jobright.ai/jobs/info/697e3adece48107c05427eba?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zefr](http://www.zefr.com)** | **[Quality Assurance Engineering Intern](https://jobright.ai/jobs/info/697adcd31423772304eac0d4?utm_campaign=1079&utm_source=git)** | Marina del Rey, CA | Hybrid | Jan 30 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/697d827f7f40342e15d64c7e?utm_campaign=1079&utm_source=git)** | Maine, United States | Remote | Jan 30 |
 | **[Siemens](https://www.siemens.com)** | **[Fire Safety Software Engineering Intern](https://jobright.ai/jobs/info/697d826b7f40342e15d64c65?utm_campaign=1079&utm_source=git)** | Troy Hills, NJ | On Site | Jan 30 |
-| **[Flatiron School](http://flatironschool.com)** | **[Post-Grad Software Engineer Apprentice Work/Study Program](https://jobright.ai/jobs/info/697d825fce48107c0541b4a9?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 30 |
-| **[Astranis Space Technologies](http://www.astranis.com)** | **[Testbed Infrastructure Intern 2026 (Summer 2026)](https://jobright.ai/jobs/info/6961c30ee7ed9a5731ba95fb?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
