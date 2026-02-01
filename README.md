@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Solar](http://www.firstsolar.com)** | **[Development Engineering Intern (Spring & Summer 2026)](https://jobright.ai/jobs/info/6960276f7ebc25398eb618e7?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
+| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/697ebd19abff4c399a9d6209?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 31 |
 | **[Your Company](http://rick-murphy.net)** | **[Software Engineering Intern Manager](https://jobright.ai/jobs/info/697e962f7f40342e15d74b72?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 Intern - Meshing (Bachelors)](https://jobright.ai/jobs/info/69626f0d2cbf4e44756c63bb?utm_campaign=1079&utm_source=git)** | Evanston, IL | Hybrid | Jan 31 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026: Software Developer Co-op, 8 Months](https://jobright.ai/jobs/info/697e3b807f40342e15d71918?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[1Password](https://1password.com)** | **[Developer Intern - Billing & Payments - Summer 2026](https://jobright.ai/jobs/info/697d5619727747250d583893?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jan 30 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697d4dc23f57a33569671a38?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 30 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697d4b5d137a0510256657ef?utm_campaign=1079&utm_source=git)** | Santa Clara,CA | On Site | Jan 30 |
-| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Empowering Tomorrow's tech leaders](https://jobright.ai/jobs/info/697d4a1f3f57a335696716db?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 30 |
-| **[DigitalOcean](http://www.digitalocean.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697a91669d60e431a16c2036?utm_campaign=1079&utm_source=git)** | Austin, CO | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
