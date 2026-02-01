@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Research Engineer Intern (Ads ML Infra) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69674a38f25a38006695acfb?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 01 |
+| **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Payment Network) - Global Payment - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/692ae0394c474121999ccd06?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Feb 01 |
+| **[GenPark](https://genpark.ai)** | **[Full stack engineer](https://jobright.ai/jobs/info/697f5f7aabff4c399a9e1151?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 01 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/697f59a67f40342e15d81d11?utm_campaign=1079&utm_source=git)** | Massachusetts, United States | Remote | Feb 01 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/692ad7b1fa28370be2697bac?utm_campaign=1079&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Feb 01 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/697efb3a7f40342e15d7b6d9?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 01 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Technology, Data and Innovation (TDI) - New York 2026](https://jobright.ai/jobs/info/690df52ad046ab6061cf9f5d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Solutions Architect Intern, NVIDIA Infrastructure Services - Summer 2026](https://jobright.ai/jobs/info/697d7766727747250d58602c?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 30 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Software Quality Assurance Specialist Co-Op](https://jobright.ai/jobs/info/697d74ab727747250d585d62?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - ERP Finance Systems](https://jobright.ai/jobs/info/697d720e137a0510256694f0?utm_campaign=1079&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
-| ↳ | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697d70c1137a0510256693ae?utm_campaign=1079&utm_source=git)** | San Ramon, California, United States | On Site | Jan 30 |
-| ↳ | **[Engineering Intern - Retail Technology](https://jobright.ai/jobs/info/697d7038727747250d5858ff?utm_campaign=1079&utm_source=git)** | San Ramon, California, United States | On Site | Jan 30 |
-| **[Checkr, Inc.](https://checkr.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/697d6f6f727747250d585841?utm_campaign=1079&utm_source=git)** | Denver, Colorado, United States | Hybrid | Jan 30 |
-| **[DigitalOcean](http://www.digitalocean.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697a9902f6fc293b0a2c80f4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
