@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[First Solar](http://www.firstsolar.com)** | **[Development Engineering Intern (Spring & Summer 2026)](https://jobright.ai/jobs/info/6960276f7ebc25398eb618e7?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/697ebd19abff4c399a9d6209?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 31 |
 | **[Your Company](http://rick-murphy.net)** | **[Software Engineering Intern Manager](https://jobright.ai/jobs/info/697e962f7f40342e15d74b72?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 Intern - Meshing (Bachelors)](https://jobright.ai/jobs/info/69626f0d2cbf4e44756c63bb?utm_campaign=1079&utm_source=git)** | Evanston, IL | Hybrid | Jan 31 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026: Software Developer Co-op, 8 Months](https://jobright.ai/jobs/info/697e3b807f40342e15d71918?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
@@ -126,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Seagate Technology](http://www.seagate.com)** | **[Firmware Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/697d7b88727747250d586511?utm_campaign=1079&utm_source=git)** | Shakopee, United States | On Site | Jan 30 |
 | **[Viasat](http://www.viasat.com)** | **[Embedded Software Engineer Intern - Viasat Government](https://jobright.ai/jobs/info/697d7b683f57a335696764a1?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Jan 30 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Information Systems](https://jobright.ai/jobs/info/697d7b48137a051025669e6c?utm_campaign=1079&utm_source=git)** | Port Washington, NY, US, 11050 | On Site | Jan 30 |
+| **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer and Winter)](https://jobright.ai/jobs/info/697ed2c4ce48107c0542e609?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697d776e137a051025669a65?utm_campaign=1079&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Solutions Architect Intern, NVIDIA Infrastructure Services - Summer 2026](https://jobright.ai/jobs/info/697d7766727747250d58602c?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 30 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Software Quality Assurance Specialist Co-Op](https://jobright.ai/jobs/info/697d74ab727747250d585d62?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 30 |
@@ -133,6 +133,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697d70c1137a0510256693ae?utm_campaign=1079&utm_source=git)** | San Ramon, California, United States | On Site | Jan 30 |
 | ↳ | **[Engineering Intern - Retail Technology](https://jobright.ai/jobs/info/697d7038727747250d5858ff?utm_campaign=1079&utm_source=git)** | San Ramon, California, United States | On Site | Jan 30 |
 | **[Checkr, Inc.](https://checkr.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/697d6f6f727747250d585841?utm_campaign=1079&utm_source=git)** | Denver, Colorado, United States | Hybrid | Jan 30 |
+| **[DigitalOcean](http://www.digitalocean.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697a9902f6fc293b0a2c80f4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - HR/Payroll Systems](https://jobright.ai/jobs/info/697d6d903f57a33569675262?utm_campaign=1079&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Empowering Tomorrow's tech leaders](https://jobright.ai/jobs/info/697d6c843f57a335696751de?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- Web Developer](https://jobright.ai/jobs/info/697d6aba727747250d585005?utm_campaign=1079&utm_source=git)** | Montvale, NJ | Hybrid | Jan 30 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Programming Intern - Application Performance Monitoring (APM)](https://jobright.ai/jobs/info/697d58963f57a33569673958?utm_campaign=1079&utm_source=git)** | Princeton, NJ | Hybrid | Jan 30 |
 | **[Nuro](https://nuro.ai)** | **[Software Engineer Intern, Pose (Vehicle State Estimation)](https://jobright.ai/jobs/info/697d5626137a05102566764d?utm_campaign=1079&utm_source=git)** | Mountain View, California (HQ) | On Site | Jan 30 |
 | **[1Password](https://1password.com)** | **[Developer Intern - Billing & Payments - Summer 2026](https://jobright.ai/jobs/info/697d5619727747250d583893?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jan 30 |
-| **[Intuitive](https://www.intuitive.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697d4dc23f57a33569671a38?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 30 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697d4b5d137a0510256657ef?utm_campaign=1079&utm_source=git)** | Santa Clara,CA | On Site | Jan 30 |
+| **[DigitalOcean](http://www.digitalocean.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697a9c638dbbf73badc7d868?utm_campaign=1079&utm_source=git)** | Seattle, WA | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
