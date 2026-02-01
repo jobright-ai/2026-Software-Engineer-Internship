@@ -57,15 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Frontend developer intern](https://jobright.ai/jobs/info/697f916babff4c399a9e32c4?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 01 |
 | **[RJMedex](https://rjmedex.com/)** | **[Sr UX/UI with Front End Developer & Back End Developer  Intern to Full Time - Hybrid](https://jobright.ai/jobs/info/697f7e20ce48107c05438a1f?utm_campaign=1079&utm_source=git)** | Germantown, MD | Hybrid | Feb 01 |
-| **[GenPark](https://genpark.ai)** | **[Frontend engineer intern](https://jobright.ai/jobs/info/697f77b3ce48107c05438990?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 01 |
-| **[Lillup](https://www.lillup.com/)** | **[Software Engineering Intern - Voice to Voice (Remote, Unpaid)](https://jobright.ai/jobs/info/697f71d77f40342e15d8255a?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Quality Assurance and Governance Intern](https://jobright.ai/jobs/info/697f71927f40342e15d8254a?utm_campaign=1079&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[IT Cloud & Infrastructure Intern](https://jobright.ai/jobs/info/68d72b2a894705799a2f1267?utm_campaign=1079&utm_source=git)** | Jackson, MS | On Site | Feb 01 |
 | **[Teradata](https://www.teradata.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/690d1f1ed046ab6061cf3144?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Engineer Intern (Ads ML Infra) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69674a38f25a38006695acfb?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 01 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Payment Network) - Global Payment - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/692ae0394c474121999ccd06?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Feb 01 |
-| **[Vexra Engineering](vexraengineering.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/697f59a67f40342e15d81d11?utm_campaign=1079&utm_source=git)** | Massachusetts, United States | Remote | Feb 01 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/692ad7b1fa28370be2697bac?utm_campaign=1079&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Feb 01 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/697efb3a7f40342e15d7b6d9?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 01 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Technology, Data and Innovation (TDI) - New York 2026](https://jobright.ai/jobs/info/690df52ad046ab6061cf9f5d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 01 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Seagate Technology](http://www.seagate.com)** | **[Firmware Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/697d7b88727747250d586511?utm_campaign=1079&utm_source=git)** | Shakopee, United States | On Site | Jan 30 |
 | **[Viasat](http://www.viasat.com)** | **[Embedded Software Engineer Intern - Viasat Government](https://jobright.ai/jobs/info/697d7b683f57a335696764a1?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Jan 30 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Information Systems](https://jobright.ai/jobs/info/697d7b48137a051025669e6c?utm_campaign=1079&utm_source=git)** | Port Washington, NY, US, 11050 | On Site | Jan 30 |
+| **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer and Winter)](https://jobright.ai/jobs/info/697ed2c4ce48107c0542e609?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 30 |
+| **[ALO](https://www.aloyoga.com/)** | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697d776e137a051025669a65?utm_campaign=1079&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
