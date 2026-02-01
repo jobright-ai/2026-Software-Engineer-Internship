@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Computer Science (OT Software)](https://jobright.ai/jobs/info/697fc112abff4c399a9e52b3?utm_campaign=1079&utm_source=git)** | Aiken, SC | On Site | Feb 01 |
+| **[Sigma](http://sigmacomputing.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697fba24ce48107c0543b941?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Feb 01 |
 | **[PrepTech Foundation](https://www.preptechfoundation.org/)** | **[Mobile App Development Intern](https://jobright.ai/jobs/info/697fae97ce48107c0543ae61?utm_campaign=1079&utm_source=git)** | Monmouth Junction, NJ | Remote | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/697fadecabff4c399a9e3c99?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[Audiokinetic](https://www.audiokinetic.com/)** | **[Intern, Software Development (Special Projects)](https://jobright.ai/jobs/info/697fa769ce48107c0543a95d?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Fire Safety Software Engineering Intern](https://jobright.ai/jobs/info/697d826b7f40342e15d64c65?utm_campaign=1079&utm_source=git)** | Troy Hills, NJ | On Site | Jan 30 |
 | **[Flatiron School](http://flatironschool.com)** | **[Post-Grad Software Engineer Apprentice Work/Study Program](https://jobright.ai/jobs/info/697d825fce48107c0541b4a9?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Testbed Infrastructure Intern 2026 (Summer 2026)](https://jobright.ai/jobs/info/6961c30ee7ed9a5731ba95fb?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Jan 30 |
-| **[Seagate Technology](http://www.seagate.com)** | **[Firmware Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/697d7b88727747250d586511?utm_campaign=1079&utm_source=git)** | Shakopee, United States | On Site | Jan 30 |
-| **[Viasat](http://www.viasat.com)** | **[Embedded Software Engineer Intern - Viasat Government](https://jobright.ai/jobs/info/697d7b683f57a335696764a1?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
