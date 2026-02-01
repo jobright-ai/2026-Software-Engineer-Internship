@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Frontend developer intern](https://jobright.ai/jobs/info/697f916babff4c399a9e32c4?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 01 |
+| **[Sigma](http://sigmacomputing.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697f9b477f40342e15d841ea?utm_campaign=1079&utm_source=git)** | San Francisco, CA and New York City, NY | On Site | Feb 01 |
+| **[Woman's Hospital](http://www.womans.org/)** | **[Information Systems - Summer Internship](https://jobright.ai/jobs/info/697f9adcce48107c0543a4e6?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Feb 01 |
 | **[RJMedex](https://rjmedex.com/)** | **[Sr UX/UI with Front End Developer & Back End Developer  Intern to Full Time - Hybrid](https://jobright.ai/jobs/info/697f7e20ce48107c05438a1f?utm_campaign=1079&utm_source=git)** | Germantown, MD | Hybrid | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Quality Assurance and Governance Intern](https://jobright.ai/jobs/info/697f71927f40342e15d8254a?utm_campaign=1079&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[IT Cloud & Infrastructure Intern](https://jobright.ai/jobs/info/68d72b2a894705799a2f1267?utm_campaign=1079&utm_source=git)** | Jackson, MS | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Viasat](http://www.viasat.com)** | **[Embedded Software Engineer Intern - Viasat Government](https://jobright.ai/jobs/info/697d7b683f57a335696764a1?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Jan 30 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Information Systems](https://jobright.ai/jobs/info/697d7b48137a051025669e6c?utm_campaign=1079&utm_source=git)** | Port Washington, NY, US, 11050 | On Site | Jan 30 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer and Winter)](https://jobright.ai/jobs/info/697ed2c4ce48107c0542e609?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 30 |
-| **[ALO](https://www.aloyoga.com/)** | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697d776e137a051025669a65?utm_campaign=1079&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
