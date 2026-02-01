@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/697e7601ce48107c0542aadc?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 31 |
+| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/697e89d9abff4c399a9d3930?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jan 31 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 Intern - Meshing (Bachelors)](https://jobright.ai/jobs/info/69626f0d2cbf4e44756c63bb?utm_campaign=1079&utm_source=git)** | Evanston, IL | Hybrid | Jan 31 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026: Software Developer Co-op, 8 Months](https://jobright.ai/jobs/info/697e3b807f40342e15d71918?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
 | ↳ | **[Summer 2026: Software Developer Co-op, 4 Months](https://jobright.ai/jobs/info/697e3adece48107c05427eba?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
