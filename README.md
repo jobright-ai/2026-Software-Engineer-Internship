@@ -60,6 +60,8 @@ For a complete list, click the following sortable link below:
 | **[Heart Aerospace](https://heartaerospace.com/)** | **[Software Engineering Intern – Flight Software](https://jobright.ai/jobs/info/697edcc3ce48107c054302da?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
 | **[First Solar](http://www.firstsolar.com)** | **[Development Engineering Intern (Spring & Summer 2026)](https://jobright.ai/jobs/info/6960276f7ebc25398eb618e7?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[Your Company](http://rick-murphy.net)** | **[Software Engineering Intern Manager](https://jobright.ai/jobs/info/697e962f7f40342e15d74b72?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
+| **[LaunchCapital](http://www.launchcapital.com)** | **[Corporate Internship Program-Technology](https://jobright.ai/jobs/info/697f03c57f40342e15d7c02d?utm_campaign=1079&utm_source=git)** | King of Prussia, PA | On Site | Jan 31 |
+| ↳ | **[Corporate Internship Program-Application Development](https://jobright.ai/jobs/info/697f02f37f40342e15d7bf21?utm_campaign=1079&utm_source=git)** | Fishers, IN | On Site | Jan 31 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 Intern - Meshing (Bachelors)](https://jobright.ai/jobs/info/69626f0d2cbf4e44756c63bb?utm_campaign=1079&utm_source=git)** | Evanston, IL | Hybrid | Jan 31 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026: Software Developer Co-op, 8 Months](https://jobright.ai/jobs/info/697e3b807f40342e15d71918?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
 | ↳ | **[Summer 2026: Software Developer Co-op, 4 Months](https://jobright.ai/jobs/info/697e3adece48107c05427eba?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NuAxis Innovations](http://www.nuaxis.com)** | **[Intern – SEG Prototyping](https://jobright.ai/jobs/info/697d5a203f57a33569673b4f?utm_campaign=1079&utm_source=git)** | Richmond, VA | On Site | Jan 30 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/697d59a0727747250d583bd4?utm_campaign=1079&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Web Developer](https://jobright.ai/jobs/info/697d593f727747250d583b46?utm_campaign=1079&utm_source=git)** | US-NJ-Montvale | Hybrid | Jan 30 |
-| **[Sid Lee](http://sidlee.com/en)** | **[Développeur·euse full-stack, stagiaire - Full-Stack Developer, Intern](https://jobright.ai/jobs/info/697d58d5727747250d583aa9?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 30 |
-| **[Genmab](https://www.genmab.com)** | **[Programming Intern - Application Performance Monitoring (APM)](https://jobright.ai/jobs/info/697d58963f57a33569673958?utm_campaign=1079&utm_source=git)** | Princeton, NJ | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
