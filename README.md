@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Audiokinetic](https://www.audiokinetic.com/)** | **[Intern, Software Development (Special Projects)](https://jobright.ai/jobs/info/697fa769ce48107c0543a95d?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697f9b477f40342e15d841ea?utm_campaign=1079&utm_source=git)** | San Francisco, CA and New York City, NY | On Site | Feb 01 |
 | **[Woman's Hospital](http://www.womans.org/)** | **[Information Systems - Summer Internship](https://jobright.ai/jobs/info/697f9adcce48107c0543a4e6?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Feb 01 |
-| **[RJMedex](https://rjmedex.com/)** | **[Sr UX/UI with Front End Developer & Back End Developer  Intern to Full Time - Hybrid](https://jobright.ai/jobs/info/697f7e20ce48107c05438a1f?utm_campaign=1079&utm_source=git)** | Germantown, MD | Hybrid | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Quality Assurance and Governance Intern](https://jobright.ai/jobs/info/697f71927f40342e15d8254a?utm_campaign=1079&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[IT Cloud & Infrastructure Intern](https://jobright.ai/jobs/info/68d72b2a894705799a2f1267?utm_campaign=1079&utm_source=git)** | Jackson, MS | On Site | Feb 01 |
 | **[Teradata](https://www.teradata.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/690d1f1ed046ab6061cf3144?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 01 |
