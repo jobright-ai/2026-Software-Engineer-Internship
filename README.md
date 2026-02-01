@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heart Aerospace](https://heartaerospace.com/)** | **[Software Engineering Intern – Flight Software](https://jobright.ai/jobs/info/697edcc3ce48107c054302da?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
 | **[First Solar](http://www.firstsolar.com)** | **[Development Engineering Intern (Spring & Summer 2026)](https://jobright.ai/jobs/info/6960276f7ebc25398eb618e7?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[Your Company](http://rick-murphy.net)** | **[Software Engineering Intern Manager](https://jobright.ai/jobs/info/697e962f7f40342e15d74b72?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 Intern - Meshing (Bachelors)](https://jobright.ai/jobs/info/69626f0d2cbf4e44756c63bb?utm_campaign=1079&utm_source=git)** | Evanston, IL | Hybrid | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Programming Intern - Application Performance Monitoring (APM)](https://jobright.ai/jobs/info/697d58963f57a33569673958?utm_campaign=1079&utm_source=git)** | Princeton, NJ | Hybrid | Jan 30 |
 | **[Nuro](https://nuro.ai)** | **[Software Engineer Intern, Pose (Vehicle State Estimation)](https://jobright.ai/jobs/info/697d5626137a05102566764d?utm_campaign=1079&utm_source=git)** | Mountain View, California (HQ) | On Site | Jan 30 |
 | **[1Password](https://1password.com)** | **[Developer Intern - Billing & Payments - Summer 2026](https://jobright.ai/jobs/info/697d5619727747250d583893?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jan 30 |
-| **[DigitalOcean](http://www.digitalocean.com)** | **[Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697a9c638dbbf73badc7d868?utm_campaign=1079&utm_source=git)** | Seattle, WA | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
