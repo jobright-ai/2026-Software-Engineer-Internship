@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PrepTech Foundation](https://www.preptechfoundation.org/)** | **[Mobile App Development Intern](https://jobright.ai/jobs/info/697fae97ce48107c0543ae61?utm_campaign=1079&utm_source=git)** | Monmouth Junction, NJ | Remote | Feb 01 |
+| **[Sigma](http://sigmacomputing.com)** | **[Software Engineer (New Grad Program)](https://jobright.ai/jobs/info/697fadecabff4c399a9e3c99?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[Audiokinetic](https://www.audiokinetic.com/)** | **[Intern, Software Development (Special Projects)](https://jobright.ai/jobs/info/697fa769ce48107c0543a95d?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/697f9b477f40342e15d841ea?utm_campaign=1079&utm_source=git)** | San Francisco, CA and New York City, NY | On Site | Feb 01 |
 | **[Woman's Hospital](http://www.womans.org/)** | **[Information Systems - Summer Internship](https://jobright.ai/jobs/info/697f9adcce48107c0543a4e6?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Testbed Infrastructure Intern 2026 (Summer 2026)](https://jobright.ai/jobs/info/6961c30ee7ed9a5731ba95fb?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Jan 30 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Firmware Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/697d7b88727747250d586511?utm_campaign=1079&utm_source=git)** | Shakopee, United States | On Site | Jan 30 |
 | **[Viasat](http://www.viasat.com)** | **[Embedded Software Engineer Intern - Viasat Government](https://jobright.ai/jobs/info/697d7b683f57a335696764a1?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Jan 30 |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Information Systems](https://jobright.ai/jobs/info/697d7b48137a051025669e6c?utm_campaign=1079&utm_source=git)** | Port Washington, NY, US, 11050 | On Site | Jan 30 |
-| **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer and Winter)](https://jobright.ai/jobs/info/697ed2c4ce48107c0542e609?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
