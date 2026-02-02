@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Autonomous Vehicle, Sensor Hardware and Technology Development (Bachelors Degree)](https://jobright.ai/jobs/info/6980c0c57f40342e15d98c66?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Feb 02 |
+| **[Travelers](https://www.travelers.com)** | **[Engineering Development Program (EDP) Co-op Intern](https://jobright.ai/jobs/info/6980c0147f40342e15d98c06?utm_campaign=1079&utm_source=git)** | CT - Hartford | Hybrid | Feb 02 |
+| **[Clark National Accounts](https://www.clarknationalaccounts.com/)** | **[Platform Internship (Summer 2026)](https://jobright.ai/jobs/info/6980b9347f40342e15d98987?utm_campaign=1079&utm_source=git)** | Lititz, PA | On Site | Feb 02 |
+| **[Acuity Insurance](http://www.acuity.com)** | **[Programmer Intern (Application Development / Data Warehouse)](https://jobright.ai/jobs/info/690e7b5244146d3b6ec54c83?utm_campaign=1079&utm_source=git)** | Sheboygan, WI | On Site | Feb 02 |
 | **[Empower](https://www.empower.com)** | **[Summer 2026 Intern- Software Engineer; API Strategy](https://jobright.ai/jobs/info/6980a885abff4c399a9f7407?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Feb 02 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer](https://jobright.ai/jobs/info/68cd2d3de23def7af55b68fd?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 02 |
 | **[Egotechworld](https://egotechworld.com/)** | **[Web Development Intern](https://jobright.ai/jobs/info/6980a459abff4c399a9f7138?utm_campaign=1079&utm_source=git)** | Mobile, AL | Remote | Feb 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marvell Technology](https://www.marvell.com/)** | **[Product Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/693173f34c474121999ef9dc?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern - Enterprise Architecture](https://jobright.ai/jobs/info/696b205d350cf43803127858?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Jan 31 |
 | **[Modular](https://www.modular.com)** | **[Mojo Compiler Intern](https://jobright.ai/jobs/info/697e0a157f40342e15d6ef99?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Jan 31 |
-| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Computational Designer (Summer)](https://jobright.ai/jobs/info/6945f0bf7d506e3808f131e3?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Jan 31 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern-SRE](https://jobright.ai/jobs/info/696b501fdb26b618950ed8a3?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Jan 31 |
-| **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/6946219c63141d188455ce71?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Jan 31 |
-| **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/6943b87350bbaf765055b276?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
