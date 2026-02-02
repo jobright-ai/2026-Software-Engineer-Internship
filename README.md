@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Motion](https://www.motion.com)** | **[Cloud Developer Intern](https://jobright.ai/jobs/info/6933d7dff131d96e48467bb4?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Feb 02 |
+| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/696dd5d3db26b6189510cc4f?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Feb 02 |
+| **[Glean](https://www.glean.com)** | **[Software Engineer, Intern (Summer 2026)](https://jobright.ai/jobs/info/68c840b695f5211cd2ce2e2c?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Feb 02 |
+| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/696b45965fc86241853a9c03?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Feb 02 |
+| ↳ | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/696dab9f5fc86241853c7391?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Feb 02 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e69a444146d3b6ec53ec9?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Feb 02 |
+| **[Motion](http://www.dragosupply.com/)** | **[Cloud Developer Intern](https://jobright.ai/jobs/info/6933d7dff131d96e48467bb4?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Feb 02 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f302319a65fd3458582cb4?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 02 |
 | ↳ | **[Embedded Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/6964d649a112b4026612b1b7?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 02 |
 | ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/694f6b0129655e4dd658f357?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 02 |
@@ -69,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Firmware & C++ Development Intern](https://jobright.ai/jobs/info/690ff324bb519377733e9fa6?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 02 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Fusion](https://jobright.ai/jobs/info/69744a4137785856350e4622?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Agile Test Developer [Vancouver]](https://jobright.ai/jobs/info/6980775549964d25b5e34346?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 02 |
-| **[GenPark](https://genpark.ai)** | **[Front End Intern](https://jobright.ai/jobs/info/69807201abff4c399a9f3fee?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 02 |
 | **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/698068a0ce48107c0544a206?utm_campaign=1079&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[2026 Summer Intern – Computational Design](https://jobright.ai/jobs/info/696503b3a112b4026612ddba?utm_campaign=1079&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Feb 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Agile Test Developer [Vancouver]](https://jobright.ai/jobs/info/69805f987f40342e15d92bb4?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Feb 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wing](https://www.wing.com/)** | **[Manufacturing Software Test Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/6945c51d63141d18845552d1?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 31 |
 | **[Exiger](http://www.exiger.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/696159d7e7ed9a5731ba1ff6?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Jan 31 |
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Intern](https://jobright.ai/jobs/info/6944e8ba94730b73987818e8?utm_campaign=1079&utm_source=git)** | Centennial, CO | On Site | Jan 31 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Dynamics & Controls - Autonomous Driving (PhD)](https://jobright.ai/jobs/info/695e24373c6a895ac5eef7a0?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
-| **[Beckman Coulter Diagnostics](http://www.beckmancoulter.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693aefcc5f2c001987ecec00?utm_campaign=1079&utm_source=git)** | Chaska, MN | Hybrid | Jan 31 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Dynamics & Controls - Autonomous Driving (PhD)](https://jobright.ai/jobs/info/695e18412847344df4739db1?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 31 |
-| **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6969c5ec639b452fb57fb5db?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
