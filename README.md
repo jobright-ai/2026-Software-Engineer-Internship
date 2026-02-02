@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[ESS Application Engineering Internship](https://jobright.ai/jobs/info/6959e924f1f8465b79f03e87?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 01 |
+| **[Auger](https://auger.com/)** | **[Software Development Engineer - Intern](https://jobright.ai/jobs/info/6980244aabff4c399a9ed55a?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Feb 01 |
 | **[Emerson](http://www.emerson.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6980192aabff4c399a9ecdb8?utm_campaign=1079&utm_source=git)** | Eden Prairie, MN | On Site | Feb 01 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/698018fa7f40342e15d8da52?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Feb 01 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/698009407f40342e15d8ce5a?utm_campaign=1079&utm_source=git)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Intern - ERP Finance Systems](https://jobright.ai/jobs/info/697daafdce48107c0541f98b?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | ↳ | **[Engineering Intern - Business Technology Operations (Foundational PIM)](https://jobright.ai/jobs/info/697daabece48107c0541f948?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | ↳ | **[Engineering Intern - Retail Technology](https://jobright.ai/jobs/info/697daabaabff4c399a9c8064?utm_campaign=1079&utm_source=git)** | San Ramon, CA | On Site | Jan 30 |
-| ↳ | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697da96babff4c399a9c7f29?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
-| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[IT Finance Technical Intern](https://jobright.ai/jobs/info/697d9d12ce48107c0541eb3c?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
