@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Airlines Reporting Corporation (ARC)](https://www.arccorp.com)** | **[Software Quality Engineer Intern](https://jobright.ai/jobs/info/6980daefabff4c399a9f9763?utm_campaign=1079&utm_source=git)** | Arlington, VA | Hybrid | Feb 02 |
+| **[Gametime](http://www.gametime.co)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6980d88c49964d25b5e39354?utm_campaign=1079&utm_source=git)** | United States - Remote | Remote | Feb 02 |
+| **[Bio-Techne](https://www.bio-techne.com)** | **[Software Quality Intern](https://jobright.ai/jobs/info/6980d80f7f40342e15d99e9b?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Feb 02 |
+| **[Accenture](https://www.accenture.com)** | **[Intern, Full Stack AI Developer May 2026](https://jobright.ai/jobs/info/6980d64f7f40342e15d99ce2?utm_campaign=1079&utm_source=git)** | Toronto, 40 King St W., Corp | On Site | Feb 02 |
 | **[Carolina Senior Marketing](https://carolinaseniormarketing.com)** | **[Web Development Intern (WordPress/Front-End)](https://jobright.ai/jobs/info/6980ccae49964d25b5e38a86?utm_campaign=1079&utm_source=git)** | Morrisville, NC | On Site | Feb 02 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69660001a112b40266140bf6?utm_campaign=1079&utm_source=git)** | Dundas, Ontario, Canada | On Site | Feb 02 |
 | **[Airlines Reporting Corporation (ARC)](https://www.arccorp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6980c8e949964d25b5e38851?utm_campaign=1079&utm_source=git)** | Arlington, VA | Hybrid | Feb 02 |
 | **[Travelers](https://www.travelers.com)** | **[Engineering Development Program (EDP) Co-op Intern](https://jobright.ai/jobs/info/6980c3a449964d25b5e382c0?utm_campaign=1079&utm_source=git)** | MA - Boston | Hybrid | Feb 02 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Autonomous Vehicle, Sensor Hardware and Technology Development (Bachelors Degree)](https://jobright.ai/jobs/info/6980c0c57f40342e15d98c66?utm_campaign=1079&utm_source=git)** | Warren, MI | Hybrid | Feb 02 |
 | **[Travelers](https://www.travelers.com)** | **[Engineering Development Program (EDP) Co-op Intern](https://jobright.ai/jobs/info/6980c0147f40342e15d98c06?utm_campaign=1079&utm_source=git)** | CT - Hartford | Hybrid | Feb 02 |
+| **[Accenture](https://www.accenture.com)** | **[Intern, Cloud Engineering May 2026](https://jobright.ai/jobs/info/6980d85d49964d25b5e39337?utm_campaign=1079&utm_source=git)** | Toronto, 40 King St W., Corp | On Site | Feb 02 |
 | **[Clark National Accounts](https://www.clarknationalaccounts.com/)** | **[Platform Internship (Summer 2026)](https://jobright.ai/jobs/info/6980b9347f40342e15d98987?utm_campaign=1079&utm_source=git)** | Lititz, PA | On Site | Feb 02 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Programmer Intern (Application Development / Data Warehouse)](https://jobright.ai/jobs/info/690e7b5244146d3b6ec54c83?utm_campaign=1079&utm_source=git)** | Sheboygan, WI | On Site | Feb 02 |
 | **[HDR](http://www.hdrinc.com)** | **[Functional ERP Intern (Summer 2026)](https://jobright.ai/jobs/info/6980cb517f40342e15d99485?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Feb 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Symetra](http://www.symetra.com)** | **[2026 Software Test Engineer Internship](https://jobright.ai/jobs/info/697e30a07f40342e15d6fe28?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Test Process & Firmware Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/697e1d22abff4c399a9ce65d?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Jan 31 |
 | ↳ | **[Firmware Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/697e189bce48107c05425cf6?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Jan 31 |
-| **[The Inland Real Estate Group of Companies, Inc.](http://www.inlandgroup.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6961bb3ae7ed9a5731ba8f3f?utm_campaign=1079&utm_source=git)** | Greater Chicago Area | On Site | Jan 31 |
-| **[Auctane](https://auctane.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69693465639b452fb57f0293?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Jan 31 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Product Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/693173f34c474121999ef9dc?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern - Enterprise Architecture](https://jobright.ai/jobs/info/696b205d350cf43803127858?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Jan 31 |
-| **[Modular](https://www.modular.com)** | **[Mojo Compiler Intern](https://jobright.ai/jobs/info/697e0a157f40342e15d6ef99?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
