@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Emerson](http://www.emerson.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698009407f40342e15d8ce5a?utm_campaign=1079&utm_source=git)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Feb 01 |
+| **[Emerson](http://www.emerson.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6980192aabff4c399a9ecdb8?utm_campaign=1079&utm_source=git)** | Eden Prairie, MN | On Site | Feb 01 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/698018fa7f40342e15d8da52?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Feb 01 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/698009407f40342e15d8ce5a?utm_campaign=1079&utm_source=git)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Feb 01 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Software Engineering Intern - Gen4 Radar - Onsite (CA)](https://jobright.ai/jobs/info/6980034dce48107c05442f24?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Feb 01 |
 | **[Egotechworld](https://egotechworld.com/)** | **[Development Intern](https://jobright.ai/jobs/info/69800304ce48107c05442f0b?utm_campaign=1079&utm_source=git)** | Mobile, AL | Remote | Feb 01 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Development Intern - Onsite (MA)](https://jobright.ai/jobs/info/698002e3ce48107c05442efc?utm_campaign=1079&utm_source=git)** | Tewksbury, MA | On Site | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Intern - Retail Technology](https://jobright.ai/jobs/info/697daabaabff4c399a9c8064?utm_campaign=1079&utm_source=git)** | San Ramon, CA | On Site | Jan 30 |
 | ↳ | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697da96babff4c399a9c7f29?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[IT Finance Technical Intern](https://jobright.ai/jobs/info/697d9d12ce48107c0541eb3c?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Jan 30 |
-| **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program- Application Development](https://jobright.ai/jobs/info/697eeeb2abff4c399a9d9c72?utm_campaign=1079&utm_source=git)** | Hagerstown, MD | On Site | Jan 30 |
-| **[KLA](https://www.kla.com)** | **[Software Intern (GPU Optimization)](https://jobright.ai/jobs/info/6961c63ba112b402661054fe?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
