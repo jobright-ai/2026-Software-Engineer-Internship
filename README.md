@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Sunrise State](https://sunrisestate.in)** | **[Ruby on Rails Developer Intern](https://jobright.ai/jobs/info/69805c567f40342e15d9288d?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 02 |
+| **[GenPark](https://genpark.ai)** | **[Full Stack Intern](https://jobright.ai/jobs/info/698059f4abff4c399a9f1bd1?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 02 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Development Intern - Onsite (MA)](https://jobright.ai/jobs/info/69803a0fabff4c399a9f0058?utm_campaign=1079&utm_source=git)** | US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord | On Site | Feb 01 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[ESS Application Engineering Internship](https://jobright.ai/jobs/info/6959e924f1f8465b79f03e87?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 01 |
@@ -96,6 +98,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d1bee221b890c27803577?utm_campaign=1079&utm_source=git)** | Anacortes, WA | On Site | Feb 01 |
 | **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/68d5f0051f7fb2169ab14c97?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 01 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Software Engineering Internship – Summer 2026](https://jobright.ai/jobs/info/690cebc14a1b456627b1b832?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 01 |
+| **[LaunchCapital](http://www.launchcapital.com)** | **[Corporate Internship Program- Application Development](https://jobright.ai/jobs/info/698058feabff4c399a9f1ab5?utm_campaign=1079&utm_source=git)** | Hagerstown, MD | On Site | Feb 01 |
 | **[Zoox](https://www.zoox.com/)** | **[Test Automation & QA Systems Intern](https://jobright.ai/jobs/info/690f1d1b44146d3b6ec5a373?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Feb 01 |
 | **[ByteDance](http://bytedance.com)** | **[Cloud Acceleration Engineer Intern (DPU & AI Infra)- 2026 Start(PHD)](https://jobright.ai/jobs/info/6964d0bd2cbf4e44756e4c76?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Feb 01 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer Intern - Industries](https://jobright.ai/jobs/info/696dcb5d5fc86241853c9f4b?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Modular](https://www.modular.com)** | **[Software Engineering Intern, Cloud Inference](https://jobright.ai/jobs/info/697db706ce48107c05420628?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Jan 31 |
 | **[Modular](https://www.modular.com)** | **[AI Kernel Engineering Intern](https://jobright.ai/jobs/info/697db3e7abff4c399a9c8abd?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697dac82ce48107c0541fb08?utm_campaign=1079&utm_source=git)** | San Ramon, CA | On Site | Jan 30 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Quality Assurance Intern](https://jobright.ai/jobs/info/697dab5b7f40342e15d69224?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Jan 30 |
-| **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - HR/Payroll Systems](https://jobright.ai/jobs/info/697dab26abff4c399a9c80db?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
-| ↳ | **[Engineering Intern - ERP Finance Systems](https://jobright.ai/jobs/info/697daafdce48107c0541f98b?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
