@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Agile Test Developer [Vancouver]](https://jobright.ai/jobs/info/6980775549964d25b5e34346?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 02 |
+| **[GenPark](https://genpark.ai)** | **[Front End Intern](https://jobright.ai/jobs/info/69807201abff4c399a9f3fee?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 02 |
 | **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/698068a0ce48107c0544a206?utm_campaign=1079&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[2026 Summer Intern – Computational Design](https://jobright.ai/jobs/info/696503b3a112b4026612ddba?utm_campaign=1079&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Feb 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Agile Test Developer [Vancouver]](https://jobright.ai/jobs/info/69805f987f40342e15d92bb4?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Feb 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69680730f25a380066965c15?utm_campaign=1079&utm_source=git)** | Lowell, MI | On Site | Jan 31 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Oliver Wyman -Vector- Software Development Intern](https://jobright.ai/jobs/info/69614b1aa112b402660fd0e9?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6944962394730b739877cb54?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 31 |
-| **[Modular](https://www.modular.com)** | **[Software Engineering Intern, Cloud Inference](https://jobright.ai/jobs/info/697db706ce48107c05420628?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Jan 31 |
-| **[Modular](https://www.modular.com)** | **[AI Kernel Engineering Intern](https://jobright.ai/jobs/info/697db3e7abff4c399a9c8abd?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
