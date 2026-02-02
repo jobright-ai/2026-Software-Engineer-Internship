@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/698068a0ce48107c0544a206?utm_campaign=1079&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
+| **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[2026 Summer Intern – Computational Design](https://jobright.ai/jobs/info/696503b3a112b4026612ddba?utm_campaign=1079&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Feb 02 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Agile Test Developer [Vancouver]](https://jobright.ai/jobs/info/69805f987f40342e15d92bb4?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Feb 02 |
 | **[The Sunrise State](https://sunrisestate.in)** | **[Ruby on Rails Developer Intern](https://jobright.ai/jobs/info/69805c567f40342e15d9288d?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 02 |
-| **[GenPark](https://genpark.ai)** | **[Full Stack Intern](https://jobright.ai/jobs/info/698059f4abff4c399a9f1bd1?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 02 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Development Intern - Onsite (MA)](https://jobright.ai/jobs/info/69803a0fabff4c399a9f0058?utm_campaign=1079&utm_source=git)** | US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord | On Site | Feb 01 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[ESS Application Engineering Internship](https://jobright.ai/jobs/info/6959e924f1f8465b79f03e87?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 01 |
@@ -115,7 +117,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026: Software Developer Co-op, 4 Months](https://jobright.ai/jobs/info/697e3adece48107c05427eba?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Software Test Engineer Internship](https://jobright.ai/jobs/info/697e30a07f40342e15d6fe28?utm_campaign=1079&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/697e2d17abff4c399a9ceb6f?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Software Engineering (12-month) - Burlington, ON, Canada](https://jobright.ai/jobs/info/697e23c6abff4c399a9ce906?utm_campaign=1079&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jan 31 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Test Process & Firmware Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/697e1d22abff4c399a9ce65d?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Jan 31 |
 | ↳ | **[Firmware Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/697e189bce48107c05425cf6?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Jan 31 |
 | **[The Inland Real Estate Group of Companies, Inc.](http://www.inlandgroup.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6961bb3ae7ed9a5731ba8f3f?utm_campaign=1079&utm_source=git)** | Greater Chicago Area | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intuitive](https://www.intuitive.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6944962394730b739877cb54?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 31 |
 | **[Modular](https://www.modular.com)** | **[Software Engineering Intern, Cloud Inference](https://jobright.ai/jobs/info/697db706ce48107c05420628?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Jan 31 |
 | **[Modular](https://www.modular.com)** | **[AI Kernel Engineering Intern](https://jobright.ai/jobs/info/697db3e7abff4c399a9c8abd?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Jan 30 |
-| **[ALO](https://www.aloyoga.com/)** | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697dac82ce48107c0541fb08?utm_campaign=1079&utm_source=git)** | San Ramon, CA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
