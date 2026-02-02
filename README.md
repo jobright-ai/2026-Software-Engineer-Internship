@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PanAgora Asset Management](http://www.panagora.com)** | **[Summer 2026 Intern- Software Engineer; API Strategy](https://jobright.ai/jobs/info/697fdab4abff4c399a9e84a3?utm_campaign=1079&utm_source=git)** | CO Greenwood Village | On Site | Feb 01 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Software Engineering Intern - Gen4 Radar - Onsite (CA)](https://jobright.ai/jobs/info/697fd3c9abff4c399a9e79bf?utm_campaign=1079&utm_source=git)** | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 | On Site | Feb 01 |
 | **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/697fcb4fce48107c0543d977?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 01 |
 | **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Computer Science (OT Software)](https://jobright.ai/jobs/info/697fc112abff4c399a9e52b3?utm_campaign=1079&utm_source=git)** | Aiken, SC | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Associate Software Engineer Internship](https://jobright.ai/jobs/info/697d833bce48107c0541b551?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Jan 30 |
 | **[Zefr](http://www.zefr.com)** | **[Quality Assurance Engineering Intern](https://jobright.ai/jobs/info/697adcd31423772304eac0d4?utm_campaign=1079&utm_source=git)** | Marina del Rey, CA | Hybrid | Jan 30 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/697d827f7f40342e15d64c7e?utm_campaign=1079&utm_source=git)** | Maine, United States | Remote | Jan 30 |
-| **[Siemens](https://www.siemens.com)** | **[Fire Safety Software Engineering Intern](https://jobright.ai/jobs/info/697d826b7f40342e15d64c65?utm_campaign=1079&utm_source=git)** | Troy Hills, NJ | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
