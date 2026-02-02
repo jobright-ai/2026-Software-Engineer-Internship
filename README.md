@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Emerson](http://www.emerson.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698009407f40342e15d8ce5a?utm_campaign=1079&utm_source=git)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Feb 01 |
+| **[Raytheon](http://www.bbn.com)** | **[2026 Software Engineering Intern - Gen4 Radar - Onsite (CA)](https://jobright.ai/jobs/info/6980034dce48107c05442f24?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Feb 01 |
+| **[Egotechworld](https://egotechworld.com/)** | **[Development Intern](https://jobright.ai/jobs/info/69800304ce48107c05442f0b?utm_campaign=1079&utm_source=git)** | Mobile, AL | Remote | Feb 01 |
+| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Development Intern - Onsite (MA)](https://jobright.ai/jobs/info/698002e3ce48107c05442efc?utm_campaign=1079&utm_source=git)** | Tewksbury, MA | On Site | Feb 01 |
 | **[Interra Credit Union](http://interracu.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/697ffe5b7f40342e15d8c512?utm_campaign=1079&utm_source=git)** | Goshen, Indiana, United States | On Site | Feb 01 |
 | **[PanAgora Asset Management](http://www.panagora.com)** | **[Summer 2026 Intern- Software Engineer; API Strategy](https://jobright.ai/jobs/info/697fdab4abff4c399a9e84a3?utm_campaign=1079&utm_source=git)** | CO Greenwood Village | On Site | Feb 01 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Software Engineering Intern - Gen4 Radar - Onsite (CA)](https://jobright.ai/jobs/info/697fd3c9abff4c399a9e79bf?utm_campaign=1079&utm_source=git)** | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 | On Site | Feb 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[IT Finance Technical Intern](https://jobright.ai/jobs/info/697d9d12ce48107c0541eb3c?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Jan 30 |
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program- Application Development](https://jobright.ai/jobs/info/697eeeb2abff4c399a9d9c72?utm_campaign=1079&utm_source=git)** | Hagerstown, MD | On Site | Jan 30 |
 | **[KLA](https://www.kla.com)** | **[Software Intern (GPU Optimization)](https://jobright.ai/jobs/info/6961c63ba112b402661054fe?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Jan 30 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Quality Assurance Intern](https://jobright.ai/jobs/info/697d8c0cabff4c399a9c4c61?utm_campaign=1079&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Solutions Architect Intern, NVIDIA Infrastructure Services - Summer 2026](https://jobright.ai/jobs/info/697d8616abff4c399a9c3d59?utm_campaign=1079&utm_source=git)** | North Billings, ND | On Site | Jan 30 |
-| **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern - Viasat Government](https://jobright.ai/jobs/info/697d83fece48107c0541b5d1?utm_campaign=1079&utm_source=git)** | Marlborough, MA | On Site | Jan 30 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Associate Software Engineer Internship](https://jobright.ai/jobs/info/697d833bce48107c0541b551?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
