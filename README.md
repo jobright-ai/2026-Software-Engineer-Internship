@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moloco](http://www.moloco.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d70e1b45853d0e39ccc8a9?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Feb 03 |
+| **[Dometic](https://www.dometic.com)** | **[Quality Assurance Engineering Intern](https://jobright.ai/jobs/info/692e354cfa28370be26a2457?utm_campaign=1079&utm_source=git)** | Elkhart, IN | Hybrid | Feb 03 |
+| **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fe2476a51a4307bc9c88?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | On Site | Feb 03 |
+| **[Nordson Corporation](http://www.nordson.com)** | **[Intern (Computer Engineering)](https://jobright.ai/jobs/info/69745804206da320f49e9194?utm_campaign=1079&utm_source=git)** | Duluth, GA | On Site | Feb 03 |
 | **[ITW](http://www.itw.com/)** | **[2026 Software Engineer Intern](https://jobright.ai/jobs/info/6981de30a314e76369053e6b?utm_campaign=1079&utm_source=git)** | Rogers - 55374 | On Site | Feb 03 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[V.I.E. Front Office Developer](https://jobright.ai/jobs/info/6981ddcfc3101f1400c38b5d?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Feb 03 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69676ea41703f05405a91ed9?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Feb 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Verkada](https://www.verkada.com)** | **[iOS Engineering Intern - Native Streaming Clients Team 2026](https://jobright.ai/jobs/info/69811af4abff4c399a9feb3d?utm_campaign=1079&utm_source=git)** | San Mateo, CA United States | On Site | Feb 02 |
 | **[ARA](https://www.ara.com)** | **[Technical Intern 1](https://jobright.ai/jobs/info/69811ab9abff4c399a9feae7?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Feb 02 |
 | **[Varex Imaging Corporation](https://www.vareximaging.com/)** | **[Computer Science Intern](https://jobright.ai/jobs/info/69811a1049964d25b5e3e810?utm_campaign=1079&utm_source=git)** | Salt Lake City | On Site | Feb 02 |
-| **[Citi](https://www.citi.com)** | **[Technology- Application Development, Summer Analyst, Mississauga, Canada 2026](https://jobright.ai/jobs/info/6917160b3ea85638ae1c7a96?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 02 |
-| **[Viant Technology](http://viantinc.com/)** | **[Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69653d8ca112b4026613159c?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Feb 02 |
-| **[Red Hat](http://www.redhat.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/696f13909c3c52633455d779?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Feb 02 |
-| **[Resmed](https://www.resmed.com.au)** | **[Software Engineer Intern (GoScripts)](https://jobright.ai/jobs/info/6981154babff4c399a9fe398?utm_campaign=1079&utm_source=git)** | Halifax, Canada | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
