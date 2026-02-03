@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[dataing](https://www.dataing.io/)** | **[SWE Intern – Consumer AI Startup ❤️❤️](https://jobright.ai/jobs/info/69824b07348f733a5c35179d?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 03 |
+| **[Bio-Techne](https://www.bio-techne.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/698251590f6f7e7a2cdb77c7?utm_campaign=1079&utm_source=git)** | Wallingford, CT | On Site | Feb 03 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Software Development Intern, Year-Round (January Start)](https://jobright.ai/jobs/info/69824a39348f733a5c35170a?utm_campaign=1079&utm_source=git)** | Orono, ME | On Site | Feb 03 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineer - Summer 2026 Internship](https://jobright.ai/jobs/info/698246c10f6f7e7a2cdb6fce?utm_campaign=1079&utm_source=git)** | Westminster, CO | Hybrid | Feb 03 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698243870f6f7e7a2cdb6cbe?utm_campaign=1079&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Feb 03 |
@@ -75,9 +75,11 @@ For a complete list, click the following sortable link below:
 | **[MGIC](https://www.mgic.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/698230b3a314e7636905906a?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Feb 03 |
 | **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/69822dbdc3101f1400c3d268?utm_campaign=1079&utm_source=git)** | Montreal,Quebec,Canada | On Site | Feb 03 |
 | **[PanAgora Asset Management](http://www.panagora.com)** | **[Summer 2026 Intern- Software Engineer; Application Development](https://jobright.ai/jobs/info/69822cd60f6f7e7a2cdb4845?utm_campaign=1079&utm_source=git)** | CO Greenwood Village | On Site | Feb 03 |
+| **[Flatiron School](http://flatironschool.com)** | **[Entry-Level Software Developer Apprenticeship](https://jobright.ai/jobs/info/698253de0a9e07331f8d51fd?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 03 |
 | **[XTrace](https://xtrace.ai)** | **[Product Engineering Intern (GTM & Demos & DevRel)](https://jobright.ai/jobs/info/698244170f6f7e7a2cdb6d59?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Feb 03 |
 | **[Powell](http://www.powellind.com)** | **[R&D Software Engineering Intern](https://jobright.ai/jobs/info/698242c3c3101f1400c3f32a?utm_campaign=1079&utm_source=git)** | 7232 Airport Blvd, Houston, TX, 77061, US | On Site | Feb 03 |
 | **[Anomali](http://www.anomali.com)** | **[Software Engineer Internship 2026 (onsite Redwood City, CA)](https://jobright.ai/jobs/info/698246fa0f6f7e7a2cdb700a?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Feb 03 |
+| **[Acephalt](www.acephalt.com)** | **[Computer Science Intern](https://jobright.ai/jobs/info/698252250f6f7e7a2cdb78d1?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 03 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Full Stack Intern](https://jobright.ai/jobs/info/69824522c3101f1400c3f4cf?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 03 |
 | **[EvidentABA](evidentaba.com)** | **[Computer Science Intern](https://jobright.ai/jobs/info/69821e34a314e763690576c1?utm_campaign=1079&utm_source=git)** | Lake Forest, IL | On Site | Feb 03 |
 | **[DataVisor](http://www.datavisor.com)** | **[Backend Software Engineer Internship Spring 2026](https://jobright.ai/jobs/info/69823f430f6f7e7a2cdb6953?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Feb 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Proposals](https://jobright.ai/jobs/info/698164c849964d25b5e45a14?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 02 |
 | **[Sterling](http://www.sterling.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69816efc49964d25b5e4694f?utm_campaign=1079&utm_source=git)** | North Sioux City, SD, US | On Site | Feb 02 |
 | **[Encore](https://www.encoreglobal.com/)** | **[IT Intern, Oracle ERP – Summer 2026](https://jobright.ai/jobs/info/6981708149964d25b5e46a6a?utm_campaign=1079&utm_source=git)** | Schiller Park, Illinois, United States | On Site | Feb 02 |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Information Systems](https://jobright.ai/jobs/info/697e02aace48107c054243a1?utm_campaign=1079&utm_source=git)** | Port Washington, NY | On Site | Feb 02 |
-| **[Trilon Group](https://www.trilongroup.com/)** | **[Transportation/Community Infrastructure Engineering Intern](https://jobright.ai/jobs/info/6981654a49964d25b5e45aaa?utm_campaign=1079&utm_source=git)** | Spokane, WA | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
