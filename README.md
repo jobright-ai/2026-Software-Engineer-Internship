@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Agile Defense](https://agiledefense.com)** | **[Intern](https://jobright.ai/jobs/info/69823117a314e763690591a3?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 03 |
+| **[MGIC](https://www.mgic.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/698230b3a314e7636905906a?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Feb 03 |
+| **[GenPark](https://genpark.ai)** | **[Frontend intern](https://jobright.ai/jobs/info/69822eadc3101f1400c3d5b9?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Feb 03 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Fullstack Development Intern / Remote - Unpaid](https://jobright.ai/jobs/info/69822e08a314e76369058763?utm_campaign=1079&utm_source=git)** | Boston, MA | Remote | Feb 03 |
+| **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/69822dbdc3101f1400c3d268?utm_campaign=1079&utm_source=git)** | Montreal,Quebec,Canada | On Site | Feb 03 |
+| **[PanAgora Asset Management](http://www.panagora.com)** | **[Summer 2026 Intern- Software Engineer; Application Development](https://jobright.ai/jobs/info/69822cd60f6f7e7a2cdb4845?utm_campaign=1079&utm_source=git)** | CO Greenwood Village | On Site | Feb 03 |
 | **[EvidentABA](evidentaba.com)** | **[Computer Science Intern](https://jobright.ai/jobs/info/69821e34a314e763690576c1?utm_campaign=1079&utm_source=git)** | Lake Forest, IL | On Site | Feb 03 |
-| **[Philo Homes](https://philo.homes/)** | **[Software Engineer Intern (iOS App Development)_Mandarin Bilingual](https://jobright.ai/jobs/info/69821e0cc3101f1400c3c2f4?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Feb 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - AI Platform Engineering- DevEx, laC, & LLMOps](https://jobright.ai/jobs/info/69821364a314e76369057031?utm_campaign=1079&utm_source=git)** | Newport Beach, CA, US, 92660 | Hybrid | Feb 03 |
 | **[Maximus](http://www.maximus.com/)** | **[Internship - Technical Architect](https://jobright.ai/jobs/info/69821218c3101f1400c3bb80?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | Feb 03 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69822e53c3101f1400c3d45c?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Feb 03 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Post-Bachelor's Intern](https://jobright.ai/jobs/info/69820fa8c3101f1400c3ba73?utm_campaign=1079&utm_source=git)** | Los Alamos, NM | Hybrid | Feb 03 |
-| **[Construction Specialties](https://www.c-sgroup.com/)** | **[Oracle HCM Intern](https://jobright.ai/jobs/info/69820e06c3101f1400c3b9b7?utm_campaign=1079&utm_source=git)** | Lebanon, NJ | On Site | Feb 03 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/6948bdbb7d506e3808f3ed9c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 03 |
 | ↳ | **[Software Engineering Intern (Circuit Simulation)](https://jobright.ai/jobs/info/6933ba9af131d96e4846670c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 03 |
 | ↳ | **[Software Engineering Intern - Circuit Simulation](https://jobright.ai/jobs/info/6933a267a0dde7020e2eff10?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Technology, Application Development, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/69162339286ccf0a15132c67?utm_campaign=1079&utm_source=git)** | Tampa, FL | Hybrid | Feb 02 |
 | ↳ | **[Technology, Application Development, Summer Analyst, New York/New Jersey - USA, 2026](https://jobright.ai/jobs/info/69161df56f36db06ef0530c3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[Halo Industries, Inc.](http://www.halo-industries.com)** | **[Software Engineer Intern - Computer Vision and Algorithms](https://jobright.ai/jobs/info/6981493349964d25b5e42bf7?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Feb 02 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Software and Test Engineer for Space and Embedded Crypto Solutions](https://jobright.ai/jobs/info/6981285d7f40342e15da0a71?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Feb 02 |
-| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Information Technology - Intern](https://jobright.ai/jobs/info/698124d149964d25b5e3f43e?utm_campaign=1079&utm_source=git)** | Ridgefield, CT | Hybrid | Feb 02 |
-| **[Avanade](http://www.avanade.com)** | **[Intern, Cloud Engineering May 2026](https://jobright.ai/jobs/info/698143c949964d25b5e42761?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
-| ↳ | **[Intern, Full Stack AI Developer May 2026](https://jobright.ai/jobs/info/69814b0c7f40342e15da4eec?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
-| **[Allegion](https://www.allegion.com)** | **[Summer Intern - Software Engineering - Platform Software](https://jobright.ai/jobs/info/6981247dabff4c399a9ff990?utm_campaign=1079&utm_source=git)** | Golden, CO | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
