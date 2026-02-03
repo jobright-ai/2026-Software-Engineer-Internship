@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/6981960aabff4c399aa0b47e?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 02 |
+| **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Software Test Intern - Signal Integrity/Power Integrity (Summer 2026; EDA)](https://jobright.ai/jobs/info/69819242abff4c399aa0b147?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Feb 02 |
+| **[Allegion](https://www.allegion.com)** | **[Summer Intern – Firmware Engineer (Advanced Development)](https://jobright.ai/jobs/info/698191d0abff4c399aa0b0f9?utm_campaign=1079&utm_source=git)** | Greater Indianapolis | On Site | Feb 02 |
+| **[XTrace](https://xtrace.ai)** | **[Product Engineering Intern (GTM & Demos & DevRel)](https://jobright.ai/jobs/info/698191b57f40342e15dab988?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
+| **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Software Development & Quality Assurance Intern (Summer 2026; EBS)](https://jobright.ai/jobs/info/69818bd0abff4c399aa0ad73?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Feb 02 |
+| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: High Performance Computing (HPC) Software Development Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/698188e2abff4c399aa0a9b3?utm_campaign=1079&utm_source=git)** | Troy, MI | Remote | Feb 02 |
 | **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Typescript / Nest.js, Postgres, Docker, Microservices, AI/ML - Backend Development Internship](https://jobright.ai/jobs/info/6981833a7f40342e15da8ddb?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 02 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Quality Assurance Ops](https://jobright.ai/jobs/info/69818180abff4c399aa08acf?utm_campaign=1079&utm_source=git)** | Georgetown, Ontario, Canada | On Site | Feb 02 |
 | **[Travelers](https://www.travelers.com)** | **[Engineering Development Program (EDP) Co-op Intern](https://jobright.ai/jobs/info/69817a9fabff4c399aa07ebb?utm_campaign=1079&utm_source=git)** | Hartford, CT | Hybrid | Feb 02 |
@@ -108,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[IT Finance Technical Intern](https://jobright.ai/jobs/info/697d9d12ce48107c0541eb3c?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Feb 02 |
 | **[BW Converting](http://www.bwconverting.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69812c18abff4c399aa00af9?utm_campaign=1079&utm_source=git)** | Green Bay, WI | On Site | Feb 02 |
 | **[Tektronix](http://www.tek.com)** | **[Software Engineering Intern (MECOP) – 2026](https://jobright.ai/jobs/info/698147eaabff4c399aa02ed4?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Feb 02 |
-| **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Information Systems Technology](https://jobright.ai/jobs/info/6981474949964d25b5e42acb?utm_campaign=1079&utm_source=git)** | Chesterfield, VA | On Site | Feb 02 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineering Intern (MECOP)](https://jobright.ai/jobs/info/698129df49964d25b5e40027?utm_campaign=1079&utm_source=git)** | Salem, OR | On Site | Feb 02 |
 | **[Avathon](https://avathon.com)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6981295749964d25b5e3fe6b?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Feb 02 |
 | **[Citi](https://www.citi.com)** | **[Technology, Application Development, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/69162339286ccf0a15132c67?utm_campaign=1079&utm_source=git)** | Tampa, FL | Hybrid | Feb 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Quality Assurance Ops](https://jobright.ai/jobs/info/698122147f40342e15d9ffe7?utm_campaign=1079&utm_source=git)** | Georgetown, ON | Hybrid | Feb 02 |
 | **[Cerebrone.ai](https://cerebrone.ai)** | **[Java Intern](https://jobright.ai/jobs/info/698120077f40342e15d9fca7?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Feb 02 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Undergraduate/Graduate (Year-Round) Intern - Transportation Research Software Engineering](https://jobright.ai/jobs/info/69812728abff4c399a9ffe0e?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 02 |
-| **[DispatchIt](https://www.dispatchit.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698126bdabff4c399a9ffcd4?utm_campaign=1079&utm_source=git)** | Bloomington, MN | Hybrid | Feb 02 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 IT Infrastructure & Engineering Intern](https://jobright.ai/jobs/info/6980ff80abff4c399a9fcddc?utm_campaign=1079&utm_source=git)** | Knoxville, TN | On Site | Feb 02 |
-| **[Vertosoft](https://www.vertosoft.com)** | **[Development Intern](https://jobright.ai/jobs/info/6980ff6eabff4c399a9fcdc1?utm_campaign=1079&utm_source=git)** | Leesburg, VA | Hybrid | Feb 02 |
-| **[HDR](http://www.hdrinc.com)** | **[Functional ERP Intern (Summer 2026)](https://jobright.ai/jobs/info/6980fec8abff4c399a9fccec?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Feb 02 |
-| **[Alfa Insurance](https://www.alfainsurance.com)** | **[Future Opening:  Technology Intern](https://jobright.ai/jobs/info/6980fe6d49964d25b5e3ca38?utm_campaign=1079&utm_source=git)** | Montgomery, AL 36116 | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
