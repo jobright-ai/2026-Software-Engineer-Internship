@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EvidentABA](evidentaba.com)** | **[Computer Science Intern](https://jobright.ai/jobs/info/69821e34a314e763690576c1?utm_campaign=1079&utm_source=git)** | Lake Forest, IL | On Site | Feb 03 |
+| **[Philo Homes](https://philo.homes/)** | **[Software Engineer Intern (iOS App Development)_Mandarin Bilingual](https://jobright.ai/jobs/info/69821e0cc3101f1400c3c2f4?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Feb 03 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - AI Platform Engineering- DevEx, laC, & LLMOps](https://jobright.ai/jobs/info/69821364a314e76369057031?utm_campaign=1079&utm_source=git)** | Newport Beach, CA, US, 92660 | Hybrid | Feb 03 |
 | **[Maximus](http://www.maximus.com/)** | **[Internship - Technical Architect](https://jobright.ai/jobs/info/69821218c3101f1400c3bb80?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | Feb 03 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Post-Bachelor's Intern](https://jobright.ai/jobs/info/69820fa8c3101f1400c3ba73?utm_campaign=1079&utm_source=git)** | Los Alamos, NM | Hybrid | Feb 03 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[Oracle HCM Intern](https://jobright.ai/jobs/info/69820e06c3101f1400c3b9b7?utm_campaign=1079&utm_source=git)** | Lebanon, NJ | On Site | Feb 03 |
@@ -132,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Shawmut Design and Construction](http://www.shawmut.com)** | **[Intern/Coop- Software Development](https://jobright.ai/jobs/info/69817a0749964d25b5e47234?utm_campaign=1079&utm_source=git)** | US-MA-Boston | Hybrid | Feb 02 |
 | ↳ | **[Intern/Coop- Software Development](https://jobright.ai/jobs/info/69815f47abff4c399aa0565e?utm_campaign=1079&utm_source=git)** | Boston, MA, US | Hybrid | Feb 02 |
 | **[Munters](https://www.munters.com/)** | **[Software Engineering Internships & New Grad Roles](https://jobright.ai/jobs/info/69813afc49964d25b5e42046?utm_campaign=1079&utm_source=git)** | Dunwoody, GA | Hybrid | Feb 02 |
-| **[Dynamic Engineering Consultants, PC](http://dynamicec.com)** | **[IT Intern - Dynamic Engineering](https://jobright.ai/jobs/info/6981572449964d25b5e44ab2?utm_campaign=1079&utm_source=git)** | US-NJ-Lake Como | On Site | Feb 02 |
-| ↳ | **[IT Intern - Dynamic Engineering](https://jobright.ai/jobs/info/69815775abff4c399aa04e9b?utm_campaign=1079&utm_source=git)** | Lake Como, NJ, US | On Site | Feb 02 |
+| **[Dynamic Engineering Consultants, PC](http://dynamicec.com)** | **[IT Intern - Dynamic Engineering](https://jobright.ai/jobs/info/69815775abff4c399aa04e9b?utm_campaign=1079&utm_source=git)** | Lake Como, NJ, US | On Site | Feb 02 |
+| ↳ | **[IT Intern - Dynamic Engineering](https://jobright.ai/jobs/info/6981572449964d25b5e44ab2?utm_campaign=1079&utm_source=git)** | US-NJ-Lake Como | On Site | Feb 02 |
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6944513f50bbaf7650564ecf?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Feb 02 |
 | **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6981394949964d25b5e41d87?utm_campaign=1079&utm_source=git)** | Green Bay, WI | On Site | Feb 02 |
 | **[BMO](http://www.bmo.com)** | **[Junior Software Developer, Summer 2026  (Co-op/Internship) – 4 Months](https://jobright.ai/jobs/info/6981384749964d25b5e41c47?utm_campaign=1079&utm_source=git)** | New York, NY, USA | On Site | Feb 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avanade](http://www.avanade.com)** | **[Intern, Cloud Engineering May 2026](https://jobright.ai/jobs/info/698143c949964d25b5e42761?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
 | ↳ | **[Intern, Full Stack AI Developer May 2026](https://jobright.ai/jobs/info/69814b0c7f40342e15da4eec?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern - Software Engineering - Platform Software](https://jobright.ai/jobs/info/6981247dabff4c399a9ff990?utm_campaign=1079&utm_source=git)** | Golden, CO | On Site | Feb 02 |
-| **[Oak Ridge National Laboratory](http://www.ornl.gov/)** | **[Postdoctoral Research Associate - HPC System Architecture and Intelligent Storage Design](https://jobright.ai/jobs/info/69652f672cbf4e44756ea97c?utm_campaign=1079&utm_source=git)** | Oak Ridge, TN | On Site | Feb 02 |
-| **[Schneider Electric](https://www.se.com)** | **[Application Engineer Intern](https://jobright.ai/jobs/info/6981246e49964d25b5e3f3ea?utm_campaign=1079&utm_source=git)** | Lyndhurst, NJ | On Site | Feb 02 |
-| **[Airlines Reporting Corporation (ARC)](https://www.arccorp.com)** | **[Software Quality Engineer Intern](https://jobright.ai/jobs/info/6981245f49964d25b5e3f3dd?utm_campaign=1079&utm_source=git)** | Tampa, FL | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
