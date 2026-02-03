@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AtriCure, Inc.](http://atricure.com)** | **[Engineering Co-op - Fall 2026](https://jobright.ai/jobs/info/6981564b7f40342e15da58a8?utm_campaign=1079&utm_source=git)** | Minnetonka, MN | On Site | Feb 02 |
 | **[Mission Critical Partners](http://missioncriticalpartners.com)** | **[Quality Assurance Specialist Internship](https://jobright.ai/jobs/info/69814a3449964d25b5e4383e?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 02 |
 | **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952cecc935649778e208e3d?utm_campaign=1079&utm_source=git)** | US > New Jersey > Mt Laurel | On Site | Feb 02 |
 | **[The Forge Interactive, Inc](https://theforge.dev/)** | **[GPU Driven Rendering Internship](https://jobright.ai/jobs/info/6981445149964d25b5e42804?utm_campaign=1079&utm_source=git)** | Solana Beach, CA | On Site | Feb 02 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6981432549964d25b5e426c5?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Feb 02 |
 | **[Munters](https://www.munters.com/)** | **[Software Engineering Internships & New Grad Roles](https://jobright.ai/jobs/info/69813afc49964d25b5e42046?utm_campaign=1079&utm_source=git)** | Dunwoody, GA | Hybrid | Feb 02 |
+| **[Dynamic Engineering Consultants, PC](http://dynamicec.com)** | **[IT Intern - Dynamic Engineering](https://jobright.ai/jobs/info/6981572449964d25b5e44ab2?utm_campaign=1079&utm_source=git)** | US-NJ-Lake Como | On Site | Feb 02 |
+| ↳ | **[IT Intern - Dynamic Engineering](https://jobright.ai/jobs/info/69815775abff4c399aa04e9b?utm_campaign=1079&utm_source=git)** | Lake Como, NJ, US | On Site | Feb 02 |
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6944513f50bbaf7650564ecf?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Feb 02 |
 | **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6981394949964d25b5e41d87?utm_campaign=1079&utm_source=git)** | Green Bay, WI | On Site | Feb 02 |
 | **[BMO](http://www.bmo.com)** | **[Junior Software Developer, Summer 2026  (Co-op/Internship) – 4 Months](https://jobright.ai/jobs/info/6981384749964d25b5e41c47?utm_campaign=1079&utm_source=git)** | New York, NY, USA | On Site | Feb 02 |
@@ -122,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Alfa Insurance](https://www.alfainsurance.com)** | **[Future Opening:  Technology Intern](https://jobright.ai/jobs/info/6980fe6d49964d25b5e3ca38?utm_campaign=1079&utm_source=git)** | Montgomery, AL 36116 | On Site | Feb 02 |
 | **[Teledyne Brown Engineering](http://www.tbe.com)** | **[NHRC Software Engineer Internship](https://jobright.ai/jobs/info/6980fce57f40342e15d9d470?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Feb 02 |
 | ↳ | **[NHRC Software Engineering Internship](https://jobright.ai/jobs/info/6980fc747f40342e15d9d3ec?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Feb 02 |
-| **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Application Delivery Intern](https://jobright.ai/jobs/info/69811c5749964d25b5e3ea33?utm_campaign=1079&utm_source=git)** | Rolling Meadows, IL | Hybrid | Feb 02 |
-| ↳ | **[Application Delivery Intern](https://jobright.ai/jobs/info/6981215349964d25b5e3f064?utm_campaign=1079&utm_source=git)** | Naperville, IL | Hybrid | Feb 02 |
+| **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Application Delivery Intern](https://jobright.ai/jobs/info/6981215349964d25b5e3f064?utm_campaign=1079&utm_source=git)** | Naperville, IL | Hybrid | Feb 02 |
+| ↳ | **[Application Delivery Intern](https://jobright.ai/jobs/info/69811c5749964d25b5e3ea33?utm_campaign=1079&utm_source=git)** | Rolling Meadows, IL | Hybrid | Feb 02 |
 | **[Avathon](https://avathon.com)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6980f912abff4c399a9fc5f9?utm_campaign=1079&utm_source=git)** | Pleasanton, California, United States | On Site | Feb 02 |
 | **[Sceye](https://www.sceye.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6980f84f49964d25b5e3c338?utm_campaign=1079&utm_source=git)** | Moriarty, NM | On Site | Feb 02 |
 | **[Stoke Space](https://www.stokespace.com)** | **[Fall 2026 Internship - Software](https://jobright.ai/jobs/info/6980f7f1abff4c399a9fc4ae?utm_campaign=1079&utm_source=git)** | Kent, Washington | On Site | Feb 02 |
@@ -134,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Stoke Space](https://www.stokespace.com)** | **[Fall 2026 Internship - Software](https://jobright.ai/jobs/info/6980f566abff4c399a9fc2d3?utm_campaign=1079&utm_source=git)** | Kent, WA | On Site | Feb 02 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[WB Games NetherRealm Software Engineering Intern Co-op: Chicago - Jun-Dec 2026](https://jobright.ai/jobs/info/69811bd17f40342e15d9f68c?utm_campaign=1079&utm_source=git)** | IL Chicago 2650A W Bradley Place | Hybrid | Feb 02 |
 | **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Application Delivery Intern](https://jobright.ai/jobs/info/698114b949964d25b5e3e302?utm_campaign=1079&utm_source=git)** | Milwaukee WI | Hybrid | Feb 02 |
-| ↳ | **[Application Delivery Intern](https://jobright.ai/jobs/info/69811a437f40342e15d9f42d?utm_campaign=1079&utm_source=git)** | Rolling Meadows IL | Hybrid | Feb 02 |
 | ↳ | **[Application Delivery Intern](https://jobright.ai/jobs/info/69811604abff4c399a9fe42c?utm_campaign=1079&utm_source=git)** | Naperville IL | Hybrid | Feb 02 |
+| ↳ | **[Application Delivery Intern](https://jobright.ai/jobs/info/69811a437f40342e15d9f42d?utm_campaign=1079&utm_source=git)** | Rolling Meadows IL | Hybrid | Feb 02 |
 | **[Soleo Health](https://www.soleohealth.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698115df7f40342e15d9f062?utm_campaign=1079&utm_source=git)** | Chesterfield, MO | Hybrid | Feb 02 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 IT Developer Intern](https://jobright.ai/jobs/info/698110577f40342e15d9eb30?utm_campaign=1079&utm_source=git)** | Knoxville, TN | On Site | Feb 02 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern - Software Engineering - Platform Software](https://jobright.ai/jobs/info/6980f2b2abff4c399a9fc034?utm_campaign=1079&utm_source=git)** | Golden, CO | On Site | Feb 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Teledyne Judson Technologies](http://www.teledynejudson.com/)** | **[NHRC Software Engineering Internship](https://jobright.ai/jobs/info/6980e04cabff4c399a9f9dd3?utm_campaign=1079&utm_source=git)** | US - Huntsville, AL | On Site | Feb 02 |
 | **[London Computer Systems](https://www.lcs.com/)** | **[Software Developer Co-op/Intern](https://jobright.ai/jobs/info/6980fc25abff4c399a9fc996?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Feb 02 |
 | **[Airlines Reporting Corporation (ARC)](https://www.arccorp.com)** | **[Software Quality Engineer Intern](https://jobright.ai/jobs/info/6980daefabff4c399a9f9763?utm_campaign=1079&utm_source=git)** | Arlington, VA | Hybrid | Feb 02 |
-| **[District 4 Labs](http://district4labs.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/698100f6abff4c399a9fcf9e?utm_campaign=1079&utm_source=git)** | Chicago, IL | Remote | Feb 02 |
-| **[Bio-Techne](https://www.bio-techne.com)** | **[Software Quality Intern](https://jobright.ai/jobs/info/6980d80f7f40342e15d99e9b?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Feb 02 |
-| **[Accenture](https://www.accenture.com)** | **[Intern, Full Stack AI Developer May 2026](https://jobright.ai/jobs/info/6980d64f7f40342e15d99ce2?utm_campaign=1079&utm_source=git)** | Toronto, 40 King St W., Corp | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
