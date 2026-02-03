@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Epic Games](https://epicgames.com)** | **[Tech Art Intern](https://jobright.ai/jobs/info/6965a6ffa112b4026613b27a?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Feb 03 |
+| **[Draper](https://www.draper.com)** | **[Resilience and Fault Tolerance Intern](https://jobright.ai/jobs/info/6981b4fdabff4c399aa0c826?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Feb 03 |
+| **[Minnetronix Medical](https://minnetronixmedical.com)** | **[Design Software Engineer Intern](https://jobright.ai/jobs/info/6965e5595ad3a93f82315048?utm_campaign=1079&utm_source=git)** | St Paul, MN | On Site | Feb 03 |
 | **[North Star Imaging](http://4nsi.com)** | **[2026 Software Engineer Intern](https://jobright.ai/jobs/info/6981a0a949964d25b5e4b4c3?utm_campaign=1079&utm_source=git)** | Rogers, MN | On Site | Feb 02 |
 | **[SkyWater Technology](https://www.skywatertechnology.com/)** | **[Quality Assurance Engineering Intern](https://jobright.ai/jobs/info/69819ca57f40342e15dabf73?utm_campaign=1079&utm_source=git)** | Kissimmee, FL | On Site | Feb 02 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Software Test Intern - Signal Integrity/Power Integrity (Summer 2026; EDA)](https://jobright.ai/jobs/info/69819242abff4c399aa0b147?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Feb 02 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern – Firmware Engineer (Advanced Development)](https://jobright.ai/jobs/info/698191d0abff4c399aa0b0f9?utm_campaign=1079&utm_source=git)** | Greater Indianapolis | On Site | Feb 02 |
-| **[XTrace](https://xtrace.ai)** | **[Product Engineering Intern (GTM & Demos & DevRel)](https://jobright.ai/jobs/info/698191b57f40342e15dab988?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Software Development & Quality Assurance Intern (Summer 2026; EBS)](https://jobright.ai/jobs/info/69818bd0abff4c399aa0ad73?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Feb 02 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: High Performance Computing (HPC) Software Development Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/698188e2abff4c399aa0a9b3?utm_campaign=1079&utm_source=git)** | Troy, MI | Remote | Feb 02 |
 | **[Dynamic Engineering Consultants, PC](http://dynamicec.com)** | **[IT Intern - Dynamic Engineering](https://jobright.ai/jobs/info/6981a7b8abff4c399aa0bf3b?utm_campaign=1079&utm_source=git)** | Belmar, NJ | On Site | Feb 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/696e7456db26b618951159dc?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Feb 02 |
 | **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Application Delivery Intern](https://jobright.ai/jobs/info/69810682abff4c399a9fd557?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 02 |
 | **[Crayola](http://www.crayola.com/)** | **[Information Systems Intern](https://jobright.ai/jobs/info/698122c87f40342e15da00ee?utm_campaign=1079&utm_source=git)** | Easton, PA | Hybrid | Feb 02 |
-| **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Quality Assurance Ops](https://jobright.ai/jobs/info/698122147f40342e15d9ffe7?utm_campaign=1079&utm_source=git)** | Georgetown, ON | Hybrid | Feb 02 |
-| **[Cerebrone.ai](https://cerebrone.ai)** | **[Java Intern](https://jobright.ai/jobs/info/698120077f40342e15d9fca7?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
