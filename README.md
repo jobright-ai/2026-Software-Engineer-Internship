@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern - Circuit Simulation](https://jobright.ai/jobs/info/6933a267a0dde7020e2eff10?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 03 |
+| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6933b9c0f131d96e48466468?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
+| **[Westlake](http://www.westlake.com)** | **[Software Engineer/Computer Science Intern](https://jobright.ai/jobs/info/6981ed6da314e763690545f6?utm_campaign=1079&utm_source=git)** | Longview, TX | On Site | Feb 03 |
+| **[BNSF Railway](http://www.bnsf.com/)** | **[Product, Platform & Enterprise Front End Sr/Staff Software Engineer (Remote - US)](https://jobright.ai/jobs/info/692404987795cd460c83a9b1?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 03 |
+| **[Nokia](http://www.nokia.com)** | **[Software Design Co-op/Intern](https://jobright.ai/jobs/info/696c8261350cf43803139ff0?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Feb 03 |
+| **[Notion](https://www.notion.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/690b72b1d046ab6061ce468c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Feb 03 |
 | **[Moloco](http://www.moloco.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/68d70e1b45853d0e39ccc8a9?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Feb 03 |
 | **[Dometic](https://www.dometic.com)** | **[Quality Assurance Engineering Intern](https://jobright.ai/jobs/info/692e354cfa28370be26a2457?utm_campaign=1079&utm_source=git)** | Elkhart, IN | Hybrid | Feb 03 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/68f2fe2476a51a4307bc9c88?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | On Site | Feb 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Summer Intern - Software Engineering Identity](https://jobright.ai/jobs/info/69811d237f40342e15d9f892?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Feb 02 |
 | **[Milliman](http://www.milliman.com)** | **[Software Engineer Intern Summer 2026 (CMH Health)](https://jobright.ai/jobs/info/69813c6c7f40342e15da3061?utm_campaign=1079&utm_source=git)** | Brookfield, WI | On Site | Feb 02 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Software Engineering Intern - Backend/API](https://jobright.ai/jobs/info/69811bb8abff4c399a9fec5a?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 02 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Undergraduate/Graduate (Year-Round) Intern - Transportation Research Software Engineering](https://jobright.ai/jobs/info/69811bb649964d25b5e3e95d?utm_campaign=1079&utm_source=git)** | Golden, CO | On Site | Feb 02 |
-| **[Red Hat](http://www.redhat.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/696ee609db26b6189512022c?utm_campaign=1079&utm_source=git)** | Lowell, MA | On Site | Feb 02 |
-| **[Citi](https://www.citi.com)** | **[Technology, Application Development, Summer Analyst, Jacksonville - USA, 2026](https://jobright.ai/jobs/info/6916017a9c388539cbdf736a?utm_campaign=1079&utm_source=git)** | Jacksonville, FL | On Site | Feb 02 |
-| **[Verkada](https://www.verkada.com)** | **[iOS Engineering Intern - Native Streaming Clients Team 2026](https://jobright.ai/jobs/info/69811af4abff4c399a9feb3d?utm_campaign=1079&utm_source=git)** | San Mateo, CA United States | On Site | Feb 02 |
-| **[ARA](https://www.ara.com)** | **[Technical Intern 1](https://jobright.ai/jobs/info/69811ab9abff4c399a9feae7?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Feb 02 |
-| **[Varex Imaging Corporation](https://www.vareximaging.com/)** | **[Computer Science Intern](https://jobright.ai/jobs/info/69811a1049964d25b5e3e810?utm_campaign=1079&utm_source=git)** | Salt Lake City | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
