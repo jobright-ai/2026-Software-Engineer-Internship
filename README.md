@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/692e7f5a4c474121999d9dde?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
+| **[Zoox](https://www.zoox.com/)** | **[Enterprise Integration Intern](https://jobright.ai/jobs/info/694b5834d64ebf28d8210e91?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Feb 04 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Applications Development Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/698331f901214b4cdacae0dd?utm_campaign=1079&utm_source=git)** | Georgia, United States | On Site | Feb 04 |
+| **[ByteDance](http://bytedance.com)** | **[Software Development Engineer Intern (Metadata Storage) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68f65fd376a51a4307bd9cf4?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[IS/Development Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/69818c227f40342e15dab24a?utm_campaign=1079&utm_source=git)** | Dalton, GA | On Site | Feb 04 |
+| **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69832f470f6f7e7a2cdc9bd7?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Feb 04 |
 | **[Radian](https://www.radian.com/)** | **[Software Developer Intern (Must be in Greater Philadelphia AND a May/June 2026 grad)](https://jobright.ai/jobs/info/696714b9639b452fb57caecc?utm_campaign=1079&utm_source=git)** | Wayne, PA | Hybrid | Feb 04 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69444a1850bbaf7650563ec6?utm_campaign=1079&utm_source=git)** | Quincy, MA | On Site | Feb 04 |
 | **[AssetMark](http://www.assetmark.com)** | **[Platform Engineering Intern](https://jobright.ai/jobs/info/6966e082b098f4515f4e3d59?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Feb 04 |
@@ -131,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Technology – IT Service Management](https://jobright.ai/jobs/info/698290790a9e07331f8da9cf?utm_campaign=1079&utm_source=git)** | Toronto, ONT, Canada | On Site | Feb 03 |
 | **[sg360°](http://sg360.com/)** | **[IT Internship](https://jobright.ai/jobs/info/6982c1fe8232105a2d0b2073?utm_campaign=1079&utm_source=git)** | Wheeling,IL,US | On Site | Feb 03 |
 | **[Werfen](http://www.werfen.com/)** | **[Quality Assurance Laboratory Intern](https://jobright.ai/jobs/info/6982b3860f6f7e7a2cdc0606?utm_campaign=1079&utm_source=git)** | US-MA-Bedford | On Site | Feb 03 |
-| ↳ | **[IT Software QA Tester Intern](https://jobright.ai/jobs/info/6982b702348f733a5c35afa4?utm_campaign=1079&utm_source=git)** | Bedford, MA, US | On Site | Feb 03 |
 | ↳ | **[IT Software QA Tester Intern](https://jobright.ai/jobs/info/6982aeff0f6f7e7a2cdc010b?utm_campaign=1079&utm_source=git)** | US-MA-Bedford | On Site | Feb 03 |
+| ↳ | **[IT Software QA Tester Intern](https://jobright.ai/jobs/info/6982b702348f733a5c35afa4?utm_campaign=1079&utm_source=git)** | Bedford, MA, US | On Site | Feb 03 |
 | **[SkyNano](https://www.skynanotechnologies.com/)** | **[Computer Science Intern](https://jobright.ai/jobs/info/6982b92f0f6f7e7a2cdc0c7e?utm_campaign=1079&utm_source=git)** | Knoxville, TN | On Site | Feb 03 |
 | **[Cohesity](https://www.cohesity.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6982a8c60f6f7e7a2cdbfa9d?utm_campaign=1079&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Feb 03 |
 | **[Zip](https://www.ziphq.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6982baf30f6f7e7a2cdc0e03?utm_campaign=1079&utm_source=git)** | San Francisco | Hybrid | Feb 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Online Portals & Next Gen Platforms (OPNG) Summer Intern](https://jobright.ai/jobs/info/6982797a0a9e07331f8d8d5d?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Feb 03 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Application Developer Intern - Indianapolis, IN (Summer 2026)](https://jobright.ai/jobs/info/6982792f0f6f7e7a2cdbb4fd?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 03 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/698278810f6f7e7a2cdbb34f?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Feb 03 |
-| **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Application Developer Intern - Kansas City, MO (Summer 2026)](https://jobright.ai/jobs/info/6982781a0f6f7e7a2cdbb24f?utm_campaign=1079&utm_source=git)** | Kansas City, MO | Hybrid | Feb 03 |
-| **[Emerson](http://www.emerson.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698276ae348f733a5c355711?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 03 |
-| **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/698275fe0a9e07331f8d86a1?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Feb 03 |
-| **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69829596348f733a5c357cc3?utm_campaign=1079&utm_source=git)** | Houston, TX, United States | Hybrid | Feb 03 |
-| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Software Engineer Intern - Onsite (CA)](https://jobright.ai/jobs/info/698274060f6f7e7a2cdbaa87?utm_campaign=1079&utm_source=git)** | US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01 | On Site | Feb 03 |
-| **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69445066dd382f5f566a6b8c?utm_campaign=1079&utm_source=git)** | North Bethesda, Maryland | Hybrid | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
