@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Full Stack Engineer Intern](https://jobright.ai/jobs/info/6982f3a80f6f7e7a2cdc67de?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 03 |
+| **[PlayCore](http://www.playcore.com/)** | **[Digital Services Intern - PlayCore](https://jobright.ai/jobs/info/6982e5d40f6f7e7a2cdc61c7?utm_campaign=1079&utm_source=git)** | Chattanooga, TN | On Site | Feb 03 |
+| **[Galileo Financial Technologies](https://www.galileo-ft.com)** | **[Intern, Software Engineer, Management Experience](https://jobright.ai/jobs/info/6982e5b70f6f7e7a2cdc61b4?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Feb 03 |
+| **[Midra AI](https://midraai.com/)** | **[Software Engineering Intern (AI Platform)](https://jobright.ai/jobs/info/6982de54348f733a5c35ffe0?utm_campaign=1079&utm_source=git)** | Ontario, Canada | Remote | Feb 03 |
+| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Software Quality Engineer (Early Career)](https://jobright.ai/jobs/info/6982de380f6f7e7a2cdc59b5?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[Siemens](https://www.siemens.com)** | **[Software Development Engineer Internship](https://jobright.ai/jobs/info/6982d5d40f6f7e7a2cdc4954?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Feb 03 |
 | **[Zip](https://www.ziphq.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6982cf410f6f7e7a2cdc2fa7?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Feb 03 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6982cc6b8232105a2d0b290c?utm_campaign=1079&utm_source=git)** | Dedham, MA | On Site | Feb 03 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[IT Software QA Tester Intern](https://jobright.ai/jobs/info/6982cc4d8232105a2d0b28f5?utm_campaign=1079&utm_source=git)** | Bedford, MA | On Site | Feb 03 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6982cb0e8232105a2d0b27f4?utm_campaign=1079&utm_source=git)** | Bedford, MA | On Site | Feb 03 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6982cada8232105a2d0b27c7?utm_campaign=1079&utm_source=git)** | Bedford, MA | On Site | Feb 03 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Intern - Manufacturing Software Engineer](https://jobright.ai/jobs/info/6982ca038232105a2d0b270d?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Feb 03 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Software Engineer Intern - Aurora CO - R10211425](https://jobright.ai/jobs/info/6982c903348f733a5c35c383?utm_campaign=1079&utm_source=git)** | Aurora, CO | On Site | Feb 03 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/6982c5ee8232105a2d0b2414?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 03 |
@@ -73,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Quality Assurance Laboratory Intern](https://jobright.ai/jobs/info/6982bf8f0f6f7e7a2cdc1238?utm_campaign=1079&utm_source=git)** | Bedford, MA | On Site | Feb 03 |
 | **[Anomali](http://www.anomali.com)** | **[Software Engineer Internship 2026 (onsite Redwood City, CA)](https://jobright.ai/jobs/info/6982bb6c8232105a2d0b0eae?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Feb 03 |
 | **[Galileo Financial Technologies](https://www.galileo-ft.com)** | **[Intern, Software Engineer, Management Experience](https://jobright.ai/jobs/info/6982bb620f6f7e7a2cdc0e6e?utm_campaign=1079&utm_source=git)** | CA - San Francisco HQ | On Site | Feb 03 |
-| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6982bb1e348f733a5c35b554?utm_campaign=1079&utm_source=git)** | Bedford, MA | On Site | Feb 03 |
 | **[Trove Brands](https://trovebrands.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6982ba920f6f7e7a2cdc0d9a?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Feb 03 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6982b9680f6f7e7a2cdc0cb0?utm_campaign=1079&utm_source=git)** | Dedham, MA | On Site | Feb 03 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/6982b87f348f733a5c35b411?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Feb 03 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Full-Stack Software Developer Summer/Fall Co-Op](https://jobright.ai/jobs/info/6982b6888232105a2d0b0978?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 03 |
 | **[Battelle](http://www.battelle.org)** | **[Test Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6982b423348f733a5c35ad35?utm_campaign=1079&utm_source=git)** | Atlantic City, NJ | On Site | Feb 03 |
@@ -110,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Technology – IT Service Management](https://jobright.ai/jobs/info/698290790a9e07331f8da9cf?utm_campaign=1079&utm_source=git)** | Toronto, ONT, Canada | On Site | Feb 03 |
 | **[sg360°](http://sg360.com/)** | **[IT Internship](https://jobright.ai/jobs/info/6982c1fe8232105a2d0b2073?utm_campaign=1079&utm_source=git)** | Wheeling,IL,US | On Site | Feb 03 |
 | **[Werfen](http://www.werfen.com/)** | **[Quality Assurance Laboratory Intern](https://jobright.ai/jobs/info/6982b3860f6f7e7a2cdc0606?utm_campaign=1079&utm_source=git)** | US-MA-Bedford | On Site | Feb 03 |
-| ↳ | **[IT Software QA Tester Intern](https://jobright.ai/jobs/info/6982aeff0f6f7e7a2cdc010b?utm_campaign=1079&utm_source=git)** | US-MA-Bedford | On Site | Feb 03 |
 | ↳ | **[IT Software QA Tester Intern](https://jobright.ai/jobs/info/6982b702348f733a5c35afa4?utm_campaign=1079&utm_source=git)** | Bedford, MA, US | On Site | Feb 03 |
+| ↳ | **[IT Software QA Tester Intern](https://jobright.ai/jobs/info/6982aeff0f6f7e7a2cdc010b?utm_campaign=1079&utm_source=git)** | US-MA-Bedford | On Site | Feb 03 |
 | **[SkyNano](https://www.skynanotechnologies.com/)** | **[Computer Science Intern](https://jobright.ai/jobs/info/6982b92f0f6f7e7a2cdc0c7e?utm_campaign=1079&utm_source=git)** | Knoxville, TN | On Site | Feb 03 |
 | **[Cohesity](https://www.cohesity.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6982a8c60f6f7e7a2cdbfa9d?utm_campaign=1079&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Feb 03 |
 | **[Zip](https://www.ziphq.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6982baf30f6f7e7a2cdc0e03?utm_campaign=1079&utm_source=git)** | San Francisco | Hybrid | Feb 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Deepiri](https://deepiri.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6982837d0f6f7e7a2cdbc423?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 03 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Developer Quality Assurance](https://jobright.ai/jobs/info/6966c45e5ad3a93f82321ba3?utm_campaign=1079&utm_source=git)** | Englewood, CO | On Site | Feb 03 |
 | **[Vanderlande](https://www.vanderlande.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/698284d00f6f7e7a2cdbc5fb?utm_campaign=1079&utm_source=git)** | Marietta, GA | On Site | Feb 03 |
-| **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69127894c98948514c47c06f?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Feb 03 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Enterprise Architecture (Summer 2026)](https://jobright.ai/jobs/info/698257080a9e07331f8d55fa?utm_campaign=1079&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 03 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - System Test](https://jobright.ai/jobs/info/6982765c348f733a5c35564a?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 03 |
-| **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/698272d00f6f7e7a2cdba7dc?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
-| **[Continental](https://www.continental.com)** | **[2026 Internship - Quality Assurance Engineer (Hoosier Racing Tire)](https://jobright.ai/jobs/info/6982559c0a9e07331f8d5426?utm_campaign=1079&utm_source=git)** | West Creek, IN | On Site | Feb 03 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Post-Undergraduate/Graduate (Summer) Software Engineering Intern for Grid Modeling Applications](https://jobright.ai/jobs/info/698274e40a9e07331f8d83fc?utm_campaign=1079&utm_source=git)** | Golden, CO | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
