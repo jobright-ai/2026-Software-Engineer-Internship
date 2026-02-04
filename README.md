@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/698311230f6f7e7a2cdc78af?utm_campaign=1079&utm_source=git)** | Frisco, TX | On Site | Feb 04 |
+| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Software Quality Engineer (Early Career)](https://jobright.ai/jobs/info/698305e10f6f7e7a2cdc72d7?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 04 |
+| **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Software Development](https://jobright.ai/jobs/info/6982ff480f6f7e7a2cdc6e8c?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 04 |
+| **[General Dynamics](https://www.gd.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6982fbd08232105a2d0b72ad?utm_campaign=1079&utm_source=git)** | MA-Dedham, UNAVAILABLE, USA | Hybrid | Feb 03 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6982faa8348f733a5c36132c?utm_campaign=1079&utm_source=git)** | USA-MA-Dedham | Hybrid | Feb 03 |
 | **[GenPark](https://genpark.ai)** | **[Full Stack Engineer Intern](https://jobright.ai/jobs/info/6982f3a80f6f7e7a2cdc67de?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 03 |
 | **[PlayCore](http://www.playcore.com/)** | **[Digital Services Intern - PlayCore](https://jobright.ai/jobs/info/6982e5d40f6f7e7a2cdc61c7?utm_campaign=1079&utm_source=git)** | Chattanooga, TN | On Site | Feb 03 |
 | **[Galileo Financial Technologies](https://www.galileo-ft.com)** | **[Intern, Software Engineer, Management Experience](https://jobright.ai/jobs/info/6982e5b70f6f7e7a2cdc61b4?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Feb 03 |
@@ -80,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Anomali](http://www.anomali.com)** | **[Software Engineer Internship 2026 (onsite Redwood City, CA)](https://jobright.ai/jobs/info/6982bb6c8232105a2d0b0eae?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Feb 03 |
 | **[Galileo Financial Technologies](https://www.galileo-ft.com)** | **[Intern, Software Engineer, Management Experience](https://jobright.ai/jobs/info/6982bb620f6f7e7a2cdc0e6e?utm_campaign=1079&utm_source=git)** | CA - San Francisco HQ | On Site | Feb 03 |
 | **[Trove Brands](https://trovebrands.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6982ba920f6f7e7a2cdc0d9a?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Feb 03 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6982b9680f6f7e7a2cdc0cb0?utm_campaign=1079&utm_source=git)** | Dedham, MA | On Site | Feb 03 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/6982b87f348f733a5c35b411?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Feb 03 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Full-Stack Software Developer Summer/Fall Co-Op](https://jobright.ai/jobs/info/6982b6888232105a2d0b0978?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 03 |
 | **[Battelle](http://www.battelle.org)** | **[Test Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6982b423348f733a5c35ad35?utm_campaign=1079&utm_source=git)** | Atlantic City, NJ | On Site | Feb 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Software/Firmware Engineering Intern](https://jobright.ai/jobs/info/698290db0f6f7e7a2cdbd0f0?utm_campaign=1079&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 03 |
 | **[Cogeco Media](http://www.cogecomedia.com)** | **[Digital Product & Systems Intern (oxio)](https://jobright.ai/jobs/info/69828145348f733a5c3568fc?utm_campaign=1079&utm_source=git)** | Montréal, QC | Hybrid | Feb 03 |
 | **[eBay](https://www.ebay.com/)** | **[Software Engineer PhD Intern](https://jobright.ai/jobs/info/69826344348f733a5c353466?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 03 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Fullstack Software Engineer, Fleetnet (Summer 2026)](https://jobright.ai/jobs/info/698261ff348f733a5c3532b7?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Feb 03 |
-| **[Deepiri](https://deepiri.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6982837d0f6f7e7a2cdbc423?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 03 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Developer Quality Assurance](https://jobright.ai/jobs/info/6966c45e5ad3a93f82321ba3?utm_campaign=1079&utm_source=git)** | Englewood, CO | On Site | Feb 03 |
-| **[Vanderlande](https://www.vanderlande.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/698284d00f6f7e7a2cdbc5fb?utm_campaign=1079&utm_source=git)** | Marietta, GA | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
