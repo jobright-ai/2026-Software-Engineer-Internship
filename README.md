@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69846454348f733a5c3863f1?utm_campaign=1079&utm_source=git)** | Corvallis, OR | Hybrid | Feb 05 |
 | **[Genios AI](geniosai.co)** | **[Engineering Intern](https://jobright.ai/jobs/info/69845fe98da7a612045e84db?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Remote | Feb 05 |
 | **[Dryft](https://dryft.ai/)** | **[Full-Stack Engineering Intern](https://jobright.ai/jobs/info/69845e758da7a612045e82a7?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Feb 05 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineer -Test Equipment - Onsite](https://jobright.ai/jobs/info/69845e40348f733a5c385d9d?utm_campaign=1079&utm_source=git)** | Tucson, AZ | On Site | Feb 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Critical Mission Control - Business Applications and Real Time Intern - Hybrid](https://jobright.ai/jobs/info/6983d63c01214b4cdacbe972?utm_campaign=1079&utm_source=git)** | Culpeper, United States | Hybrid | Feb 04 |
 | ↳ | **[API Platform Intern- Hybrid](https://jobright.ai/jobs/info/6983d4c60f6f7e7a2cdd9bed?utm_campaign=1079&utm_source=git)** | Tysons Corner, VA | Hybrid | Feb 04 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Software Engineer](https://jobright.ai/jobs/info/6983f4d201214b4cdacc3a64?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 04 |
-| **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Enterprise Architecture Internship](https://jobright.ai/jobs/info/696819061703f05405a9b703?utm_campaign=1079&utm_source=git)** | Middletown, CT | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
