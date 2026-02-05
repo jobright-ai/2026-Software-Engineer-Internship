@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[nala](https://nala.pet)** | **[Vibe Coding Internship](https://jobright.ai/jobs/info/6984b8ce0f6f7e7a2cdf2dfb?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 05 |
+| **[Laminar (Formerly H2Ok Innovations)](https://runlaminar.com)** | **[Software Engineering Summer 2026 Internship (Apply by 3/9)](https://jobright.ai/jobs/info/6984ba470f6f7e7a2cdf2ef8?utm_campaign=1079&utm_source=git)** | Somerville, MA | On Site | Feb 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer/Mobile Engineer Intern (Monetization Technology - Ads Core Demonstration) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6984b63a348f733a5c38d03b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 05 |
 | **[C3 AI](https://c3.ai)** | **[Software Engineer - Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd50f6b2a74e1837ed50d1?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Feb 05 |
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db0c24e9b48513789b1717?utm_campaign=1079&utm_source=git)** | Zelienople, PA | On Site | Feb 05 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Information Technology Intern (Summer)](https://jobright.ai/jobs/info/6983ecad01214b4cdacc2c1a?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Feb 04 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, IT- Services domain - Aviation industry (Summer 2026)](https://jobright.ai/jobs/info/6983ec8101214b4cdacc2b8f?utm_campaign=1079&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 04 |
 | **[H.W. Kaufman Group](https://www.hwkaufman.com/)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/696c3e81350cf43803136892?utm_campaign=1079&utm_source=git)** | Farmington Hills, MI | Hybrid | Feb 04 |
-| **[RR Donnelley](http://www.rrd.com)** | **[Tools Team Software Programmer Summer Intern](https://jobright.ai/jobs/info/69842ec7348f733a5c381348?utm_campaign=1079&utm_source=git)** | Warrenville, IL, USA | Hybrid | Feb 04 |
-| ↳ | **[.Net Developer Summer Intern](https://jobright.ai/jobs/info/6984214e8da7a612045e196f?utm_campaign=1079&utm_source=git)** | Warrenville, IL, USA | Hybrid | Feb 04 |
+| **[RR Donnelley](http://www.rrd.com)** | **[.Net Developer Summer Intern](https://jobright.ai/jobs/info/6984214e8da7a612045e196f?utm_campaign=1079&utm_source=git)** | Warrenville, IL, USA | Hybrid | Feb 04 |
+| ↳ | **[Tools Team Software Programmer Summer Intern](https://jobright.ai/jobs/info/69842ec7348f733a5c381348?utm_campaign=1079&utm_source=git)** | Warrenville, IL, USA | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
