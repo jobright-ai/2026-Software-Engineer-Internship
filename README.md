@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f4cd759a65fd345858c6e4?utm_campaign=1079&utm_source=git)** | Rochester, PA | On Site | Feb 05 |
+| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/6976dfd0206da320f4a086f7?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 05 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/695a125f9f1b381eb272b55b?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Feb 05 |
+| **[Tinder](http://www.tinder.com)** | **[Android Engineer Intern](https://jobright.ai/jobs/info/6946712bd1953b5d11bfa7ba?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 05 |
+| **[Gemini](https://gemini.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/692f9aeaef4b48533d1474ca?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Feb 05 |
+| **[Tinder](http://www.tinder.com)** | **[Android Engineer Intern](https://jobright.ai/jobs/info/6920ebe93f782d2f1afccd4f?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Feb 05 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6984313b0f6f7e7a2cde768c?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Feb 05 |
 | **[Evolv Technology](http://www.evolvtechnology.com)** | **[C++ Software, Camera & Image Processing Intern (Summer 26')](https://jobright.ai/jobs/info/6930de9c4c474121999e9c34?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Feb 05 |
 | **[Tinder](http://www.tinder.com)** | **[Backend Engineer Intern](https://jobright.ai/jobs/info/6920df1600c9ee50eaec8f95?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Feb 05 |
@@ -65,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Technology](https://jobright.ai/jobs/info/6968038f1703f05405a9a1cf?utm_campaign=1079&utm_source=git)** | Omaha, NE | Hybrid | Feb 05 |
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db0c2ae9b48513789b172a?utm_campaign=1079&utm_source=git)** | Latrobe, PA | On Site | Feb 05 |
 | **[Archer](https://www.archer.com)** | **[Software Engineer Intern - Electric Engine](https://jobright.ai/jobs/info/694ccf7529655e4dd656f975?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 05 |
-| **[Opus IVS - US](https://www.opusivs.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69848a61348f733a5c389a3d?utm_campaign=1079&utm_source=git)** | Dexter, MI | On Site | Feb 05 |
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db077de9b48513789b13e3?utm_campaign=1079&utm_source=git)** | Monaca, PA | On Site | Feb 05 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6984862d0f6f7e7a2cdeefed?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Feb 05 |
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f493419a63986de75762bc?utm_campaign=1079&utm_source=git)** | Washington, PA | On Site | Feb 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zocdoc](http://www.zocdoc.com)** | **[Software Engineering Summer Internship](https://jobright.ai/jobs/info/6983e2770f6f7e7a2cddc3ee?utm_campaign=1079&utm_source=git)** | New York, NY | Remote | Feb 04 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Summer Intern- Embedded Solutions](https://jobright.ai/jobs/info/6983e1be348f733a5c37682e?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Feb 04 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6983e1a00f6f7e7a2cddc159?utm_campaign=1079&utm_source=git)** | Glastonbury, CT | On Site | Feb 04 |
-| **[adMarketplace](http://www.admarketplace.com)** | **[Software Engineering Summer Internship](https://jobright.ai/jobs/info/6983e16a348f733a5c376776?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Feb 04 |
-| **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[IT & Web Developer Intern](https://jobright.ai/jobs/info/6984173f8da7a612045e063e?utm_campaign=1079&utm_source=git)** | Rose 9, New York, NY, US | Hybrid | Feb 04 |
-| **[Crum & Forster](https://www.cfins.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698406b201214b4cdacc60ec?utm_campaign=1079&utm_source=git)** | US-CT-GLASTONBURY | On Site | Feb 04 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69840d6e0f6f7e7a2cde284b?utm_campaign=1079&utm_source=git)** | GLASTONBURY, CT, US | On Site | Feb 04 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Software Developer - DigITal](https://jobright.ai/jobs/info/698410bf8da7a612045df96d?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
