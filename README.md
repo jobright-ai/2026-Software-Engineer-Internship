@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genios AI](geniosai.co)** | **[Engineering Intern](https://jobright.ai/jobs/info/69845fe98da7a612045e84db?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Remote | Feb 05 |
+| **[Dryft](https://dryft.ai/)** | **[Full-Stack Engineering Intern](https://jobright.ai/jobs/info/69845e758da7a612045e82a7?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Feb 05 |
+| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineer -Test Equipment - Onsite](https://jobright.ai/jobs/info/69845e40348f733a5c385d9d?utm_campaign=1079&utm_source=git)** | Tucson, AZ | On Site | Feb 05 |
+| **[Find Me](https://fyndme.co)** | **[Flutter Application Developer (Android & iOS) – Unpaid Internship (Remote – USA Only)](https://jobright.ai/jobs/info/6984594c348f733a5c38581e?utm_campaign=1079&utm_source=git)** | Bellingham, WA | Remote | Feb 05 |
+| **[Draper](https://www.draper.com)** | **[Aiding Technologies Integration & Test Intern](https://jobright.ai/jobs/info/698451908da7a612045e716b?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Feb 05 |
+| **[Draper](https://www.draper.com)** | **[Software Modeling, Analysis, & Validation Intern](https://jobright.ai/jobs/info/69844a4e0f6f7e7a2cdea37b?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Feb 04 |
 | **[Avathon](https://avathon.com)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6980f912abff4c399a9fc5f9?utm_campaign=1079&utm_source=git)** | Pleasanton, California, United States | On Site | Feb 04 |
 | **[VSP Ventures](https://vspventures.com)** | **[Internship, Software Engineer - Ventures](https://jobright.ai/jobs/info/6984436e8da7a612045e5ed0?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 04 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Software Engineer - Intern (Summer 2026)](https://jobright.ai/jobs/info/698443350f6f7e7a2cde94cd?utm_campaign=1079&utm_source=git)** | Baltimore, MD | On Site | Feb 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Ads Measurement Signal and Privacy) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69684480f25a38006696ade9?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
 | ↳ | **[Software Engineer Intern (Global SRE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6968a56b1703f05405aa7787?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Embedded Engineering Co-op](https://jobright.ai/jobs/info/69686987639b452fb57e0fdd?utm_campaign=1079&utm_source=git)** | Windsor, WI | On Site | Feb 04 |
+| **[AdTheorent](http://www.adtheorent.com)** | **[QA Engineer Intern](https://jobright.ai/jobs/info/69845f148da7a612045e83b1?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 04 |
+| **[VSP Vision](https://vspglobal.com/)** | **[Internship, Software Engineer - Ventures](https://jobright.ai/jobs/info/69845831348f733a5c3856d5?utm_campaign=1079&utm_source=git)** | Remote US | Remote | Feb 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Ads Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6968a9b61703f05405aa7c48?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
 | **[Genios AI](geniosai.co)** | **[Engineering Intern](https://jobright.ai/jobs/info/69842e5a8da7a612045e32ee?utm_campaign=1079&utm_source=git)** | Remote (Santa Clara, California, US) | Remote | Feb 04 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Data Center Infrastructure Engineer Intern](https://jobright.ai/jobs/info/696880ab639b452fb57e31c5?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Feb 04 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[API Platform Intern- Hybrid](https://jobright.ai/jobs/info/6983d4c60f6f7e7a2cdd9bed?utm_campaign=1079&utm_source=git)** | Tysons Corner, VA | Hybrid | Feb 04 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Software Engineer](https://jobright.ai/jobs/info/6983f4d201214b4cdacc3a64?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 04 |
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Enterprise Architecture Internship](https://jobright.ai/jobs/info/696819061703f05405a9b703?utm_campaign=1079&utm_source=git)** | Middletown, CT | On Site | Feb 04 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Software Engineer](https://jobright.ai/jobs/info/6983f06701214b4cdacc30c8?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Feb 04 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Enterprise Engineering Systems IT Intern (Year-Round)](https://jobright.ai/jobs/info/6983d1190f6f7e7a2cdd90c6?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | Hybrid | Feb 04 |
-| **[Leidos](https://www.leidos.com)** | **[AWS Cloud Engineer - Intern](https://jobright.ai/jobs/info/69840f34348f733a5c37d0dd?utm_campaign=1079&utm_source=git)** | McLean, VA | Remote | Feb 04 |
-| **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Disney Entertainment Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/6983ec100f6f7e7a2cdde000?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Feb 04 |
-| **[Enova International](https://www.enova.com/)** | **[Software Engineer Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/69684090639b452fb57de5b9?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 04 |
-| **[Swift](http://www.swift.com)** | **[Critical Mission Control - Core Messaging Intern - Hybrid](https://jobright.ai/jobs/info/6983c9f7348f733a5c372a20?utm_campaign=1079&utm_source=git)** | Culpeper, VA | Hybrid | Feb 04 |
-| ↳ | **[Critical Mission Control - Business Applications and Real Time Intern - Hybrid](https://jobright.ai/jobs/info/6983c88c348f733a5c372652?utm_campaign=1079&utm_source=git)** | Culpeper, VA | Hybrid | Feb 04 |
-| **[Comtech Telecommunications Corp.](https://comtech.com)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/6983c7d0348f733a5c372411?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
