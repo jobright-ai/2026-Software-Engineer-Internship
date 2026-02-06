@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Information Technology Summer Internship 2026](https://jobright.ai/jobs/info/696a060d1703f05405ac1bb9?utm_campaign=1079&utm_source=git)** | Egg Harbor, NJ | On Site | Feb 06 |
+| **[Acorns](https://www.acorns.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/696a0ad91703f05405ac2609?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 06 |
+| **[HDR](http://www.hdrinc.com)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697a60bbf6fc293b0a2c3083?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Feb 06 |
+| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6981696eabff4c399aa066db?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 06 |
+| **[Microsoft](https://www.microsoft.com)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69690e98f25a380066979bcf?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 06 |
 | **[Verkada](https://www.verkada.com)** | **[Backend Software Engineering Intern 2026](https://jobright.ai/jobs/info/6969ce94639b452fb57fd1f8?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Feb 06 |
 | **[ADT](http://www.adt.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6985a8f08da7a61204605a4d?utm_campaign=1079&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 06 |
-| **[Microsoft](https://www.microsoft.com)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/6969075e639b452fb57ed17e?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 06 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Cloud Developer, Platform Engineering](https://jobright.ai/jobs/info/6985cbc88da7a6120460800b?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Feb 06 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern-Software Engineering](https://jobright.ai/jobs/info/6969d46f1703f05405abe249?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 05 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69859bd80f6f7e7a2ce07c87?utm_campaign=1079&utm_source=git)** | Westlake, TX | Hybrid | Feb 05 |
 | **[ASML](https://www.asml.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/6969a53d1703f05405aba3dd?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 05 |
@@ -67,11 +72,13 @@ For a complete list, click the following sortable link below:
 | **[Verkada](https://www.verkada.com)** | **[Backend Software Engineer - University Graduate 2026](https://jobright.ai/jobs/info/6969cee91703f05405abdf0d?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Feb 05 |
 | **[CEVA SANTE ANIMALE](https://www.ceva.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6969b92b639b452fb57fa672?utm_campaign=1079&utm_source=git)** | Lenexa, KS | On Site | Feb 05 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineer Intern - BACHELOR'S Degree](https://jobright.ai/jobs/info/6934183ba0dde7020e2f4325?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Feb 05 |
+| **[TikTok](https://www.tiktok.com)** | **[Frontend Engineer Intern (TikTok Multimedia Arch) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6969db971703f05405abeb38?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 05 |
 | **[Verkada](https://www.verkada.com)** | **[Frontend Software Engineering Intern 2026](https://jobright.ai/jobs/info/6969d136f25a380066989a62?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Feb 05 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - GTM Engineering Intern, Palo Alto](https://jobright.ai/jobs/info/6969bc76639b452fb57fa90e?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Feb 05 |
 | **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/698587cb348f733a5c3a0207?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 05 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Developer Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6969c816f25a380066987fa6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 05 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Cloud Developer, Platform Engineering](https://jobright.ai/jobs/info/6985ae168da7a61204605f01?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | Hybrid | Feb 05 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Cloud Developer, Platform Engineering](https://jobright.ai/jobs/info/6985bfa08ca8121a3a67ef58?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | Feb 05 |
+| ↳ | **[Co-op/Intern Cloud Developer, Platform Engineering](https://jobright.ai/jobs/info/6985ae168da7a61204605f01?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | Hybrid | Feb 05 |
 | **[Oracle](https://www.oracle.com/)** | **[Java Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/6985832f0f6f7e7a2ce054e3?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Feb 05 |
 | ↳ | **[Java Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/698582218da7a612046024e6?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 05 |
 | ↳ | **[Java Software Engineer Intern - Oracle Health & Analytics](https://jobright.ai/jobs/info/698580f9348f733a5c39f3b8?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Feb 05 |
@@ -119,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[1Password](https://1password.com)** | **[Developer Intern - Billing & Payments - Summer 2026](https://jobright.ai/jobs/info/69854a240f6f7e7a2cdfeef4?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 05 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Innovation, Analytics & Automation Cloud Engineer Intern](https://jobright.ai/jobs/info/69856cad348f733a5c39d306?utm_campaign=1079&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Feb 05 |
 | ↳ | **[SAP NS2 IT Cloud Operations Intern](https://jobright.ai/jobs/info/698571210f6f7e7a2ce036d8?utm_campaign=1079&utm_source=git)** | Herndon, VA, US, 20171 | Hybrid | Feb 05 |
-| ↳ | **[SAP iXp Intern - Software Developer [Palo Alto, CA]](https://jobright.ai/jobs/info/69857400348f733a5c39ddbd?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, US, 94304 | Hybrid | Feb 05 |
 | ↳ | **[SAP iXp Intern - Software Developer [Palo Alto, CA]](https://jobright.ai/jobs/info/698569850f6f7e7a2ce02536?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, US, 94304 | On Site | Feb 05 |
+| ↳ | **[SAP iXp Intern - Software Developer [Palo Alto, CA]](https://jobright.ai/jobs/info/69857400348f733a5c39ddbd?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, US, 94304 | Hybrid | Feb 05 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Software Engineering Intern – ARM Systems & Infrastructure](https://jobright.ai/jobs/info/6985494f0f6f7e7a2cdfeea3?utm_campaign=1079&utm_source=git)** | Santa Rosa, CA | On Site | Feb 05 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Software Engineering - Summer Internship](https://jobright.ai/jobs/info/698546ce348f733a5c398e5d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 05 |
 | **[Amazon](https://amazon.com)** | **[2026 Software Dev Engineer Intern - Germany](https://jobright.ai/jobs/info/692f07c0fa28370be26a6fd4?utm_campaign=1079&utm_source=git)** | Dresden, TN | On Site | Feb 05 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EquiTrust Life Insurance Company](https://www.equitrust.com)** | **[Intern, Information Technology (Application Developer, Java)](https://jobright.ai/jobs/info/69852ff8348f733a5c396276?utm_campaign=1079&utm_source=git)** | Des Moines Metro | On Site | Feb 05 |
 | **[Clarity](https://clarityapp.io)** | **[Internship - Software Engineering Intern](https://jobright.ai/jobs/info/687674c0ae2f413e4a5afd36?utm_campaign=1079&utm_source=git)** | Herndon, VA | Remote | Feb 05 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer (Flight Controls &amp; Autonomy) - Intern](https://jobright.ai/jobs/info/69854fb8348f733a5c3999ec?utm_campaign=1079&utm_source=git)** | Possible | On Site | Feb 05 |
-| ↳ | **[Software Engineer (Software Integration) - Intern](https://jobright.ai/jobs/info/6985747e8da7a61204601027?utm_campaign=1079&utm_source=git)** | Texas | On Site | Feb 05 |
-| ↳ | **[Software Engineer (Software Integration) - Intern](https://jobright.ai/jobs/info/698558e7348f733a5c39ac2f?utm_campaign=1079&utm_source=git)** | Possible | On Site | Feb 05 |
-| **[Turion Space](https://turionspace.com)** | **[Software Engineering Summer Intern](https://jobright.ai/jobs/info/698596fe348f733a5c3a18d5?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 05 |
-| **[WM](https://www.wm.com/)** | **[Quality Billing Intern](https://jobright.ai/jobs/info/69852e4a0f6f7e7a2cdfbb89?utm_campaign=1079&utm_source=git)** | Windsor, CT | Remote | Feb 05 |
-| **[OpenAI](https://www.openai.com)** | **[Software Engineer Internship / Co-op, Applied Emerging Talent (Fall 2026)](https://jobright.ai/jobs/info/6969674b1703f05405ab446c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Feb 05 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/696963fb639b452fb57f329d?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Feb 05 |
-| **[Fintech](https://www.fintech.com/)** | **[.Net Engineer Intern](https://jobright.ai/jobs/info/69852c0e0f6f7e7a2cdfb931?utm_campaign=1079&utm_source=git)** | Tampa, FL | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
