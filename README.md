@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Software Developer [Palo Alto, CA]](https://jobright.ai/jobs/info/698566e78da7a612045ff713?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Feb 05 |
+| **[Sysco](http://sysco.com)** | **[Software Dev Engineer Intern](https://jobright.ai/jobs/info/698566a88da7a612045ff6c7?utm_campaign=1079&utm_source=git)** | Houston, TX | Hybrid | Feb 05 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Computer Graphics Software Developer Intern](https://jobright.ai/jobs/info/698565d60f6f7e7a2ce0229c?utm_campaign=1079&utm_source=git)** | Champaign, IL | On Site | Feb 05 |
+| **[SAP](https://www.sap.com)** | **[SAP NS2 IT Cloud Operations Intern](https://jobright.ai/jobs/info/698564da348f733a5c39c474?utm_campaign=1079&utm_source=git)** | Herndon, VA | Hybrid | Feb 05 |
+| ↳ | **[SAP iXp Intern - Full Stack Web Application Developer](https://jobright.ai/jobs/info/6985639c8da7a612045ff418?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | On Site | Feb 05 |
+| **[Cohere](https://cohere.com)** | **[Software Engineer Intern (Spring 2026)](https://jobright.ai/jobs/info/69698a5f1703f05405ab7552?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Feb 05 |
+| **[bioMérieux](https://www.biomerieux.com)** | **[Software Engineering, Blood Culture Co-Op](https://jobright.ai/jobs/info/698562d40f6f7e7a2ce01e79?utm_campaign=1079&utm_source=git)** | Hazelwood, MO | On Site | Feb 05 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Mission Software Engineer Intern](https://jobright.ai/jobs/info/6985610e8da7a612045ff044?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 05 |
 | **[NRECA](https://www.electric.coop/)** | **[Desktop Engineering Intern](https://jobright.ai/jobs/info/698560e00f6f7e7a2ce01a5a?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Feb 05 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Web Applications/Communications Intern (Year-Round)](https://jobright.ai/jobs/info/696922cf1703f05405aafdff?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Feb 05 |
 | **[Pratt & Whitney](https://prattwhitney.com/)** | **[Internship - Digital Project Engineer](https://jobright.ai/jobs/info/69855e52348f733a5c39b743?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 05 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Software Developer [Palo Alto, CA]](https://jobright.ai/jobs/info/69855ccf348f733a5c39b411?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Feb 05 |
 | **[SPX Technologies](https://www.spx.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6969aff7f25a38006698669b?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Feb 05 |
 | **[NRECA](https://www.electric.coop/)** | **[Platform Developer/Engineer Intern](https://jobright.ai/jobs/info/69855955348f733a5c39acf7?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Feb 05 |
 | **[Qumulo](http://qumulo.com)** | **[Software Development Engineer Internship (Winter, Spring, or Summer '26)](https://jobright.ai/jobs/info/68ccd90577add66568aba640?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Feb 05 |
@@ -81,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Progress Residential®](http://rentprogress.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698542620f6f7e7a2cdfe444?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Feb 05 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/6969995c1703f05405ab995a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 05 |
 | **[Lyft](https://www.lyft.com/)** | **[Software Engineer Intern, Mobile iOS (Summer 2026)](https://jobright.ai/jobs/info/68f7411cb0edcf159dc77657?utm_campaign=1079&utm_source=git)** | San Francisco County, CA | Hybrid | Feb 05 |
+| **[DocGo](https://www.docgo.com/)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/6985143e0f6f7e7a2cdf93f3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 05 |
 | **[GoDaddy](https://www.godaddy.com)** | **[Intern - Bootcamp](https://jobright.ai/jobs/info/69853e050f6f7e7a2cdfdb51?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Uline](http://www.uline.com)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/696956c8639b452fb57f223a?utm_campaign=1079&utm_source=git)** | Kenosha, WI | On Site | Feb 05 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69853b248da7a612045fa821?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Feb 05 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Samsung Ads](http://www.samsungads.com)** | **[Software Development (SDET) Internship](https://jobright.ai/jobs/info/698527a8348f733a5c3956ed?utm_campaign=1079&utm_source=git)** | 645 Clyde Avenue, Mountain View, CA, USA | On Site | Feb 05 |
 | **[The Baldwin Group](https://baldwin.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698521e00f6f7e7a2cdfacc4?utm_campaign=1079&utm_source=git)** | Latham, New York, US | On Site | Feb 05 |
 | **[Atomic Semi](https://atomicsemi.com)** | **[Rust Software Engineering Intern - Summer](https://jobright.ai/jobs/info/6985135e8da7a612045f67a3?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Feb 05 |
-| **[DocGo](https://www.docgo.com/)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/6985143e0f6f7e7a2cdf93f3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 05 |
 | **[Hastings Insurance Company](https://www.hastingsmutual.com)** | **[Summer 2026 Application Development Intern](https://jobright.ai/jobs/info/6984f3de348f733a5c390f83?utm_campaign=1079&utm_source=git)** | Hastings, Michigan, United States | Hybrid | Feb 05 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69680730f25a380066965c15?utm_campaign=1079&utm_source=git)** | Lowell, MI | On Site | Feb 05 |
-| **[FactSet](http://www.factset.com)** | **[Software Engineer Intern - Americas Campus (Summer 2026)](https://jobright.ai/jobs/info/6984f0970f6f7e7a2cdf699e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 05 |
-| **[Sceye](https://www.sceye.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6984ef120f6f7e7a2cdf689a?utm_campaign=1079&utm_source=git)** | Moriarty, NM | On Site | Feb 05 |
-| **[FactSet](http://www.factset.com)** | **[Software Engineer Intern - Americas Campus (Summer 2026)](https://jobright.ai/jobs/info/6984ee1a348f733a5c390aa6?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Feb 05 |
-| **[ETS](http://www.ets.org)** | **[AI Test Security Intern](https://jobright.ai/jobs/info/6984ed8a348f733a5c390a0d?utm_campaign=1079&utm_source=git)** | Princeton, NJ | Hybrid | Feb 05 |
-| **[Bell & Evans](http://bellandevans.com)** | **[Summer Internship - ERP Systems](https://jobright.ai/jobs/info/6984ed51348f733a5c3909e7?utm_campaign=1079&utm_source=git)** | Fredericksburg, PA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
