@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ING Americas](http://www.ingwb.com)** | **[Summer 2026 Internship – Tech Internship Program](https://jobright.ai/jobs/info/6986d1358ca8121a3a695148?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 06 |
+| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/6986d03b8da7a6120461d2ad?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | Remote | Feb 06 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[2026 Summer - Software Engineering Intern (Commercial) -Dallas TX](https://jobright.ai/jobs/info/6986cfce8da7a6120461d1bc?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
+| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Interactive Experiences Intern - Summer 2026](https://jobright.ai/jobs/info/6986cf098da7a6120461cfd5?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development II (Intern) – United States](https://jobright.ai/jobs/info/696b0e17350cf4380312512c?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Feb 06 |
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Advanced Technology & Development](https://jobright.ai/jobs/info/6986c9e28da7a6120461bcb9?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Feb 06 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Backend/Platform Systems II (Intern) – United States](https://jobright.ai/jobs/info/696b09d8db26b618950e8563?utm_campaign=1079&utm_source=git)** | Fulton, MD | On Site | Feb 06 |
@@ -101,11 +105,11 @@ For a complete list, click the following sortable link below:
 | **[Heinen's Grocery Store](http://www.heinens.com)** | **[Application Development Summer Associate (Intern)](https://jobright.ai/jobs/info/6986a7588da7a61204618496?utm_campaign=1079&utm_source=git)** | Corporate Office, Warrensville Heights, OH, US | Hybrid | Feb 06 |
 | **[UNIVERSAL INSURANCE MANAGERS, INC](https://www.linkedin.com/company/55241372)** | **[INTERN - IS&T](https://jobright.ai/jobs/info/6986a86e8ca8121a3a68fc6d?utm_campaign=1079&utm_source=git)** | Sarasota, FL, US | On Site | Feb 06 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[IT System Software Intern](https://jobright.ai/jobs/info/6986adac8ca8121a3a690a38?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Enterprise Architecture Solution Design](https://jobright.ai/jobs/info/6986bf8c0f6f7e7a2ce1d9f8?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern - Enterprise Architecture Solution Design](https://jobright.ai/jobs/info/6986adc28ca8121a3a690a5b?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Enterprise Architecture Solution Design](https://jobright.ai/jobs/info/6986adc28ca8121a3a690a5b?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern - Enterprise Architecture Solution Design](https://jobright.ai/jobs/info/6986bf8c0f6f7e7a2ce1d9f8?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | **[General Dynamics](https://www.gd.com)** | **[SW Integration / Cyber Intern](https://jobright.ai/jobs/info/6986a35e8ca8121a3a68f4cc?utm_campaign=1079&utm_source=git)** | USA-VA-Manassas | On Site | Feb 06 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[IT Intern](https://jobright.ai/jobs/info/6986c4768ca8121a3a69323b?utm_campaign=1079&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Feb 06 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6986ba400f6f7e7a2ce1d4d8?utm_campaign=1079&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Feb 06 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[IT Intern](https://jobright.ai/jobs/info/6986ba400f6f7e7a2ce1d4d8?utm_campaign=1079&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Feb 06 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6986c4768ca8121a3a69323b?utm_campaign=1079&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Feb 06 |
 | **[Etched](https://www.etched.com)** | **[Core SWE Intern](https://jobright.ai/jobs/info/6986be780f6f7e7a2ce1d928?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Feb 06 |
 | ↳ | **[Infrastructure Intern](https://jobright.ai/jobs/info/6986bf208da7a6120461ab31?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Feb 06 |
 | ↳ | **[PD Intern](https://jobright.ai/jobs/info/6986b9668da7a6120461a4ea?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Feb 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Impinj](http://www.impinj.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698648688da7a6120460fac6?utm_campaign=1079&utm_source=git)** | Seattle, Washington, United States | Hybrid | Feb 06 |
 | **[Builders Mutual](https://buildersmutual.com)** | **[Software Development Intern / Summer 2026](https://jobright.ai/jobs/info/698647e98ca8121a3a687a60?utm_campaign=1079&utm_source=git)** | Raleigh, NC | Hybrid | Feb 06 |
 | **[Capella Space](http://www.capellaspace.com)** | **[Flight Software Engineering Intern](https://jobright.ai/jobs/info/69420226bdcf884a5addbaff?utm_campaign=1079&utm_source=git)** | Louisville, CO | On Site | Feb 06 |
-| **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Engineering Intern for Cloud Identity](https://jobright.ai/jobs/info/68ddca1244d32141e0bfac3d?utm_campaign=1079&utm_source=git)** | Framingham, MA | Hybrid | Feb 06 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/69865d458ca8121a3a689816?utm_campaign=1079&utm_source=git)** | St Paul, MN | On Site | Feb 06 |
-| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern in Digital Strategies (Engineering), Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696a91e9db26b618950dba89?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Feb 06 |
-| **[Endo](https://www.linkedin.com/company/11485)** | **[Intern, Application Analyst IT](https://jobright.ai/jobs/info/69867a6e0f6f7e7a2ce176f1?utm_campaign=1079&utm_source=git)** | Hazelwood, MO (675) - USA037 - Hybrid | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
