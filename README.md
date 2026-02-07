@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Web Applications Bachelor's Intern](https://jobright.ai/jobs/info/69878cb68da7a61204629ee6?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 07 |
+| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/69878c7d8ca8121a3a6a14c0?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Feb 07 |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Embedded Firmware (Summer 2026)](https://jobright.ai/jobs/info/6950f13929655e4dd65a09e2?utm_campaign=1079&utm_source=git)** | West Union, SC | On Site | Feb 07 |
 | **[City of New York](http://www1.nyc.gov)** | **[Quality Assurance Analyst Intern](https://jobright.ai/jobs/info/6987792a8da7a612046295f1?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[ENFOS](http://www.enfos.com/)** | **[Sofware Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/698777fb8da7a612046295af?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Feb 07 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Test Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/68cd81181ad6b16f0289a7d9?utm_campaign=1079&utm_source=git)** | Westlake Village, CA | On Site | Feb 07 |
 | **[ASML](https://www.asml.com)** | **[Internship - Software Engineering (AI)](https://jobright.ai/jobs/info/693232a1948dde73ff90664f?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 07 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Engineer Intern 2026](https://jobright.ai/jobs/info/696b07875fc86241853a52fd?utm_campaign=1079&utm_source=git)** | Jupiter, FL | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/6933247b764507023d1b2846?utm_campaign=1079&utm_source=git)** | Sandy Springs, GA | Hybrid | Feb 07 |
-| ↳ | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/6933480bf131d96e484616e4?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
+| ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/69335137f131d96e48461db2?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
+| **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Research Engineer Intern 2026](https://jobright.ai/jobs/info/696b0d84350cf43803125098?utm_campaign=1079&utm_source=git)** | Jupiter, FL | On Site | Feb 07 |
+| **[IBM](http://www.ibm.com)** | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/6933480bf131d96e484616e4?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
 | ↳ | **[Z Infrastructure Solutions Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933483aa0dde7020e2ec1f5?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Feb 07 |
 | ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/69338044a0dde7020e2ee9ff?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/693322fda0dde7020e2eabfe?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
@@ -75,15 +80,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6967b1b1639b452fb57d450f?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Feb 07 |
 | ↳ | **[AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6967d3b1639b452fb57d6485?utm_campaign=1079&utm_source=git)** | Armonk, NY | Hybrid | Feb 07 |
 | ↳ | **[Z Infrastructure Solutions Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6966a1f65ad3a93f8231f0a7?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
-| ↳ | **[Software Engineering Intern 2026](https://jobright.ai/jobs/info/698431198da7a612045e403e?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/698596ac8da7a612046040ea?utm_campaign=1079&utm_source=git)** | Houston, TX | Hybrid | Feb 07 |
+| ↳ | **[Software Engineering Intern 2026](https://jobright.ai/jobs/info/698431198da7a612045e403e?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/698423388da7a612045e2429?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/6986b5928da7a61204619be0?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
 | ↳ | **[Cloud Developer Intern](https://jobright.ai/jobs/info/695ed1c90badca5763af4789?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 07 |
-| ↳ | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/6967989b1703f05405a93939?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
 | ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/69676ecf1703f05405a91f66?utm_campaign=1079&utm_source=git)** | Research Park, CA | Hybrid | Feb 07 |
+| ↳ | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/6967989b1703f05405a93939?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69857926348f733a5c39e5f6?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
 | ↳ | **[AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69681e2c1703f05405a9bd50?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
+| ↳ | **[AI Driven Skills Growth Development Intern (May 2026 – 16 months)](https://jobright.ai/jobs/info/696596335ad3a93f8230f2b2?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 07 |
 | ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/693352e6f131d96e48461f4d?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Feb 07 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development II (Intern) – United States](https://jobright.ai/jobs/info/696b0d4f350cf4380312506c?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/696c354e5fc86241853b6aa8?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
@@ -96,7 +102,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/696b9086db26b618950f1e09?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
 | ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/6986a8fd8ca8121a3a68ff52?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Enterprise Document Management Systems (EDMS) Summer Intern](https://jobright.ai/jobs/info/68dfabf16be63b6ec997249f?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Feb 07 |
-| **[Talentix](https://thetalentix.com/)** | **[Backend Developer – Flask&FastAPI(Internship)](https://jobright.ai/jobs/info/69874e660f6f7e7a2ce2977b?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 07 |
 | **[York Space Systems LLC](http://www.yorkspacesystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6933cd10a0dde7020e2f1dff?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 07 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development II (Intern) – United States](https://jobright.ai/jobs/info/696afad8350cf4380312380f?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
 | **[Jacobs](http://www.jacobs.com)** | **[Intern - Agile Software](https://jobright.ai/jobs/info/68f95084cadb2e5a06a63d36?utm_campaign=1079&utm_source=git)** | Nashua, NH | Hybrid | Feb 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PD Intern](https://jobright.ai/jobs/info/6986bfa08ca8121a3a692da6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
 | ↳ | **[Supercomputing Intern](https://jobright.ai/jobs/info/6986bf3d8ca8121a3a692ced?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
 | ↳ | **[Infrastructure Intern](https://jobright.ai/jobs/info/6986be9f8da7a6120461aaab?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
-| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[IT System Software Intern](https://jobright.ai/jobs/info/6986bd210f6f7e7a2ce1d7c0?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
-| **[Healthfirst](https://healthfirst.org)** | **[Software Engineering Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/6986baa88ca8121a3a6925ed?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Enterprise Architecture Solution Design](https://jobright.ai/jobs/info/6986b8e08da7a6120461a454?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 06 |
-| **[Etched](https://www.etched.com)** | **[Core SWE Intern](https://jobright.ai/jobs/info/6986b6b38da7a6120461a24d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
-| **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Software Engineering](https://jobright.ai/jobs/info/6986b6a38da7a6120461a246?utm_campaign=1079&utm_source=git)** | Webster, TX | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
