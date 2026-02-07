@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69333ac0a0dde7020e2eba15?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
+| ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/693352e6f131d96e48461f4d?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Feb 07 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development II (Intern) – United States](https://jobright.ai/jobs/info/696b0d4f350cf4380312506c?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
+| **[Meeedly](https://meeedly.com/)** | **[Software Engineering Intern - #00903](https://jobright.ai/jobs/info/698759868da7a61204627215?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Feb 07 |
+| **[IBM](http://www.ibm.com)** | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/696c354e5fc86241853b6aa8?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
+| ↳ | **[Z Infrastructure Solutions Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/696710f6639b452fb57ca879?utm_campaign=1079&utm_source=git)** | Armonk, NY | Hybrid | Feb 07 |
+| ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/69704783587dfa0bb55dcbb6?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
+| ↳ | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/697057fc333b6343a14cc8a4?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
+| ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69674b6cf25a38006695aee2?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
+| ↳ | **[Software Engineering Intern 2026](https://jobright.ai/jobs/info/69671c74f7d5ac1d4827e1d2?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
+| ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/6986ced78da7a6120461cef0?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Feb 07 |
+| ↳ | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/696b9086db26b618950f1e09?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
+| ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/6986a8fd8ca8121a3a68ff52?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
+| **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Enterprise Document Management Systems (EDMS) Summer Intern](https://jobright.ai/jobs/info/68dfabf16be63b6ec997249f?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Feb 07 |
+| **[Talentix](https://thetalentix.com/)** | **[Backend Developer – Flask&FastAPI(Internship)](https://jobright.ai/jobs/info/69874e660f6f7e7a2ce2977b?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 07 |
 | **[York Space Systems LLC](http://www.yorkspacesystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6933cd10a0dde7020e2f1dff?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 07 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development II (Intern) – United States](https://jobright.ai/jobs/info/696afad8350cf4380312380f?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
 | **[Jacobs](http://www.jacobs.com)** | **[Intern - Agile Software](https://jobright.ai/jobs/info/68f95084cadb2e5a06a63d36?utm_campaign=1079&utm_source=git)** | Nashua, NH | Hybrid | Feb 07 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comtech Telecommunications Corp.](https://comtech.com)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/698677ae8da7a61204614224?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 06 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, XR Full Stack Developer (Summer)](https://jobright.ai/jobs/info/69868b418da7a61204615cf2?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Feb 06 |
 | **[Riverside Research](http://riversideresearch.org)** | **[Hardware Embedded Engineering CO-OP / Intern](https://jobright.ai/jobs/info/69868b098ca8121a3a68d87f?utm_campaign=1079&utm_source=git)** | Beavercreek, OH | On Site | Feb 06 |
-| **[indie.inc](http://www.indiesemi.com)** | **[Camera Host Tools Intern](https://jobright.ai/jobs/info/69868a210f6f7e7a2ce18b5e?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 06 |
-| **[IBM](http://www.ibm.com)** | **[Application Developer Intern – Client Innovation Center (Entry Level)](https://jobright.ai/jobs/info/6971cab747b64f4e963e06d5?utm_campaign=1079&utm_source=git)** | Lansing, MI | On Site | Feb 06 |
-| **[MetroNational](https://memorialcity.com)** | **[Summer Internship - IT Developer/Coder](https://jobright.ai/jobs/info/6986a4850f6f7e7a2ce1af48?utm_campaign=1079&utm_source=git)** | Houston,TX,US | On Site | Feb 06 |
-| **[CalAmp](http://www.calamp.com)** | **[Intern, Engineer Software - Carlsbad, CA (Summer 2026)](https://jobright.ai/jobs/info/6986ae008da7a6120461925d?utm_campaign=1079&utm_source=git)** | US-CA-Carlsbad | Hybrid | Feb 06 |
-| **[Heinen's Grocery Store](http://www.heinens.com)** | **[Application Development Summer Associate (Intern)](https://jobright.ai/jobs/info/6986a7588da7a61204618496?utm_campaign=1079&utm_source=git)** | Corporate Office, Warrensville Heights, OH, US | Hybrid | Feb 06 |
-| **[UNIVERSAL INSURANCE MANAGERS, INC](https://www.linkedin.com/company/55241372)** | **[INTERN - IS&T](https://jobright.ai/jobs/info/6986a86e8ca8121a3a68fc6d?utm_campaign=1079&utm_source=git)** | Sarasota, FL, US | On Site | Feb 06 |
-| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[IT System Software Intern](https://jobright.ai/jobs/info/6986adac8ca8121a3a690a38?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Enterprise Architecture Solution Design](https://jobright.ai/jobs/info/6986bf8c0f6f7e7a2ce1d9f8?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern - Enterprise Architecture Solution Design](https://jobright.ai/jobs/info/6986adc28ca8121a3a690a5b?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| **[General Dynamics](https://www.gd.com)** | **[SW Integration / Cyber Intern](https://jobright.ai/jobs/info/6986a35e8ca8121a3a68f4cc?utm_campaign=1079&utm_source=git)** | USA-VA-Manassas | On Site | Feb 06 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[IT Intern](https://jobright.ai/jobs/info/6986c4768ca8121a3a69323b?utm_campaign=1079&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Feb 06 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6986ba400f6f7e7a2ce1d4d8?utm_campaign=1079&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Feb 06 |
-| **[Etched](https://www.etched.com)** | **[PD Intern](https://jobright.ai/jobs/info/6986b9668da7a6120461a4ea?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Feb 06 |
-| ↳ | **[Infrastructure Intern](https://jobright.ai/jobs/info/6986bf208da7a6120461ab31?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Feb 06 |
-| ↳ | **[Core SWE Intern](https://jobright.ai/jobs/info/6986be780f6f7e7a2ce1d928?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
