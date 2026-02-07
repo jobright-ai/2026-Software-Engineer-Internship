@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/693364d0a0dde7020e2ed645?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - System Validation Engineer](https://jobright.ai/jobs/info/6987404d8ca8121a3a69d25d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 07 |
+| **[IBM](http://www.ibm.com)** | **[Cloud Developer Intern](https://jobright.ai/jobs/info/695ed10c08ab990f282a1bb3?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Feb 07 |
+| ↳ | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/696b90ec5fc86241853af261?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
+| ↳ | **[Cloud Developer Intern](https://jobright.ai/jobs/info/695ebbc008ab990f282a052d?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Feb 07 |
+| ↳ | **[Software Developer Intern Austin 2026](https://jobright.ai/jobs/info/698496fc0f6f7e7a2cdf0a51?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
+| **[DentalScan](https://www.replyquick.ai/dentalscan)** | **[Senior Full Stack Engineer Internship](https://jobright.ai/jobs/info/69873efc8ca8121a3a69d0f5?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 07 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer Backend/Platform Systems II (Intern) – United States](https://jobright.ai/jobs/info/696b014e350cf438031240b2?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
+| **[Michael Baker International](http://mbakerintl.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/68cf63e8dbd9fb154ede76db?utm_campaign=1079&utm_source=git)** | Pittsburgh Region | On Site | Feb 07 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Entertainment Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69833b59348f733a5c3645d5?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Feb 07 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development II (Intern) – United States](https://jobright.ai/jobs/info/696b04295fc86241853a4e2a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 07 |
+| ↳ | **[Software Engineer Backend/Platform Systems II (Intern) – United States](https://jobright.ai/jobs/info/696af3f75fc86241853a3a04?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 07 |
 | **[Zoox](https://www.zoox.com/)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/6933a41aa0dde7020e2f0080?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Feb 07 |
 | **[Saronic Technologies](https://www.saronic.com)** | **[Forward Deployed Engineer Intern](https://jobright.ai/jobs/info/696b1f7b5fc86241853a8106?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 07 |
 | **[ByteDance](http://bytedance.com)** | **[Software Development Engineer in Test Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cc3267128dc347fd920ad2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 07 |
@@ -127,11 +139,11 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Enterprise Architecture Solution Design](https://jobright.ai/jobs/info/6986adc28ca8121a3a690a5b?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 | ↳ | **[IT Intern - Enterprise Architecture Solution Design](https://jobright.ai/jobs/info/6986bf8c0f6f7e7a2ce1d9f8?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | **[General Dynamics](https://www.gd.com)** | **[SW Integration / Cyber Intern](https://jobright.ai/jobs/info/6986a35e8ca8121a3a68f4cc?utm_campaign=1079&utm_source=git)** | USA-VA-Manassas | On Site | Feb 06 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[IT Intern](https://jobright.ai/jobs/info/6986c4768ca8121a3a69323b?utm_campaign=1079&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Feb 06 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6986ba400f6f7e7a2ce1d4d8?utm_campaign=1079&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Feb 06 |
-| **[Etched](https://www.etched.com)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/6986bf208da7a6120461ab31?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Feb 06 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[IT Intern](https://jobright.ai/jobs/info/6986ba400f6f7e7a2ce1d4d8?utm_campaign=1079&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Feb 06 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6986c4768ca8121a3a69323b?utm_campaign=1079&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Feb 06 |
+| **[Etched](https://www.etched.com)** | **[PD Intern](https://jobright.ai/jobs/info/6986b9668da7a6120461a4ea?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Feb 06 |
+| ↳ | **[Infrastructure Intern](https://jobright.ai/jobs/info/6986bf208da7a6120461ab31?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Feb 06 |
 | ↳ | **[Core SWE Intern](https://jobright.ai/jobs/info/6986be780f6f7e7a2ce1d928?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Feb 06 |
-| ↳ | **[PD Intern](https://jobright.ai/jobs/info/6986b9668da7a6120461a4ea?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Feb 06 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Year-Round - AI For Autonomy, Hybrid](https://jobright.ai/jobs/info/695d3e16fbd62a0a6565c730?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | Hybrid | Feb 06 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, XR Full Stack Developer (Summer)](https://jobright.ai/jobs/info/69867cc38da7a61204614a23?utm_campaign=1079&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | Feb 06 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Application Development - R10584](https://jobright.ai/jobs/info/69867be88ca8121a3a68c762?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 06 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Application Developer Intern – Client Innovation Center (Entry Level)](https://jobright.ai/jobs/info/696aaefb350cf4380311a8c9?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Feb 06 |
 | **[Audiokinetic](https://www.audiokinetic.com/)** | **[Intern, QA](https://jobright.ai/jobs/info/69868d158da7a61204615dbe?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 06 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Software Engineer, New Grad](https://jobright.ai/jobs/info/6974077dbc8e722e7b18eb9a?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Feb 06 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software / System Engineer for Progeny Business Area (AI/ML)](https://jobright.ai/jobs/info/698667648da7a612046125a6?utm_campaign=1079&utm_source=git)** | Manassas, VA | On Site | Feb 06 |
-| **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[IT Intern (Application Development & Website Design)](https://jobright.ai/jobs/info/6986b08d8da7a61204619605?utm_campaign=1079&utm_source=git)** | Newark, NJ - Hybrid | Hybrid | Feb 06 |
-| **[The Clorox Company](https://www.thecloroxcompany.com)** | **[Cloud Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/698664e68da7a612046120ab?utm_campaign=1079&utm_source=git)** | Durham, NC - USA (Strickland Bldg) | Hybrid | Feb 06 |
-| **[Healthfirst](https://healthfirst.org)** | **[Software Engineering Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/698688f08ca8121a3a68d6a5?utm_campaign=1079&utm_source=git)** | Hybrid - NY | Hybrid | Feb 06 |
-| **[Perpay Inc.](http://www.perpay.com)** | **[Software Engineering Internship, 2026](https://jobright.ai/jobs/info/697403e737785856350dec27?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Feb 06 |
-| **[LodgeLink](https://www.lodgelink.com)** | **[Graduate Intern Software Engineering](https://jobright.ai/jobs/info/698663c90f6f7e7a2ce15161?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 06 |
-| **[The Clorox Company](https://www.thecloroxcompany.com)** | **[Cloud Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6986631f0f6f7e7a2ce15014?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Feb 06 |
-| **[Ag Leader Technology](http://www.agleader.com/)** | **[Product Testing Intern](https://jobright.ai/jobs/info/698681828ca8121a3a68cfb6?utm_campaign=1079&utm_source=git)** | Ames, IA | On Site | Feb 06 |
-| **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Technology Services Designer Intern](https://jobright.ai/jobs/info/698661898da7a61204611a37?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 06 |
-| **[Capella Space](http://www.capellaspace.com)** | **[Flight Software Engineering Intern](https://jobright.ai/jobs/info/693c632a50bbaf76504fa95b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
-| **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Software/Test/Systems Engineering Graduate Intern- Summer 2026 - ATAS - Hill AFB, UT](https://jobright.ai/jobs/info/69865e880f6f7e7a2ce146a9?utm_campaign=1079&utm_source=git)** | Georgia, United States | On Site | Feb 06 |
-| **[Western Digital](https://www.westerndigital.com)** | **[Summer 2026 Co-Op - Software Engineer](https://jobright.ai/jobs/info/698681138da7a6120461509d?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
