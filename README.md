@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/698703e58da7a61204621309?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
+| ↳ | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/6986fb108da7a61204620b02?utm_campaign=1079&utm_source=git)** | Frisco, TX | On Site | Feb 07 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[R&D Firmware Engineer Intern](https://jobright.ai/jobs/info/6986eb5b8da7a6120461fa84?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Feb 06 |
-| **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Software Engineer Intern - Santa Clara, CA](https://jobright.ai/jobs/info/695dfe2e61d5475ac1a0c2c3?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Feb 06 |
 | **[ING Americas](http://www.ingwb.com)** | **[Summer 2026 Internship – Tech Internship Program](https://jobright.ai/jobs/info/6986d1358ca8121a3a695148?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/6986d03b8da7a6120461d2ad?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | Remote | Feb 06 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[2026 Summer - Software Engineering Intern (Commercial) -Dallas TX](https://jobright.ai/jobs/info/6986cfce8da7a6120461d1bc?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
@@ -110,11 +111,11 @@ For a complete list, click the following sortable link below:
 | **[Heinen's Grocery Store](http://www.heinens.com)** | **[Application Development Summer Associate (Intern)](https://jobright.ai/jobs/info/6986a7588da7a61204618496?utm_campaign=1079&utm_source=git)** | Corporate Office, Warrensville Heights, OH, US | Hybrid | Feb 06 |
 | **[UNIVERSAL INSURANCE MANAGERS, INC](https://www.linkedin.com/company/55241372)** | **[INTERN - IS&T](https://jobright.ai/jobs/info/6986a86e8ca8121a3a68fc6d?utm_campaign=1079&utm_source=git)** | Sarasota, FL, US | On Site | Feb 06 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[IT System Software Intern](https://jobright.ai/jobs/info/6986adac8ca8121a3a690a38?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Enterprise Architecture Solution Design](https://jobright.ai/jobs/info/6986bf8c0f6f7e7a2ce1d9f8?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern - Enterprise Architecture Solution Design](https://jobright.ai/jobs/info/6986adc28ca8121a3a690a5b?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Enterprise Architecture Solution Design](https://jobright.ai/jobs/info/6986adc28ca8121a3a690a5b?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern - Enterprise Architecture Solution Design](https://jobright.ai/jobs/info/6986bf8c0f6f7e7a2ce1d9f8?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | **[General Dynamics](https://www.gd.com)** | **[SW Integration / Cyber Intern](https://jobright.ai/jobs/info/6986a35e8ca8121a3a68f4cc?utm_campaign=1079&utm_source=git)** | USA-VA-Manassas | On Site | Feb 06 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[IT Intern](https://jobright.ai/jobs/info/6986c4768ca8121a3a69323b?utm_campaign=1079&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Feb 06 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6986ba400f6f7e7a2ce1d4d8?utm_campaign=1079&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Feb 06 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[IT Intern](https://jobright.ai/jobs/info/6986ba400f6f7e7a2ce1d4d8?utm_campaign=1079&utm_source=git)** | United States of America-South Carolina-CharlestonWork Locations | On Site | Feb 06 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6986c4768ca8121a3a69323b?utm_campaign=1079&utm_source=git)** | 8501 Palmetto Commerce Pkwy8501 Palmetto Commerce Pkwy | On Site | Feb 06 |
 | **[Etched](https://www.etched.com)** | **[Core SWE Intern](https://jobright.ai/jobs/info/6986be780f6f7e7a2ce1d928?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Feb 06 |
 | ↳ | **[PD Intern](https://jobright.ai/jobs/info/6986b9668da7a6120461a4ea?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Feb 06 |
 | ↳ | **[Infrastructure Intern](https://jobright.ai/jobs/info/6986bf208da7a6120461ab31?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Feb 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B. Braun Embedded Software Developer Intern (Summer 2026)](https://jobright.ai/jobs/info/698673cd8ca8121a3a68bc78?utm_campaign=1079&utm_source=git)** | Allentown, PA | On Site | Feb 06 |
 | **[Wawanesa Insurance](https://www.wawanesa.com)** | **[Application Developer - Intern](https://jobright.ai/jobs/info/69866bc18ca8121a3a68b129?utm_campaign=1079&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Feb 06 |
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Infrastructure inspection/repair using heterogenous robot teams](https://jobright.ai/jobs/info/69864d1c8da7a6120460ffde?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Feb 06 |
-| **[OPENLANE](http://www.openlane.com)** | **[Intern, Mobile Apps Engineer](https://jobright.ai/jobs/info/698682b28da7a612046152b0?utm_campaign=1079&utm_source=git)** | US - AZ - Mesa (Mesa) | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
