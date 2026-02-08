@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[GPU/AI Application Platform Engineer Intern (Server Platform) - 2026 Fall (PhD)](https://jobright.ai/jobs/info/68ccb4d5128dc347fd92882c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | ↳ | **[Software Engineer Intern (Monetization Technology - Ads Creative AI) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978504e88e2b47213bc77ce?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Database and Automated Testing Intern (for High Performance Computing and Machine Learning Benchmarks)](https://jobright.ai/jobs/info/6933985df131d96e48464b9d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 08 |
-| **[GenPark](https://genpark.ai)** | **[Junior Software Engineer](https://jobright.ai/jobs/info/698860138ca8121a3a6af670?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Feb 08 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (Infrastructure System Lab)- 2026 Start (PHD)](https://jobright.ai/jobs/info/68ce85d1dbd9fb154ede061b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | ↳ | **[Software Development Engineer in Test Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690d44b64a1b456627b1feb6?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Feb 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern - TikTok Search Architecture team - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978188dfdeb8243a27b0c03?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
@@ -107,8 +106,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6967b1b1639b452fb57d450f?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Feb 07 |
 | ↳ | **[AI-Centric Solution Architecting for Global IT Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6967d3b1639b452fb57d6485?utm_campaign=1079&utm_source=git)** | Armonk, NY | Hybrid | Feb 07 |
 | ↳ | **[Z Infrastructure Solutions Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6966a1f65ad3a93f8231f0a7?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
-| ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/698596ac8da7a612046040ea?utm_campaign=1079&utm_source=git)** | Houston, TX | Hybrid | Feb 07 |
 | ↳ | **[Software Engineering Intern 2026](https://jobright.ai/jobs/info/698431198da7a612045e403e?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
+| ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/698596ac8da7a612046040ea?utm_campaign=1079&utm_source=git)** | Houston, TX | Hybrid | Feb 07 |
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/698423388da7a612045e2429?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/6986b5928da7a61204619be0?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
 | ↳ | **[Cloud Developer Intern](https://jobright.ai/jobs/info/695ed1c90badca5763af4789?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Backend/Platform Systems II (Intern) – United States](https://jobright.ai/jobs/info/696af3f75fc86241853a3a04?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 07 |
 | **[Zoox](https://www.zoox.com/)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/6933a41aa0dde7020e2f0080?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Feb 07 |
 | **[Saronic Technologies](https://www.saronic.com)** | **[Forward Deployed Engineer Intern](https://jobright.ai/jobs/info/696b1f7b5fc86241853a8106?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 07 |
+| **[ByteDance](http://bytedance.com)** | **[Software Development Engineer in Test Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cc3267128dc347fd920ad2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
