@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HealMint AI](https://drlemon.ai)** | **[Full-Stack Engineering Intern](https://jobright.ai/jobs/info/6987b3e88da7a6120462ce2a?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Feb 07 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - Undergrad ONLY (Go, distributed systems, VM exp.)](https://jobright.ai/jobs/info/6987b3398da7a6120462ccad?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026: Lowell](https://jobright.ai/jobs/info/69879af70f6f7e7a2ce2d776?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
 | **[Banner Engineering Careers](https://www.bannerengineering.com/us/en/company/careers.html)** | **[Embedded Software Engineering Intern](https://jobright.ai/jobs/info/698799d38da7a6120462a869?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69674b6cf25a38006695aee2?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
 | ↳ | **[Software Engineering Intern 2026](https://jobright.ai/jobs/info/69671c74f7d5ac1d4827e1d2?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/6986ced78da7a6120461cef0?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Feb 07 |
-| ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/6986a8fd8ca8121a3a68ff52?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
 | ↳ | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/696b9086db26b618950f1e09?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
+| ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/6986a8fd8ca8121a3a68ff52?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Enterprise Document Management Systems (EDMS) Summer Intern](https://jobright.ai/jobs/info/68dfabf16be63b6ec997249f?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Feb 07 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/6976dfd0206da320f4a086f7?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 07 |
 | **[York Space Systems LLC](http://www.yorkspacesystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6933cd10a0dde7020e2f1dff?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Backend/Platform Systems II (Intern) – United States](https://jobright.ai/jobs/info/696b09d8db26b618950e8563?utm_campaign=1079&utm_source=git)** | Fulton, MD | On Site | Feb 06 |
 | **[Heinen's Grocery Store](http://www.heinens.com)** | **[Application Development Summer Associate (Intern)](https://jobright.ai/jobs/info/6986c7230f6f7e7a2ce1e9ca?utm_campaign=1079&utm_source=git)** | Warrensville Heights, OH | Hybrid | Feb 06 |
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Software Engineering](https://jobright.ai/jobs/info/6986c6cb8da7a6120461bba9?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Feb 06 |
-| ↳ | **[2026 Voyager Summer Internship - Computer Engineering](https://jobright.ai/jobs/info/6986c64c8da7a6120461bb72?utm_campaign=1079&utm_source=git)** | Folsom, CA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
