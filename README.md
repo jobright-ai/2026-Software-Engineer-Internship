@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinity Logistics](https://trinitylogistics.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/698a3cad0f6f7e7a2ce54daf?utm_campaign=1079&utm_source=git)** | Seaford, DE | Remote | Feb 09 |
+| **[RKL LLP](https://www.rklcpa.com)** | **[IS Assurance Intern - Fall 2026](https://jobright.ai/jobs/info/698a3a740f6f7e7a2ce54b44?utm_campaign=1079&utm_source=git)** | Lancaster, PA | On Site | Feb 09 |
+| **[Resmed](https://www.resmed.com.au)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/698a39e64db8972cecff78ee?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Feb 09 |
+| **[Roku](https://www.roku.com)** | **[Software Engineer Intern, Embedded Systems](https://jobright.ai/jobs/info/698a38f84db8972cecff77ec?utm_campaign=1079&utm_source=git)** | San Jose, California | Hybrid | Feb 09 |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer (SkillBridge Intern) - 23875](https://jobright.ai/jobs/info/68cce080d11b445e0bee3779?utm_campaign=1079&utm_source=git)** | Greater Roanoke Area | On Site | Feb 09 |
 | **[Uber](http://www.uber.com)** | **[2026 PhD Software Engineer Intern (Observability Monitoring & Alerting), United States](https://jobright.ai/jobs/info/698a365047434001cc686b7f?utm_campaign=1079&utm_source=git)** | US-NY-New York | On Site | Feb 09 |
 | **[Mouser Electronics](http://mouser.com)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/698a34094db8972cecff743b?utm_campaign=1079&utm_source=git)** | Mansfield, TX, United States | On Site | Feb 09 |
 | **[Roku](https://www.roku.com)** | **[Software Engineer Intern, Embedded Systems](https://jobright.ai/jobs/info/698a30800f6f7e7a2ce544ae?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 09 |
@@ -69,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[BorgWarner](http://www.borgwarner.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698a26194db8972cecff6a2a?utm_campaign=1079&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Feb 09 |
 | **[Trinity Logistics](https://trinitylogistics.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/698a22804db8972cecff68c5?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 09 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[IT Development Application & Operational Support - 2026 Student Internship](https://jobright.ai/jobs/info/698a21ab47434001cc685da6?utm_campaign=1079&utm_source=git)** | Lutz, FL | On Site | Feb 09 |
+| **[Uber](http://www.uber.com)** | **[2026 PhD Software Engineer Intern (Observability Monitoring & Alerting), United States](https://jobright.ai/jobs/info/698a3d1a0f6f7e7a2ce54e18?utm_campaign=1079&utm_source=git)** | New York, NY, US | On Site | Feb 09 |
 | **[Altera](https://www.altera.com)** | **[High Level Synthesis (HLS) Compiler Intern](https://jobright.ai/jobs/info/698a1f9947434001cc6859cb?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 09 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/698a1f984db8972cecff63df?utm_campaign=1079&utm_source=git)** | Lexington, KY | On Site | Feb 09 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/698a1f460f6f7e7a2ce5364f?utm_campaign=1079&utm_source=git)** | Philadelphia, Pennsylvania | Hybrid | Feb 09 |
@@ -76,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Ionis Pharmaceuticals, Inc.](http://www.ionispharma.com)** | **[2026 Summer Intern / Technology & AI Enablement](https://jobright.ai/jobs/info/698a1d564db8972cecff6081?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | Hybrid | Feb 09 |
 | **[NOV](https://www.nov.com/)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/698a1c9247434001cc6854da?utm_campaign=1079&utm_source=git)** | 2241 South Tracy Hall Pkwy, Provo, UT, 84606, US | On Site | Feb 09 |
 | ↳ | **[Computer Engineering Intern](https://jobright.ai/jobs/info/698a1c140f6f7e7a2ce53151?utm_campaign=1079&utm_source=git)** | Provo, UT | On Site | Feb 09 |
+| **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026: SVL*](https://jobright.ai/jobs/info/698a38d047434001cc686cfe?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 09 |
 | **[Altera](https://www.altera.com)** | **[High Level Synthesis (HLS) Compiler Intern](https://jobright.ai/jobs/info/698a316847434001cc68682f?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 09 |
 | **[Voyager Technologies](https://voyagertechnologies.com)** | **[2026 Voyager Summer Internship - Software Engineering](https://jobright.ai/jobs/info/698a11cc4db8972cecff4a5e?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 09 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Solution Design and Implementation](https://jobright.ai/jobs/info/68cd9542b2a74e1837ed911b?utm_campaign=1079&utm_source=git)** | Fort Smith, AR | On Site | Feb 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern (Monetization Technology - Ads Creative AI) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978504e88e2b47213bc77ce?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Database and Automated Testing Intern (for High Performance Computing and Machine Learning Benchmarks)](https://jobright.ai/jobs/info/6933985df131d96e48464b9d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 08 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (Infrastructure System Lab)- 2026 Start (PHD)](https://jobright.ai/jobs/info/68ce85d1dbd9fb154ede061b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
-| ↳ | **[Software Development Engineer in Test Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690d44b64a1b456627b1feb6?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Feb 08 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern - TikTok Search Architecture team - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978188dfdeb8243a27b0c03?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
-| ↳ | **[Software Engineer Intern (Data Arch - ShortText Rec) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976e9defdeb8243a279b09e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
-| **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Edge Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690d47edd046ab6061cf4e39?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
-| ↳ | **[3D Graphics Engineer Intern (PICO Foundation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69166f889c388539cbdfb3de?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
-| **[Oracle](https://www.oracle.com/)** | **[Software Engineer Intern - Oracle Retail](https://jobright.ai/jobs/info/696db72c350cf43803149143?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Feb 08 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern(Video-on-Demand Algorithm) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976f86e52f3c27ec64303b5?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
