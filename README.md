@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026: Lowell](https://jobright.ai/jobs/info/698942438ca8121a3a6b8f02?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Feb 08 |
+| **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026: Lowell](https://jobright.ai/jobs/info/698962678ca8121a3a6ba786?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Feb 08 |
 | **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Digital & Business Solutions (Intranet & Apps)](https://jobright.ai/jobs/info/698935570f6f7e7a2ce4422b?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Feb 08 |
 | ↳ | **[IT Intern - Digital & Business Solutions (Intranet & Apps)](https://jobright.ai/jobs/info/698934b68ca8121a3a6b869e?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 08 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[IT Finance Technical Intern](https://jobright.ai/jobs/info/6989306a8da7a6120464119e?utm_campaign=1079&utm_source=git)** | Tysons Corner, VA | Hybrid | Feb 08 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/697057fc333b6343a14cc8a4?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
 | ↳ | **[Software Engineering Intern 2026](https://jobright.ai/jobs/info/69671c74f7d5ac1d4827e1d2?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/6986ced78da7a6120461cef0?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Feb 07 |
-| ↳ | **[Software Developer Intern: 2026](https://jobright.ai/jobs/info/6986a8fd8ca8121a3a68ff52?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
+| ↳ | **[QA/Test Developer Intern](https://jobright.ai/jobs/info/696b9086db26b618950f1e09?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
