@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kenan Advantage Group](http://www.thekag.com/)** | **[IT Applied Solutions Intern](https://jobright.ai/jobs/info/696eca36db26b6189511d7e4?utm_campaign=1079&utm_source=git)** | North Canton, OH | On Site | Feb 10 |
+| **[STMicroelectronics](https://www.st.com)** | **[Imaging Application Intern](https://jobright.ai/jobs/info/693753de1c1c2161c13f2d40?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Feb 10 |
+| **[Draper](https://www.draper.com)** | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/6979a118ca92cf0d6a82f0ce?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Feb 10 |
+| **[ADM](http://www.adm.com)** | **[COBOL Developer Intern - Erlanger, KY](https://jobright.ai/jobs/info/6947786463141d1884571e8d?utm_campaign=1079&utm_source=git)** | Erlanger, KY | On Site | Feb 10 |
+| **[DentalScan](https://www.replyquick.ai/dentalscan)** | **[DentalScan Full Stack Engineer Internship](https://jobright.ai/jobs/info/698b2373c5761b521a9a8185?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 10 |
+| **[Clipboard](https://www.clipboardhealth.com)** | **[Engineering Intern 2026](https://jobright.ai/jobs/info/698b234ec5761b521a9a816d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Feb 10 |
+| **[Nokia](http://www.nokia.com)** | **[R&D Radio Software Developer Intern](https://jobright.ai/jobs/info/696e4722350cf438031509af?utm_campaign=1079&utm_source=git)** | Coppell, TX | On Site | Feb 10 |
+| **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952ef175bb7de448ef60925?utm_campaign=1079&utm_source=git)** | Mt. Laurel, NJ | On Site | Feb 10 |
+| **[Nokia](http://www.nokia.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/696c828f5fc86241853ba5a1?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 10 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Traffic Platform)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690dbc82d046ab6061cf8a37?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 10 |
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[IT Software Development Intern](https://jobright.ai/jobs/info/691d55babcdbf3560c9efe6d?utm_campaign=1079&utm_source=git)** | Lenexa, KS | On Site | Feb 10 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Software Engineering Intern Summer 2026](https://jobright.ai/jobs/info/697c67cd727747250d5716e3?utm_campaign=1079&utm_source=git)** | Shoreview, MN | On Site | Feb 10 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - Software Engineer Intern](https://jobright.ai/jobs/info/698a4b5347434001cc687fc3?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 09 |
 | **[Mouser Electronics](http://mouser.com)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/698a493d4db8972cecff887e?utm_campaign=1079&utm_source=git)** | Mansfield, TX | On Site | Feb 09 |
 | **[Amica Insurance](http://www.amica.com)** | **[Student Intern - Quality Assurance Developer](https://jobright.ai/jobs/info/698413a48da7a612045dff2b?utm_campaign=1079&utm_source=git)** | Rhode Island, United States | Hybrid | Feb 09 |
-| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern in Digital Strategies (Engineering), Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696a91e9db26b618950dba89?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Feb 09 |
-| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Power Platform (8 Months)](https://jobright.ai/jobs/info/698a68db4db8972cecffb3c1?utm_campaign=1079&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Feb 09 |
-| **[Akuna Capital](https://akunacapital.com)** | **[C++ Tech Sneak Peek Week: Reaching Women+ (June 2026)](https://jobright.ai/jobs/info/698a42240f6f7e7a2ce553bc?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
-| ↳ | **[C++ Tech Sneak Peek Week: August 2026](https://jobright.ai/jobs/info/698a417847434001cc6876b4?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698a26194db8972cecff6a2a?utm_campaign=1079&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Feb 09 |
-| **[Capco](http://www.capco.com)** | **[Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/698a651d4db8972cecffaa30?utm_campaign=1079&utm_source=git)** | Canada - Toronto | On Site | Feb 09 |
-| **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[IT Application Developer (AI-Driven IT Ops) Intern](https://jobright.ai/jobs/info/698a3fe04db8972cecff7f3e?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Feb 09 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Software Developer in Test Intern 2026](https://jobright.ai/jobs/info/698a667dc5761b521a999900?utm_campaign=1079&utm_source=git)** | Jupiter, FL | On Site | Feb 09 |
-| **[Twilio](https://www.twilio.com/)** | **[Software Engineer Intern - Canada](https://jobright.ai/jobs/info/698a3e4c0f6f7e7a2ce54f56?utm_campaign=1079&utm_source=git)** | Remote - Canada | Remote | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
