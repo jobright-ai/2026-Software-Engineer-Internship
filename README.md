@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Calix](http://www.calix.com)** | **[Engineering Operations Intern - Tools and Services](https://jobright.ai/jobs/info/698b99ccc5761b521a9b29df?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 10 |
 | **[Kraft & Kennedy, Inc.](http://kraftkennedy.com)** | **[Intern](https://jobright.ai/jobs/info/698b83550f6f7e7a2ce6f677?utm_campaign=1079&utm_source=git)** | North Carolina, United States | Remote | Feb 10 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Tools Team Software Programmer Summer Intern](https://jobright.ai/jobs/info/698b829a06d9b0622495a2d7?utm_campaign=1079&utm_source=git)** | York, PA | Hybrid | Feb 10 |
 | **[Kraft & Kennedy, Inc.](http://kraftkennedy.com)** | **[Intern](https://jobright.ai/jobs/info/698b815506d9b0622495a0aa?utm_campaign=1079&utm_source=git)** | Florida, United States | Remote | Feb 10 |
@@ -68,11 +69,14 @@ For a complete list, click the following sortable link below:
 | **[Ciena](http://www.ciena.com)** | **[Solutions Engineer & Introduction Intern - Summer 2026](https://jobright.ai/jobs/info/698b709f06d9b062249586db?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 10 |
 | **[Honeywell](http://www.honeywell.com)** | **[Intern Bachelors Embedded Engineer](https://jobright.ai/jobs/info/696860f6f25a38006696cc2c?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | On Site | Feb 10 |
 | **[Docusign](http://www.docusign.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/698a38c847434001cc686ce7?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Feb 10 |
+| **[Kraft & Kennedy, Inc.](http://kraftkennedy.com)** | **[Intern](https://jobright.ai/jobs/info/698b95acc5761b521a9b2526?utm_campaign=1079&utm_source=git)** | Pennsylvania, United States | Remote | Feb 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Full Stack Engineering Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/698b6c50c5761b521a9aea7a?utm_campaign=1079&utm_source=git)** | Pasadena, CA | Hybrid | Feb 10 |
+| **[Kraft & Kennedy, Inc.](http://kraftkennedy.com)** | **[Intern](https://jobright.ai/jobs/info/698b959a06d9b0622495bb0b?utm_campaign=1079&utm_source=git)** | Tennessee, United States | Remote | Feb 10 |
 | **[Black Diamond Group](https://www.blackdiamondgroup.com/)** | **[Graduate Intern Software Engineering](https://jobright.ai/jobs/info/698b6b3c0f6f7e7a2ce6d22e?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Feb 10 |
 | **[ImageTrend](http://www.imagetrend.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/698b529306d9b062249556aa?utm_campaign=1079&utm_source=git)** | Eagan, MN | On Site | Feb 10 |
 | **[Ciena](http://www.ciena.com)** | **[Solutions Engineer & Introduction Intern - Summer 2026](https://jobright.ai/jobs/info/698b65700f6f7e7a2ce6c89c?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 10 |
 | **[Schneider Electric](https://www.se.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/698b81390f6f7e7a2ce6f2b9?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Feb 10 |
+| ↳ | **[Application Development Intern](https://jobright.ai/jobs/info/698b904d06d9b0622495b4d9?utm_campaign=1079&utm_source=git)** | Franklin, TN | On Site | Feb 10 |
 | **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-BIT-002-App Development Graduate Intern](https://jobright.ai/jobs/info/698b87990f6f7e7a2ce6fd3c?utm_campaign=1079&utm_source=git)** | Queens, NY | On Site | Feb 10 |
 | **[Fiserv](http://www.fiserv.com)** | **[Application Development  - Summer Intern](https://jobright.ai/jobs/info/698b7655c5761b521a9af6c8?utm_campaign=1079&utm_source=git)** | King of Prussia, Pennsylvania | On Site | Feb 10 |
 | **[Leidos](https://www.leidos.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/698b85bb0f6f7e7a2ce6fada?utm_campaign=1079&utm_source=git)** | Atlantic City, NJ | On Site | Feb 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RJN Group, Inc.](http://rjn.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698a7c270f6f7e7a2ce5a32a?utm_campaign=1079&utm_source=git)** | Downers Grove, IL | Hybrid | Feb 09 |
 | **[Bold Orange](https://boldorange.com/)** | **[Technology Intern](https://jobright.ai/jobs/info/698a7bd64db8972cecffce4a?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 09 |
 | **[Riva International, Inc.](https://rivaengine.com)** | **[Intern C# Full Stack Developer](https://jobright.ai/jobs/info/698a7aea4db8972cecffcd37?utm_campaign=1079&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Feb 09 |
-| **[Encore](https://www.encoreglobal.com/)** | **[IT Application Development Intern – Summer 2026](https://jobright.ai/jobs/info/698a9a314db8972cecfff5b1?utm_campaign=1079&utm_source=git)** | Schiller Park, Illinois, United States | On Site | Feb 09 |
-| **[Ferris State University College of Business](http://ferris.edu/business)** | **[Software Engineering Intern (Student Position)](https://jobright.ai/jobs/info/698a77fc4db8972cecffcada?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Feb 09 |
-| **[RJN Group, Inc.](http://rjn.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698a95d20f6f7e7a2ce5c929?utm_campaign=1079&utm_source=git)** | Downers Grove, Illinois, United States | On Site | Feb 09 |
-| **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Information Technology](https://jobright.ai/jobs/info/698a9a4a0f6f7e7a2ce5cefd?utm_campaign=1079&utm_source=git)** | Rosemont, IL | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
