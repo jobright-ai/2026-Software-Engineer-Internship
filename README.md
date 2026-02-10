@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clarity](https://clarityapp.io)** | **[Internship - Software Engineering Intern](https://jobright.ai/jobs/info/687674c0ae2f413e4a5afd36?utm_campaign=1079&utm_source=git)** | Herndon, VA | Remote | Feb 09 |
+| **[Kiewit](http://www.kiewit.com)** | **[Drainage Engineer Intern - Kiewit Infrastructure Engineers- Texas (Summer 2026)](https://jobright.ai/jobs/info/698ada434db8972cec005426?utm_campaign=1079&utm_source=git)** | Westlake, TX | On Site | Feb 09 |
+| **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952cecc935649778e208e3d?utm_campaign=1079&utm_source=git)** | US > New Jersey > Mt Laurel | On Site | Feb 09 |
+| **[Fulcrum GT](https://fulcrumgt.com)** | **[2026 Startup Lab Associate – Software Engineering](https://jobright.ai/jobs/info/698ac179c5761b521a9a24e1?utm_campaign=1079&utm_source=git)** | Schaumburg, IL | On Site | Feb 09 |
+| **[Intuitive](https://www.intuitive.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/698ad686c5761b521a9a3e6d?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Feb 09 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Software Engineering Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698ad112c5761b521a9a3c6d?utm_campaign=1079&utm_source=git)** | Orlando, FL, USA | On Site | Feb 09 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern, (Synthesis)](https://jobright.ai/jobs/info/698ab950c5761b521a9a0b0b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 09 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Software Intern (AI/ML)](https://jobright.ai/jobs/info/698ab670c5761b521a9a07d2?utm_campaign=1079&utm_source=git)** | Holtsville, NY | Hybrid | Feb 09 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Charging Distributed Systems Software Engineer, Energy Engineering (Summer 2026)](https://jobright.ai/jobs/info/698ab2d70f6f7e7a2ce5f26d?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Feb 09 |
@@ -138,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Software Developer in Test Intern 2026](https://jobright.ai/jobs/info/698a667dc5761b521a999900?utm_campaign=1079&utm_source=git)** | Jupiter, FL | On Site | Feb 09 |
 | **[Twilio](https://www.twilio.com/)** | **[Software Engineer Intern - Canada](https://jobright.ai/jobs/info/698a3e4c0f6f7e7a2ce54f56?utm_campaign=1079&utm_source=git)** | Remote - Canada | Remote | Feb 09 |
 | **[ASML](https://www.asml.com)** | **[Internship - Software Quality Assurance](https://jobright.ai/jobs/info/698a5d97c5761b521a9984d9?utm_campaign=1079&utm_source=git)** | San Jose, CA, USA | On Site | Feb 09 |
-| **[Turion Space](https://turionspace.com)** | **[Software Engineering Summer Intern](https://jobright.ai/jobs/info/698599b08da7a61204604a75?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 09 |
 | **[RKL LLP](https://www.rklcpa.com)** | **[IS Assurance Intern - Fall 2026](https://jobright.ai/jobs/info/698a3a740f6f7e7a2ce54b44?utm_campaign=1079&utm_source=git)** | Lancaster, PA | On Site | Feb 09 |
 | **[Columbia Bank](http://www.columbiabankflorida.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/698a5a994db8972cecff9a89?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Feb 09 |
 | **[Resmed](https://www.resmed.com.au)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/698a39e64db8972cecff78ee?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Feb 09 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Resident Engineer Intern Fall 2026](https://jobright.ai/jobs/info/698a57c44db8972cecff976b?utm_campaign=1079&utm_source=git)** | Columbus, MS | On Site | Feb 09 |
 | **[Roku](https://www.roku.com)** | **[Software Engineer Intern, Embedded Systems](https://jobright.ai/jobs/info/698a30800f6f7e7a2ce544ae?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 09 |
 | ↳ | **[Software Engineer Intern, Embedded Systems](https://jobright.ai/jobs/info/698a2fa54db8972cecff71e9?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 09 |
-| **[Breeze Airways™](https://www.flybreeze.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698a2ce847434001cc6865fe?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Feb 09 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[2026 Summer - Software Engineering Intern (Cooled) -Dallas TX](https://jobright.ai/jobs/info/698a2b6547434001cc6864a2?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 09 |
-| ↳ | **[2026 Summer - Software Engineering Intern (DAIRCM) -Dallas TX](https://jobright.ai/jobs/info/698a2afb4db8972cecff6ecd?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 09 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Associate Software Engineer Internship](https://jobright.ai/jobs/info/698a283447434001cc6862a9?utm_campaign=1079&utm_source=git)** | New York, New York | Hybrid | Feb 09 |
-| ↳ | **[Summer 2026 Quality Engineering Internship](https://jobright.ai/jobs/info/698a277b4db8972cecff6b4f?utm_campaign=1079&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Feb 09 |
-| **[PDS Health](http://www.pacificdentalservices.com/)** | **[IT Software Engineering Intern](https://jobright.ai/jobs/info/698a448a47434001cc687a26?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 09 |
+| **[Turion Space](https://turionspace.com)** | **[Software Engineering Summer Intern (Ground, Flight, GNC, Platform, Systems)](https://jobright.ai/jobs/info/698599b08da7a61204604a75?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
