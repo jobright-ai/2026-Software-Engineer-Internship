@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/698aec114db8972cec005e99?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 10 |
+| **[Lendistry](http://www.Lendistry.com)** | **[Mobile App Development Intern](https://jobright.ai/jobs/info/698ae4164db8972cec0057cf?utm_campaign=1079&utm_source=git)** | LA Metro Area | On Site | Feb 09 |
 | **[Clarity](https://clarityapp.io)** | **[Internship - Software Engineering Intern](https://jobright.ai/jobs/info/687674c0ae2f413e4a5afd36?utm_campaign=1079&utm_source=git)** | Herndon, VA | Remote | Feb 09 |
 | **[Kiewit](http://www.kiewit.com)** | **[Drainage Engineer Intern - Kiewit Infrastructure Engineers- Texas (Summer 2026)](https://jobright.ai/jobs/info/698ada434db8972cec005426?utm_campaign=1079&utm_source=git)** | Westlake, TX | On Site | Feb 09 |
 | **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952cecc935649778e208e3d?utm_campaign=1079&utm_source=git)** | US > New Jersey > Mt Laurel | On Site | Feb 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mouser Electronics](http://mouser.com)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/698a34094db8972cecff743b?utm_campaign=1079&utm_source=git)** | Mansfield, TX, United States | On Site | Feb 09 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Resident Engineer Intern Fall 2026](https://jobright.ai/jobs/info/698a57c44db8972cecff976b?utm_campaign=1079&utm_source=git)** | Columbus, MS | On Site | Feb 09 |
 | **[Roku](https://www.roku.com)** | **[Software Engineer Intern, Embedded Systems](https://jobright.ai/jobs/info/698a30800f6f7e7a2ce544ae?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 09 |
-| ↳ | **[Software Engineer Intern, Embedded Systems](https://jobright.ai/jobs/info/698a2fa54db8972cecff71e9?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 09 |
-| **[Turion Space](https://turionspace.com)** | **[Software Engineering Summer Intern (Ground, Flight, GNC, Platform, Systems)](https://jobright.ai/jobs/info/698599b08da7a61204604a75?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
