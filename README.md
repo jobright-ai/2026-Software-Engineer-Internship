@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/698aec114db8972cec005e99?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 10 |
+| **[Matroid](http://matroid.com)** | **[Software Engineering Intern, Product (Summer 2026)](https://jobright.ai/jobs/info/698af03f4db8972cec00628a?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Feb 10 |
 | **[Lendistry](http://www.Lendistry.com)** | **[Mobile App Development Intern](https://jobright.ai/jobs/info/698ae4164db8972cec0057cf?utm_campaign=1079&utm_source=git)** | LA Metro Area | On Site | Feb 09 |
 | **[Clarity](https://clarityapp.io)** | **[Internship - Software Engineering Intern](https://jobright.ai/jobs/info/687674c0ae2f413e4a5afd36?utm_campaign=1079&utm_source=git)** | Herndon, VA | Remote | Feb 09 |
 | **[Kiewit](http://www.kiewit.com)** | **[Drainage Engineer Intern - Kiewit Infrastructure Engineers- Texas (Summer 2026)](https://jobright.ai/jobs/info/698ada434db8972cec005426?utm_campaign=1079&utm_source=git)** | Westlake, TX | On Site | Feb 09 |
@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[World Vision](http://www.worldvision.org/)** | **[Android Application Developer Intern](https://jobright.ai/jobs/info/698a96ccc5761b521a99dbde?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 09 |
 | **[Gamut Apps](https://www.linkedin.com/company/108565996)** | **[Mobile Application Developer Intern](https://jobright.ai/jobs/info/698a95c50f6f7e7a2ce5c915?utm_campaign=1079&utm_source=git)** | Pennsylvania, United States | Remote | Feb 09 |
 | **[KCI](http://www.kci.com/)** | **[Technology Intern](https://jobright.ai/jobs/info/698a915c0f6f7e7a2ce5c3d8?utm_campaign=1079&utm_source=git)** | US-MD-Sparks | On Site | Feb 09 |
-| **[Matroid](http://matroid.com)** | **[Software Engineering Intern, Product (Summer 2026)](https://jobright.ai/jobs/info/698a9096c5761b521a99d457?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Feb 09 |
 | **[Blaise Transit](https://www.blaisetransit.com)** | **[React Native Mobile Developer Intern - Summer 2026 Semester (May-August, Remote - Canada)](https://jobright.ai/jobs/info/698a908e4db8972cecffeaa3?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 09 |
 | **[Alstom](https://www.alstom.com/)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/698a9087c5761b521a99d444?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Feb 09 |
 | **[True Anomaly](https://www.trueanomaly.space)** | **[Software Engineering Intern, Elixir](https://jobright.ai/jobs/info/698aaa31c5761b521a99f131?utm_campaign=1079&utm_source=git)** | Long Beach, CA | On Site | Feb 09 |
@@ -101,9 +100,10 @@ For a complete list, click the following sortable link below:
 | **[Ferris State University College of Business](http://ferris.edu/business)** | **[Software Engineering Intern (Student Position)](https://jobright.ai/jobs/info/698a77fc4db8972cecffcada?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Feb 09 |
 | **[RJN Group, Inc.](http://rjn.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698a95d20f6f7e7a2ce5c929?utm_campaign=1079&utm_source=git)** | Downers Grove, Illinois, United States | On Site | Feb 09 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Information Technology](https://jobright.ai/jobs/info/698a9a4a0f6f7e7a2ce5cefd?utm_campaign=1079&utm_source=git)** | Rosemont, IL | On Site | Feb 09 |
-| **[Blaise Transit](https://www.blaisetransit.com)** | **[QA Analyst Intern - Summer 2026 Semester (April-August, Remote - Canada)](https://jobright.ai/jobs/info/698a999a4db8972cecfff4f2?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 09 |
-| ↳ | **[Backend Developer Intern - Summer 2026 Semester (May-August, Remote - Canada)](https://jobright.ai/jobs/info/698a95a1c5761b521a99da6c?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 09 |
+| **[Blaise Transit](https://www.blaisetransit.com)** | **[Backend Developer Intern - Summer 2026 Semester (May-August, Remote - Canada)](https://jobright.ai/jobs/info/698a95a1c5761b521a99da6c?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 09 |
+| ↳ | **[QA Analyst Intern - Summer 2026 Semester (April-August, Remote - Canada)](https://jobright.ai/jobs/info/698a999a4db8972cecfff4f2?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 09 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Wireless Connectivity Software Validation Engineer, Electronic Devices (Summer 2026)](https://jobright.ai/jobs/info/698a75140f6f7e7a2ce59c0f?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Feb 09 |
+| **[Cartesia](https://www.cartesia.cloud)** | **[Platform Engineer Intern](https://jobright.ai/jobs/info/698af5d20f6f7e7a2ce63e64?utm_campaign=1079&utm_source=git)** | *HQ - San Francisco, CA | On Site | Feb 09 |
 | **[World Vision](http://www.worldvision.org/)** | **[Android Application Developer Intern](https://jobright.ai/jobs/info/698a74c1c5761b521a99ae4b?utm_campaign=1079&utm_source=git)** | Home Working, United States | Remote | Feb 09 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[IT Internship (SCM)](https://jobright.ai/jobs/info/698a71d40f6f7e7a2ce598ff?utm_campaign=1079&utm_source=git)** | 3000 Auburn Dr, Beachwood, OH, 44122, US | On Site | Feb 09 |
 | **[Polk County BoCC](https://www.polk-county.net/emergency-management)** | **[Application Development Intern](https://jobright.ai/jobs/info/698a6ffd4db8972cecffbf7d?utm_campaign=1079&utm_source=git)** | PO Box 9000, Bartow, FL, 33831, US | On Site | Feb 09 |
