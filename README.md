@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Omnigence.ai](https://www.linkedin.com/company/108728900)** | **[Full-Stack Software Engineer Intern](https://jobright.ai/jobs/info/698be6c6c5761b521a9b8154?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 10 |
 | **[Geotab](http://www.geotab.com/)** | **[Embedded Developer Intern, Software in the Loop (Summer/May 2026, 8 - 12 Months)](https://jobright.ai/jobs/info/698bde5bc5761b521a9b6e94?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Feb 10 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698be0950f6f7e7a2ce75b1c?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 10 |
-| **[MathWorks](http://www.mathworks.com)** | **[Software Engineer in Test - Intern](https://jobright.ai/jobs/info/698be1020f6f7e7a2ce75c3d?utm_campaign=1079&utm_source=git)** | Natick, MA | Hybrid | Feb 10 |
+| **[MathWorks](http://www.mathworks.com)** | **[Software Engineer in Test - Intern](https://jobright.ai/jobs/info/698beb8406d9b06224961f80?utm_campaign=1079&utm_source=git)** | Natick, MA | Hybrid | Feb 10 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Commercial UI Software Engineer, Energy Engineering (Summer 2026)](https://jobright.ai/jobs/info/698bec8206d9b06224962091?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Feb 10 |
+| **[Truveta](https://www.truveta.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/68d1fdc717554c2d9eee20ca?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | On Site | Feb 10 |
+| **[MassMutual Ascend](https://massmutualascend.com)** | **[Asset Management Intern (Summer 2026)](https://jobright.ai/jobs/info/696faf2f3ed06875134a9d27?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Feb 10 |
 | **[Oracle](https://www.oracle.com/)** | **[Oracle Database Research Intern (6 month duration)](https://jobright.ai/jobs/info/698be10806d9b06224960cb8?utm_campaign=1079&utm_source=git)** | Canada | Remote | Feb 10 |
 | **[ModMed](https://www.modmed.com)** | **[Cloud Engineering Intern](https://jobright.ai/jobs/info/698bdcc40f6f7e7a2ce75320?utm_campaign=1079&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 10 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Software Development Intern, Summer 2026](https://jobright.ai/jobs/info/698be63406d9b06224961903?utm_campaign=1079&utm_source=git)** | Lawrenceville, GA | On Site | Feb 10 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[RescAlert Inc.](https://rescalert.com/)** | **[Software Development Intern (Web/Mobile)](https://jobright.ai/jobs/info/698be2a80f6f7e7a2ce76067?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 10 |
 | **[Truveta](https://www.truveta.com)** | **[Winter Software Engineering Intern](https://jobright.ai/jobs/info/68dbbe2897329f2f7731cce2?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | Hybrid | Feb 10 |
 | **[Unisys](http://www.unisys.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/698be6790f6f7e7a2ce7699d?utm_campaign=1079&utm_source=git)** | Blue Bell, PA | On Site | Feb 10 |
+| **[Parrot Finance](https://www.parrotfinance.io/)** | **[Webflow Development Intern](https://jobright.ai/jobs/info/698bf1600f6f7e7a2ce77469?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Feb 10 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[2026 Summer Internship - Embedded Software Engineer](https://jobright.ai/jobs/info/698be66806d9b0622496198a?utm_campaign=1079&utm_source=git)** | Schaumburg, IL | On Site | Feb 10 |
 | **[Calix](http://www.calix.com)** | **[Engineering Operations Intern - Tools and Services](https://jobright.ai/jobs/info/698b99ccc5761b521a9b29df?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 10 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT Integration Intern](https://jobright.ai/jobs/info/698bb9a7c5761b521a9b49f4?utm_campaign=1079&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[[Online Assessment]Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/690d44c84a1b456627b1feee?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Feb 10 |
 | ↳ | **[Software Engineer Intern (Relational Database) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690d944844146d3b6ec4de68?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 10 |
 | ↳ | **[Backend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/690cf2a74a1b456627b1bbc1?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 10 |
-| **[SeatGeek](https://seatgeek.com)** | **[Software Engineer - Internship](https://jobright.ai/jobs/info/68e02cd3f758fe1f97e4a7bb?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Feb 10 |
-| **[Acuity Insurance](http://www.acuity.com)** | **[Programmer Intern (Application Development / Data Warehouse)](https://jobright.ai/jobs/info/698b0436c5761b521a9a6a81?utm_campaign=1079&utm_source=git)** | Sheboygan, WI | On Site | Feb 10 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Agentic AI Engine - Data Management platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976e9fd52f3c27ec642de0c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
