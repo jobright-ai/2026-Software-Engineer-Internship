@@ -126,9 +126,9 @@ For a complete list, click the following sortable link below:
 | **[Flock](https://www.flocksafety.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69915e2f0f6f7e7a2cedaec9?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 13 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Software Intern](https://jobright.ai/jobs/info/699014020cc8ea15f1dabbbd?utm_campaign=1079&utm_source=git)** | New York, NY | Remote | Feb 13 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - IT Fresh Foods](https://jobright.ai/jobs/info/698feeed0f6f7e7a2cec33d8?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
-| **[Flatiron School](http://flatironschool.com)** | **[Early Talent Software Engineering Apprenticeship (AI & Data) / Bletchley Fellowship](https://jobright.ai/jobs/info/699008486ea51a7610f27604?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 13 |
+| **[Flatiron School](http://flatironschool.com)** | **[New CS Grads: Software Developer Apprentice](https://jobright.ai/jobs/info/69901e986ea51a7610f286d4?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 13 |
+| ↳ | **[Early Talent Software Engineering Apprenticeship (AI & Data) / Bletchley Fellowship](https://jobright.ai/jobs/info/699008486ea51a7610f27604?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 13 |
 | ↳ | **[Early Career Starter: Software Engineering Apprenticeship](https://jobright.ai/jobs/info/699013176ea51a7610f27deb?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 13 |
-| ↳ | **[New CS Grads: Software Developer Apprentice](https://jobright.ai/jobs/info/69901e986ea51a7610f286d4?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 13 |
 | ↳ | **[New CS Grads: AI/ML Product Developer Apprentice - Bletchley Fellowship](https://jobright.ai/jobs/info/699007610f6f7e7a2cec59c6?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Capella Space](http://www.capellaspace.com)** | **[Flight Software Engineering Intern](https://jobright.ai/jobs/info/69420226bdcf884a5addbaff?utm_campaign=1079&utm_source=git)** | Louisville, CO | On Site | Feb 13 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69913d000cc8ea15f1dbccaf?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Feb 13 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Kingdom Cards](https://kingdomcards.ca)** | **[Web Dev/Design and Digital Marketing Intern](https://jobright.ai/jobs/info/698fbd3c0f6f7e7a2cec0914?utm_campaign=1079&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Feb 13 |
 | **[Rivian](http://www.rivian.com)** | **[Software Engineering Intern - Autonomy Controls](https://jobright.ai/jobs/info/698fe03d0f6f7e7a2cec266c?utm_campaign=1079&utm_source=git)** | US-CA-Irvine | On Site | Feb 13 |
 | **[KEENFINITY Group](https://www.keenfinity-group.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/698fdf016ea51a7610f2449e?utm_campaign=1079&utm_source=git)** | Lancaster, PA | On Site | Feb 13 |
-| **[ISACA](http://www.isaca.org)** | **[Web Operations Intern](https://jobright.ai/jobs/info/69901aa40cc8ea15f1dac1f4?utm_campaign=1079&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 13 |
-| ↳ | **[Web Operations Intern](https://jobright.ai/jobs/info/6990252c0f6f7e7a2cec8f80?utm_campaign=1079&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 13 |
+| **[ISACA](http://www.isaca.org)** | **[Web Operations Intern](https://jobright.ai/jobs/info/6990252c0f6f7e7a2cec8f80?utm_campaign=1079&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 13 |
+| ↳ | **[Web Operations Intern](https://jobright.ai/jobs/info/69901aa40cc8ea15f1dac1f4?utm_campaign=1079&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 13 |
 | **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[CDS Intern - PowerApps Developer - ECM Digital Workflow](https://jobright.ai/jobs/info/698fdcc46ea51a7610f242d0?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
