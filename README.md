@@ -118,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Amperesand](https://amperesand.io/)** | **[Software Engineering Intern - Test Engineering](https://jobright.ai/jobs/info/6990116f0f6f7e7a2cec6339?utm_campaign=1079&utm_source=git)** | Reno, NV | On Site | Feb 13 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/699007e40cc8ea15f1daaa13?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Feb 13 |
 | **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Software Engineering (Reimbursement Intelligence)](https://jobright.ai/jobs/info/6990331c6ea51a7610f2b8f5?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 13 |
+| **[Flock](https://www.flocksafety.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69915e2f0f6f7e7a2cedaec9?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 13 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Software Intern](https://jobright.ai/jobs/info/699014020cc8ea15f1dabbbd?utm_campaign=1079&utm_source=git)** | New York, NY | Remote | Feb 13 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - IT Fresh Foods](https://jobright.ai/jobs/info/698feeed0f6f7e7a2cec33d8?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[Flatiron School](http://flatironschool.com)** | **[Early Talent Software Engineering Apprenticeship (AI & Data) / Bletchley Fellowship](https://jobright.ai/jobs/info/699008486ea51a7610f27604?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CDS Intern - IT Architecture](https://jobright.ai/jobs/info/698fe6130cc8ea15f1da7f4e?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | ↳ | **[CDS Intern - Enterprise Architecture](https://jobright.ai/jobs/info/698ff1950cc8ea15f1da894d?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | ↳ | **[CDS Intern - Observability Platforms Engineering](https://jobright.ai/jobs/info/698ff0fa0cc8ea15f1da88a2?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
-| **[RTX](http://www.raytheon.com)** | **[Software Engineer Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/698ffa150f6f7e7a2cec3ffb?utm_campaign=1079&utm_source=git)** | US-CA-FULLERTON-676 ~ 1801 Hughes Dr ~ BLDG 676 | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
