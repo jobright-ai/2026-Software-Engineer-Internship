@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: System Quality Assurance Co-op, Robots (July to December)](https://jobright.ai/jobs/info/69733832bc8e722e7b180b97?utm_campaign=1079&utm_source=git)** | Needham, MA | On Site | Feb 14 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health QA Engineer Intern 2026](https://jobright.ai/jobs/info/693c91b749a7695fbd034ce2?utm_campaign=1079&utm_source=git)** | Jupiter, FL | On Site | Feb 14 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69909d990cc8ea15f1db57b5?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | Remote | Feb 14 |
-| **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/6950acc029655e4dd659d652?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Software Systems Validation Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccd9249a7695fbd038539?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Feb 14 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Power Platform Engineer](https://jobright.ai/jobs/info/69740e15206da320f49e1c01?utm_campaign=1079&utm_source=git)** | Draper, UT | On Site | Feb 14 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship, Android](https://jobright.ai/jobs/info/699092640f6f7e7a2ced0637?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[ST Engineering iDirect](http://www.idirect.net)** | **[Engineering Intern AI-Driven Test Automation](https://jobright.ai/jobs/info/698fa9a06ea51a7610f21293?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Feb 13 |
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[Intern - Software Development QA Automation](https://jobright.ai/jobs/info/698fa90d6ea51a7610f21204?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Feb 13 |
 | **[ST Engineering iDirect](http://www.idirect.net)** | **[Engineering Intern-Intuition Software](https://jobright.ai/jobs/info/698fa72e6ea51a7610f2107c?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Feb 13 |
+| ↳ | **[Engineering Intern-Intuition Software](https://jobright.ai/jobs/info/699005b50cc8ea15f1da9d2c?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
