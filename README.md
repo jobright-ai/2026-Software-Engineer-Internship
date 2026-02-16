@@ -134,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Intuitive](https://www.intuitive.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69913d000cc8ea15f1dbccaf?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Feb 13 |
 | **[Nokia](http://www.nokia.com)** | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/69900e7a0f6f7e7a2cec6078?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Feb 13 |
 | **[ISACA](http://www.isaca.org)** | **[Web Operations Intern](https://jobright.ai/jobs/info/699009e30f6f7e7a2cec5c09?utm_campaign=1079&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
-| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Cloud & Infrastructure Engineering Intern](https://jobright.ai/jobs/info/69928f0fce78e77b4fd63bc2?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 13 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - IT Architecture](https://jobright.ai/jobs/info/698fda800f6f7e7a2cec20f6?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT - Quality Assurance Intern](https://jobright.ai/jobs/info/698ffe000cc8ea15f1da967c?utm_campaign=1079&utm_source=git)** | Plano, TX | Hybrid | Feb 13 |
 | **[Amperesand](https://amperesand.io/)** | **[Software Engineering Intern - Test Engineering](https://jobright.ai/jobs/info/699002c50f6f7e7a2cec55a2?utm_campaign=1079&utm_source=git)** | Reno, Nevada, United States | On Site | Feb 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[ISACA](http://www.isaca.org)** | **[Web Operations Intern](https://jobright.ai/jobs/info/69901aa40cc8ea15f1dac1f4?utm_campaign=1079&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 13 |
 | ↳ | **[Web Operations Intern](https://jobright.ai/jobs/info/6990252c0f6f7e7a2cec8f80?utm_campaign=1079&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 13 |
 | **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[CDS Intern - PowerApps Developer - ECM Digital Workflow](https://jobright.ai/jobs/info/698fdcc46ea51a7610f242d0?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
+| ↳ | **[CDS Intern - Software Developer- Digital Mobile](https://jobright.ai/jobs/info/698ff9756ea51a7610f25c9e?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
