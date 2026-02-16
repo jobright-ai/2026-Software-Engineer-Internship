@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Fall 2026)](https://jobright.ai/jobs/info/68b403141ade4306aa63daf0?utm_campaign=1079&utm_source=git)** | Findlay, OH | On Site | Feb 16 |
+| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6976ea5bfdeb8243a279b338?utm_campaign=1079&utm_source=git)** | Salem, VA | Hybrid | Feb 16 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Fall 2026)](https://jobright.ai/jobs/info/68b406d0bc187f64e1be2e4b?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Feb 16 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Remote & Unpaid Fullstack Development Internship](https://jobright.ai/jobs/info/6992f9dee0bddb6acac13b28?utm_campaign=1079&utm_source=git)** | New York, NY | Remote | Feb 16 |
+| **[TA Instruments](http://www.tainstruments.com)** | **[Intern, Software Development](https://jobright.ai/jobs/info/6993253281476f6176aacd87?utm_campaign=1079&utm_source=git)** | US-MA-Milford | Hybrid | Feb 16 |
 | **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/69849d898da7a612045eded8?utm_campaign=1079&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Feb 16 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Software Engineer Intern (Summer 2026) - Austin, TX](https://jobright.ai/jobs/info/68c8abeaf9c6ff7aedf116f4?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | **[FetchJobs.co](https://www.fetchjobs.co)** | **[Software Development Intern](https://jobright.ai/jobs/info/6992ec78ce78e77b4fd6b521?utm_campaign=1079&utm_source=git)** | United States | On Site | Feb 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Engineering](https://jobright.ai/jobs/info/6973ec4ebc8e722e7b18cd53?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 14 |
 | **[NANA](http://nana.com)** | **[STEM Summer Internship - Software Engineer](https://jobright.ai/jobs/info/699049050cc8ea15f1db0e4a?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Feb 14 |
 | **[Critical Environment Technologies](https://www.critical-environment.com)** | **[Computer Science Co-Op (AI-Driven Product Development)](https://jobright.ai/jobs/info/69906e830f6f7e7a2cecdb2c?utm_campaign=1079&utm_source=git)** | Delta, British Columbia, Canada | On Site | Feb 14 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2026 (4-month) Summer Internship (Canada) – Software Engineer](https://jobright.ai/jobs/info/698cd6c578b4502f12a351b6?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 14 |
-| **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Software Engineering](https://jobright.ai/jobs/info/6973ebc437785856350dbc8d?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
