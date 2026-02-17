@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tektronix](http://www.tek.com)** | **[Services Business Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/68e9859165768b6412b1d0ce?utm_campaign=1079&utm_source=git)** | Beaverton, OR | Remote | Feb 17 |
+| **[GenPark](https://genpark.ai)** | **[Front End intern](https://jobright.ai/jobs/info/69945b3181476f6176ac1555?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Feb 17 |
+| **[Skydio](https://www.skydio.com)** | **[Wireless Software Engineer Intern](https://jobright.ai/jobs/info/6940aada49a7695fbd063169?utm_campaign=1079&utm_source=git)** | San Mateo, CA | Hybrid | Feb 17 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Quality Assurance Specialist Intern - Summer 2026](https://jobright.ai/jobs/info/6977ddaf88e2b47213bbd9c8?utm_campaign=1079&utm_source=git)** | Detroit, MI | On Site | Feb 17 |
+| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, PyTorch Framework Performance (PhD)](https://jobright.ai/jobs/info/69787bd752f3c27ec644c8da?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 17 |
+| **[Pacific Fusion](https://www.pacificfusion.com)** | **[Summer 2026 Internship - Software Engineering](https://jobright.ai/jobs/info/696ad36d5fc862418539f74d?utm_campaign=1079&utm_source=git)** | San Leandro, CA | On Site | Feb 17 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern Software Developer, Stagiaire en développement logiciel](https://jobright.ai/jobs/info/698a60250f6f7e7a2ce580bd?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 17 |
 | **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Software Engineering (Reimbursement Intelligence)](https://jobright.ai/jobs/info/698fe9110cc8ea15f1da8186?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 17 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern Software Developer, Stagiaire en développement logiciel](https://jobright.ai/jobs/info/699273650cc8ea15f1dcc7ce?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977e9c452f3c27ec64415c6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 17 |
 | **[DRW](http://drw.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/695c3fbbf1f8465b79f24817?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 17 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Spring 2026 - Developer Intern (Hybrid)](https://jobright.ai/jobs/info/69779ff988e2b47213bb86e1?utm_campaign=1079&utm_source=git)** | Louisville, KY | Hybrid | Feb 17 |
@@ -139,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6976ea5bfdeb8243a279b338?utm_campaign=1079&utm_source=git)** | Salem, VA | Hybrid | Feb 16 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Fall 2026)](https://jobright.ai/jobs/info/68b406d0bc187f64e1be2e4b?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Feb 16 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern, Software Development](https://jobright.ai/jobs/info/69932bc6ce78e77b4fd70b02?utm_campaign=1079&utm_source=git)** | 01757 | Hybrid | Feb 16 |
-| ↳ | **[Intern, Software Development](https://jobright.ai/jobs/info/6993253281476f6176aacd87?utm_campaign=1079&utm_source=git)** | US-MA-Milford | Hybrid | Feb 16 |
 | ↳ | **[Intern, Software Development](https://jobright.ai/jobs/info/69932e0fe0bddb6acac17dea?utm_campaign=1079&utm_source=git)** | Milford, MA, US | Hybrid | Feb 16 |
+| ↳ | **[Intern, Software Development](https://jobright.ai/jobs/info/6993253281476f6176aacd87?utm_campaign=1079&utm_source=git)** | US-MA-Milford | Hybrid | Feb 16 |
 | **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/69849d898da7a612045eded8?utm_campaign=1079&utm_source=git)** | Greater Montreal Metropolitan Area | On Site | Feb 16 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Software Engineer Intern (Summer 2026) - Austin, TX](https://jobright.ai/jobs/info/68c8abeaf9c6ff7aedf116f4?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | **[Intuitive](https://www.intuitive.com/)** | **[IT Business Applications Engineering Intern](https://jobright.ai/jobs/info/693c5fb6aa598a08c3ed473f?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Feb 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ensora Health](https://www.therapybrands.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992bd7581476f6176aa5ffc?utm_campaign=1079&utm_source=git)** | Remote - Texas | Remote | Feb 15 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992bd29e0bddb6acac0fe32?utm_campaign=1079&utm_source=git)** | Remote - Minnesota | Remote | Feb 15 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992bd1ae0bddb6acac0fddb?utm_campaign=1079&utm_source=git)** | Remote - Louisiana | Remote | Feb 15 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992bc14ce78e77b4fd68d02?utm_campaign=1079&utm_source=git)** | Remote - Maine | Remote | Feb 15 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992bc0d81476f6176aa58b7?utm_campaign=1079&utm_source=git)** | Remote - Mississippi | Remote | Feb 15 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992bbefe0bddb6acac0f833?utm_campaign=1079&utm_source=git)** | Remote - Kentucky | Remote | Feb 15 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992bb78e0bddb6acac0f5aa?utm_campaign=1079&utm_source=git)** | Remote - North Dakota | Remote | Feb 15 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992bb6ce0bddb6acac0f552?utm_campaign=1079&utm_source=git)** | Remote - Connecticut | Remote | Feb 15 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992bb63ce78e77b4fd6892c?utm_campaign=1079&utm_source=git)** | Remote - New York | Remote | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
