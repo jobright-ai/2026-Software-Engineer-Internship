@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPMG US](http://www.kpmg.com/US)** | **[Intern, Software Engineer / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6994362781476f6176abf010?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Feb 17 |
+| ↳ | **[Intern, Software Engineer / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/69943485ce78e77b4fd8283f?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | Feb 17 |
+| ↳ | **[Intern, Software Engineer / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6994345281476f6176abee02?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
+| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - AN/TPY-2 Program Protection Engineer](https://jobright.ai/jobs/info/699431bae0bddb6acac29804?utm_campaign=1079&utm_source=git)** | Woburn, MA | On Site | Feb 17 |
 | **[Skyryse](https://www.skyryse.com)** | **[IT Intern (Summer 2026)](https://jobright.ai/jobs/info/69941aefce78e77b4fd81079?utm_campaign=1079&utm_source=git)** | Greater Los Angeles Area, CA | On Site | Feb 16 |
 | **[Federal Signal Corporation](http://federalsignal.com)** | **[Intern - Computer Engineering/ Computer Science - Firmware Development - Police / Fire Team](https://jobright.ai/jobs/info/699420e081476f6176abdcfe?utm_campaign=1079&utm_source=git)** | Park Forest, IL | On Site | Feb 16 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[DevOps / API Engineering Non Paid (Academic Credit Only) Intern](https://jobright.ai/jobs/info/699401b3ce78e77b4fd7e4fb?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 16 |
+| **[RTX](http://www.raytheon.com)** | **[2026 Intern - AN/TPY-2 Program Protection Engineer](https://jobright.ai/jobs/info/699434e3e0bddb6acac29aaa?utm_campaign=1079&utm_source=git)** | US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG | On Site | Feb 16 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Software Engineer / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/6993ee30e0bddb6acac23770?utm_campaign=1079&utm_source=git)** | Greater Orlando | On Site | Feb 16 |
 | **[FetchJobs.co](https://www.fetchjobs.co)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6993eae3e0bddb6acac23271?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 16 |
 | **[ABB](https://global.abb/group/en)** | **[Cloud and Edge Solutions Intern- Summer 2026](https://jobright.ai/jobs/info/6993ea53e0bddb6acac231d1?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992bad981476f6176aa5198?utm_campaign=1079&utm_source=git)** | Remote - Pennsylvania | Remote | Feb 15 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992baba81476f6176aa502b?utm_campaign=1079&utm_source=git)** | Remote - Alabama | Remote | Feb 15 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992bab781476f6176aa501e?utm_campaign=1079&utm_source=git)** | Remote - New Hampshire | Remote | Feb 15 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992ba68ce78e77b4fd68466?utm_campaign=1079&utm_source=git)** | Remote - Missouri | Remote | Feb 15 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992ba1781476f6176aa4c3a?utm_campaign=1079&utm_source=git)** | Remote - Ohio | Remote | Feb 15 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992ba0fe0bddb6acac0efd1?utm_campaign=1079&utm_source=git)** | Remote - Wisconsin | Remote | Feb 15 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992b9e181476f6176aa4a2a?utm_campaign=1079&utm_source=git)** | Remote - Delaware | Remote | Feb 15 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6992b94481476f6176aa46e5?utm_campaign=1079&utm_source=git)** | Remote - Kansas | Remote | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
