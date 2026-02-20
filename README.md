@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[App development intern](https://jobright.ai/jobs/info/6997fe7ae0bddb6acac704e2?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 19 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer Embedded/Network Systems II (Intern) - United States](https://jobright.ai/jobs/info/699825b7e0bddb6acac72c31?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Feb 20 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026  Associate Engineer Internship](https://jobright.ai/jobs/info/699824aace78e77b4fdccc02?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer Embedded/Network Systems II (Intern) - United States](https://jobright.ai/jobs/info/6998247dce78e77b4fdccbad?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| ↳ | **[Software Engineer Embedded/Network Systems II (Intern) - United States](https://jobright.ai/jobs/info/6998246081476f6176b08fd2?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Feb 20 |
+| ↳ | **[Software Engineer Embedded/Network Systems II (Intern) - United States](https://jobright.ai/jobs/info/69982198ce78e77b4fdcc5e4?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Feb 20 |
+| **[Raptor Maps](http://www.raptormaps.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/69981a13e0bddb6acac72067?utm_campaign=1079&utm_source=git)** | Somerville, MA | On Site | Feb 20 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer Embedded/Network Systems II (Intern) - United States](https://jobright.ai/jobs/info/699819fe81476f6176b08677?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 20 |
+| **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Software Engineering](https://jobright.ai/jobs/info/69980cb7e0bddb6acac713d6?utm_campaign=1079&utm_source=git)** | Wilmington, MA | Remote | Feb 19 |
 | **[Rakuten International](http://rakuten.us)** | **[Intern - Software Engineering, AI User Experience](https://jobright.ai/jobs/info/6997cf7281476f6176b00049?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Feb 19 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Development Intern](https://jobright.ai/jobs/info/6997e999ce78e77b4fdc6b82?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 19 |
 | **[MetLife](http://www.metlife.com)** | **[Global Technology Intern](https://jobright.ai/jobs/info/6997e6c281476f6176b02a87?utm_campaign=1079&utm_source=git)** | Clarks Summit, PA | Hybrid | Feb 19 |
@@ -73,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Fiserv](http://www.fiserv.com)** | **[Application Development  - Summer Intern](https://jobright.ai/jobs/info/6997e73ee0bddb6acac6c7e1?utm_campaign=1079&utm_source=git)** | Fishers, IN | On Site | Feb 19 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - ASIC Gen-AI](https://jobright.ai/jobs/info/6997c7b2ce78e77b4fdc2e1a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 19 |
 | **[DiDi](https://www.didiglobal.com)** | **[Architect Engineer, Motion Planning (Summer Intern)](https://jobright.ai/jobs/info/6961c9b0a112b40266105709?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 19 |
-| **[Rakuten International](http://rakuten.us)** | **[Intern - Software Engineering, AI User Experience](https://jobright.ai/jobs/info/6997dc0bce78e77b4fdc4fab?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Feb 19 |
 | **[SWBC](https://www.swbc.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6997dc4581476f6176b015a4?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Feb 19 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/6997bc2481476f6176afe1c9?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Feb 19 |
 | **[BMO](http://www.bmo.com)** | **[Junior Engineer, Electronic Trading Infrastructure, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6997e980e0bddb6acac6cd53?utm_campaign=1079&utm_source=git)** | Ontario, Canada | On Site | Feb 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer II (Intern) - United States](https://jobright.ai/jobs/info/699774f881476f6176af931b?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Feb 19 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineer - Summer 2026 Internship](https://jobright.ai/jobs/info/6997aa7ae0bddb6acac66322?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 19 |
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/6997b6c2e0bddb6acac671ff?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Feb 19 |
-| ↳ | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/69979c27ce78e77b4fdbef5a?utm_campaign=1079&utm_source=git)** | Petaluma, CA | On Site | Feb 19 |
-| ↳ | **[Summer 2026 Embedded Software Engineering Intern](https://jobright.ai/jobs/info/6997ae4a81476f6176afd1d7?utm_campaign=1079&utm_source=git)** | Simi Valley, CA | On Site | Feb 19 |
-| **[ABB](https://global.abb/group/en)** | **[IS Infrastructure Fort Smith Intern- Summer 2026](https://jobright.ai/jobs/info/6986c54e8ca8121a3a69353c?utm_campaign=1079&utm_source=git)** | Fort Smith, AR | Hybrid | Feb 19 |
-| **[Healthfirst](https://healthfirst.org)** | **[Software Engineering Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/6997a1a5e0bddb6acac6554e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 19 |
-| ↳ | **[Software Engineering Intern - Corporate Business Technology - 2026 Summer Internship](https://jobright.ai/jobs/info/6997a881ce78e77b4fdc019b?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
-| **[Fiserv](http://www.fiserv.com)** | **[Corporate Technology Internship - Application Development / Software Engineering](https://jobright.ai/jobs/info/69979fd9ce78e77b4fdbf4cb?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
