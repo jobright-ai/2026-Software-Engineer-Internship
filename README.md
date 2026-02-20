@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Software Developer Internship Summer 2027](https://jobright.ai/jobs/info/69987982e0bddb6acac77281?utm_campaign=1079&utm_source=git)** | Schenectady, NY | On Site | Feb 20 |
+| **[Marshall Wace](https://www.mwam.com)** | **[Technology Intern](https://jobright.ai/jobs/info/69987640ce78e77b4fdd1342?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Feb 20 |
+| **[Ripple](http://ripple.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69405d0949a7695fbd05e397?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Feb 20 |
+| **[Wellabe](https://www.wellabe.com)** | **[Summer 2026 Cloud Technician Internship- Onsite Des Moines, Iowa](https://jobright.ai/jobs/info/697bdf301136d179eeef772b?utm_campaign=1079&utm_source=git)** | Des Moines, IA | On Site | Feb 20 |
+| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Software Developer Internship Summer 2027](https://jobright.ai/jobs/info/699874f0e0bddb6acac76fd4?utm_campaign=1079&utm_source=git)** | Niskayuna, NY | On Site | Feb 20 |
+| **[Hunter Engineering Company](http://www.hunter.com)** | **[Software Engineering Co-Op](https://jobright.ai/jobs/info/697b85ce0b88cc7d64224b46?utm_campaign=1079&utm_source=git)** | Bridgeton, MO | On Site | Feb 20 |
+| **[Machina Labs](https://machinalabs.ai)** | **[Frontend Software Engineer, Intern](https://jobright.ai/jobs/info/69262d89d47de4798ecd54d8?utm_campaign=1079&utm_source=git)** | Chatsworth, CA | On Site | Feb 20 |
+| **[Saviynt](http://saviynt.com)** | **[Software Engineering R&D - Internship](https://jobright.ai/jobs/info/6940d87f49a7695fbd0660b5?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Feb 20 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/691d48c80b7dff7341501fe9?utm_campaign=1079&utm_source=git)** | Owensboro, KY | On Site | Feb 20 |
 | **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Computer Engineering Internship Summer 2027](https://jobright.ai/jobs/info/69986ed2ce78e77b4fdd0e8a?utm_campaign=1079&utm_source=git)** | Idaho Falls, ID | On Site | Feb 20 |
 | ↳ | **[Computer Engineering Internship Summer 2027](https://jobright.ai/jobs/info/69986c65ce78e77b4fdd0d05?utm_campaign=1079&utm_source=git)** | Niskayuna, NY | On Site | Feb 20 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Akamai Technologies](https://www.akamai.com)** | **[Intern - Software Engineer, Cloud Technology Architecture](https://jobright.ai/jobs/info/6997dcc281476f6176b016ef?utm_campaign=1079&utm_source=git)** | 145 Broadway, Cambridge, MA, 02142, US | Hybrid | Feb 19 |
 | **[Firespring](http://firespring.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6997d21481476f6176b00470?utm_campaign=1079&utm_source=git)** | Lincoln, Nebraska, United States | On Site | Feb 19 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/6997c86c81476f6176aff62f?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Feb 19 |
-| ↳ | **[Software Engineer, Intern](https://jobright.ai/jobs/info/6997c4b4e0bddb6acac68842?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Feb 19 |
-| **[Credo](http://www.credosemi.com)** | **[MIS Application Software Engineer Intern](https://jobright.ai/jobs/info/6997a4b9e0bddb6acac65a0d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 19 |
-| **[Transdev](http://www.transdev.com/en/)** | **[Test Engineer [Internship]](https://jobright.ai/jobs/info/6997d08fce78e77b4fdc3b26?utm_campaign=1079&utm_source=git)** | Atwater, California | On Site | Feb 19 |
-| **[Pitney Bowes](https://www.pitneybowes.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6997c6eae0bddb6acac68a93?utm_campaign=1079&utm_source=git)** | Shelton, CT | On Site | Feb 19 |
-| **[Naapbooks Limited](http://www.naapbooks.com)** | **[DotNet Intern](https://jobright.ai/jobs/info/6997a30ae0bddb6acac65751?utm_campaign=1079&utm_source=git)** | Branch, LA | On Site | Feb 19 |
-| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[DevOps / API Engineering Non Paid (Academic Credit Only) Intern](https://jobright.ai/jobs/info/6997ca17e0bddb6acac68fbd?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 19 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[AI & Digital Innovation Intern](https://jobright.ai/jobs/info/6994ba3581476f6176ac7d8f?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 19 |
-| **[Akamai Technologies](https://www.akamai.com)** | **[Intern - Software Engineer, Cloud Technology Architecture](https://jobright.ai/jobs/info/6997c13081476f6176afebfe?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
