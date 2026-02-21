@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Solutions Intern](https://jobright.ai/jobs/info/6999ccaf81476f6176b286b4?utm_campaign=1079&utm_source=git)** | Trenton, MI | On Site | Feb 21 |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern, External Quality Assurance Specialist](https://jobright.ai/jobs/info/6999dc6ace78e77b4fdeb3f1?utm_campaign=1079&utm_source=git)** | Novato, CA | On Site | Feb 21 |
+| **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineer Intern - BACHELOR'S Degree](https://jobright.ai/jobs/info/697d21273f57a3356966d78f?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 21 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/6999d6d6ce78e77b4fdeb293?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Feb 21 |
+| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Firmware Engineer - PFD](https://jobright.ai/jobs/info/697d3879137a051025664684?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 21 |
+| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699959b281476f6176b201b7?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
 | **[Magnet Forensics](http://magnetforensics.com)** | **[Software Developer Co-op (Summer 2026)](https://jobright.ai/jobs/info/698eb39cf64d441a1650fe83?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Feb 21 |
 | **[Modular](https://www.modular.com)** | **[Software Engineering Intern, Cloud Inference](https://jobright.ai/jobs/info/697db706ce48107c05420628?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Feb 21 |
-| **[Satoshi Signals](https://satoshisignals.substack.com)** | **[Junior Software Engineer](https://jobright.ai/jobs/info/6999c2b5e0bddb6acac9068c?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 21 |
 | **[GenPark](https://genpark.ai)** | **[Application Developer](https://jobright.ai/jobs/info/6999c1a481476f6176b2845c?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 21 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Embedded Software Engineer (Internship)](https://jobright.ai/jobs/info/6962158c25e18715077ef39e?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 21 |
 | ↳ | **[Software Engineer, Tooling (Internship)](https://jobright.ai/jobs/info/69620e8f25e18715077eeded?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Feb 21 |
@@ -137,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Aristocrat Gaming](https://www.aristocrat.com/)** | **[Intern, Computer Engineering](https://jobright.ai/jobs/info/699976f5ce78e77b4fde629d?utm_campaign=1079&utm_source=git)** | Las Vegas, NV, US | On Site | Feb 20 |
 | **[Tektronix](http://www.tek.com)** | **[Application Engineering Intern (Mainstream Portfolio Team) Summer 2026](https://jobright.ai/jobs/info/6999022fe0bddb6acac7f75f?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Feb 20 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern - Software Engineering (Firmware)](https://jobright.ai/jobs/info/699922a5e0bddb6acac82681?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
-| ↳ | **[Summer 2026 Intern - Software Engineer (Firmware)](https://jobright.ai/jobs/info/6999275681476f6176b1ad21?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
 | ↳ | **[Summer 2026 Intern - Software Engineering (Embedded)](https://jobright.ai/jobs/info/69993c21e0bddb6acac85240?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
+| ↳ | **[Summer 2026 Intern - Software Engineer (Firmware)](https://jobright.ai/jobs/info/6999275681476f6176b1ad21?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
 | **[Akamai Technologies](https://www.akamai.com)** | **[Intern - Web Developer, Cloud Technology](https://jobright.ai/jobs/info/69996d2dce78e77b4fde4fd7?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Feb 20 |
 | **[Two Rivers Marketing](http://tworiversmarketing.com)** | **[Software Development Intern - Waterloo, Iowa](https://jobright.ai/jobs/info/699917fae0bddb6acac812e7?utm_campaign=1079&utm_source=git)** | Waterloo, IA, US | On Site | Feb 20 |
 | **[VGM Group, Inc.](https://www.vgm.com)** | **[Software Development Intern - Waterloo, Iowa](https://jobright.ai/jobs/info/69991fe4e0bddb6acac82112?utm_campaign=1079&utm_source=git)** | Waterloo, IA, US | On Site | Feb 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avant](https://www.avant.com)** | **[Application Platform Engineering Summer Internship](https://jobright.ai/jobs/info/6999156681476f6176b18d57?utm_campaign=1079&utm_source=git)** | Greater Chicago Area | Hybrid | Feb 20 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Software Engineering Intern (Rochester, NY)](https://jobright.ai/jobs/info/69991b76e0bddb6acac8191d?utm_campaign=1079&utm_source=git)** | Rochester, NY | On Site | Feb 20 |
 | **[Credit Acceptance](http://www.creditacceptance.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6998eee3ce78e77b4fdd8041?utm_campaign=1079&utm_source=git)** | USA – Remote | Remote | Feb 20 |
-| **[Moog Inc.](http://www.moog.com)** | **[Intern, IT/Computer Science](https://jobright.ai/jobs/info/6998ee1ce0bddb6acac7da2b?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Feb 20 |
-| **[Riverside Research](http://riversideresearch.org)** | **[Software Engineer (Internship)](https://jobright.ai/jobs/info/69990a1781476f6176b17f58?utm_campaign=1079&utm_source=git)** | Fairborn, OH | On Site | Feb 20 |
-| **[WD](https://www.westerndigital.com)** | **[Summer 2026 Co-Op - Software Engineer](https://jobright.ai/jobs/info/69990978e0bddb6acac800a6?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
