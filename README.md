@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Frontend Developer](https://jobright.ai/jobs/info/699a5bd081476f6176b2e1cb?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TPWD - Intern I - II - III (Infrastructure - Architecture/Engineering)](https://jobright.ai/jobs/info/699a5a9c81476f6176b2df6c?utm_campaign=1079&utm_source=git)** | DW-TPWD Headquarters4200 Smith School Road | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Infrastructure - Architecture/Engineering)](https://jobright.ai/jobs/info/699a6518ce78e77b4fdf2198?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | **[Celanese](http://www.celanese.com)** | **[Application Development Engineer Intern](https://jobright.ai/jobs/info/699a0852ce78e77b4fded52a?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Feb 21 |
@@ -117,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Gameplay Design Intern](https://jobright.ai/jobs/info/69617a4fe7ed9a5731ba42f3?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Feb 21 |
 | **[ModMed](https://www.modmed.com)** | **[Software Architect - Intern](https://jobright.ai/jobs/info/6944685694730b7398779110?utm_campaign=1079&utm_source=git)** | Boca Raton, FL | On Site | Feb 21 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Software Engineer Intern (Embedded Software & Telematics) - The Toro Company](https://jobright.ai/jobs/info/697c91a9137a051025658d48?utm_campaign=1079&utm_source=git)** | Hennepin County, MN | On Site | Feb 21 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/699a7069e0bddb6acac985d4?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | Feb 21 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer Intern](https://jobright.ai/jobs/info/690d2adf221b890c27804294?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 21 |
 | **[Hearst Health](http://www.hearsthealth.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/699970ecce78e77b4fde5712?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Feb 21 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69996cefce78e77b4fde4ed5?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Feb 21 |
@@ -152,8 +152,8 @@ For a complete list, click the following sortable link below:
 | **[Aristocrat Gaming](https://www.aristocrat.com/)** | **[Intern, Computer Engineering](https://jobright.ai/jobs/info/699976f5ce78e77b4fde629d?utm_campaign=1079&utm_source=git)** | Las Vegas, NV, US | On Site | Feb 20 |
 | **[Tektronix](http://www.tek.com)** | **[Application Engineering Intern (Mainstream Portfolio Team) Summer 2026](https://jobright.ai/jobs/info/6999022fe0bddb6acac7f75f?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Feb 20 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern - Software Engineering (Firmware)](https://jobright.ai/jobs/info/699922a5e0bddb6acac82681?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
-| ↳ | **[Summer 2026 Intern - Software Engineering (Embedded)](https://jobright.ai/jobs/info/69993c21e0bddb6acac85240?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
 | ↳ | **[Summer 2026 Intern - Software Engineer (Firmware)](https://jobright.ai/jobs/info/6999275681476f6176b1ad21?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
+| ↳ | **[Summer 2026 Intern - Software Engineering (Embedded)](https://jobright.ai/jobs/info/69993c21e0bddb6acac85240?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
 | **[Akamai Technologies](https://www.akamai.com)** | **[Intern - Web Developer, Cloud Technology](https://jobright.ai/jobs/info/69996d2dce78e77b4fde4fd7?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Feb 20 |
 | **[Two Rivers Marketing](http://tworiversmarketing.com)** | **[Software Development Intern - Waterloo, Iowa](https://jobright.ai/jobs/info/699917fae0bddb6acac812e7?utm_campaign=1079&utm_source=git)** | Waterloo, IA, US | On Site | Feb 20 |
 | **[VGM Group, Inc.](https://www.vgm.com)** | **[Software Development Intern - Waterloo, Iowa](https://jobright.ai/jobs/info/69991fe4e0bddb6acac82112?utm_campaign=1079&utm_source=git)** | Waterloo, IA, US | On Site | Feb 20 |
