@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern-SRE](https://jobright.ai/jobs/info/696b501fdb26b618950ed8a3?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Feb 22 |
+| **[HII](https://hii.com)** | **[Solution Architect (Summer Intern) - 27240](https://jobright.ai/jobs/info/699ac78681476f6176b36058?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Feb 22 |
 | **[ReVolt Battery Technology](http://www.revoltbatterytechnology.com)** | **[Summer Internship – Full-Stack Developer (Texas Students only)](https://jobright.ai/jobs/info/699a7dd9ce78e77b4fdf3a54?utm_campaign=1079&utm_source=git)** | Houston, TX | Remote | Feb 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TPWD - Intern I - II - III (Infrastructure - Architecture/Engineering)](https://jobright.ai/jobs/info/699a5a9c81476f6176b2df6c?utm_campaign=1079&utm_source=git)** | DW-TPWD Headquarters4200 Smith School Road | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Infrastructure - Architecture/Engineering)](https://jobright.ai/jobs/info/699a6518ce78e77b4fdf2198?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aristocrat Gaming](https://www.aristocrat.com/)** | **[Intern, Computer Engineering](https://jobright.ai/jobs/info/699976f5ce78e77b4fde629d?utm_campaign=1079&utm_source=git)** | Las Vegas, NV, US | On Site | Feb 20 |
 | **[Tektronix](http://www.tek.com)** | **[Application Engineering Intern (Mainstream Portfolio Team) Summer 2026](https://jobright.ai/jobs/info/6999022fe0bddb6acac7f75f?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Feb 20 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern - Software Engineering (Firmware)](https://jobright.ai/jobs/info/699922a5e0bddb6acac82681?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
-| ↳ | **[Summer 2026 Intern - Software Engineer (Firmware)](https://jobright.ai/jobs/info/6999275681476f6176b1ad21?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
-| **[Akamai Technologies](https://www.akamai.com)** | **[Intern - Web Developer, Cloud Technology](https://jobright.ai/jobs/info/69996d2dce78e77b4fde4fd7?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
