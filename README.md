@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer ‘26)](https://jobright.ai/jobs/info/699a235a81476f6176b2cfa8?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Feb 21 |
+| **[GenPark](https://genpark.ai)** | **[Frontend Developer](https://jobright.ai/jobs/info/699a5bd081476f6176b2e1cb?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Feb 21 |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TPWD - Intern I - II - III (Infrastructure - Architecture/Engineering)](https://jobright.ai/jobs/info/699a5a9c81476f6176b2df6c?utm_campaign=1079&utm_source=git)** | DW-TPWD Headquarters4200 Smith School Road | On Site | Feb 21 |
 | **[Celanese](http://www.celanese.com)** | **[Application Development Engineer Intern](https://jobright.ai/jobs/info/699a0852ce78e77b4fded52a?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Feb 21 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Simulation and software development (Summer 2026)](https://jobright.ai/jobs/info/697d1889137a051025660f4d?utm_campaign=1079&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 21 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/699289d16ea51a7610f4a1fe?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 21 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Aristocrat Gaming](https://www.aristocrat.com/)** | **[Intern, Computer Engineering](https://jobright.ai/jobs/info/699976f5ce78e77b4fde629d?utm_campaign=1079&utm_source=git)** | Las Vegas, NV, US | On Site | Feb 20 |
 | **[Tektronix](http://www.tek.com)** | **[Application Engineering Intern (Mainstream Portfolio Team) Summer 2026](https://jobright.ai/jobs/info/6999022fe0bddb6acac7f75f?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Feb 20 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern - Software Engineering (Firmware)](https://jobright.ai/jobs/info/699922a5e0bddb6acac82681?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
-| ↳ | **[Summer 2026 Intern - Software Engineer (Firmware)](https://jobright.ai/jobs/info/6999275681476f6176b1ad21?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
 | ↳ | **[Summer 2026 Intern - Software Engineering (Embedded)](https://jobright.ai/jobs/info/69993c21e0bddb6acac85240?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
+| ↳ | **[Summer 2026 Intern - Software Engineer (Firmware)](https://jobright.ai/jobs/info/6999275681476f6176b1ad21?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
 | **[Akamai Technologies](https://www.akamai.com)** | **[Intern - Web Developer, Cloud Technology](https://jobright.ai/jobs/info/69996d2dce78e77b4fde4fd7?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Feb 20 |
 | **[Two Rivers Marketing](http://tworiversmarketing.com)** | **[Software Development Intern - Waterloo, Iowa](https://jobright.ai/jobs/info/699917fae0bddb6acac812e7?utm_campaign=1079&utm_source=git)** | Waterloo, IA, US | On Site | Feb 20 |
 | **[VGM Group, Inc.](https://www.vgm.com)** | **[Software Development Intern - Waterloo, Iowa](https://jobright.ai/jobs/info/69991fe4e0bddb6acac82112?utm_campaign=1079&utm_source=git)** | Waterloo, IA, US | On Site | Feb 20 |
 | **[Avant](https://www.avant.com)** | **[Digital Services Engineering Summer Internship](https://jobright.ai/jobs/info/69991a3ece78e77b4fddbe77?utm_campaign=1079&utm_source=git)** | Greater Chicago Area | Hybrid | Feb 20 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - QA (UNDERGRAD ONLY)](https://jobright.ai/jobs/info/6999268ce0bddb6acac82eae?utm_campaign=1079&utm_source=git)** | San Jose, California | Hybrid | Feb 20 |
-| **[Credit Acceptance](http://www.creditacceptance.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69991df5ce78e77b4fddc53e?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
