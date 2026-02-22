@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Glassboard](http://www.glassboard.com)** | **[Glassboard Embedded Software Engineering Intern](https://jobright.ai/jobs/info/699b63e0e0bddb6acaca4a81?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Feb 22 |
+| **[Robynex Automation](robynexautomation.com)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/699b609a81476f6176b3c912?utm_campaign=1079&utm_source=git)** | Chicago, IL | Remote | Feb 22 |
+| **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Software Engineering Intern - REMOTE](https://jobright.ai/jobs/info/699b5f4dce78e77b4fdff41f?utm_campaign=1079&utm_source=git)** | Santa Ana, CA | Remote | Feb 22 |
 | **[OpenID3: Worldpin](https://www.dauth.network)** | **[Vibe Coding Intern - Unpaid](https://jobright.ai/jobs/info/699b565fe0bddb6acaca4428?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Todd](https://toddagriscience.com)** | **[Fulllstack Software Engineer Intern (Summer ‘26)](https://jobright.ai/jobs/info/699b5609ce78e77b4fdff05d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Feb 22 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2026 Unity 3D Developer Software Engineering Intern- Bachelor's (Austin, TX)](https://jobright.ai/jobs/info/699b2f4ce0bddb6acaca2816?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Veolia](http://www.veolia.com/en/)** | **[Intern - Integrations](https://jobright.ai/jobs/info/699a47b781476f6176b2d53b?utm_campaign=1079&utm_source=git)** | Paramus, NJ, US | On Site | Feb 20 |
 | ↳ | **[Intern - Developer Customer Applications](https://jobright.ai/jobs/info/699a4a6081476f6176b2d6c5?utm_campaign=1079&utm_source=git)** | Paramus, NJ, US | On Site | Feb 20 |
 | ↳ | **[Intern - Drupal Developer](https://jobright.ai/jobs/info/699a4e21ce78e77b4fdf02ad?utm_campaign=1079&utm_source=git)** | Paramus, NJ, US | On Site | Feb 20 |
-| **[Ivalua](http://ivalua.com/)** | **[Customer Application Engineer Intern](https://jobright.ai/jobs/info/6999419781476f6176b1d5bb?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 20 |
-| **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69991808e0bddb6acac812fd?utm_campaign=1079&utm_source=git)** | Cupertino, CA | On Site | Feb 20 |
-| **[Roadie](https://www.roadie.com/)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/699917b7e0bddb6acac8126d?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
