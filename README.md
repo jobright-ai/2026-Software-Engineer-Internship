@@ -57,17 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TripArc](https://www.trip-arc.com/)** | **[Intern - Software Developer](https://jobright.ai/jobs/info/697d0a7e3f57a3356966bf27?utm_campaign=1079&utm_source=git)** | Toronto | On Site | Feb 22 |
+| **[Fayble Inc.](http://www.fayble.com)** | **[Development Intern](https://jobright.ai/jobs/info/699b87b0ce78e77b4fe01570?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Remote | Feb 22 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2026 Unity 3D Developer Software Engineering Intern- Bachelor's (Austin, TX)](https://jobright.ai/jobs/info/699b8032ce78e77b4fe014dc?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 22 |
+| **[Todd](https://toddagriscience.com)** | **[Fulllstack Software Engineer Intern (Summer ‘26)](https://jobright.ai/jobs/info/699b7c25ce78e77b4fe01463?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Feb 22 |
+| **[Dark Wolf](https://darkwolfsolutions.com/)** | **[George Mason University College Fair - Internship](https://jobright.ai/jobs/info/699b68bfe0bddb6acaca4c3d?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Feb 22 |
 | **[Glassboard](http://www.glassboard.com)** | **[Glassboard Embedded Software Engineering Intern](https://jobright.ai/jobs/info/699b63e0e0bddb6acaca4a81?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Feb 22 |
 | **[Robynex Automation](robynexautomation.com)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/699b609a81476f6176b3c912?utm_campaign=1079&utm_source=git)** | Chicago, IL | Remote | Feb 22 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Software Engineering Intern - REMOTE](https://jobright.ai/jobs/info/699b5f4dce78e77b4fdff41f?utm_campaign=1079&utm_source=git)** | Santa Ana, CA | Remote | Feb 22 |
-| **[OpenID3: Worldpin](https://www.dauth.network)** | **[Vibe Coding Intern - Unpaid](https://jobright.ai/jobs/info/699b565fe0bddb6acaca4428?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 22 |
-| **[Todd](https://toddagriscience.com)** | **[Fulllstack Software Engineer Intern (Summer ‘26)](https://jobright.ai/jobs/info/699b5609ce78e77b4fdff05d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Feb 22 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2026 Unity 3D Developer Software Engineering Intern- Bachelor's (Austin, TX)](https://jobright.ai/jobs/info/699b2f4ce0bddb6acaca2816?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 22 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Programme - Technology, Data and Innovation (TDI) – Cary 2026](https://jobright.ai/jobs/info/690df66cd046ab6061cf9f87?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Feb 22 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Intern Opportunities for University Students, Mountain View](https://jobright.ai/jobs/info/696f13670f4e0f657ea380ff?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Feb 22 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/699b1d9de0bddb6acaca26a1?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Feb 22 |
-| **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program (Remote – Global Cohort)](https://jobright.ai/jobs/info/699b0884e0bddb6acaca22cb?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Technology, Data and Innovation (TDI) - New York 2026](https://jobright.ai/jobs/info/690df52ad046ab6061cf9f5d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 22 |
+| **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/699b0884e0bddb6acaca22cb?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026: Software Developer Co-op, 4 Months](https://jobright.ai/jobs/info/697e3adece48107c05427eba?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 22 |
 | ↳ | **[Summer 2026: Software Developer Co-op, 8 Months](https://jobright.ai/jobs/info/697e3b807f40342e15d71918?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 22 |
 | **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/68d5f0051f7fb2169ab14c97?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, IT/Computer Science](https://jobright.ai/jobs/info/6999255d81476f6176b1a954?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Feb 20 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Software Engineering Intern - MIM Platform](https://jobright.ai/jobs/info/69991e79e0bddb6acac81edb?utm_campaign=1079&utm_source=git)** | Beachwood, OH | On Site | Feb 20 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Intern - Integrations](https://jobright.ai/jobs/info/699a47b781476f6176b2d53b?utm_campaign=1079&utm_source=git)** | Paramus, NJ, US | On Site | Feb 20 |
-| ↳ | **[Intern - Developer Customer Applications](https://jobright.ai/jobs/info/699a4a6081476f6176b2d6c5?utm_campaign=1079&utm_source=git)** | Paramus, NJ, US | On Site | Feb 20 |
-| ↳ | **[Intern - Drupal Developer](https://jobright.ai/jobs/info/699a4e21ce78e77b4fdf02ad?utm_campaign=1079&utm_source=git)** | Paramus, NJ, US | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
