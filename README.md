@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CENENCE](https://www.linkedin.com/company/105336376)** | **[Web Developer / Coder Student Internship (College Credit)](https://jobright.ai/jobs/info/699ae72881476f6176b38104?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 22 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Software Engineer, Dynamics & Controls - Autonomous Driving (PhD)](https://jobright.ai/jobs/info/695e24373c6a895ac5eef7a0?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Feb 22 |
+| ↳ | **[2026 Summer Intern – Software Engineer, Dynamics & Controls - Autonomous Driving (PhD)](https://jobright.ai/jobs/info/695e18412847344df4739db1?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 22 |
+| **[Exiger](http://www.exiger.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/696159d7e7ed9a5731ba1ff6?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Feb 22 |
+| **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/6946219c63141d188455ce71?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Feb 22 |
+| **[Symetra](http://www.symetra.com)** | **[2026 STE Internship](https://jobright.ai/jobs/info/698d78f80f6f7e7a2ce954ae?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 22 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Intern, Software Engineering (12-month) - Burlington, ON, Canada](https://jobright.ai/jobs/info/69813ac1abff4c399aa0222c?utm_campaign=1079&utm_source=git)** | Burlington, Ontario, Canada | On Site | Feb 22 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern-SRE](https://jobright.ai/jobs/info/696b501fdb26b618950ed8a3?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Feb 22 |
 | **[HII](https://hii.com)** | **[Solution Architect (Summer Intern) - 27240](https://jobright.ai/jobs/info/699ac78681476f6176b36058?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Feb 22 |
 | **[ReVolt Battery Technology](http://www.revoltbatterytechnology.com)** | **[Summer Internship – Full-Stack Developer (Texas Students only)](https://jobright.ai/jobs/info/699a7dd9ce78e77b4fdf3a54?utm_campaign=1079&utm_source=git)** | Houston, TX | Remote | Feb 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advance Auto Parts](https://shop.advanceautoparts.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69993aaace78e77b4fddf7ae?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Feb 20 |
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69445066dd382f5f566a6b8c?utm_campaign=1079&utm_source=git)** | North Bethesda, Maryland | Hybrid | Feb 20 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699934aace78e77b4fddedd8?utm_campaign=1079&utm_source=git)** | Beachwood, OH | On Site | Feb 20 |
-| ↳ | **[Full-Stack Software Engineering Intern – Commercialized Web Applications](https://jobright.ai/jobs/info/69992953e0bddb6acac83360?utm_campaign=1079&utm_source=git)** | Beachwood, OH | On Site | Feb 20 |
-| **[Decimal AI](https://www.getdecimal.ai)** | **[GTM Engineer Intern - Summer](https://jobright.ai/jobs/info/699929b581476f6176b1b1a6?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Feb 20 |
-| **[Teradyne](http://www.teradyne.com)** | **[Quality Applications Engineering Intern, Part-time Spring 2026 (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6999080381476f6176b17d05?utm_campaign=1079&utm_source=git)** | North Reading, MA | On Site | Feb 20 |
-| **[HexArmor](http://hexarmor.com)** | **[SAP Systems & Business Applications Intern](https://jobright.ai/jobs/info/6999398cce78e77b4fddf65a?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Feb 20 |
-| **[Aristocrat Gaming](https://www.aristocrat.com/)** | **[Intern, Computer Engineering](https://jobright.ai/jobs/info/699976f5ce78e77b4fde629d?utm_campaign=1079&utm_source=git)** | Las Vegas, NV, US | On Site | Feb 20 |
-| **[Tektronix](http://www.tek.com)** | **[Application Engineering Intern (Mainstream Portfolio Team) Summer 2026](https://jobright.ai/jobs/info/6999022fe0bddb6acac7f75f?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Feb 20 |
-| **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern - Software Engineering (Firmware)](https://jobright.ai/jobs/info/699922a5e0bddb6acac82681?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
