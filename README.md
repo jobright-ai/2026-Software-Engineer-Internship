@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2026 Unity 3D Developer Software Engineering Intern- Bachelor's (Austin, TX)](https://jobright.ai/jobs/info/699b2f4ce0bddb6acaca2816?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 22 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Programme - Technology, Data and Innovation (TDI) – Cary 2026](https://jobright.ai/jobs/info/690df66cd046ab6061cf9f87?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Feb 22 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Intern Opportunities for University Students, Mountain View](https://jobright.ai/jobs/info/696f13670f4e0f657ea380ff?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Feb 22 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/699b1d9de0bddb6acaca26a1?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Feb 22 |
-| **[Todd](https://toddagriscience.com)** | **[Fulllstack Software Engineer Intern (Summer ‘26)](https://jobright.ai/jobs/info/699b1c9bce78e77b4fdfd219?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Feb 22 |
 | **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program (Remote – Global Cohort)](https://jobright.ai/jobs/info/699b0884e0bddb6acaca22cb?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Technology, Data and Innovation (TDI) - New York 2026](https://jobright.ai/jobs/info/690df52ad046ab6061cf9f5d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026: Software Developer Co-op, 4 Months](https://jobright.ai/jobs/info/697e3adece48107c05427eba?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 22 |
@@ -92,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Firmware Engineer - PFD](https://jobright.ai/jobs/info/697d3879137a051025664684?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 21 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699959b281476f6176b201b7?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
 | **[Magnet Forensics](http://magnetforensics.com)** | **[Software Developer Co-op (Summer 2026)](https://jobright.ai/jobs/info/698eb39cf64d441a1650fe83?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Feb 21 |
+| **[Battelle](http://www.battelle.org)** | **[Test Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6982b423348f733a5c35ad35?utm_campaign=1079&utm_source=git)** | Atlantic City, NJ | On Site | Feb 21 |
 | **[Modular](https://www.modular.com)** | **[Software Engineering Intern, Cloud Inference](https://jobright.ai/jobs/info/697db706ce48107c05420628?utm_campaign=1079&utm_source=git)** | Los Altos, CA | Hybrid | Feb 21 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Embedded Software Engineer (Internship)](https://jobright.ai/jobs/info/6962158c25e18715077ef39e?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 21 |
 | ↳ | **[Software Engineer, Tooling (Internship)](https://jobright.ai/jobs/info/69620e8f25e18715077eeded?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Feb 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69991808e0bddb6acac812fd?utm_campaign=1079&utm_source=git)** | Cupertino, CA | On Site | Feb 20 |
 | **[Roadie](https://www.roadie.com/)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/699917b7e0bddb6acac8126d?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6999802f81476f6176b24569?utm_campaign=1079&utm_source=git)** | 10 E. Main Street, Carmel, IN, 46032, US | On Site | Feb 20 |
-| **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern - Software Engineering (Firmware)](https://jobright.ai/jobs/info/699916a1ce78e77b4fddb788?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
