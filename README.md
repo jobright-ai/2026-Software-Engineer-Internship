@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern Software Engineering](https://jobright.ai/jobs/info/699be652ce78e77b4fe07ede?utm_campaign=1079&utm_source=git)** | Reston, VA | On Site | Feb 22 |
+| **[Amazon](https://amazon.com)** | **[IT Application Analyst Intern, AWS](https://jobright.ai/jobs/info/699bdfa4ce78e77b4fe07679?utm_campaign=1079&utm_source=git)** | Austin, Texas, USA | On Site | Feb 22 |
+| ↳ | **[IT Application Analyst Intern, AWS](https://jobright.ai/jobs/info/699bdf9f81476f6176b444a4?utm_campaign=1079&utm_source=git)** | Seattle, Washington, USA | On Site | Feb 22 |
+| **[Ticketmaster](https://www.ticketmaster.com)** | **[Intern Software Engineering](https://jobright.ai/jobs/info/699bdc4fe0bddb6acacab566?utm_campaign=1079&utm_source=git)** | Reston, VA | On Site | Feb 22 |
 | **[Asplundh Tree Expert, LLC](http://www.asplundh.com/)** | **[Application Development Intern](https://jobright.ai/jobs/info/699bc15de0bddb6acaca8f92?utm_campaign=1079&utm_source=git)** | Willow Grove, PA | Hybrid | Feb 22 |
 | ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/699bc07481476f6176b41047?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 22 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP Summer 2026 Intern - Interactive HTML Software Developer](https://jobright.ai/jobs/info/699bbbdcce78e77b4fe03ad2?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Feb 22 |
 | **[SoFi](https://www.sofi.com)** | **[Intern, Software Engineer, Settlement](https://jobright.ai/jobs/info/699babd3ce78e77b4fe031be?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Feb 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern Software Engineering](https://jobright.ai/jobs/info/699b9099ce78e77b4fe01660?utm_campaign=1079&utm_source=git)** | Reston, VA, USA | On Site | Feb 22 |
+| **[Fayble Inc.](http://www.fayble.com)** | **[Development Intern/Sports Tech Startup](https://jobright.ai/jobs/info/699b87b0ce78e77b4fe01570?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Remote | Feb 22 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2026 Co-Op - Software Engineer](https://jobright.ai/jobs/info/699b8933e0bddb6acaca6838?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Feb 22 |
 | **[TripArc](https://www.trip-arc.com/)** | **[Intern - Software Developer](https://jobright.ai/jobs/info/697d0a7e3f57a3356966bf27?utm_campaign=1079&utm_source=git)** | Toronto | On Site | Feb 22 |
-| **[Fayble Inc.](http://www.fayble.com)** | **[Development Intern](https://jobright.ai/jobs/info/699b87b0ce78e77b4fe01570?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Remote | Feb 22 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2026 Unity 3D Developer Software Engineering Intern- Bachelor's (Austin, TX)](https://jobright.ai/jobs/info/699b8032ce78e77b4fe014dc?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 22 |
 | **[Dark Wolf](https://darkwolfsolutions.com/)** | **[George Mason University College Fair - Internship](https://jobright.ai/jobs/info/699b68bfe0bddb6acaca4c3d?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Feb 22 |
 | **[Glassboard](http://www.glassboard.com)** | **[Glassboard Embedded Software Engineering Intern](https://jobright.ai/jobs/info/699b63e0e0bddb6acaca4a81?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Feb 22 |
@@ -86,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern-SRE](https://jobright.ai/jobs/info/696b501fdb26b618950ed8a3?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Feb 22 |
 | **[HII](https://hii.com)** | **[Solution Architect (Summer Intern) - 27240](https://jobright.ai/jobs/info/699ac78681476f6176b36058?utm_campaign=1079&utm_source=git)** | McLean, VA | Hybrid | Feb 22 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/699bc8d2e0bddb6acaca93d6?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | Feb 21 |
-| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern in Digital Strategies (Engineering), Pew Research Center Summer 2026](https://jobright.ai/jobs/info/699bc9b6e0bddb6acaca9787?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Feb 21 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Embedded Software Engineering (Summer 2026) - Franksville, WI](https://jobright.ai/jobs/info/699bbb9581476f6176b40ce9?utm_campaign=1079&utm_source=git)** | Franksville, WI | On Site | Feb 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TPWD - Intern I - II - III (Infrastructure - Architecture/Engineering)](https://jobright.ai/jobs/info/699a5a9c81476f6176b2df6c?utm_campaign=1079&utm_source=git)** | DW-TPWD Headquarters4200 Smith School Road | On Site | Feb 21 |
 | ↳ | **[TPWD - Intern I - II - III (Infrastructure - Architecture/Engineering)](https://jobright.ai/jobs/info/699a6518ce78e77b4fdf2198?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AST SpaceMobile](https://ast-science.com)** | **[Intern - Software Development](https://jobright.ai/jobs/info/6999594681476f6176b2000d?utm_campaign=1079&utm_source=git)** | Lanham, Maryland, United States | On Site | Feb 20 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Software Engineering Intern (Palm Bay, FL)](https://jobright.ai/jobs/info/699954c381476f6176b1fa36?utm_campaign=1079&utm_source=git)** | Palm Bay, FL | On Site | Feb 20 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - IT Software Engineer, EA EPS](https://jobright.ai/jobs/info/699aa03f81476f6176b3425f?utm_campaign=1079&utm_source=git)** | Boise, ID | On Site | Feb 20 |
-| **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern-Software Engineering](https://jobright.ai/jobs/info/699a963de0bddb6acac9baeb?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
-| **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - QA (UNDERGRAD ONLY)](https://jobright.ai/jobs/info/69993e9ece78e77b4fddfc7f?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 20 |
-| **[AST SpaceMobile](https://ast-science.com)** | **[Intern - Software Development](https://jobright.ai/jobs/info/69995a1281476f6176b2024b?utm_campaign=1079&utm_source=git)** | Lanham, MD | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
