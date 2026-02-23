@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Remote / Unpaid / Fullstack Development Intern /](https://jobright.ai/jobs/info/699c5025ce78e77b4fe0ff65?utm_campaign=1079&utm_source=git)** | San Francisco County, CA | Remote | Feb 23 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d1bee221b890c27803577?utm_campaign=1079&utm_source=git)** | Anacortes, WA | On Site | Feb 23 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/698e73f778b4502f12a543c7?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Feb 23 |
 | ↳ | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/696467a72cbf4e44756de866?utm_campaign=1079&utm_source=git)** | Louisville, KY | On Site | Feb 23 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Software Development Intern (Summer 2026)](https://jobright.ai/jobs/info/699c4066e0bddb6acacb33ad?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Feb 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - ERP Finance Systems](https://jobright.ai/jobs/info/697daafdce48107c0541f98b?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Feb 21 |
 | **[Genmab](https://www.genmab.com)** | **[Programming Intern - Application Performance Monitoring (APM)](https://jobright.ai/jobs/info/697d58963f57a33569673958?utm_campaign=1079&utm_source=git)** | Princeton, NJ | Hybrid | Feb 21 |
 | **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - Retail Technology](https://jobright.ai/jobs/info/697daabaabff4c399a9c8064?utm_campaign=1079&utm_source=git)** | San Ramon, CA | On Site | Feb 21 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - SSD Engineering](https://jobright.ai/jobs/info/6999aada81476f6176b2799d?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Feb 21 |
-| **[X, The Moonshot Factory](https://x.company)** | **[2026 Software Engineering Internship, Performance & Systems (Tapestry)](https://jobright.ai/jobs/info/697d2367727747250d57dc59?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
