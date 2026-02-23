@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Retail Systems Software Engineer](https://jobright.ai/jobs/info/699bee7081476f6176b45645?utm_campaign=1079&utm_source=git)** | Charlotte, NC - Corporate Office | On Site | Feb 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern Software Engineering](https://jobright.ai/jobs/info/699be652ce78e77b4fe07ede?utm_campaign=1079&utm_source=git)** | Reston, VA | On Site | Feb 22 |
 | **[Amazon](https://amazon.com)** | **[IT Application Analyst Intern, AWS](https://jobright.ai/jobs/info/699bdfa4ce78e77b4fe07679?utm_campaign=1079&utm_source=git)** | Austin, Texas, USA | On Site | Feb 22 |
 | ↳ | **[IT Application Analyst Intern, AWS](https://jobright.ai/jobs/info/699bdf9f81476f6176b444a4?utm_campaign=1079&utm_source=git)** | Seattle, Washington, USA | On Site | Feb 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software SEPP Engineering Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/69996cd4ce78e77b4fde4ea6?utm_campaign=1079&utm_source=git)** | Wilsonville, OR | On Site | Feb 21 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Intern - Software Development](https://jobright.ai/jobs/info/6999594681476f6176b2000d?utm_campaign=1079&utm_source=git)** | Lanham, Maryland, United States | On Site | Feb 20 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Software Engineering Intern (Palm Bay, FL)](https://jobright.ai/jobs/info/699954c381476f6176b1fa36?utm_campaign=1079&utm_source=git)** | Palm Bay, FL | On Site | Feb 20 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - IT Software Engineer, EA EPS](https://jobright.ai/jobs/info/699aa03f81476f6176b3425f?utm_campaign=1079&utm_source=git)** | Boise, ID | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
