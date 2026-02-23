@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Fulllstack Software Engineer Intern (Summer ‘26)](https://jobright.ai/jobs/info/699b967ee0bddb6acaca69c4?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Feb 22 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern Software Engineering](https://jobright.ai/jobs/info/699b9099ce78e77b4fe01660?utm_campaign=1079&utm_source=git)** | Reston, VA, USA | On Site | Feb 22 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2026 Co-Op - Software Engineer](https://jobright.ai/jobs/info/699b8933e0bddb6acaca6838?utm_campaign=1079&utm_source=git)** | Rochester, MN | On Site | Feb 22 |
 | **[TripArc](https://www.trip-arc.com/)** | **[Intern - Software Developer](https://jobright.ai/jobs/info/697d0a7e3f57a3356966bf27?utm_campaign=1079&utm_source=git)** | Toronto | On Site | Feb 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ivalua](http://ivalua.com/)** | **[Customer Application Engineer Intern](https://jobright.ai/jobs/info/6999277981476f6176b1ad83?utm_campaign=1079&utm_source=git)** | Fremont, CA | Hybrid | Feb 20 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Co-Op Fall 2026](https://jobright.ai/jobs/info/699a81dece78e77b4fdf4029?utm_campaign=1079&utm_source=git)** | Lowell, MA | On Site | Feb 20 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, IT/Computer Science](https://jobright.ai/jobs/info/6999255d81476f6176b1a954?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Feb 20 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Software Engineering Intern - MIM Platform](https://jobright.ai/jobs/info/69991e79e0bddb6acac81edb?utm_campaign=1079&utm_source=git)** | Beachwood, OH | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
