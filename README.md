@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Information Technology (HYBRID)](https://jobright.ai/jobs/info/698424a40f6f7e7a2cde57b7?utm_campaign=1079&utm_source=git)** | Syracuse, NY | Hybrid | Feb 24 |
+| **[Ensemble Health Partners](https://ensemblehp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/699da5c6e0bddb6acacd0c07?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 24 |
+| **[Starkey Hearing](https://www.starkey.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/699d9ff281476f6176b67a82?utm_campaign=1079&utm_source=git)** | Eden Prairie, MN | On Site | Feb 24 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - SSD Firmware - CICD](https://jobright.ai/jobs/info/699d9eff81476f6176b67a40?utm_campaign=1079&utm_source=git)** | Boise, ID | On Site | Feb 24 |
+| **[NOVA Cloud](http://www.gonovacloud.com)** | **[Frontend Engineering Intern - Cloud Visibility Platform](https://jobright.ai/jobs/info/699d99f781476f6176b677c6?utm_campaign=1079&utm_source=git)** | Leesburg, VA | Remote | Feb 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Show Control Software Intern (Florida), Summer/Fall 2026](https://jobright.ai/jobs/info/699701ffe0bddb6acac5ae65?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 24 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Information Technology (IT) Internship – Summer 2026](https://jobright.ai/jobs/info/699bdd81ce78e77b4fe05e6f?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 24 |
 | **[Tektronix](http://www.tek.com)** | **[Software Engineering Intern (MECOP) – 2026](https://jobright.ai/jobs/info/698147eaabff4c399aa02ed4?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Feb 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RELX](https://www.relx.com)** | **[Software Engineer Intern (LEARN)](https://jobright.ai/jobs/info/699cb453e0bddb6acacbc47e?utm_campaign=1079&utm_source=git)** | Florida | Remote | Feb 23 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Software Engineer Intern - San Diego CA](https://jobright.ai/jobs/info/699d067ae0bddb6acacc20d1?utm_campaign=1079&utm_source=git)** | United States-California-San Diego | On Site | Feb 23 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, IT Strategy and Emerging Technology](https://jobright.ai/jobs/info/699cf7fcce78e77b4fe1b566?utm_campaign=1079&utm_source=git)** | United States Remote Office | Remote | Feb 23 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Software Engineer Intern - San Diego CA](https://jobright.ai/jobs/info/699cfd7981476f6176b58f83?utm_campaign=1079&utm_source=git)** | United States-California-San Diego | On Site | Feb 23 |
-| **[Texas Instruments](http://www.ti.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699cec04ce78e77b4fe1a423?utm_campaign=1079&utm_source=git)** | Sugar Land, TX | On Site | Feb 23 |
-| **[ACI Worldwide](https://www.aciworldwide.com)** | **[Intern Software Engineering](https://jobright.ai/jobs/info/699ce44fe0bddb6acacbea48?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Feb 23 |
-| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/6976dfd0206da320f4a086f7?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 23 |
-| **[RELX](https://www.relx.com)** | **[Software Engineer Intern (LEARN)](https://jobright.ai/jobs/info/699cb14981476f6176b54435?utm_campaign=1079&utm_source=git)** | North Carolina | Remote | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
