@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[Engineer Intern](https://jobright.ai/jobs/info/699df608ce78e77b4fe319d1?utm_campaign=1079&utm_source=git)** | USA - Redmond, WA | On Site | Feb 24 |
+| **[AtriCure, Inc.](http://atricure.com)** | **[Engineering Co-op - Fall 2026](https://jobright.ai/jobs/info/6981564b7f40342e15da58a8?utm_campaign=1079&utm_source=git)** | Minnetonka, MN | On Site | Feb 24 |
+| **[zaimler](https://www.zaimler.ai/)** | **[Product Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69863c4f8da7a6120460ed52?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Feb 24 |
+| **[Copart](http://www.copart.com)** | **[SDET Intern](https://jobright.ai/jobs/info/699dfae1e0bddb6acacd6614?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Feb 24 |
+| **[KEENFINITY Group](https://www.keenfinity-group.com)** | **[Embedded Firmware Engineer Co-Op](https://jobright.ai/jobs/info/699dfabf81476f6176b6edba?utm_campaign=1079&utm_source=git)** | Fairport, NY | On Site | Feb 24 |
 | **[Citi](https://www.citi.com)** | **[Technology, Application Development, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/69162339286ccf0a15132c67?utm_campaign=1079&utm_source=git)** | Tampa, FL | Hybrid | Feb 24 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Post-Bachelor's Intern](https://jobright.ai/jobs/info/69820fa8c3101f1400c3ba73?utm_campaign=1079&utm_source=git)** | Los Alamos, NM | Hybrid | Feb 24 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Citco Technology Management (IT) Intern](https://jobright.ai/jobs/info/699df148e0bddb6acacd5d7a?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | Hybrid | Feb 24 |
@@ -66,12 +69,12 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Software Engineering Intern – Workflow Platform](https://jobright.ai/jobs/info/699de9b381476f6176b6d4b7?utm_campaign=1079&utm_source=git)** | OH05-01-Beachwood-Science Park Drive | On Site | Feb 24 |
 | **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Backend Engineering Internship - Typescript / Nest.js, Postgres, Docker, Microservices, AI/ML](https://jobright.ai/jobs/info/699de6f1ce78e77b4fe2fba8?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 24 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Software Engineering Intern - Carmel, IN Summer 2026](https://jobright.ai/jobs/info/699de63fce78e77b4fe2fa2e?utm_campaign=1079&utm_source=git)** | Carmel IN | Hybrid | Feb 24 |
-| **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Backend Development Internship - Typescript/Nest.js, Postgres, Docker, Microservices, AI/ML](https://jobright.ai/jobs/info/699de56fe0bddb6acacd40a9?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Feb 24 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Performance Engineering Intern, Deep Learning and HPC -  Summer 2026](https://jobright.ai/jobs/info/699de4d9ce78e77b4fe2f63e?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Feb 24 |
 | **[Ahrefs](https://ahrefs.com/about)** | **[Backend Engineering Intern - OCaml](https://jobright.ai/jobs/info/699683b781476f6176ae5cb7?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Remote | Feb 24 |
 | **[OCLC](http://www.oclc.org)** | **[Resource Sharing-Software Engineer Intern](https://jobright.ai/jobs/info/699de1d281476f6176b6c112?utm_campaign=1079&utm_source=git)** | Dublin, OH | Hybrid | Feb 24 |
 | **[MHI Canada Aerospace, Inc.](https://www.mhi.com/)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/699de1aae0bddb6acacd3bc7?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 24 |
 | **[Dropbox](https://www.dropbox.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/699de18b81476f6176b6c0f2?utm_campaign=1079&utm_source=git)** | Remote - US: All locations | Remote | Feb 24 |
+| **[KEENFINITY Group](https://www.keenfinity-group.com)** | **[Software Engineer Co-Op](https://jobright.ai/jobs/info/699dfe0681476f6176b6ef8a?utm_campaign=1079&utm_source=git)** | Fairport, NY | On Site | Feb 24 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69858763348f733a5c3a0029?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 24 |
 | **[Westlake](http://www.westlake.com)** | **[Software Engineer/Computer Science Intern](https://jobright.ai/jobs/info/6981ed6da314e763690545f6?utm_campaign=1079&utm_source=git)** | Longview, TX | On Site | Feb 24 |
 | **[NextGen Federal Systems](https://www.nextgenfed.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699dd89081476f6176b6b9d5?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sony](https://www.sony.com)** | **[Intern, Advanced Computer Graphics Research](https://jobright.ai/jobs/info/699d267de0bddb6acacc4d3e?utm_campaign=1079&utm_source=git)** | Culver City, CA | On Site | Feb 23 |
 | **[LVT (LiveView Technologies)](https://lvt.co/)** | **[QA Engineer Intern](https://jobright.ai/jobs/info/699d066e81476f6176b5a249?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | Feb 23 |
 | **[Teledyne Brown Engineering](http://www.tbe.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69967472ce78e77b4fda81b9?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Feb 23 |
-| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[.Net Application Developer Intern – Summer 2026](https://jobright.ai/jobs/info/699cff5b81476f6176b5938f?utm_campaign=1079&utm_source=git)** | Madison, WI | Hybrid | Feb 23 |
-| **[Snowflake](https://www.snowflake.com)** | **[Sales/GTM Apps Developer Intern - Summer 2026](https://jobright.ai/jobs/info/699cf96881476f6176b587a1?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | On Site | Feb 23 |
-| ↳ | **[Sales/GTM Apps Developer Intern - Summer 2026](https://jobright.ai/jobs/info/699cf87ee0bddb6acacc061f?utm_campaign=1079&utm_source=git)** | Dublin, CA | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
