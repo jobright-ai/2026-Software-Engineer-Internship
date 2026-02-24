@@ -65,6 +65,8 @@ For a complete list, click the following sortable link below:
 | **[The Nature Conservancy](http://www.nature.org)** | **[Front-End Email Development Intern](https://jobright.ai/jobs/info/699cc2b481476f6176b555cd?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 23 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/699cbbe981476f6176b55015?utm_campaign=1079&utm_source=git)** | Roanoke, VA | On Site | Feb 23 |
 | **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Backend Development Internship - Typescript / Nest.js, Postgres, Docker, Microservices, AI/ML](https://jobright.ai/jobs/info/699cb95b81476f6176b54ca3?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 23 |
+| **[Imperative Care](http://www.imperativecare.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/699cd707ce78e77b4fe19126?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Feb 23 |
+| ↳ | **[Software Engineer Intern - Applications](https://jobright.ai/jobs/info/699cd5bde0bddb6acacbdf6d?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Feb 23 |
 | **[Eagle Creek Renewable Energy LLC](http://eaglecreekre.com)** | **[Web Development Intern](https://jobright.ai/jobs/info/6993342881476f6176aad714?utm_campaign=1079&utm_source=git)** | Badin, NC | On Site | Feb 23 |
 | **[RELX](https://www.relx.com)** | **[Software Engineer Intern (LEARN)](https://jobright.ai/jobs/info/699cb453e0bddb6acacbc47e?utm_campaign=1079&utm_source=git)** | Florida | Remote | Feb 23 |
 | ↳ | **[Software Engineer Intern (LEARN)](https://jobright.ai/jobs/info/699cb14981476f6176b54435?utm_campaign=1079&utm_source=git)** | North Carolina | Remote | Feb 23 |
@@ -77,23 +79,28 @@ For a complete list, click the following sortable link below:
 | **[Relativity](http://www.relativity.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/699ca9d681476f6176b53e4d?utm_campaign=1079&utm_source=git)** | Illinois, United States | Hybrid | Feb 23 |
 | **[ElevateBio](https://www.elevate.bio/basecamp)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/699ca7b7ce78e77b4fe169d6?utm_campaign=1079&utm_source=git)** | Waltham, Massachusetts, United States | On Site | Feb 23 |
 | **[DEKA Research & Development](http://www.dekaresearch.com)** | **[Software Engineering- Co-Op- Summer/Fall 2026](https://jobright.ai/jobs/info/699ca6f3ce78e77b4fe16975?utm_campaign=1079&utm_source=git)** | Manchester, NH | On Site | Feb 23 |
+| **[Intel Corporation](http://www.intel.com)** | **[Graduate Intern Software Engineering Summer 2026](https://jobright.ai/jobs/info/699cde08e0bddb6acacbe56e?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Feb 23 |
 | **[Texas Capital](http://www.texascapitalbank.com)** | **[Technology Intern Program — Summer 2026](https://jobright.ai/jobs/info/699ca4eee0bddb6acacbb7df?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Feb 23 |
 | **[PrizePicks](https://prizepicks.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/699ccc2c81476f6176b55cd5?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 23 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[2026 Launchpad Software Engineer Program](https://jobright.ai/jobs/info/699cc05f81476f6176b55422?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Feb 23 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Information Services - Software Engineering Intern - Application Development](https://jobright.ai/jobs/info/699be1c481476f6176b44d14?utm_campaign=1079&utm_source=git)** | Watsonville, CA | On Site | Feb 23 |
 | **[Charter Manufacturing](http://chartermfg.com)** | **[Agile Technologist Intern (Year-Round)](https://jobright.ai/jobs/info/68aca0cbdaf1431824c96a6a?utm_campaign=1079&utm_source=git)** | Mequon, WI | Hybrid | Feb 23 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Software Engineer Intern (LEARN)](https://jobright.ai/jobs/info/699ccf02ce78e77b4fe18b42?utm_campaign=1079&utm_source=git)** | Massachusetts | Remote | Feb 23 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Software Engineer Intern (LEARN)](https://jobright.ai/jobs/info/699cb76481476f6176b54a05?utm_campaign=1079&utm_source=git)** | Louisiana | Remote | Feb 23 |
+| ↳ | **[Software Engineer Intern (LEARN)](https://jobright.ai/jobs/info/699cd63b81476f6176b56277?utm_campaign=1079&utm_source=git)** | Florida | Remote | Feb 23 |
+| ↳ | **[Software Engineer Intern (LEARN)](https://jobright.ai/jobs/info/699cd6efe0bddb6acacbe076?utm_campaign=1079&utm_source=git)** | New York | Remote | Feb 23 |
+| ↳ | **[Software Engineer Intern (LEARN)](https://jobright.ai/jobs/info/699ccf02ce78e77b4fe18b42?utm_campaign=1079&utm_source=git)** | Massachusetts | Remote | Feb 23 |
 | ↳ | **[Software Engineer Intern (LEARN)](https://jobright.ai/jobs/info/699cbb6ee0bddb6acacbcc9e?utm_campaign=1079&utm_source=git)** | Pennsylvania | Remote | Feb 23 |
-| ↳ | **[Software Engineer Intern (LEARN)](https://jobright.ai/jobs/info/699cb76481476f6176b54a05?utm_campaign=1079&utm_source=git)** | Louisiana | Remote | Feb 23 |
 | ↳ | **[Software Engineer Intern (Compass)](https://jobright.ai/jobs/info/699cba73ce78e77b4fe17ba0?utm_campaign=1079&utm_source=git)** | North Carolina | Remote | Feb 23 |
 | ↳ | **[Software Engineer Intern (Compass)](https://jobright.ai/jobs/info/699cc76881476f6176b55952?utm_campaign=1079&utm_source=git)** | Florida | Remote | Feb 23 |
 | ↳ | **[Software Engineer Intern (Compass)](https://jobright.ai/jobs/info/699cb575e0bddb6acacbc5a1?utm_campaign=1079&utm_source=git)** | Pennsylvania | Remote | Feb 23 |
+| ↳ | **[Software Engineer Intern (Compass)](https://jobright.ai/jobs/info/699cd6f6ce78e77b4fe19119?utm_campaign=1079&utm_source=git)** | Massachusetts | Remote | Feb 23 |
+| ↳ | **[Software Engineer Intern (Compass)](https://jobright.ai/jobs/info/699cdc8781476f6176b56711?utm_campaign=1079&utm_source=git)** | New York | Remote | Feb 23 |
 | **[Relativity](http://www.relativity.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/699cb6c681476f6176b5495c?utm_campaign=1079&utm_source=git)** | Illinois | Hybrid | Feb 23 |
 | **[RELX](https://www.relx.com)** | **[Software Engineer Intern (Compass)](https://jobright.ai/jobs/info/699cb55881476f6176b547da?utm_campaign=1079&utm_source=git)** | Massachusetts | Remote | Feb 23 |
 | ↳ | **[Software Engineer Intern (Compass)](https://jobright.ai/jobs/info/699cbe1fe0bddb6acacbcefe?utm_campaign=1079&utm_source=git)** | Florida | Remote | Feb 23 |
-| ↳ | **[Software Engineer Intern (Compass)](https://jobright.ai/jobs/info/699cbef5e0bddb6acacbcf58?utm_campaign=1079&utm_source=git)** | New York | Remote | Feb 23 |
 | ↳ | **[Software Engineer Intern (Compass)](https://jobright.ai/jobs/info/699cbb8581476f6176b54f7f?utm_campaign=1079&utm_source=git)** | North Carolina | Remote | Feb 23 |
 | ↳ | **[Software Engineer Intern (Compass)](https://jobright.ai/jobs/info/699cb7cace78e77b4fe17898?utm_campaign=1079&utm_source=git)** | Pennsylvania | Remote | Feb 23 |
+| ↳ | **[Software Engineer Intern (Compass)](https://jobright.ai/jobs/info/699cbef5e0bddb6acacbcf58?utm_campaign=1079&utm_source=git)** | New York | Remote | Feb 23 |
 | ↳ | **[Software Engineer Intern (LEARN)](https://jobright.ai/jobs/info/699cbcc6ce78e77b4fe17e64?utm_campaign=1079&utm_source=git)** | Pennsylvania | Remote | Feb 23 |
 | ↳ | **[Software Engineer Intern (LEARN)](https://jobright.ai/jobs/info/699cbaa0ce78e77b4fe17bd1?utm_campaign=1079&utm_source=git)** | New York | Remote | Feb 23 |
 | ↳ | **[Software Engineer Intern (LEARN)](https://jobright.ai/jobs/info/699cc1d7e0bddb6acacbd127?utm_campaign=1079&utm_source=git)** | Louisiana | Remote | Feb 23 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Daifuku](https://www.daifuku.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699c600781476f6176b4ee9f?utm_campaign=1079&utm_source=git)** | US-UT-Salt Lake City | On Site | Feb 23 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d40174a1b456627b1fba5?utm_campaign=1079&utm_source=git)** | Garyville, LA | On Site | Feb 23 |
 | **[Waters Corporation](http://www.waters.com)** | **[TA Instruments - Software Engineering Intern - Next Generation SW Platform](https://jobright.ai/jobs/info/699c5da9ce78e77b4fe11b8b?utm_campaign=1079&utm_source=git)** | New Castle, DE | On Site | Feb 23 |
-| **[Motion](http://www.dragosupply.com/)** | **[Cloud Developer Intern](https://jobright.ai/jobs/info/6994a7d5e0bddb6acac31928?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Feb 23 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/690d1bee221b890c27803577?utm_campaign=1079&utm_source=git)** | Anacortes, WA | On Site | Feb 23 |
-| **[Daifuku](https://www.daifuku.com/)** | **[Application Engineering Intern (Revit Exp. a MUST)](https://jobright.ai/jobs/info/699c6609ce78e77b4fe122ed?utm_campaign=1079&utm_source=git)** | US-IL-Bolingbrook | On Site | Feb 23 |
-| ↳ | **[Application Engineering Intern (Revit Exp. a MUST)](https://jobright.ai/jobs/info/699c6ce081476f6176b4fbac?utm_campaign=1079&utm_source=git)** | Bolingbrook, IL, US | On Site | Feb 23 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/699c6b3ece78e77b4fe12809?utm_campaign=1079&utm_source=git)** | US-FL-Clearwater | On Site | Feb 23 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/699c71b4e0bddb6acacb7dbb?utm_campaign=1079&utm_source=git)** | Clearwater, FL, US | On Site | Feb 23 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/699c656dce78e77b4fe12292?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT, US | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
