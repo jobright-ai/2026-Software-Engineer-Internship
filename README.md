@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aspen Technology](http://www.aspentech.com)** | **[Software Development Intern - Digital Grid Management - Summer 2026](https://jobright.ai/jobs/info/69826e14348f733a5c354502?utm_campaign=1079&utm_source=git)** | Twin Cities Area | Hybrid | Feb 25 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Hardware](https://jobright.ai/jobs/info/69880e7a8ca8121a3a6a87cf?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Feb 25 |
+| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Cloud Engineer Intern - Customer Success Services](https://jobright.ai/jobs/info/699f1c9f94ef206f184e4449?utm_campaign=1079&utm_source=git)** | Redwood City, CA, United States | On Site | Feb 25 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - IT - Collegiate Associate Intern](https://jobright.ai/jobs/info/69826cb40a9e07331f8d716f?utm_campaign=1079&utm_source=git)** | Savannah, GA | On Site | Feb 25 |
+| **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/699c4518e0bddb6acacb3bee?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Feb 25 |
+| **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[Quality Billing Internship](https://jobright.ai/jobs/info/699f1b50ce78e77b4fe4e51d?utm_campaign=1079&utm_source=git)** | Windsor, CT, United States | Hybrid | Feb 25 |
+| **[WM](https://www.wm.com/)** | **[Quality Billing Internship](https://jobright.ai/jobs/info/699f1b3281476f6176b8b7dc?utm_campaign=1079&utm_source=git)** | 1 GRIFFIN RD N FL 4, WINDSOR, CT, 06095, US | Hybrid | Feb 25 |
+| **[GenPark](https://genpark.ai)** | **[Front end stack engineer](https://jobright.ai/jobs/info/699f1b2c81476f6176b8b7db?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 25 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[System App Dev & Sustainment Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699f1a7bce78e77b4fe4e46e?utm_campaign=1079&utm_source=git)** | Orlando, FL, USA | On Site | Feb 25 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/66ca0a763673251f8b24f33d?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Feb 25 |
+| **[Ripple](http://ripple.com)** | **[Software Engineer Intern, RippleX DGE (Summer 2026)](https://jobright.ai/jobs/info/6966a8ff5ad3a93f8231f8f4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Feb 25 |
+| **[Kraft & Kennedy, Inc.](http://kraftkennedy.com)** | **[Intern](https://jobright.ai/jobs/info/698b815506d9b0622495a0aa?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 25 |
 | **[Teledyne Brown Engineering](http://www.tbe.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/699f080f94ef206f184e1aa2?utm_campaign=1079&utm_source=git)** | Arizona, United States | On Site | Feb 25 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/699f080081476f6176b88d11?utm_campaign=1079&utm_source=git)** | Florida, United States | On Site | Feb 25 |
 | **[MGIC](https://www.mgic.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/698270a7348f733a5c354b3c?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Feb 25 |
@@ -64,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Motion](https://www.motion.com)** | **[Web Developer Intern](https://jobright.ai/jobs/info/698452ee348f733a5c384ef4?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Feb 25 |
 | **[Nokia](http://www.nokia.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/692e73d2fa28370be26a4b26?utm_campaign=1079&utm_source=git)** | New Providence, NJ | Hybrid | Feb 25 |
 | **[BW Converting](http://www.bwconverting.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/699ef850ce78e77b4fe4ad9a?utm_campaign=1079&utm_source=git)** | Green Bay, WI | On Site | Feb 25 |
+| **[Teledyne Brown Engineering](http://www.tbe.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/699f1a35ce78e77b4fe4e443?utm_campaign=1079&utm_source=git)** | Alabama, United States | On Site | Feb 25 |
 | **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69832f470f6f7e7a2cdc9bd7?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Feb 25 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/698abccac5761b521a9a171e?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Feb 25 |
 | ↳ | **[Multimedia Engineering Internship – Summer 2026](https://jobright.ai/jobs/info/699eebb2ce78e77b4fe4914d?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 25 |
@@ -143,18 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Healthfirst](https://healthfirst.org)** | **[General Ledger Intern-2026 Summer Internship](https://jobright.ai/jobs/info/699e6aa5e0bddb6acacdf576?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | **[Multiply Labs](https://www.multiplylabs.com/)** | **[Software Intern](https://jobright.ai/jobs/info/699eb5c1e0bddb6acacea88a?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Feb 24 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026  Associate Engineer Internship](https://jobright.ai/jobs/info/699824aace78e77b4fdccc02?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 24 |
-| **[Staples](http://www.staples.com)** | **[Enterprise Quality Engineering  Intern - June 2026](https://jobright.ai/jobs/info/699e5b2ee0bddb6acacdd634?utm_campaign=1079&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Feb 24 |
-| ↳ | **[Enterprise Tools Engineering Intern - June 2026](https://jobright.ai/jobs/info/699e41fe81476f6176b72a9c?utm_campaign=1079&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Feb 24 |
-| **[MHI RJ Aviation Group](https://www.mhirj.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/699ede2c94ef206f184de272?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 24 |
-| **[Viasat](http://www.viasat.com)** | **[Embedded Software Engineer Intern, Viasat Government](https://jobright.ai/jobs/info/699e326fe0bddb6acacd8bb4?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | On Site | Feb 24 |
-| **[Flatiron School](http://flatironschool.com)** | **[New Grad Software Developer Apprenticeship](https://jobright.ai/jobs/info/699e3a4cce78e77b4fe34e56?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 24 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Software Developer](https://jobright.ai/jobs/info/699e293581476f6176b70984?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Feb 24 |
-| ↳ | **[SAP iXp Intern - Associate Developer](https://jobright.ai/jobs/info/699e3e8bce78e77b4fe355f2?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | On Site | Feb 24 |
-| **[The Washington Post](http://www.washingtonpost.com/)** | **[Summer Intern, Site Engineering](https://jobright.ai/jobs/info/699e4261e0bddb6acacda581?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Feb 24 |
-| **[Flatiron School](http://flatironschool.com)** | **[New Grad Software Engineer Apprentice Program - Bletchley Fellowship](https://jobright.ai/jobs/info/699e2779ce78e77b4fe33986?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 24 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Software Developer Intern - Summer](https://jobright.ai/jobs/info/699e4201ce78e77b4fe35b54?utm_campaign=1079&utm_source=git)** | Westford-Massachusetts-United States of America | Hybrid | Feb 24 |
-| **[Staples](http://www.staples.com)** | **[Enterprise Tools Engineering Intern - June 2026](https://jobright.ai/jobs/info/699e6cecce78e77b4fe3ac88?utm_campaign=1079&utm_source=git)** | Framingham, MA, United States | On Site | Feb 24 |
-| **[Staples Canada](http://www.staples.ca)** | **[Enterprise Tools Engineering Intern - June 2026](https://jobright.ai/jobs/info/699e3f31e0bddb6acacd9ea5?utm_campaign=1079&utm_source=git)** | Framingham, MA, United States | On Site | Feb 24 |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Engineer Intern](https://jobright.ai/jobs/info/699edfface78e77b4fe48612?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Feb 24 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Performance Engineering Intern, Deep Learning and HPC -  Summer 2026](https://jobright.ai/jobs/info/699e3f0c81476f6176b72594?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Feb 24 |
+| **[Staples](http://www.staples.com)** | **[Enterprise Tools Engineering Intern - June 2026](https://jobright.ai/jobs/info/699e41fe81476f6176b72a9c?utm_campaign=1079&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
