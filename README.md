@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Grid](https://www.nationalgrid.com)** | **[Summer 2026 Intern Program: US Electric Software Engineering](https://jobright.ai/jobs/info/69a0116481476f6176ba1207?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Feb 26 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Enterprise Solutions Intern](https://jobright.ai/jobs/info/699feef253d97f23ee65822c?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD | On Site | Feb 25 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Software Engineer (AI Transformation, Java, Cloud Platforms)](https://jobright.ai/jobs/info/69a00261ce78e77b4fe62263?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 25 |
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69371379a0dde7020e2fed0a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Calyxo, Inc.](https://calyxoinc.com)** | **[Software Engineering Intern - Pleasanton, CA](https://jobright.ai/jobs/info/699f57ad94ef206f184e7eea?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Feb 25 |
 | **[REDspace](https://www.redspace.com/?)** | **[Software Developer (Intern)](https://jobright.ai/jobs/info/699f7b9323374b3b6e6b4c72?utm_campaign=1079&utm_source=git)** | Bedford, Quebec, Canada | On Site | Feb 25 |
 | **[Nokia](http://www.nokia.com)** | **[Cognitive Digital Mine Intern](https://jobright.ai/jobs/info/699f72e123374b3b6e6b4705?utm_campaign=1079&utm_source=git)** | New Providence, NJ | Hybrid | Feb 25 |
-| **[Brivo](http://www.brivo.com/)** | **[Engineering Intern - Media and Events](https://jobright.ai/jobs/info/699fc4d781476f6176b97f53?utm_campaign=1079&utm_source=git)** | Austin, CO | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
