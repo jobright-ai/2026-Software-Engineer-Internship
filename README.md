@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[Enterprise Solutions Intern](https://jobright.ai/jobs/info/699feef253d97f23ee65822c?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD | On Site | Feb 25 |
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69371379a0dde7020e2fed0a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 25 |
+| **[Dal-Tile LLC](http://dal-tile.com)** | **[RESEARCH AND DEVELOPMENT INTERN](https://jobright.ai/jobs/info/699ff1c781476f6176b9d118?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 25 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Firmware and Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69965fa681476f6176ae2fb1?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Feb 25 |
+| **[Ampere](http://amperecomputing.com)** | **[Technical Intern, Compiler Software](https://jobright.ai/jobs/info/699fef6c53d97f23ee6582d1?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Feb 25 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[RESEARCH AND DEVELOPMENT INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/699fb943d643757b0e453f42?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 25 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/699fb91381476f6176b971fe?utm_campaign=1079&utm_source=git)** | Champaign, IL | On Site | Feb 25 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Software Engineering Intern Summer 2026](https://jobright.ai/jobs/info/699fe0e381476f6176b99edd?utm_campaign=1079&utm_source=git)** | Warrendale, PA | Hybrid | Feb 25 |
@@ -103,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/699f6d7081476f6176b90370?utm_campaign=1079&utm_source=git)** | Morrisville, NC | Hybrid | Feb 25 |
 | **[Brivo](http://www.brivo.com/)** | **[Engineering Intern - Bridge and Device](https://jobright.ai/jobs/info/699f6c95ce78e77b4fe53022?utm_campaign=1079&utm_source=git)** | Austin, CO | On Site | Feb 25 |
 | **[Impinj](http://www.impinj.com)** | **[Software Design in Test Engineering Intern](https://jobright.ai/jobs/info/699f6c1d23374b3b6e6b42f6?utm_campaign=1079&utm_source=git)** | Seattle, Washington, United States | Hybrid | Feb 25 |
+| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/699ff1aece78e77b4fe5f53c?utm_campaign=1079&utm_source=git)** | Albany, NY | Hybrid | Feb 25 |
 | **[Masimo](http://www.masimo.com)** | **[2026 Summer Intern - Instrument Software Engineering](https://jobright.ai/jobs/info/699f6a49ce78e77b4fe52e8c?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Feb 25 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/699f6a0bce78e77b4fe52e5f?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Feb 25 |
 | **[VWH Capital Management, LP](https://www.vwhcapital.com/)** | **[Software Engineer](https://jobright.ai/jobs/info/699f898ace78e77b4fe5572b?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Calyxo, Inc.](https://calyxoinc.com)** | **[Software Engineering Intern - Pleasanton, CA](https://jobright.ai/jobs/info/699f4a7981476f6176b8eadd?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Feb 25 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/699fdb7353d97f23ee656077?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | **[RTX](http://www.raytheon.com)** | **[Software Engineering Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/699f9939ce78e77b4fe57926?utm_campaign=1079&utm_source=git)** | US-VA-DULLES-760 ~ 22260 Pacific Blvd ~ BLDG 60 | On Site | Feb 25 |
-| **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Online Portals & Next Gen Platforms (OPNG) Summer Intern](https://jobright.ai/jobs/info/6982797a0a9e07331f8d8d5d?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Feb 25 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Post-Undergraduate/Graduate (Summer) Software Engineering Intern for Grid Modeling Applications](https://jobright.ai/jobs/info/698274e40a9e07331f8d83fc?utm_campaign=1079&utm_source=git)** | Golden, CO | On Site | Feb 25 |
-| **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Full Stack Software Engineer](https://jobright.ai/jobs/info/699f81be81476f6176b91c79?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Feb 25 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Analytics - LIC](https://jobright.ai/jobs/info/6982c53f8232105a2d0b23b2?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
