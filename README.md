@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delinea](https://delinea.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/694b08b13019f50a4fe60f41?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Feb 26 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Software Engineer Intern Fall 2026](https://jobright.ai/jobs/info/69a07ba781476f6176babb72?utm_campaign=1079&utm_source=git)** | Wichita, KS | On Site | Feb 26 |
+| **[Ericsson](https://www.ericsson.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69a07ad60836fe79d8617574?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 26 |
+| **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a07abd81476f6176baba1f?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Feb 26 |
+| **[Swift](http://www.swift.com)** | **[API Platform Intern- Hybrid](https://jobright.ai/jobs/info/69940b5481476f6176abbfb1?utm_campaign=1079&utm_source=git)** | Tysons Corner, VA | Hybrid | Feb 26 |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Associate Software Engineer Intern](https://jobright.ai/jobs/info/6983f06f348f733a5c378fd6?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Feb 26 |
+| **[ABB](https://global.abb/group/en)** | **[Cloud and Edge Solutions Intern- Summer 2026](https://jobright.ai/jobs/info/6993ea53e0bddb6acac231d1?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 26 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Data Center Infrastructure Engineer Intern](https://jobright.ai/jobs/info/696896bd639b452fb57e5594?utm_campaign=1079&utm_source=git)** | New Carlisle, IN | On Site | Feb 26 |
+| **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Quality Engineering Internship](https://jobright.ai/jobs/info/68fffb720ab3b222462b0ce0?utm_campaign=1079&utm_source=git)** | East Lansing, MI | On Site | Feb 26 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Web Development Intern](https://jobright.ai/jobs/info/69a06dea5218a81676718ef5?utm_campaign=1079&utm_source=git)** | Fort Washington, PA | On Site | Feb 26 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd5be6e23def7af55b8a86?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 26 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Data Center Infrastructure Engineer Intern](https://jobright.ai/jobs/info/696890f5639b452fb57e4ba8?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 26 |
@@ -82,7 +91,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[iOS Intern](https://jobright.ai/jobs/info/6920f2fd3f782d2f1afcd551?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Feb 26 |
 | ↳ | **[Backend Engineer Intern](https://jobright.ai/jobs/info/6920d3883f782d2f1afcbe69?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 26 |
 | ↳ | **[Cloud Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6920e52a3f782d2f1afcc93f?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 26 |
-| **[Talentix](https://thetalentix.com/)** | **[Backend Engineer - Unpaid - Internship](https://jobright.ai/jobs/info/69a03bba5218a81676714a04?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 26 |
 | **[VSP Ventures](https://vspventures.com)** | **[Internship, Software Engineer - Ventures](https://jobright.ai/jobs/info/6984436e8da7a612045e5ed0?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 26 |
 | **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Software Test Engineer (Summer 2026)](https://jobright.ai/jobs/info/6967c300f25a38006696130a?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[Tinder](http://www.tinder.com)** | **[Backend Engineer Intern](https://jobright.ai/jobs/info/6920df1600c9ee50eaec8f95?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Feb 26 |
@@ -113,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69371379a0dde7020e2fed0a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 25 |
 | **[Emerson](http://www.emerson.com)** | **[Applications Engineer Intern](https://jobright.ai/jobs/info/69a00ab9ce78e77b4fe63047?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 25 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[RESEARCH AND DEVELOPMENT INTERN](https://jobright.ai/jobs/info/699ff1c781476f6176b9d118?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 25 |
-| **[Seagate Technology](http://www.seagate.com)** | **[Firmware and Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69965fa681476f6176ae2fb1?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Feb 25 |
 | **[GoTo Foods](http://www.focusbrands.com/)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/699ffd4d81476f6176b9f606?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Feb 25 |
 | **[Ampere](http://amperecomputing.com)** | **[Technical Intern, Compiler Software](https://jobright.ai/jobs/info/699fef6c53d97f23ee6582d1?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Feb 25 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[RESEARCH AND DEVELOPMENT INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/699fb943d643757b0e453f42?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 25 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OTG Management](http://www.otgexp.com/)** | **[Software Intern](https://jobright.ai/jobs/info/699f8903ce78e77b4fe55607?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Feb 25 |
 | **[HID](http://www.hidglobal.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/699f88b723374b3b6e6b569b?utm_campaign=1079&utm_source=git)** | Cypress, CA | On Site | Feb 25 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Enterprise Architecture Intern - MD & DC (Hybrid)](https://jobright.ai/jobs/info/699fad6281476f6176b96697?utm_campaign=1079&utm_source=git)** | Baltimore, MD | Hybrid | Feb 25 |
-| **[Professional Case Management](https://procasemanagement.com/)** | **[Application Development Intern](https://jobright.ai/jobs/info/699faddad643757b0e452d86?utm_campaign=1079&utm_source=git)** | US - Remote | Remote | Feb 25 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/699f7f57ce78e77b4fe541cf?utm_campaign=1079&utm_source=git)** | Frankfort, KY | On Site | Feb 25 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026: Reception and Integration Quality Assurance Intern (Unpaid)](https://jobright.ai/jobs/info/699fa1f3d643757b0e451330?utm_campaign=1079&utm_source=git)** | San Diego, CA USA | On Site | Feb 25 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/699f7e7323374b3b6e6b4e8b?utm_campaign=1079&utm_source=git)** | Virginia, United States | Remote | Feb 25 |
-| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Cloud Engineer - Customer Success Services](https://jobright.ai/jobs/info/69a029830836fe79d860f683?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Feb 25 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/699f790281476f6176b90aa5?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Feb 25 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/699f78e123374b3b6e6b4a6a?utm_campaign=1079&utm_source=git)** | Jackson, MS | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
