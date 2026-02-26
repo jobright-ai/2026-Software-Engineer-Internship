@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Web Development Intern](https://jobright.ai/jobs/info/69a06dea5218a81676718ef5?utm_campaign=1079&utm_source=git)** | Fort Washington, PA | On Site | Feb 26 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd5be6e23def7af55b8a86?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 26 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Data Center Infrastructure Engineer Intern](https://jobright.ai/jobs/info/696890f5639b452fb57e4ba8?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 26 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/695a125f9f1b381eb272b55b?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Feb 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Cloud Engineer - Customer Success Services](https://jobright.ai/jobs/info/69a029830836fe79d860f683?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Feb 25 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/699f790281476f6176b90aa5?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | Feb 25 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/699f78e123374b3b6e6b4a6a?utm_campaign=1079&utm_source=git)** | Jackson, MS | On Site | Feb 25 |
-| **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/699f782f81476f6176b909ff?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
