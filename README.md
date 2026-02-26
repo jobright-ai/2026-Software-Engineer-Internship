@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zoom](https://www.zoom.com)** | **[Software Developer Engineer - Intern](https://jobright.ai/jobs/info/69a0a5930836fe79d861a7bf?utm_campaign=1079&utm_source=git)** | San Jose (CA) | Hybrid | Feb 26 |
+| **[BIS Safety Software](https://bissafety.ca/)** | **[Software Tester (QA/QC) Internship](https://jobright.ai/jobs/info/69a0a3860836fe79d861a5c5?utm_campaign=1079&utm_source=git)** | Sherwood Park, Alberta | On Site | Feb 26 |
 | **[eClinicalWorks](http://www.eclinicalworks.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/69a09c1481476f6176baed0d?utm_campaign=1079&utm_source=git)** | Westborough, MA | Remote | Feb 26 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Reliability of Cloud and AI Systems](https://jobright.ai/jobs/info/692f6384ef4b48533d144d05?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Feb 26 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/6984e3830f6f7e7a2cdf5fd7?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 26 |
@@ -67,8 +69,10 @@ For a complete list, click the following sortable link below:
 | **[MechNova](mechnova.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69a090395218a8167671bd46?utm_campaign=1079&utm_source=git)** | Oak Brook, IL | On Site | Feb 26 |
 | **[Ericsson](https://www.ericsson.com)** | **[Integration Professional Intern](https://jobright.ai/jobs/info/69a090330836fe79d86192e7?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 26 |
 | **[LivaNova](http://www.livanova.com)** | **[Software Intern](https://jobright.ai/jobs/info/69a08a1881476f6176bacfa9?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Feb 26 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Software Engineer Internship (Fort Wayne, IN) 1](https://jobright.ai/jobs/info/69a0a6875218a8167671d33f?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | On Site | Feb 26 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Data Center Infrastructure Engineer Intern](https://jobright.ai/jobs/info/696882af1703f05405aa4147?utm_campaign=1079&utm_source=git)** | Canton, MS | On Site | Feb 26 |
-| ↳ | **[Data Center Infrastructure Engineer Intern](https://jobright.ai/jobs/info/69688426639b452fb57e3679?utm_campaign=1079&utm_source=git)** | Lithia Springs, GA | On Site | Feb 26 |
+| **[Analog Devices](http://www.analog.com)** | **[Algorithm Development Intern](https://jobright.ai/jobs/info/6983dd5b01214b4cdacbff08?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 26 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Data Center Infrastructure Engineer Intern](https://jobright.ai/jobs/info/69688426639b452fb57e3679?utm_campaign=1079&utm_source=git)** | Lithia Springs, GA | On Site | Feb 26 |
 | ↳ | **[Data Center Infrastructure Engineer Intern](https://jobright.ai/jobs/info/696882ec1703f05405aa41a2?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Feb 26 |
 | **[Delinea](https://delinea.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/694b08b13019f50a4fe60f41?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Feb 26 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Software Engineer Intern Fall 2026](https://jobright.ai/jobs/info/69a07ba781476f6176babb72?utm_campaign=1079&utm_source=git)** | Wichita, KS | On Site | Feb 26 |
@@ -82,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[LivaNova](http://www.livanova.com)** | **[Software Intern](https://jobright.ai/jobs/info/69a08f4f0836fe79d8619100?utm_campaign=1079&utm_source=git)** | US_Houston_100 Cyberonics Blvd | On Site | Feb 26 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Quality Engineering Internship](https://jobright.ai/jobs/info/68fffb720ab3b222462b0ce0?utm_campaign=1079&utm_source=git)** | East Lansing, MI | On Site | Feb 26 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Web Development Intern](https://jobright.ai/jobs/info/69a06dea5218a81676718ef5?utm_campaign=1079&utm_source=git)** | Fort Washington, PA | On Site | Feb 26 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Data Center Infrastructure Engineer Intern](https://jobright.ai/jobs/info/696880ab639b452fb57e31c5?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Feb 26 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd5be6e23def7af55b8a86?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 26 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Data Center Infrastructure Engineer Intern](https://jobright.ai/jobs/info/696890f5639b452fb57e4ba8?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 26 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/695a125f9f1b381eb272b55b?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Feb 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Software Developer Internship Summer 2027](https://jobright.ai/jobs/info/699874f0e0bddb6acac76fd4?utm_campaign=1079&utm_source=git)** | Niskayuna, NY | On Site | Feb 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026: Reception and Integration Quality Assurance Intern (Unpaid)](https://jobright.ai/jobs/info/69a0044a53d97f23ee65a7d8?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Engineering Process & Agile](https://jobright.ai/jobs/info/699ffb5c81476f6176b9f17c?utm_campaign=1079&utm_source=git)** | Plano, TX, US, 75024 | On Site | Feb 25 |
-| **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/699f9d4ece78e77b4fe581b2?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Feb 25 |
-| **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[Software Engineering Intern – Internal Lab Asset Tracking Tool](https://jobright.ai/jobs/info/699cf783ce78e77b4fe1b470?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 25 |
-| **[GE Aerospace](https://www.geaerospace.com)** | **[GE Aerospace US Software as a Service Intern - Summer 2026](https://jobright.ai/jobs/info/699ffb6a81476f6176b9f1bc?utm_campaign=1079&utm_source=git)** | Hamilton, OH | On Site | Feb 25 |
-| **[COLSA](http://www.colsa.com)** | **[CSF/Software Engineering Intern (Undergrad-Summer 2026)](https://jobright.ai/jobs/info/699fc3cace78e77b4fe5a8e7?utm_campaign=1079&utm_source=git)** | Alabama, United States | On Site | Feb 25 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[Software Engineer (Intern) Patient Cloud](https://jobright.ai/jobs/info/699f996823374b3b6e6b702b?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
