@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - IT Quality Assurance](https://jobright.ai/jobs/info/69a0f96f81476f6176bb5434?utm_campaign=1079&utm_source=git)** | ASC - East Petersburg | Hybrid | Feb 26 |
+| **[STERIS](http://steris.com)** | **[Oracle Intern](https://jobright.ai/jobs/info/69a0f8f881476f6176bb53e2?utm_campaign=1079&utm_source=git)** | Mentor, OH | Hybrid | Feb 26 |
 | **[Zoom](https://www.zoom.com)** | **[Software Developer Engineer - Intern](https://jobright.ai/jobs/info/69a0d7275218a81676720401?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 26 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[IT Internship - Nuclear Data Products - Summer 2026](https://jobright.ai/jobs/info/69a0d3ae81476f6176bb1fb1?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Feb 26 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Summer 2026 - IT Development Application & Operational Support - Student Internship](https://jobright.ai/jobs/info/698a21ab47434001cc685da6?utm_campaign=1079&utm_source=git)** | Lutz, FL | On Site | Feb 26 |
@@ -80,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Flatiron School](http://flatironschool.com)** | **[Software Engineering Apprentice – Emerging Talent Program](https://jobright.ai/jobs/info/69a0daf20836fe79d861df40?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 26 |
 | ↳ | **[Computer Science Grad - Software Engineer Apprenticeship](https://jobright.ai/jobs/info/69a0e03b5218a81676721269?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 26 |
 | **[STERIS](http://steris.com)** | **[PLM Application Intern](https://jobright.ai/jobs/info/69a0d1a10836fe79d861d0fe?utm_campaign=1079&utm_source=git)** | Mentor, OH, US, 44060 | Hybrid | Feb 26 |
-| ↳ | **[Intern Software Engineering](https://jobright.ai/jobs/info/69a0dc9a0836fe79d861e1e7?utm_campaign=1079&utm_source=git)** | Quebec, QC, CA, G2C0H8 | Hybrid | Feb 26 |
 | ↳ | **[Oracle Intern](https://jobright.ai/jobs/info/69a0d9b881476f6176bb28c8?utm_campaign=1079&utm_source=git)** | Mentor, OH, US, 44060 | Hybrid | Feb 26 |
+| ↳ | **[Intern Software Engineering](https://jobright.ai/jobs/info/69a0dc9a0836fe79d861e1e7?utm_campaign=1079&utm_source=git)** | Quebec, QC, CA, G2C0H8 | Hybrid | Feb 26 |
 | **[G2](https://www.g2.com)** | **[Software Engineer Summer Intern](https://jobright.ai/jobs/info/69a0d72081476f6176bb2487?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 26 |
 | **[Staples](http://www.staples.com)** | **[Software Engineering Intern (Supply Chain) - June 2026](https://jobright.ai/jobs/info/69a0ea3581476f6176bb4503?utm_campaign=1079&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Feb 26 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[PhD Intern-Computational Science](https://jobright.ai/jobs/info/69a0e65e0836fe79d861f259?utm_campaign=1079&utm_source=git)** | Richland, WA | On Site | Feb 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Technology](https://jobright.ai/jobs/info/6968038f1703f05405a9a1cf?utm_campaign=1079&utm_source=git)** | Omaha, NE | Hybrid | Feb 26 |
 | **[ATI](https://www.atimaterials.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db0c2ae9b48513789b172a?utm_campaign=1079&utm_source=git)** | Latrobe, PA | On Site | Feb 26 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6966b3f7a112b4026614a980?utm_campaign=1079&utm_source=git)** | State College, PA | On Site | Feb 26 |
-| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Sr. Research Assistant, Information Technology Solutions Center, School of Information Technology](https://jobright.ai/jobs/info/69a064b25218a81676717e79?utm_campaign=1079&utm_source=git)** | Campus, IL | On Site | Feb 26 |
-| **[Draper](https://www.draper.com)** | **[Software Modeling, Analysis, & Validation Intern](https://jobright.ai/jobs/info/698d57d80f6f7e7a2ce93682?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
