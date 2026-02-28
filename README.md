@@ -57,10 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a29a650da45516f16bf229?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Feb 27 |
+| **[GlobalFoundries](https://gf.com/)** | **[System-on-Chip Design Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69a296690da45516f16beb3f?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Feb 27 |
 | **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/6986ce698da7a6120461cacc?utm_campaign=1079&utm_source=git)** | Bartlesville, OK | Hybrid | Feb 27 |
-| **[Fini](https://www.usefini.com)** | **[Frontend Developer Intern](https://jobright.ai/jobs/info/69a283670da45516f16bd591?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 27 |
-| **[GenPark](https://genpark.ai)** | **[Full Stack Developer](https://jobright.ai/jobs/info/69a28342b600907a9628dac1?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 27 |
-| **[Diginetics](https://diginetics.co)** | **[Software Engineering Intern (Unpaid)](https://jobright.ai/jobs/info/69a27c6c0da45516f16bccbd?utm_campaign=1079&utm_source=git)** | Tampa, FL | Remote | Feb 27 |
 | **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Backend Engineering Internship - Typescript/Nest.js, Postgres, Docker, Microservices, AI/ML (USA Only)](https://jobright.ai/jobs/info/69a279f90da45516f16bcab5?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Feb 27 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[R&D Firmware Engineer Intern](https://jobright.ai/jobs/info/69a276acb600907a9628cbc0?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Feb 27 |
 | **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Web Production](https://jobright.ai/jobs/info/69a2762f359fe034b1cdbbd4?utm_campaign=1079&utm_source=git)** | Washington, DC | Remote | Feb 27 |
@@ -70,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[KLA](https://www.kla.com)** | **[Software Intern](https://jobright.ai/jobs/info/69a26d10359fe034b1cdae43?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Feb 27 |
 | **[Alstom](https://www.alstom.com/)** | **[Digital Services Engineering Intern](https://jobright.ai/jobs/info/69a2529bb600907a96289b7d?utm_campaign=1079&utm_source=git)** | Saint-Bruno, Quebec, Canada | On Site | Feb 27 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Summer Intern - Information Technology (9503)](https://jobright.ai/jobs/info/69a2626e359fe034b1cd9e9c?utm_campaign=1079&utm_source=git)** | Brooksville, FL | On Site | Feb 27 |
-| **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a25da20da45516f16ba224?utm_campaign=1079&utm_source=git)** | Durham, CA | Hybrid | Feb 27 |
 | **[Laserfiche](http://www.laserfiche.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/691f10b709cc522e8773d41c?utm_campaign=1079&utm_source=git)** | Long Beach, CA | Hybrid | Feb 27 |
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Application Developer Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/69a25810b600907a9628a059?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Feb 27 |
 | **[Park My Ride, LLC](http://parkmyride.io)** | **[Backend Developer - Internship (USA ONLY)](https://jobright.ai/jobs/info/69a275e10da45516f16bc411?utm_campaign=1079&utm_source=git)** | SD Metro Area | Remote | Feb 27 |
@@ -84,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Union Bank & Trust](http://www.ubt.com)** | **[Applications Developer Intern](https://jobright.ai/jobs/info/69a26050359fe034b1cd9b68?utm_campaign=1079&utm_source=git)** | Lincoln, NE 68506, USA | Hybrid | Feb 27 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Summer Intern - Information Technology  (9503)](https://jobright.ai/jobs/info/69a2651cb600907a9628b0d0?utm_campaign=1079&utm_source=git)** | Brooksville, Florida, United States | On Site | Feb 27 |
 | **[3xLOGIC](https://www.3xlogic.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69a27387359fe034b1cdb7af?utm_campaign=1079&utm_source=git)** | Uniontown, OH, US | On Site | Feb 27 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern – Software Engineering, VR Domain](https://jobright.ai/jobs/info/69a25b71359fe034b1cd94d3?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 27 |
-| ↳ | **[Summer Intern - Software Engineer](https://jobright.ai/jobs/info/69a278920da45516f16bc95c?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 27 |
+| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Software Engineer](https://jobright.ai/jobs/info/69a278920da45516f16bc95c?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 27 |
+| ↳ | **[Summer Intern – Software Engineering, VR Domain](https://jobright.ai/jobs/info/69a25b71359fe034b1cd94d3?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 27 |
 | **[HERE Technologies](https://www.here.com)** | **[Engineer Intern 3D Graphics](https://jobright.ai/jobs/info/69a272e0359fe034b1cdb62a?utm_campaign=1079&utm_source=git)** | United States Home Office, UNAVAILABLE, US | Remote | Feb 27 |
 | ↳ | **[Engineer Intern 3D Graphics](https://jobright.ai/jobs/info/69a25c08b600907a9628a3dd?utm_campaign=1079&utm_source=git)** | US-United States Home Office | Remote | Feb 27 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Full Stack Developer Intern - i-0062](https://jobright.ai/jobs/info/69a256cb0da45516f16b9a85?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Feb 27 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Rambus](http://www.rambus.com/us)** | **[Intern](https://jobright.ai/jobs/info/69a20f3ab600907a96285ce5?utm_campaign=1079&utm_source=git)** | US-CA-San Jose | Hybrid | Feb 27 |
 | **[Strategic Education, Inc](https://www.strategiceducation.com/home/default.aspx)** | **[Sophia Engineering Intern](https://jobright.ai/jobs/info/69a1d722359fe034b1cd2152?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Feb 27 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WCVB Chronicle & Engineering Intern](https://jobright.ai/jobs/info/69a1d647b600907a96282f43?utm_campaign=1079&utm_source=git)** | Needham, MA, United States | On Site | Feb 27 |
+| **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[Internship, IT Systems Development](https://jobright.ai/jobs/info/69a1d630b600907a96282f3a?utm_campaign=1079&utm_source=git)** | Windsor, CT, United States | On Site | Feb 27 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Web Applications/Communications Intern (Year-Round)](https://jobright.ai/jobs/info/696922cf1703f05405aafdff?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
