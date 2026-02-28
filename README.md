@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Firmware Engineering intern](https://jobright.ai/jobs/info/69a2a0e80da45516f16bfb4d?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
+| **[Veras](https://veras.com)** | **[Jr/Intern Software Engineer](https://jobright.ai/jobs/info/69a29d990da45516f16bf65d?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Feb 27 |
 | **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a29a650da45516f16bf229?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Feb 27 |
 | **[GlobalFoundries](https://gf.com/)** | **[System-on-Chip Design Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69a296690da45516f16beb3f?utm_campaign=1079&utm_source=git)** | Richardson, TX | On Site | Feb 27 |
 | **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/6986ce698da7a6120461cacc?utm_campaign=1079&utm_source=git)** | Bartlesville, OK | Hybrid | Feb 27 |
@@ -84,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[3xLOGIC](https://www.3xlogic.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69a27387359fe034b1cdb7af?utm_campaign=1079&utm_source=git)** | Uniontown, OH, US | On Site | Feb 27 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Software Engineer](https://jobright.ai/jobs/info/69a278920da45516f16bc95c?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 27 |
 | ↳ | **[Summer Intern – Software Engineering, VR Domain](https://jobright.ai/jobs/info/69a25b71359fe034b1cd94d3?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 27 |
-| **[HERE Technologies](https://www.here.com)** | **[Engineer Intern 3D Graphics](https://jobright.ai/jobs/info/69a272e0359fe034b1cdb62a?utm_campaign=1079&utm_source=git)** | United States Home Office, UNAVAILABLE, US | Remote | Feb 27 |
-| ↳ | **[Engineer Intern 3D Graphics](https://jobright.ai/jobs/info/69a25c08b600907a9628a3dd?utm_campaign=1079&utm_source=git)** | US-United States Home Office | Remote | Feb 27 |
+| **[HERE Technologies](https://www.here.com)** | **[Engineer Intern 3D Graphics](https://jobright.ai/jobs/info/69a25c08b600907a9628a3dd?utm_campaign=1079&utm_source=git)** | US-United States Home Office | Remote | Feb 27 |
+| ↳ | **[Engineer Intern 3D Graphics](https://jobright.ai/jobs/info/69a272e0359fe034b1cdb62a?utm_campaign=1079&utm_source=git)** | United States Home Office, UNAVAILABLE, US | Remote | Feb 27 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Full Stack Developer Intern - i-0062](https://jobright.ai/jobs/info/69a256cb0da45516f16b9a85?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Feb 27 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - IT Application Development](https://jobright.ai/jobs/info/697ef68bce48107c054316c5?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 27 |
 | **[Vixxo Facility Solutions](http://www.vixxo.com/)** | **[IT Intern - Summer 2026 Internship Program](https://jobright.ai/jobs/info/69a22f1b0da45516f16b7783?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Feb 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rambus](http://www.rambus.com/us)** | **[Intern](https://jobright.ai/jobs/info/69a20f3ab600907a96285ce5?utm_campaign=1079&utm_source=git)** | US-CA-San Jose | Hybrid | Feb 27 |
 | **[Strategic Education, Inc](https://www.strategiceducation.com/home/default.aspx)** | **[Sophia Engineering Intern](https://jobright.ai/jobs/info/69a1d722359fe034b1cd2152?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Feb 27 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WCVB Chronicle & Engineering Intern](https://jobright.ai/jobs/info/69a1d647b600907a96282f43?utm_campaign=1079&utm_source=git)** | Needham, MA, United States | On Site | Feb 27 |
-| **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[Internship, IT Systems Development](https://jobright.ai/jobs/info/69a1d630b600907a96282f3a?utm_campaign=1079&utm_source=git)** | Windsor, CT, United States | On Site | Feb 27 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Web Applications/Communications Intern (Year-Round)](https://jobright.ai/jobs/info/696922cf1703f05405aafdff?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
