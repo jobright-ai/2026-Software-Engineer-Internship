@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Home Loan Bank of Pittsburgh](http://www.fhlb-pgh.com)** | **[IT Technology Solutions Intern](https://jobright.ai/jobs/info/698d1844f64d441a164f00df?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 27 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Memory and Personalization (Summer)](https://jobright.ai/jobs/info/69a243c7b600907a96288e83?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Feb 27 |
 | **[BITCO Insurance Companies](http://www.bitco.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/69a241b1359fe034b1cd7d9b?utm_campaign=1079&utm_source=git)** | Davenport, IA | On Site | Feb 27 |
 | **[Laserfiche](http://www.laserfiche.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/691f10b709cc522e8773d41c?utm_campaign=1079&utm_source=git)** | Long Beach, CA | Hybrid | Feb 27 |
@@ -66,13 +67,15 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69a2438f359fe034b1cd7f6e?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 27 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Intern (LCS, Summer 2026)](https://jobright.ai/jobs/info/69a22351359fe034b1cd60b7?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Feb 27 |
 | **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Technology Internship - Summer 2026](https://jobright.ai/jobs/info/69a22327b600907a96286fa1?utm_campaign=1079&utm_source=git)** | Miami, FL | On Site | Feb 27 |
+| **[Thales Cybersecurity Products](https://cpl.thalesgroup.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/69a24b4f0da45516f16b9159?utm_campaign=1079&utm_source=git)** | Pennsylvania | Remote | Feb 27 |
 | **[Dematic](http://www.dematic.com)** | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69a21c79b600907a962868e9?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
 | **[Thales](http://www.thalesgroup.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69a236c9b600907a962882b8?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | Remote | Feb 27 |
+| **[KION Group](http://www.kiongroup.com/)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/69a24a430da45516f16b907c?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Feb 27 |
 | **[State Street](https://www.statestreet.com/)** | **[Application Developer, Fulltime Internship (July - Dec 2026)](https://jobright.ai/jobs/info/69a23858b600907a96288418?utm_campaign=1079&utm_source=git)** | Quincy, Massachusetts | On Site | Feb 27 |
-| **[KION Group](http://www.kiongroup.com/)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/69a23b890da45516f16b8334?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Feb 27 |
 | **[Safety National](https://www.safetynational.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a23b80359fe034b1cd7786?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Feb 27 |
 | **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Software Engineering- Embedded Systems Intern](https://jobright.ai/jobs/info/69a21782b600907a962864dc?utm_campaign=1079&utm_source=git)** | Andover, MA | On Site | Feb 27 |
 | **[Dematic](http://www.dematic.com)** | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69a2169ab600907a96286401?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Feb 27 |
+| **[KLA](https://www.kla.com)** | **[Software Intern](https://jobright.ai/jobs/info/69a24c39b600907a96289642?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Feb 27 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[Secure IT Asset Lifecycle Management Intern](https://jobright.ai/jobs/info/69a214c50da45516f16b5e18?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Feb 27 |
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Intern](https://jobright.ai/jobs/info/6944e8ba94730b73987818e8?utm_campaign=1079&utm_source=git)** | Centennial, CO | On Site | Feb 27 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6997af3ee0bddb6acac66aaa?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
@@ -138,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[World Kinect](https://www.world-kinect.com/)** | **[Technology Internship - Summer 2026](https://jobright.ai/jobs/info/69a1cd4a359fe034b1cd1b54?utm_campaign=1079&utm_source=git)** | MIAMI, FL | On Site | Feb 27 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/69a1cd2db600907a96282a0a?utm_campaign=1079&utm_source=git)** | Highlands Ranch, Colorado, United States | On Site | Feb 27 |
 | **[BW Converting](http://www.bwconverting.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a1cc4c0da45516f16b24d4?utm_campaign=1079&utm_source=git)** | Green Bay, WI | On Site | Feb 27 |
-| **[Acorns](https://www.acorns.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/696a0ad91703f05405ac2609?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 27 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Software Developer Internship - Summer 2026](https://jobright.ai/jobs/info/69a1e741b600907a962839a9?utm_campaign=1079&utm_source=git)** | Highlands Ranch, CO | On Site | Feb 27 |
 | **[Whisker](https://www.litter-robot.com/)** | **[Web & CX Tools Development Intern (Summer 2026)](https://jobright.ai/jobs/info/6997e2dce0bddb6acac6bc1b?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Feb 27 |
 | **[RTX](http://www.raytheon.com)** | **[Software Engineer Summer Internship (Puerto Rico)](https://jobright.ai/jobs/info/69a1c4d00da45516f16b209b?utm_campaign=1079&utm_source=git)** | US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1 | On Site | Feb 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern: Software Engineer Intern - Onsite (AL)](https://jobright.ai/jobs/info/69a1b65e0da45516f16b1669?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Feb 27 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Data Center Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6968708d1703f05405aa28c3?utm_campaign=1079&utm_source=git)** | Hermiston, OR | On Site | Feb 27 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Software Developer Intern (Kansas City)](https://jobright.ai/jobs/info/699d3717e0bddb6acacc7153?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Feb 27 |
-| **[Leidos](https://www.leidos.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a1bc7f0da45516f16b1b94?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Feb 27 |
-| **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Amazon Leo, Summer 2026 (US)](https://jobright.ai/jobs/info/69a1b041359fe034b1cd0782?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
