@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intuitive Machines](https://intuitivemachines.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a496800da45516f16d587d?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Mar 01 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69a480c2b600907a962a4fd1?utm_campaign=1079&utm_source=git)** | Bloomington, IL | Remote | Mar 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Frameworks (Network Systems and Tools)](https://jobright.ai/jobs/info/698ffc396ea51a7610f25e38?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Mar 01 |
 | **[Veltrana Group](veltranagroup.us)** | **[Design Engineer 1 - College Grad 2025 - 2026](https://jobright.ai/jobs/info/69a4565e359fe034b1cf32ce?utm_campaign=1079&utm_source=git)** | Temple, TX | Remote | Mar 01 |
@@ -126,9 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[IT System Software Intern](https://jobright.ai/jobs/info/699e9af781476f6176b7e51e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Avionics Software Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/699bc97a81476f6176b41884?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | On Site | Feb 28 |
 | **[ETS-Lindgren](http://www.ets-lindgren.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69865a3d8ca8121a3a68927c?utm_campaign=1079&utm_source=git)** | Cedar Park, TX | On Site | Feb 28 |
-| **[StructaLink Group](structalinkgroup.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69a2bfdfb600907a96292e36?utm_campaign=1079&utm_source=git)** | Newark, CA | On Site | Feb 28 |
-| **[ETS-Lindgren](http://www.ets-lindgren.com/)** | **[Web/SharePoint Developer Intern](https://jobright.ai/jobs/info/6986588e8ca8121a3a688f93?utm_campaign=1079&utm_source=git)** | Cedar Park, TX | On Site | Feb 28 |
-| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineer Summer Internship (Puerto Rico)](https://jobright.ai/jobs/info/69a2bb19359fe034b1ce1909?utm_campaign=1079&utm_source=git)** | Santa Isabel, CO | Remote | Feb 28 |
+| ↳ | **[Web/SharePoint Developer Intern](https://jobright.ai/jobs/info/6986588e8ca8121a3a688f93?utm_campaign=1079&utm_source=git)** | Cedar Park, TX | On Site | Feb 28 |
 | **[Noblis](http://www.noblis.org)** | **[2026 Summer Intern - .NET Software Developer (remote)](https://jobright.ai/jobs/info/6998e6f7e0bddb6acac7d02a?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 28 |
 | **[OPENLANE](http://www.openlane.com)** | **[Intern, Mobile Apps Engineer](https://jobright.ai/jobs/info/6999292de0bddb6acac83346?utm_campaign=1079&utm_source=git)** | Mesa, AZ | On Site | Feb 28 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69a2aa20359fe034b1ce00b0?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Memory and Personalization (Summer)](https://jobright.ai/jobs/info/69a243c7b600907a96288e83?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Feb 27 |
 | **[BITCO Insurance Companies](http://www.bitco.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/69a241b1359fe034b1cd7d9b?utm_campaign=1079&utm_source=git)** | Davenport, IA | On Site | Feb 27 |
 | **[Aspen Power](https://aspenpower.com)** | **[Intern, Software Engineering & AI](https://jobright.ai/jobs/info/69a26a85359fe034b1cdaada?utm_campaign=1079&utm_source=git)** | New York, New York, United States | On Site | Feb 27 |
+| **[Union Bank & Trust](http://www.ubt.com)** | **[Applications Developer Intern](https://jobright.ai/jobs/info/69a26050359fe034b1cd9b68?utm_campaign=1079&utm_source=git)** | Lincoln, NE 68506, USA | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
