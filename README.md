@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - Software Engineer](https://jobright.ai/jobs/info/69a36724359fe034b1ce8617?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 28 |
 | **[Structavia Consulting Engineers](structaviaconsultingengineers.us)** | **[Firmware Engineering - Intern](https://jobright.ai/jobs/info/69a35f17359fe034b1ce851f?utm_campaign=1079&utm_source=git)** | Oak Brook, IL | Remote | Feb 28 |
 | **[Dark Wolf](https://darkwolfsolutions.com/)** | **[University of Colorado - Colorado Springs Career Fair - Internship](https://jobright.ai/jobs/info/69a345d8b600907a96298636?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Feb 28 |
-| **[Intuitive Machines](https://intuitivemachines.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a342d5359fe034b1ce74e7?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - System Validation Engineer](https://jobright.ai/jobs/info/6987404d8ca8121a3a69d25d?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 28 |
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026: Applied Software Engineering Internship (Onsite)](https://jobright.ai/jobs/info/69a338d3359fe034b1ce7080?utm_campaign=1079&utm_source=git)** | Middletown, RI | On Site | Feb 28 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Test Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/68cd81181ad6b16f0289a7d9?utm_campaign=1079&utm_source=git)** | Westlake Village, CA | On Site | Feb 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Iron Mountain](http://www.ironmountain.com)** | **[Secure IT Asset Lifecycle Management Intern](https://jobright.ai/jobs/info/69a214c50da45516f16b5e18?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Feb 27 |
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Intern](https://jobright.ai/jobs/info/6944e8ba94730b73987818e8?utm_campaign=1079&utm_source=git)** | Centennial, CO | On Site | Feb 27 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6997af3ee0bddb6acac66aaa?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
+| **[Fremont Bank](http://www.fremontbank.com)** | **[Intern - AI Software QA Engineer](https://jobright.ai/jobs/info/69a2103d359fe034b1cd4ee3?utm_campaign=1079&utm_source=git)** | Livermore, CA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
