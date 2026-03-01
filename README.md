@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Enterprise Document Management Systems (EDMS) Summer Intern](https://jobright.ai/jobs/info/68dfabf16be63b6ec997249f?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Mar 01 |
+| **[Synaptics Incorporated](https://www.synaptics.com)** | **[Intern, System Application Engineering](https://jobright.ai/jobs/info/69a44c27359fe034b1cf2e75?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 01 |
+| **[Cisco](http://www.cisco.com)** | **[Quality Assurance I (Intern) - United States](https://jobright.ai/jobs/info/698d66ae78b4502f12a40ed9?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Mar 01 |
+| ↳ | **[AI Software QA II (Intern) - United States](https://jobright.ai/jobs/info/692e0d97fa28370be26a0aef?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 01 |
+| **[Motion](https://www.motion.com)** | **[Cloud SRE Intern](https://jobright.ai/jobs/info/695497fef1f8465b79ebc607?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Mar 01 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Supplier Quality Assurance Engineer)](https://jobright.ai/jobs/info/691fe2a23f782d2f1afc127a?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Mar 01 |
 | **[Space Dynamics Laboratory](https://www.sdl.usu.edu)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a432980da45516f16d2727?utm_campaign=1079&utm_source=git)** | North Logan, UT | On Site | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology - Ads Creative) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697703ad88e2b47213baeaae?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BITCO Insurance Companies](http://www.bitco.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/69a241b1359fe034b1cd7d9b?utm_campaign=1079&utm_source=git)** | Davenport, IA | On Site | Feb 27 |
 | **[Aspen Power](https://aspenpower.com)** | **[Intern, Software Engineering & AI](https://jobright.ai/jobs/info/69a26a85359fe034b1cdaada?utm_campaign=1079&utm_source=git)** | New York, New York, United States | On Site | Feb 27 |
 | **[Union Bank & Trust](http://www.ubt.com)** | **[Applications Developer Intern](https://jobright.ai/jobs/info/69a26050359fe034b1cd9b68?utm_campaign=1079&utm_source=git)** | Lincoln, NE 68506, USA | Hybrid | Feb 27 |
-| **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Summer Intern - Information Technology  (9503)](https://jobright.ai/jobs/info/69a2651cb600907a9628b0d0?utm_campaign=1079&utm_source=git)** | Brooksville, Florida, United States | On Site | Feb 27 |
-| **[3xLOGIC](https://www.3xlogic.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69a27387359fe034b1cdb7af?utm_campaign=1079&utm_source=git)** | Uniontown, OH, US | On Site | Feb 27 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Software Engineer](https://jobright.ai/jobs/info/69a278920da45516f16bc95c?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 27 |
-| ↳ | **[Summer Intern – Software Engineering, VR Domain](https://jobright.ai/jobs/info/69a25b71359fe034b1cd94d3?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 27 |
-| **[HERE Technologies](https://www.here.com)** | **[Engineer Intern 3D Graphics](https://jobright.ai/jobs/info/69a272e0359fe034b1cdb62a?utm_campaign=1079&utm_source=git)** | United States Home Office, UNAVAILABLE, US | Remote | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
