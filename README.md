@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Backend Development Internship (100% Remote)](https://jobright.ai/jobs/info/69a3674b0da45516f16c8fa5?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Feb 28 |
+| **[Rigetti Computing](http://www.rigetti.com)** | **[2026 Internship Project: Software Engineering, Computer Vision & Automation](https://jobright.ai/jobs/info/69a392b4359fe034b1ce9062?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 28 |
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - Software Engineer](https://jobright.ai/jobs/info/69a36724359fe034b1ce8617?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 28 |
 | **[Structavia Consulting Engineers](structaviaconsultingengineers.us)** | **[Firmware Engineering - Intern](https://jobright.ai/jobs/info/69a35f17359fe034b1ce851f?utm_campaign=1079&utm_source=git)** | Oak Brook, IL | Remote | Feb 28 |
 | **[Dark Wolf](https://darkwolfsolutions.com/)** | **[University of Colorado - Colorado Springs Career Fair - Internship](https://jobright.ai/jobs/info/69a345d8b600907a96298636?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Feb 28 |
@@ -135,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[3xLOGIC](https://www.3xlogic.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69a27387359fe034b1cdb7af?utm_campaign=1079&utm_source=git)** | Uniontown, OH, US | On Site | Feb 27 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Software Engineer](https://jobright.ai/jobs/info/69a278920da45516f16bc95c?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 27 |
 | ↳ | **[Summer Intern – Software Engineering, VR Domain](https://jobright.ai/jobs/info/69a25b71359fe034b1cd94d3?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 27 |
-| **[HERE Technologies](https://www.here.com)** | **[Engineer Intern 3D Graphics](https://jobright.ai/jobs/info/69a25c08b600907a9628a3dd?utm_campaign=1079&utm_source=git)** | US-United States Home Office | Remote | Feb 27 |
-| ↳ | **[Engineer Intern 3D Graphics](https://jobright.ai/jobs/info/69a272e0359fe034b1cdb62a?utm_campaign=1079&utm_source=git)** | United States Home Office, UNAVAILABLE, US | Remote | Feb 27 |
+| **[HERE Technologies](https://www.here.com)** | **[Engineer Intern 3D Graphics](https://jobright.ai/jobs/info/69a272e0359fe034b1cdb62a?utm_campaign=1079&utm_source=git)** | United States Home Office, UNAVAILABLE, US | Remote | Feb 27 |
+| ↳ | **[Engineer Intern 3D Graphics](https://jobright.ai/jobs/info/69a25c08b600907a9628a3dd?utm_campaign=1079&utm_source=git)** | US-United States Home Office | Remote | Feb 27 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Full Stack Developer Intern - i-0062](https://jobright.ai/jobs/info/69a256cb0da45516f16b9a85?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Feb 27 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - IT Application Development](https://jobright.ai/jobs/info/697ef68bce48107c054316c5?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 27 |
 | **[Vixxo Facility Solutions](http://www.vixxo.com/)** | **[IT Intern - Summer 2026 Internship Program](https://jobright.ai/jobs/info/69a22f1b0da45516f16b7783?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Feb 27 |
