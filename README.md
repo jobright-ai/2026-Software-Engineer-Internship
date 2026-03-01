@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kriib](www.kriib.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69a46b93359fe034b1cf3a7b?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Mar 01 |
+| **[Veltrana Group](veltranagroup.us)** | **[Design Engineer 1 - College Grad 2025 - 2026](https://jobright.ai/jobs/info/69a4565e359fe034b1cf32ce?utm_campaign=1079&utm_source=git)** | Temple, TX | Remote | Mar 01 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Enterprise Document Management Systems (EDMS) Summer Intern](https://jobright.ai/jobs/info/68dfabf16be63b6ec997249f?utm_campaign=1079&utm_source=git)** | Triad Area | Hybrid | Mar 01 |
-| **[Synaptics Incorporated](https://www.synaptics.com)** | **[Intern, System Application Engineering](https://jobright.ai/jobs/info/69a44c27359fe034b1cf2e75?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 01 |
 | **[Cisco](http://www.cisco.com)** | **[Quality Assurance I (Intern) - United States](https://jobright.ai/jobs/info/698d66ae78b4502f12a40ed9?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Mar 01 |
 | ↳ | **[AI Software QA II (Intern) - United States](https://jobright.ai/jobs/info/692e0d97fa28370be26a0aef?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 01 |
 | **[Motion](https://www.motion.com)** | **[Cloud SRE Intern](https://jobright.ai/jobs/info/695497fef1f8465b79ebc607?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Mar 01 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Supplier Quality Assurance Engineer)](https://jobright.ai/jobs/info/691fe2a23f782d2f1afc127a?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Mar 01 |
 | **[Space Dynamics Laboratory](https://www.sdl.usu.edu)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a432980da45516f16d2727?utm_campaign=1079&utm_source=git)** | North Logan, UT | On Site | Mar 01 |
+| **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69a46001b600907a962a424f?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology - Ads Creative) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697703ad88e2b47213baeaae?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 01 |
 | **[ByteDance](http://bytedance.com)** | **[3D Graphics Engineer Intern (PICO Foundation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69166f889c388539cbdfb3de?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 01 |
 | ↳ | **[Research Intern (Infrastructure System Lab)- 2026 Start (PHD)](https://jobright.ai/jobs/info/68ce85d1dbd9fb154ede061b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 01 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Rigetti Computing](http://www.rigetti.com)** | **[2026 Internship Project: Software Engineering, Computer Vision & Automation](https://jobright.ai/jobs/info/69a392b4359fe034b1ce9062?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 28 |
 | ↳ | **[2026 Internship Project: Software Engineering, Computer Vision & Automation](https://jobright.ai/jobs/info/69a39133b600907a96299b95?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 28 |
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - Software Engineer](https://jobright.ai/jobs/info/69a36724359fe034b1ce8617?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 28 |
-| **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a40662359fe034b1cefaec?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[Dark Wolf](https://darkwolfsolutions.com/)** | **[University of Colorado - Colorado Springs Career Fair - Internship](https://jobright.ai/jobs/info/69a345d8b600907a96298636?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Feb 28 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - System Validation Engineer](https://jobright.ai/jobs/info/6987404d8ca8121a3a69d25d?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Feb 28 |
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026: Applied Software Engineering Internship (Onsite)](https://jobright.ai/jobs/info/69a338d3359fe034b1ce7080?utm_campaign=1079&utm_source=git)** | Middletown, RI | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Memory and Personalization (Summer)](https://jobright.ai/jobs/info/69a243c7b600907a96288e83?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Feb 27 |
 | **[BITCO Insurance Companies](http://www.bitco.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/69a241b1359fe034b1cd7d9b?utm_campaign=1079&utm_source=git)** | Davenport, IA | On Site | Feb 27 |
 | **[Aspen Power](https://aspenpower.com)** | **[Intern, Software Engineering & AI](https://jobright.ai/jobs/info/69a26a85359fe034b1cdaada?utm_campaign=1079&utm_source=git)** | New York, New York, United States | On Site | Feb 27 |
-| **[Union Bank & Trust](http://www.ubt.com)** | **[Applications Developer Intern](https://jobright.ai/jobs/info/69a26050359fe034b1cd9b68?utm_campaign=1079&utm_source=git)** | Lincoln, NE 68506, USA | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
