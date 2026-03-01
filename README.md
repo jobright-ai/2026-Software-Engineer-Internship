@@ -108,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[Application Developer, Fulltime Internship (July - Dec 2026)](https://jobright.ai/jobs/info/69a30044359fe034b1ce581e?utm_campaign=1079&utm_source=git)** | Quincy, MA | On Site | Feb 28 |
 | **[TruGen AI](https://trugen.ai)** | **[GTM Engineer - Internship](https://jobright.ai/jobs/info/69a2feb7359fe034b1ce563a?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 28 |
 | **[York Space Systems](http://www.yorkspacesystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6933cd10a0dde7020e2f1dff?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Feb 28 |
-| **[d-Matrix](https://www.d-matrix.ai)** | **[Software Engineering Intern, Simulation and Modeling](https://jobright.ai/jobs/info/69a2f164359fe034b1ce43f2?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 28 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[First Year Software Engineering Internship 2026- NYC](https://jobright.ai/jobs/info/6986b0628da7a612046195bb?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Feb 28 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a2e93a0da45516f16c46fd?utm_campaign=1079&utm_source=git)** | Alexandria, VA | Hybrid | Feb 28 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Software Development Intern, Summer 2026](https://jobright.ai/jobs/info/697d3af7727747250d580ae9?utm_campaign=1079&utm_source=git)** | Yarmouth, ME | On Site | Feb 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Memory and Personalization (Summer)](https://jobright.ai/jobs/info/69a243c7b600907a96288e83?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Feb 27 |
 | **[BITCO Insurance Companies](http://www.bitco.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/69a241b1359fe034b1cd7d9b?utm_campaign=1079&utm_source=git)** | Davenport, IA | On Site | Feb 27 |
 | **[Aspen Power](https://aspenpower.com)** | **[Intern, Software Engineering & AI](https://jobright.ai/jobs/info/69a26a85359fe034b1cdaada?utm_campaign=1079&utm_source=git)** | New York, New York, United States | On Site | Feb 27 |
+| **[Union Bank & Trust](http://www.ubt.com)** | **[Applications Developer Intern](https://jobright.ai/jobs/info/69a26050359fe034b1cd9b68?utm_campaign=1079&utm_source=git)** | Lincoln, NE 68506, USA | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
