@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Labor Systems Web Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a5293b359fe034b1cfb86d?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Mar 01 |
+| **[Tarrant Regional Water District](https://www.trwd.com/)** | **[Infrastructure Engineering Intern (T036)](https://jobright.ai/jobs/info/69a527b8b600907a962ac595?utm_campaign=1079&utm_source=git)** | Fort Worth, TX | On Site | Mar 01 |
+| **[MFS Investment Management](https://www.mfs.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a52790359fe034b1cfb817?utm_campaign=1079&utm_source=git)** | Boston | Hybrid | Mar 01 |
 | **[Idaho Housing and Finance Association](https://idahohousing.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/699e5497e0bddb6acacdc920?utm_campaign=1079&utm_source=git)** | Boise, ID | Hybrid | Mar 01 |
 | **[GenPark](https://genpark.ai)** | **[Frontend Intern](https://jobright.ai/jobs/info/69a51a9e0da45516f16db88f?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Mar 01 |
 | **[JAAMWays](https://www.linkedin.com/company/107154009)** | **[iOS Engineer Intern](https://jobright.ai/jobs/info/69a4f6ba0da45516f16d9597?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 01 |
-| **[Mechronix](mechronix.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69a4dadfb600907a962a7a94?utm_campaign=1079&utm_source=git)** | Bloomington, IL | Remote | Mar 01 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e894bd046ab6061cfea51?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Mar 01 |
 | **[Intuitive Machines](https://intuitivemachines.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a496800da45516f16d587d?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Mar 01 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69a480c2b600907a962a4fd1?utm_campaign=1079&utm_source=git)** | Bloomington, IL | Remote | Mar 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CEVA SANTE ANIMALE](https://www.ceva.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69a3bdf8359fe034b1ceb036?utm_campaign=1079&utm_source=git)** | Lenexa, KS | On Site | Feb 27 |
 | **[Alstom](https://www.alstom.com/)** | **[Digital Services Engineering Intern](https://jobright.ai/jobs/info/69a2529bb600907a96289b7d?utm_campaign=1079&utm_source=git)** | Saint-Bruno, Quebec, Canada | On Site | Feb 27 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Summer Intern - Information Technology (9503)](https://jobright.ai/jobs/info/69a2626e359fe034b1cd9e9c?utm_campaign=1079&utm_source=git)** | Brooksville, FL | On Site | Feb 27 |
-| **[Laserfiche](http://www.laserfiche.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/691f10b709cc522e8773d41c?utm_campaign=1079&utm_source=git)** | Long Beach, CA | Hybrid | Feb 27 |
-| **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Application Developer Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/69a25810b600907a9628a059?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
