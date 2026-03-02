@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Fullstack Development Intern / Remote & Unpaid](https://jobright.ai/jobs/info/69a501bd0da45516f16da4fb?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Mar 01 |
 | **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Spring '26)](https://jobright.ai/jobs/info/69a50172b600907a962aa559?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Mar 01 |
 | **[JAAMWays](https://www.linkedin.com/company/107154009)** | **[iOS Engineer Intern](https://jobright.ai/jobs/info/69a4f6ba0da45516f16d9597?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Mechronix](mechronix.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69a4dadfb600907a962a7a94?utm_campaign=1079&utm_source=git)** | Bloomington, IL | Remote | Mar 01 |
@@ -91,7 +90,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Embedded Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69a3f519359fe034b1cee56f?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Mar 01 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69a3f1580da45516f16ce974?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 28 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[IC Development (Software) - Summer Intern (May '26 - Aug '26)](https://jobright.ai/jobs/info/69a3e0560da45516f16cd27d?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 28 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a50b00359fe034b1cfa353?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d360935649778e20924f?utm_campaign=1079&utm_source=git)** | US > Arizona > Phoenix | On Site | Feb 28 |
+| **[Tampa Electric](http://www.tampaelectric.com)** | **[Summer 2026 - IT Development Application & Operational Support - Student Internship](https://jobright.ai/jobs/info/698a21ab47434001cc685da6?utm_campaign=1079&utm_source=git)** | Lutz, FL | On Site | Feb 28 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69a0c1965218a8167671ed03?utm_campaign=1079&utm_source=git)** | Tanner, AL | On Site | Feb 28 |
 | **[Rigetti Computing](http://www.rigetti.com)** | **[2026 Internship Project: Software Engineering, Computer Vision & Automation](https://jobright.ai/jobs/info/69a392b4359fe034b1ce9062?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 28 |
 | ↳ | **[2026 Internship Project: Software Engineering, Computer Vision & Automation](https://jobright.ai/jobs/info/69a39133b600907a96299b95?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CLA (CliftonLarsonAllen)](http://www.claconnect.com)** | **[Application Developer Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/69a25810b600907a9628a059?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Feb 27 |
 | **[Securitas Technology](https://www.securitastechnology.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69a25533b600907a96289d98?utm_campaign=1079&utm_source=git)** | Uniontown, OH | On Site | Feb 27 |
 | **[Union Bank & Trust](http://www.ubt.com)** | **[Applications Developer Intern](https://jobright.ai/jobs/info/69a251e9b600907a96289afa?utm_campaign=1079&utm_source=git)** | Lincoln, NE | Hybrid | Feb 27 |
-| **[Dematic](http://www.dematic.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/69a26e52b600907a9628be6a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
