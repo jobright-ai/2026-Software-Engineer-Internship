@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atlassian](https://www.atlassian.com)** | **[Software Engineer Intern, 2026 Summer Canada](https://jobright.ai/jobs/info/695a1a27f1f8465b79f06caf?utm_campaign=1079&utm_source=git)** | Canada | Remote | Mar 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Labor Systems Web Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a5293b359fe034b1cfb86d?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Mar 01 |
 | **[Tarrant Regional Water District](https://www.trwd.com/)** | **[Infrastructure Engineering Intern (T036)](https://jobright.ai/jobs/info/69a527b8b600907a962ac595?utm_campaign=1079&utm_source=git)** | Fort Worth, TX | On Site | Mar 01 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a52790359fe034b1cfb817?utm_campaign=1079&utm_source=git)** | Boston | Hybrid | Mar 01 |
 | **[Idaho Housing and Finance Association](https://idahohousing.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/699e5497e0bddb6acacdc920?utm_campaign=1079&utm_source=git)** | Boise, ID | Hybrid | Mar 01 |
-| **[GenPark](https://genpark.ai)** | **[Frontend Intern](https://jobright.ai/jobs/info/69a51a9e0da45516f16db88f?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Mar 01 |
 | **[JAAMWays](https://www.linkedin.com/company/107154009)** | **[iOS Engineer Intern](https://jobright.ai/jobs/info/69a4f6ba0da45516f16d9597?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e894bd046ab6061cfea51?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Mar 01 |
 | **[Intuitive Machines](https://intuitivemachines.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a496800da45516f16d587d?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Mar 01 |
@@ -144,7 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Garner Health, LLC](https://www.getgarner.com/about)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/69a2a5670da45516f16c0622?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineer Internship (Puerto Rico)](https://jobright.ai/jobs/info/69a2bbd40da45516f16c218c?utm_campaign=1079&utm_source=git)** | Santa Isabel, CO | Hybrid | Feb 27 |
 | **[Veras](https://veras.com)** | **[Jr/Intern Software Engineer](https://jobright.ai/jobs/info/69a29d990da45516f16bf65d?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Feb 27 |
-| **[Fremont Bank](http://www.fremontbank.com)** | **[Intern - AI Software QA Engineer](https://jobright.ai/jobs/info/69a3f167359fe034b1cede49?utm_campaign=1079&utm_source=git)** | Livermore, CA | On Site | Feb 27 |
+| **[Fremont Bank](http://www.fremontbank.com)** | **[Intern - AI Software QA Engineer](https://jobright.ai/jobs/info/69a53953359fe034b1cfc611?utm_campaign=1079&utm_source=git)** | Livermore, CA | On Site | Feb 27 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Software Engineering Intern - R&D](https://jobright.ai/jobs/info/69a3df85359fe034b1cec75f?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Feb 27 |
 | **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/6986ce698da7a6120461cacc?utm_campaign=1079&utm_source=git)** | Bartlesville, OK | Hybrid | Feb 27 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[R&D Firmware Engineer Intern](https://jobright.ai/jobs/info/69a276acb600907a9628cbc0?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Feb 27 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Software Engineer](https://jobright.ai/jobs/info/69a2731d0da45516f16bbecb?utm_campaign=1079&utm_source=git)** | Novi, MI | On Site | Feb 27 |
 | ↳ | **[Summer Intern – Software Engineering, VR Domain](https://jobright.ai/jobs/info/69a26edf0da45516f16bb71f?utm_campaign=1079&utm_source=git)** | Novi, MI | On Site | Feb 27 |
 | **[KLA](https://www.kla.com)** | **[Software Intern](https://jobright.ai/jobs/info/69a26d10359fe034b1cdae43?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Feb 27 |
-| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a5113bb600907a962ab746?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 27 |
 | **[CEVA SANTE ANIMALE](https://www.ceva.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69a3bdf8359fe034b1ceb036?utm_campaign=1079&utm_source=git)** | Lenexa, KS | On Site | Feb 27 |
 | **[Alstom](https://www.alstom.com/)** | **[Digital Services Engineering Intern](https://jobright.ai/jobs/info/69a2529bb600907a96289b7d?utm_campaign=1079&utm_source=git)** | Saint-Bruno, Quebec, Canada | On Site | Feb 27 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Summer Intern - Information Technology (9503)](https://jobright.ai/jobs/info/69a2626e359fe034b1cd9e9c?utm_campaign=1079&utm_source=git)** | Brooksville, FL | On Site | Feb 27 |
+| **[Laserfiche](http://www.laserfiche.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/691f10b709cc522e8773d41c?utm_campaign=1079&utm_source=git)** | Long Beach, CA | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
