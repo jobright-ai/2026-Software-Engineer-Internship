@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Spring '26)](https://jobright.ai/jobs/info/69a4e75e0da45516f16d7c2e?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Mar 01 |
-| **[GenPark](https://genpark.ai)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/69a4e6e0359fe034b1cf7072?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 01 |
 | **[Mechronix](mechronix.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69a4dadfb600907a962a7a94?utm_campaign=1079&utm_source=git)** | Bloomington, IL | Remote | Mar 01 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e894bd046ab6061cfea51?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Mar 01 |
 | **[Intuitive Machines](https://intuitivemachines.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a496800da45516f16d587d?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Mar 01 |
@@ -91,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Qualcomm](http://www.qualcomm.com)** | **[Software Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69a3f1580da45516f16ce974?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Feb 28 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[IC Development (Software) - Summer Intern (May '26 - Aug '26)](https://jobright.ai/jobs/info/69a3e0560da45516f16cd27d?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Feb 28 |
 | **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d360935649778e20924f?utm_campaign=1079&utm_source=git)** | US > Arizona > Phoenix | On Site | Feb 28 |
+| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69a0c1965218a8167671ed03?utm_campaign=1079&utm_source=git)** | Tanner, AL | On Site | Feb 28 |
 | **[Rigetti Computing](http://www.rigetti.com)** | **[2026 Internship Project: Software Engineering, Computer Vision & Automation](https://jobright.ai/jobs/info/69a392b4359fe034b1ce9062?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 28 |
 | ↳ | **[2026 Internship Project: Software Engineering, Computer Vision & Automation](https://jobright.ai/jobs/info/69a39133b600907a96299b95?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 28 |
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - Software Engineer](https://jobright.ai/jobs/info/69a36724359fe034b1ce8617?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 28 |
