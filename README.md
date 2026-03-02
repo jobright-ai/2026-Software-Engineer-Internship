@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cadence](https://www.cadence.com)** | **[Software Intern, Summer (Synthesis)](https://jobright.ai/jobs/info/69438b5794730b739876b418?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 02 |
+| **[MetLife](http://www.metlife.com)** | **[Global Technology Intern](https://jobright.ai/jobs/info/69a5a8b4359fe034b1d049c6?utm_campaign=1079&utm_source=git)** | Clarks Summit, PA | Hybrid | Mar 02 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Software Engineer Intern - Onsite (MA)](https://jobright.ai/jobs/info/69a58ccdb600907a962b35db?utm_campaign=1079&utm_source=git)** | Marlborough, MA | On Site | Mar 02 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[AWS Tech intern, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/691795e6bcdbf3560c9c9224?utm_campaign=1079&utm_source=git)** | Greater São Paulo Area | On Site | Mar 02 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[R&D Firmware Engineer Intern](https://jobright.ai/jobs/info/69a276acb600907a9628cbc0?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Mar 02 |
@@ -136,8 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Marvell Technology](https://www.marvell.com/)** | **[Test Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/68cd81181ad6b16f0289a7d9?utm_campaign=1079&utm_source=git)** | Westlake Village, CA | On Site | Feb 28 |
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[Cloud Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6986631f0f6f7e7a2ce15014?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Feb 28 |
 | **[Etched](https://www.etched.com)** | **[Platform Intern - ME](https://jobright.ai/jobs/info/69a3fa920da45516f16cf745?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Computer Graphics Software Developer Intern](https://jobright.ai/jobs/info/698c26c10f6f7e7a2ce7be60?utm_campaign=1079&utm_source=git)** | Champaign, IL | On Site | Feb 28 |
-| **[Etched](https://www.etched.com)** | **[Supercomputing Intern](https://jobright.ai/jobs/info/6986bf3d8ca8121a3a692ced?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
+| ↳ | **[Supercomputing Intern](https://jobright.ai/jobs/info/6986bf3d8ca8121a3a692ced?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[Teledyne Brown Engineering](http://www.tbe.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a09e230836fe79d861a22a?utm_campaign=1079&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, XR Full Stack Developer (Summer)](https://jobright.ai/jobs/info/69868b418da7a61204615cf2?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Feb 28 |
 | **[Etched](https://www.etched.com)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/6986be9f8da7a6120461aaab?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Software Quality Engineering (Higher Education)](https://jobright.ai/jobs/info/69901ba90cc8ea15f1dac2cd?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 28 |
 | **[Zoox](https://www.zoox.com/)** | **[Motion Planning Intern](https://jobright.ai/jobs/info/6914f8e46f36db06ef04a3a5?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Feb 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Frontend Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696adf2bdb26b618950e3a8a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
-| **[Pluralsight](http://www.pluralsight.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/698695410f6f7e7a2ce19b67?utm_campaign=1079&utm_source=git)** | Westlake, TX | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
