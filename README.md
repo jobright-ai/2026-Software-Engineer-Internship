@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Spring '26)](https://jobright.ai/jobs/info/69a4e75e0da45516f16d7c2e?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Mar 01 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Fullstack Development Intern / Remote & Unpaid](https://jobright.ai/jobs/info/69a501bd0da45516f16da4fb?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Mar 01 |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Spring '26)](https://jobright.ai/jobs/info/69a50172b600907a962aa559?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Mar 01 |
+| **[JAAMWays](https://www.linkedin.com/company/107154009)** | **[iOS Engineer Intern](https://jobright.ai/jobs/info/69a4f6ba0da45516f16d9597?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Mechronix](mechronix.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69a4dadfb600907a962a7a94?utm_campaign=1079&utm_source=git)** | Bloomington, IL | Remote | Mar 01 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e894bd046ab6061cfea51?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Mar 01 |
 | **[Intuitive Machines](https://intuitivemachines.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a496800da45516f16d587d?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Mar 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Securitas Technology](https://www.securitastechnology.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69a25533b600907a96289d98?utm_campaign=1079&utm_source=git)** | Uniontown, OH | On Site | Feb 27 |
 | **[Union Bank & Trust](http://www.ubt.com)** | **[Applications Developer Intern](https://jobright.ai/jobs/info/69a251e9b600907a96289afa?utm_campaign=1079&utm_source=git)** | Lincoln, NE | Hybrid | Feb 27 |
 | **[Dematic](http://www.dematic.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/69a26e52b600907a9628be6a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
-| **[Federal Home Loan Bank of Pittsburgh](http://www.fhlb-pgh.com)** | **[IT Technology Solutions Intern](https://jobright.ai/jobs/info/698d1844f64d441a164f00df?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 27 |
-| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Memory and Personalization (Summer)](https://jobright.ai/jobs/info/69a243c7b600907a96288e83?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
