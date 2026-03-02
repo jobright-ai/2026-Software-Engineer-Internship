@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Spring '26)](https://jobright.ai/jobs/info/69a4cc13b600907a962a7628?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Mar 01 |
+| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Spring '26)](https://jobright.ai/jobs/info/69a4e75e0da45516f16d7c2e?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Mar 01 |
+| **[GenPark](https://genpark.ai)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/69a4e6e0359fe034b1cf7072?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 01 |
+| **[Mechronix](mechronix.us)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69a4dadfb600907a962a7a94?utm_campaign=1079&utm_source=git)** | Bloomington, IL | Remote | Mar 01 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e894bd046ab6061cfea51?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Mar 01 |
 | **[Intuitive Machines](https://intuitivemachines.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a496800da45516f16d587d?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Mar 01 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/69a480c2b600907a962a4fd1?utm_campaign=1079&utm_source=git)** | Bloomington, IL | Remote | Mar 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dematic](http://www.dematic.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/69a26e52b600907a9628be6a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
 | **[Federal Home Loan Bank of Pittsburgh](http://www.fhlb-pgh.com)** | **[IT Technology Solutions Intern](https://jobright.ai/jobs/info/698d1844f64d441a164f00df?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 27 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Memory and Personalization (Summer)](https://jobright.ai/jobs/info/69a243c7b600907a96288e83?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Feb 27 |
-| **[BITCO Insurance Companies](http://www.bitco.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/69a241b1359fe034b1cd7d9b?utm_campaign=1079&utm_source=git)** | Davenport, IA | On Site | Feb 27 |
-| **[Aspen Power](https://aspenpower.com)** | **[Intern, Software Engineering & AI](https://jobright.ai/jobs/info/69a26a85359fe034b1cdaada?utm_campaign=1079&utm_source=git)** | New York, New York, United States | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
