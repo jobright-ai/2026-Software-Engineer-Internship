@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Artisan Partners](https://www.apam.com/)** | **[Software Developer Intern – Business Applications](https://jobright.ai/jobs/info/69a5df1eb600907a962ba252?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Mar 02 |
+| **[DreamWorks Animation](https://www.dreamworks.com)** | **[Production Software Front-End-Tools Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5dc83b600907a962b9d07?utm_campaign=1079&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
+| **[Ferrovias](joinferrovias.com)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69a5d6070da45516f16e8c31?utm_campaign=1079&utm_source=git)** | Oak Brook, IL | Remote | Mar 02 |
 | **[Etched](https://www.etched.com)** | **[Core SWE Intern](https://jobright.ai/jobs/info/69a5cdbdb600907a962b7c81?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 02 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Fullstack Development Intern / Remote (Unpaid)](https://jobright.ai/jobs/info/69a5ccce0da45516f16e77ff?utm_campaign=1079&utm_source=git)** | Los Angeles County, CA | Remote | Mar 02 |
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69371379a0dde7020e2fed0a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Information Technology Intern (Application Development)](https://jobright.ai/jobs/info/69a5c734b600907a962b707f?utm_campaign=1079&utm_source=git)** | 1301 West Long Lake Road, Troy, MI, 48098, US | Hybrid | Mar 02 |
 | **[Dematic](http://www.dematic.com)** | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69a21c79b600907a962868e9?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
 | **[Nextracker Inc.](https://www.linkedin.com/company/3807153)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/69a5c4ae0da45516f16e6dfd?utm_campaign=1079&utm_source=git)** | Fremont, North Bldg, California - USA | On Site | Mar 02 |
-| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Spring '26)](https://jobright.ai/jobs/info/69a5c441359fe034b1d05e43?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Mar 02 |
+| **[GenPark](https://genpark.ai)** | **[Back end engineer intern](https://jobright.ai/jobs/info/69a5e0b90da45516f16ea3d9?utm_campaign=1079&utm_source=git)** | LA Metro Area | Hybrid | Mar 02 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year-Round - AI For Autonomy, Hybrid](https://jobright.ai/jobs/info/695d40d5f1f8465b79f36f0d?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | Hybrid | Mar 02 |
 | **[Dematic](http://www.dematic.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/69a26e52b600907a9628be6a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
 | ↳ | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69a2169ab600907a96286401?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Mar 02 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69a22a800da45516f16b731c?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Mar 02 |
 | **[Quansight](https://www.quansight.com/)** | **[Open Source Internship](https://jobright.ai/jobs/info/69a5c0690da45516f16e6ad3?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 02 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Software Engineer Intern - Bachelor's (Kalispell, MT)](https://jobright.ai/jobs/info/6996758ace78e77b4fda8329?utm_campaign=1079&utm_source=git)** | Kalispell, MT | On Site | Mar 02 |
+| **[Blackrock Neurotech](https://blackrockmicro.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a5dbc20da45516f16e99f9?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 02 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Software Development Intern, Summer 2026](https://jobright.ai/jobs/info/698be63406d9b06224961903?utm_campaign=1079&utm_source=git)** | Lawrenceville, GA | On Site | Mar 02 |
 | **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69a5b880359fe034b1d05770?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 02 |
 | **[Treevah](https://filterfolder.com/)** | **[Software Engineering Intern (Remote, Unpaid)](https://jobright.ai/jobs/info/69a5b785b600907a962b66f1?utm_campaign=1079&utm_source=git)** | Chicago, IL | Remote | Mar 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d360935649778e20924f?utm_campaign=1079&utm_source=git)** | US > Arizona > Phoenix | On Site | Feb 28 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Summer 2026 - IT Development Application & Operational Support - Student Internship](https://jobright.ai/jobs/info/698a21ab47434001cc685da6?utm_campaign=1079&utm_source=git)** | Lutz, FL | On Site | Feb 28 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69a0c1965218a8167671ed03?utm_campaign=1079&utm_source=git)** | Tanner, AL | On Site | Feb 28 |
-| **[Rigetti Computing](http://www.rigetti.com)** | **[2026 Internship Project: Software Engineering, Computer Vision & Automation](https://jobright.ai/jobs/info/69a392b4359fe034b1ce9062?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 28 |
-| ↳ | **[2026 Internship Project: Software Engineering, Computer Vision & Automation](https://jobright.ai/jobs/info/69a39133b600907a96299b95?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Feb 28 |
-| **[Grainger](https://www.grainger.com)** | **[GTG Intern - Software Engineer](https://jobright.ai/jobs/info/69a36724359fe034b1ce8617?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
