@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Driscoll's](http://www.driscolls.com)** | **[Information Services - Software Engineering Intern - Application Development](https://jobright.ai/jobs/info/69a52de1359fe034b1cfba7d?utm_campaign=1079&utm_source=git)** | Watsonville, CA | On Site | Mar 02 |
+| **[Almac Group](https://www.almacgroup.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69a67758d706a731db3865cb?utm_campaign=1079&utm_source=git)** | Audubon, PA | On Site | Mar 02 |
+| **[Dexmate](https://www.dexmate.ai/vega)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/6999a11b81476f6176b25eb2?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 02 |
+| **[The Kinetic Group](https://thekineticgroup.com/)** | **[New Technologies Intern - Federal Ammunition](https://jobright.ai/jobs/info/69a676d5e567421f42577928?utm_campaign=1079&utm_source=git)** | Anoka, MN | On Site | Mar 02 |
+| **[Millennium Space Systems](http://www.millennium-space.com/)** | **[Millennium Space Systems Summer 2026 Internship Program – Ground Software Engineering](https://jobright.ai/jobs/info/69a673e6d706a731db386267?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Mar 02 |
+| ↳ | **[Millennium Space Systems Summer 2026 Internship Program – Flight Software Intern](https://jobright.ai/jobs/info/69a673ace567421f42577683?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Mar 02 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a67132e567421f425774c1?utm_campaign=1079&utm_source=git)** | Dover, DE | On Site | Mar 02 |
+| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Storage Product Planning Engineer](https://jobright.ai/jobs/info/69a67126e567421f425774bd?utm_campaign=1079&utm_source=git)** | San Jose, California, United States | On Site | Mar 02 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a670e0e567421f425774a0?utm_campaign=1079&utm_source=git)** | Augusta, ME | On Site | Mar 02 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a66f6ae567421f42577419?utm_campaign=1079&utm_source=git)** | Des Moines, IA | On Site | Mar 02 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Storage Product Planning Engineer](https://jobright.ai/jobs/info/69a66bbd2c0d8b0f5cd08b23?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 02 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Millennium Space Systems Summer 2026 Internship Program – Ground Software Engineering](https://jobright.ai/jobs/info/69a66af5d706a731db385ae5?utm_campaign=1079&utm_source=git)** | USA - El Segundo, CA | On Site | Mar 02 |
 | **[Fearless](http://fearless.tech)** | **[Intern (Frontend Engineer Intern)](https://jobright.ai/jobs/info/69a66ac6e567421f4257729a?utm_campaign=1079&utm_source=git)** | Baltimore, MD | On Site | Mar 02 |
@@ -132,29 +142,19 @@ For a complete list, click the following sortable link below:
 | **[Arm](http://www.arm.com)** | **[Intern Verification Engineering](https://jobright.ai/jobs/info/69a64f8fe567421f42574a7d?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 02 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer Intern (Engineering Intern 3) - 27421](https://jobright.ai/jobs/info/69a62a66359fe034b1d0fa70?utm_campaign=1079&utm_source=git)** | Columbia, MD | On Site | Mar 02 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Functional Analyst Intern](https://jobright.ai/jobs/info/69a647acd706a731db382594?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 02 |
-| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - IT Integration and Automation Development](https://jobright.ai/jobs/info/69a647532c0d8b0f5cd05531?utm_campaign=1079&utm_source=git)** | Lancaster, PA, US | Hybrid | Mar 02 |
-| ↳ | **[Intern - IT Integration and Automation Development](https://jobright.ai/jobs/info/69a65777d706a731db383c09?utm_campaign=1079&utm_source=git)** | US-PA-Lancaster | Hybrid | Mar 02 |
+| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - IT Integration and Automation Development](https://jobright.ai/jobs/info/69a65777d706a731db383c09?utm_campaign=1079&utm_source=git)** | US-PA-Lancaster | Hybrid | Mar 02 |
+| ↳ | **[Intern - IT Integration and Automation Development](https://jobright.ai/jobs/info/69a647532c0d8b0f5cd05531?utm_campaign=1079&utm_source=git)** | Lancaster, PA, US | Hybrid | Mar 02 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Advanced Degree Software Engineer Intern - Customer Success Services](https://jobright.ai/jobs/info/69a62831b600907a962c0adb?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 02 |
 | **[Kingland](http://www.kingland.com)** | **[Advanced Software Engineering Intern](https://jobright.ai/jobs/info/69a65abed706a731db3841bc?utm_campaign=1079&utm_source=git)** | Fort Myers, Florida, United States | On Site | Mar 02 |
 | **[Millennium Space Systems](http://www.millennium-space.com/)** | **[Millennium Space Systems Summer 2026 Internship Program – Flight Software Test Intern](https://jobright.ai/jobs/info/69a625a7359fe034b1d0f713?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Mar 02 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a6550fe567421f4257555f?utm_campaign=1079&utm_source=git)** | Oregon | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a65295e567421f42575004?utm_campaign=1079&utm_source=git)** | New Hampshire | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a64afd2c0d8b0f5cd05b30?utm_campaign=1079&utm_source=git)** | Michigan | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a64892e567421f42573ea9?utm_campaign=1079&utm_source=git)** | Louisiana | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a64c1d2c0d8b0f5cd05ce8?utm_campaign=1079&utm_source=git)** | Indiana | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a64bdfe567421f42574444?utm_campaign=1079&utm_source=git)** | Minnesota | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a658bbd706a731db383dd7?utm_campaign=1079&utm_source=git)** | Ohio | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a644c62c0d8b0f5cd0514d?utm_campaign=1079&utm_source=git)** | North Carolina | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a644ed2c0d8b0f5cd05188?utm_campaign=1079&utm_source=git)** | Wyoming | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a644e62c0d8b0f5cd0517d?utm_campaign=1079&utm_source=git)** | Delaware | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a65115e567421f42574d35?utm_campaign=1079&utm_source=git)** | West Virginia | On Site | Mar 02 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a64892e567421f42573ea9?utm_campaign=1079&utm_source=git)** | Louisiana | On Site | Mar 02 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a660f4d706a731db384db2?utm_campaign=1079&utm_source=git)** | Nebraska | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a6538fd706a731db3834e5?utm_campaign=1079&utm_source=git)** | Mississippi | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a647422c0d8b0f5cd0551b?utm_campaign=1079&utm_source=git)** | Nevada | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a656b4d706a731db383a9b?utm_campaign=1079&utm_source=git)** | Utah | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a643f02c0d8b0f5cd04fdf?utm_campaign=1079&utm_source=git)** | Hawaii | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a66184d706a731db384f3f?utm_campaign=1079&utm_source=git)** | Alabama | On Site | Mar 02 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a64df42c0d8b0f5cd0601c?utm_campaign=1079&utm_source=git)** | Kentucky | On Site | Mar 02 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a65943d706a731db383eec?utm_campaign=1079&utm_source=git)** | Wisconsin | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a654d62c0d8b0f5cd06de1?utm_campaign=1079&utm_source=git)** | Vermont | On Site | Mar 02 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a66081d706a731db384cc0?utm_campaign=1079&utm_source=git)** | Maine | On Site | Mar 02 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a65e94d706a731db3848c8?utm_campaign=1079&utm_source=git)** | Kansas | On Site | Mar 02 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a656b4d706a731db383a9b?utm_campaign=1079&utm_source=git)** | Utah | On Site | Mar 02 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a66184d706a731db384f3f?utm_campaign=1079&utm_source=git)** | Alabama | On Site | Mar 02 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a6550fe567421f4257555f?utm_campaign=1079&utm_source=git)** | Oregon | On Site | Mar 02 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a65988d706a731db383f51?utm_campaign=1079&utm_source=git)** | Tennessee | On Site | Mar 02 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a643092c0d8b0f5cd04e6a?utm_campaign=1079&utm_source=git)** | South Carolina | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
