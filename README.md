@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Software Quality Engineering (Higher Education)](https://jobright.ai/jobs/info/69901ba90cc8ea15f1dac2cd?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 03 |
+| **[Sift](http://sift.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a68c94708b430a607aefdd?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Mar 03 |
+| **[Spacebourne](https://spacebourne.com)** | **[Software Engineering Intern for AI Aerospace Firm](https://jobright.ai/jobs/info/69a6a361f707784310afff98?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 03 |
+| **[Phia](https://phia.com)** | **[Full Stack Engineer Intern](https://jobright.ai/jobs/info/69a6a1ecf11be161e274f29b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 03 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a697501a944544ef634055?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Mar 03 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a692f3f707784310afe6ee?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | Remote | Mar 02 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Solutions Architect Intern (Intern Program)](https://jobright.ai/jobs/info/69a692ee708b430a607af801?utm_campaign=1079&utm_source=git)** | Beachwood, OH | Hybrid | Mar 02 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a692c1708b430a607af749?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | Remote | Mar 02 |
@@ -66,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/69a68e4df707784310afe1cb?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Mar 02 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a68dbdf707784310afe18a?utm_campaign=1079&utm_source=git)** | Nashville, TN | Remote | Mar 02 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a68d02708b430a607af0d5?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Remote | Mar 02 |
-| **[Sift](http://sift.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a68c94708b430a607aefdd?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Mar 02 |
 | **[Swift](http://www.swift.com)** | **[Software Developer in Test - Intern](https://jobright.ai/jobs/info/69a689141a944544ef632f9c?utm_campaign=1079&utm_source=git)** | Manassas, VA | On Site | Mar 02 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a68742f707784310afdeb7?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | Mar 02 |
 | **[League](https://league.com)** | **[Backend Engineer (Co-op) - Spring/Summer Term](https://jobright.ai/jobs/info/69a682bee567421f425788b0?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 02 |
@@ -74,7 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Intel](http://www.intel.com)** | **[Compiler Engineering Intern](https://jobright.ai/jobs/info/69a67f392c0d8b0f5cd09cb6?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 02 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Wireless Connectivity Software Development Engineer, Electronic Devices (Summer 2026)](https://jobright.ai/jobs/info/69a67dcb2c0d8b0f5cd09b5a?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Mar 02 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Information Services - Software Engineering Intern - Application Development](https://jobright.ai/jobs/info/69a52de1359fe034b1cfba7d?utm_campaign=1079&utm_source=git)** | Watsonville, CA | On Site | Mar 02 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a695dcf707784310afec62?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | Remote | Mar 02 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a69841f707784310afefb7?utm_campaign=1079&utm_source=git)** | Charleston, SC | On Site | Mar 02 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a695dcf707784310afec62?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | Remote | Mar 02 |
 | **[Almac Group](https://www.almacgroup.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69a67758d706a731db3865cb?utm_campaign=1079&utm_source=git)** | Audubon, PA | On Site | Mar 02 |
 | **[Dexmate](https://www.dexmate.ai/vega)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/6999a11b81476f6176b25eb2?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 02 |
 | **[The Kinetic Group](https://thekineticgroup.com/)** | **[New Technologies Intern - Federal Ammunition](https://jobright.ai/jobs/info/69a676d5e567421f42577928?utm_campaign=1079&utm_source=git)** | Anoka, MN | On Site | Mar 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RadNet](https://www.radnet.com)** | **[Intern Software Development](https://jobright.ai/jobs/info/69a6388ad706a731db381367?utm_campaign=1079&utm_source=git)** | Somerville, MA | On Site | Mar 02 |
 | **[Mercury](https://mercury.com)** | **[Backend Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69a637e9d706a731db3812b2?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Mar 02 |
 | **[Nordson Corporation](http://www.nordson.com)** | **[Summer Intern - Software Engineer](https://jobright.ai/jobs/info/69a63790d706a731db38123c?utm_campaign=1079&utm_source=git)** | East Providence, RI | On Site | Mar 02 |
-| **[Laserfiche](http://www.laserfiche.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/691f10b709cc522e8773d41c?utm_campaign=1079&utm_source=git)** | Long Beach, CA | Hybrid | Mar 02 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Wireless Connectivity Software Development Engineer, Electronic Devices (Summer 2026)](https://jobright.ai/jobs/info/69a653de2c0d8b0f5cd06bee?utm_campaign=1079&utm_source=git)** | PALO ALTO, California | On Site | Mar 02 |
-| **[The Citco Group Limited](https://www.citco.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a62ce9b600907a962c0df8?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 02 |
-| **[Arm](http://www.arm.com)** | **[Intern Verification Engineering](https://jobright.ai/jobs/info/69a64f8fe567421f42574a7d?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 02 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer Intern (Engineering Intern 3) - 27421](https://jobright.ai/jobs/info/69a62a66359fe034b1d0fa70?utm_campaign=1079&utm_source=git)** | Columbia, MD | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
