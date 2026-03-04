@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The COATS Company](https://coatscompany.com/press)** | **[Co-Op (Intern) Embedded Software Engineering](https://jobright.ai/jobs/info/69a7e9dc637232443f6542e7?utm_campaign=1079&utm_source=git)** | La Vergne, TN | On Site | Mar 04 |
 | **[SoFi](https://www.sofi.com)** | **[Intern, Software Engineer, Platform](https://jobright.ai/jobs/info/69a7dd3776bbe83d3afb5923?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 03 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Technology Summer Internship - Engineer (Philadelphia)](https://jobright.ai/jobs/info/69a7dd2e637232443f6537b0?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 03 |
 | **[Airgain, Inc.](https://airgain.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a7c29a637232443f651bba?utm_campaign=1079&utm_source=git)** | St Louis Park, MN | On Site | Mar 03 |
@@ -87,10 +88,11 @@ For a complete list, click the following sortable link below:
 | **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[Software Intern](https://jobright.ai/jobs/info/69a77ef976bbe83d3afae348?utm_campaign=1079&utm_source=git)** | Greater Houston | Remote | Mar 03 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Software Development Engineer in Test Intern](https://jobright.ai/jobs/info/69a77d1876bbe83d3afae1d6?utm_campaign=1079&utm_source=git)** | Newark, DE | Hybrid | Mar 03 |
 | **[XPO](https://www.xpo.com)** | **[Tech Program Intern III  (Full Stack Engineering)](https://jobright.ai/jobs/info/69a779e42672cb0acb4bf1b3?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Mar 03 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[Backend Engineer Intern (Insights)](https://jobright.ai/jobs/info/69a7f40e637232443f654acc?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Mar 03 |
 | **[Woman's Hospital](http://www.womans.org/)** | **[Information Systems - Summer Internship](https://jobright.ai/jobs/info/69a777ba2672cb0acb4bef2d?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Mar 03 |
 | **[Gannett Fleming](https://www.gftinc.com)** | **[Intern, Application Development](https://jobright.ai/jobs/info/69a795c076bbe83d3afaf78a?utm_campaign=1079&utm_source=git)** | US-VA-Richmond | Hybrid | Mar 03 |
-| ↳ | **[Intern, Application Development](https://jobright.ai/jobs/info/69a7a1d976bbe83d3afb03fd?utm_campaign=1079&utm_source=git)** | San Diego, CA, US | Hybrid | Mar 03 |
 | ↳ | **[Intern, Application Development](https://jobright.ai/jobs/info/69a7a1fb637232443f64e38f?utm_campaign=1079&utm_source=git)** | Richmond, VA, US | Hybrid | Mar 03 |
+| ↳ | **[Intern, Application Development](https://jobright.ai/jobs/info/69a7a1d976bbe83d3afb03fd?utm_campaign=1079&utm_source=git)** | San Diego, CA, US | Hybrid | Mar 03 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering Intern - Orlando, FL](https://jobright.ai/jobs/info/69a7a59d76bbe83d3afb0874?utm_campaign=1079&utm_source=git)** | Possible | On Site | Mar 03 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69a796b4637232443f64d8c5?utm_campaign=1079&utm_source=git)** | US-IN-West Lafayette | Hybrid | Mar 03 |
 | ↳ | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69a7941376bbe83d3afaf5bd?utm_campaign=1079&utm_source=git)** | West Lafayette, IN, US | Hybrid | Mar 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Intern - Embedded Software, System, and Test Engineer - 2026](https://jobright.ai/jobs/info/69989ec281476f6176b10015?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Mar 03 |
 | **[ExPretio Technologies](https://www.expretio.com)** | **[QA Developer - Intern](https://jobright.ai/jobs/info/69a6fbb576bbe83d3afa4d5f?utm_campaign=1079&utm_source=git)** | Canada - Montreal, QC | On Site | Mar 03 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Intern - Software Test Engineer - 2026](https://jobright.ai/jobs/info/69988112e0bddb6acac778fb?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Mar 03 |
-| ↳ | **[Android Applications Developer Intern - Summer 2026](https://jobright.ai/jobs/info/698bbdbc06d9b0622495e567?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 03 |
-| **[ExPretio Technologies](https://www.expretio.com)** | **[Fullstack Developer - Intern](https://jobright.ai/jobs/info/69a6f8992672cb0acb4b5bcc?utm_campaign=1079&utm_source=git)** | Canada - Montreal, QC | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
