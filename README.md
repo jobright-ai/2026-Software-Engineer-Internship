@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Quality Engineering Internship](https://jobright.ai/jobs/info/68fffb720ab3b222462b0ce0?utm_campaign=1079&utm_source=git)** | East Lansing, MI | On Site | Mar 04 |
 | **[Skyryse](https://www.skyryse.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69a9110d79f3f4037f43c55a?utm_campaign=1079&utm_source=git)** | Greater Los Angeles Area, CA | On Site | Mar 04 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Digital Engineering and Operations / Montvale Summer 2026](https://jobright.ai/jobs/info/69a905bb7ac93962b708f12d?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | Mar 04 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Summer - Computer Science Research Institute (CSRI), CA, Remote](https://jobright.ai/jobs/info/69950be781476f6176acea9d?utm_campaign=1079&utm_source=git)** | Livermore, CA | Remote | Mar 04 |
@@ -83,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69371379a0dde7020e2fed0a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69a8e47c2580d3183f010cd0?utm_campaign=1079&utm_source=git)** | Texas | On Site | Mar 04 |
 | **[iPipeline](http://www.ipipeline.com)** | **[Software Developer Intern (Summer 2026- Professional Services)](https://jobright.ai/jobs/info/69a8eac77ac93962b708ce2a?utm_campaign=1079&utm_source=git)** | US-PA-Exton | On Site | Mar 04 |
-| ↳ | **[Software Developer Intern (Summer 2026- Professional Services)](https://jobright.ai/jobs/info/69a8e6042580d3183f010e4f?utm_campaign=1079&utm_source=git)** | Exton, PA, US | On Site | Mar 04 |
 | ↳ | **[Software Developer Intern (Summer 2026- Professional Services)](https://jobright.ai/jobs/info/69a8ecea2580d3183f0115db?utm_campaign=1079&utm_source=git)** | iPipeline - King Of Prussia, Pennsylvania | On Site | Mar 04 |
+| ↳ | **[Software Developer Intern (Summer 2026- Professional Services)](https://jobright.ai/jobs/info/69a8e6042580d3183f010e4f?utm_campaign=1079&utm_source=git)** | Exton, PA, US | On Site | Mar 04 |
 | ↳ | **[Software Developer Intern (Summer 2026 - R&D)](https://jobright.ai/jobs/info/69a8e9da7ac93962b708cd2c?utm_campaign=1079&utm_source=git)** | US-FL-Ft. Lauderdale | On Site | Mar 04 |
 | ↳ | **[Software Developer Intern (Summer 2026 - R&D)](https://jobright.ai/jobs/info/69a8eb4b79f3f4037f437f8f?utm_campaign=1079&utm_source=git)** | Ft. Lauderdale, FL, US | On Site | Mar 04 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Intern](https://jobright.ai/jobs/info/69a8c4322580d3183f00d755?utm_campaign=1079&utm_source=git)** | Alexandria, VA | On Site | Mar 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NIO](https://www.nio.com)** | **[Systems Verification & Concurrent Kernel Architecture Research Intern](https://jobright.ai/jobs/info/69a875c42580d3183f0085d2?utm_campaign=1079&utm_source=git)** | San Jose-US | On Site | Mar 04 |
 | **[Lightera](http://www.lightera.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/696fe90382817106e976eef8?utm_campaign=1079&utm_source=git)** | Somerset, NJ | On Site | Mar 04 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a891932580d3183f00959c?utm_campaign=1079&utm_source=git)** | Possible | Remote | Mar 04 |
-| **[C1](http://www.spanlink.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/69a891fc7ac93962b7085021?utm_campaign=1079&utm_source=git)** | US-Virtual Office | Remote | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
