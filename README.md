@@ -57,11 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Resident Engineer Intern Summer 2026](https://jobright.ai/jobs/info/6971360151f7264771836c0b?utm_campaign=1079&utm_source=git)** | Columbus, MS | On Site | Mar 05 |
+| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Software Engineer Intern - Fraud Summer 2026](https://jobright.ai/jobs/info/69a9b3492ebd316bece142b5?utm_campaign=1079&utm_source=git)** | Chicago, IL | Remote | Mar 05 |
+| ↳ | **[Software Engineer Intern - Payments Summer 2026](https://jobright.ai/jobs/info/69a9b3362ebd316bece1427d?utm_campaign=1079&utm_source=git)** | Chicago, IL | Remote | Mar 05 |
+| **[NetApp](http://netapp.com)** | **[Software Engineer in Test Intern](https://jobright.ai/jobs/info/69a9af3d9ca4e908ec64e813?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 05 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Backend Engineering Internship - Typescript/Nest.js, Postgres, Docker, Microservices, AI/ML](https://jobright.ai/jobs/info/69a9ad892ebd316bece13eab?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Mar 05 |
+| **[Teledyne Brown Engineering](http://www.tbe.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a0b04d81476f6176bafcde?utm_campaign=1079&utm_source=git)** | Delaware, United States | On Site | Mar 05 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a6822dd706a731db38718e?utm_campaign=1079&utm_source=git)** | Colorado, United States | On Site | Mar 05 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a651bfe567421f42574e6d?utm_campaign=1079&utm_source=git)** | Connecticut, United States | On Site | Mar 05 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Software Engineer Intern - Payments Summer 2026](https://jobright.ai/jobs/info/69a9a65e9ca4e908ec64e33a?utm_campaign=1079&utm_source=git)** | Chicago (Green St), IL | Remote | Mar 05 |
 | ↳ | **[Software Engineer Intern - Fraud Summer 2026](https://jobright.ai/jobs/info/69a9a64f2ebd316bece13998?utm_campaign=1079&utm_source=git)** | Chicago (Green St), IL | Remote | Mar 05 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698df388f64d441a16502e1d?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Mar 05 |
-| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698dab9af64d441a164fd41e?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 05 |
 | ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698da47bf64d441a164fcb69?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 05 |
+| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698dab9af64d441a164fd41e?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 05 |
 | ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698da58778b4502f12a45ef9?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Mar 05 |
 | ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698dbc4078b4502f12a47c7f?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Mar 05 |
 | ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d988c78b4502f12a45204?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Mar 05 |
@@ -142,19 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Hotel at Old Town, Wichita KS](http://hotelatoldtown.com)** | **[Software Developer Apprentice](https://jobright.ai/jobs/info/69a98948f2055e05d171c1b4?utm_campaign=1079&utm_source=git)** | Wichita, KS | On Site | Mar 04 |
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69371379a0dde7020e2fed0a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69a8e47c2580d3183f010cd0?utm_campaign=1079&utm_source=git)** | Texas | On Site | Mar 04 |
-| **[iPipeline](http://www.ipipeline.com)** | **[Software Developer Intern (Summer 2026- Professional Services)](https://jobright.ai/jobs/info/69a8ecea2580d3183f0115db?utm_campaign=1079&utm_source=git)** | iPipeline - King Of Prussia, Pennsylvania | On Site | Mar 04 |
+| **[iPipeline](http://www.ipipeline.com)** | **[Software Developer Intern (Summer 2026- Professional Services)](https://jobright.ai/jobs/info/69a8e6042580d3183f010e4f?utm_campaign=1079&utm_source=git)** | Exton, PA, US | On Site | Mar 04 |
 | ↳ | **[Software Developer Intern (Summer 2026- Professional Services)](https://jobright.ai/jobs/info/69a8eac77ac93962b708ce2a?utm_campaign=1079&utm_source=git)** | US-PA-Exton | On Site | Mar 04 |
-| ↳ | **[Software Developer Intern (Summer 2026- Professional Services)](https://jobright.ai/jobs/info/69a8e6042580d3183f010e4f?utm_campaign=1079&utm_source=git)** | Exton, PA, US | On Site | Mar 04 |
-| ↳ | **[Software Developer Intern (Summer 2026 - R&D)](https://jobright.ai/jobs/info/69a8eb4b79f3f4037f437f8f?utm_campaign=1079&utm_source=git)** | Ft. Lauderdale, FL, US | On Site | Mar 04 |
+| ↳ | **[Software Developer Intern (Summer 2026- Professional Services)](https://jobright.ai/jobs/info/69a8ecea2580d3183f0115db?utm_campaign=1079&utm_source=git)** | iPipeline - King Of Prussia, Pennsylvania | On Site | Mar 04 |
 | ↳ | **[Software Developer Intern (Summer 2026 - R&D)](https://jobright.ai/jobs/info/69a8e9da7ac93962b708cd2c?utm_campaign=1079&utm_source=git)** | US-FL-Ft. Lauderdale | On Site | Mar 04 |
+| ↳ | **[Software Developer Intern (Summer 2026 - R&D)](https://jobright.ai/jobs/info/69a8eb4b79f3f4037f437f8f?utm_campaign=1079&utm_source=git)** | Ft. Lauderdale, FL, US | On Site | Mar 04 |
 | ↳ | **[Software Developer Intern (Summer 2026 - R&D)](https://jobright.ai/jobs/info/69a95304f6c22f2e368635d3?utm_campaign=1079&utm_source=git)** | Miami-FTL Area | On Site | Mar 04 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Intern](https://jobright.ai/jobs/info/69a8c4322580d3183f00d755?utm_campaign=1079&utm_source=git)** | Alexandria, VA | On Site | Mar 04 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - HMI Domain](https://jobright.ai/jobs/info/69a8c2bf79f3f4037f4337f5?utm_campaign=1079&utm_source=git)** | Novi, MI | On Site | Mar 04 |
-| **[Edo](https://edoenergy.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a8c09b79f3f4037f433390?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Mar 04 |
-| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Software Engineer Intern Summer 2026](https://jobright.ai/jobs/info/69a8bde42580d3183f00cca6?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 04 |
-| **[PanAgora Asset Management](http://www.panagora.com)** | **[Summer 2026 Intern- Software Engineer (Backend)](https://jobright.ai/jobs/info/69a8df1979f3f4037f436ccf?utm_campaign=1079&utm_source=git)** | CO Greenwood Village | On Site | Mar 04 |
-| **[ACI Worldwide](https://www.aciworldwide.com)** | **[Intern Software Engineering](https://jobright.ai/jobs/info/69a8b9a42580d3183f00c5b6?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Mar 04 |
-| **[HID](http://www.hidglobal.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69a8b8b52580d3183f00c469?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 04 |
-| **[AVL in North America](https://www.avl.com/web/na/avl-north-america)** | **[Digitalization Intern](https://jobright.ai/jobs/info/69a8b7f579f3f4037f431e07?utm_campaign=1079&utm_source=git)** | Plymouth, MI | Hybrid | Mar 04 |
-| **[HP](http://www.hp.com)** | **[Software Engineering Intern, Wireless - HP IQ](https://jobright.ai/jobs/info/69a8b1bb2580d3183f00ba2b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
