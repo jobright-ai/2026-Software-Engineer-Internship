@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - IS Development and Support](https://jobright.ai/jobs/info/69a92c857ac93962b7091d90?utm_campaign=1079&utm_source=git)** | Irving, TX | On Site | Mar 04 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Quality Engineering Internship](https://jobright.ai/jobs/info/68fffb720ab3b222462b0ce0?utm_campaign=1079&utm_source=git)** | East Lansing, MI | On Site | Mar 04 |
 | **[Skyryse](https://www.skyryse.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69a9110d79f3f4037f43c55a?utm_campaign=1079&utm_source=git)** | Greater Los Angeles Area, CA | On Site | Mar 04 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Digital Engineering and Operations / Montvale Summer 2026](https://jobright.ai/jobs/info/69a905bb7ac93962b708f12d?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | Mar 04 |
@@ -83,11 +84,11 @@ For a complete list, click the following sortable link below:
 | **[GP Enterprise Solutions](https://www.gpes.com)** | **[Computer Science Intern - Summer 2026](https://jobright.ai/jobs/info/69a9012779f3f4037f43add8?utm_campaign=1079&utm_source=git)** | Latham, NY | On Site | Mar 04 |
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69371379a0dde7020e2fed0a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69a8e47c2580d3183f010cd0?utm_campaign=1079&utm_source=git)** | Texas | On Site | Mar 04 |
-| **[iPipeline](http://www.ipipeline.com)** | **[Software Developer Intern (Summer 2026- Professional Services)](https://jobright.ai/jobs/info/69a8eac77ac93962b708ce2a?utm_campaign=1079&utm_source=git)** | US-PA-Exton | On Site | Mar 04 |
-| ↳ | **[Software Developer Intern (Summer 2026- Professional Services)](https://jobright.ai/jobs/info/69a8ecea2580d3183f0115db?utm_campaign=1079&utm_source=git)** | iPipeline - King Of Prussia, Pennsylvania | On Site | Mar 04 |
+| **[iPipeline](http://www.ipipeline.com)** | **[Software Developer Intern (Summer 2026- Professional Services)](https://jobright.ai/jobs/info/69a8ecea2580d3183f0115db?utm_campaign=1079&utm_source=git)** | iPipeline - King Of Prussia, Pennsylvania | On Site | Mar 04 |
 | ↳ | **[Software Developer Intern (Summer 2026- Professional Services)](https://jobright.ai/jobs/info/69a8e6042580d3183f010e4f?utm_campaign=1079&utm_source=git)** | Exton, PA, US | On Site | Mar 04 |
-| ↳ | **[Software Developer Intern (Summer 2026 - R&D)](https://jobright.ai/jobs/info/69a8e9da7ac93962b708cd2c?utm_campaign=1079&utm_source=git)** | US-FL-Ft. Lauderdale | On Site | Mar 04 |
+| ↳ | **[Software Developer Intern (Summer 2026- Professional Services)](https://jobright.ai/jobs/info/69a8eac77ac93962b708ce2a?utm_campaign=1079&utm_source=git)** | US-PA-Exton | On Site | Mar 04 |
 | ↳ | **[Software Developer Intern (Summer 2026 - R&D)](https://jobright.ai/jobs/info/69a8eb4b79f3f4037f437f8f?utm_campaign=1079&utm_source=git)** | Ft. Lauderdale, FL, US | On Site | Mar 04 |
+| ↳ | **[Software Developer Intern (Summer 2026 - R&D)](https://jobright.ai/jobs/info/69a8e9da7ac93962b708cd2c?utm_campaign=1079&utm_source=git)** | US-FL-Ft. Lauderdale | On Site | Mar 04 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Intern](https://jobright.ai/jobs/info/69a8c4322580d3183f00d755?utm_campaign=1079&utm_source=git)** | Alexandria, VA | On Site | Mar 04 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - HMI Domain](https://jobright.ai/jobs/info/69a8c2bf79f3f4037f4337f5?utm_campaign=1079&utm_source=git)** | Novi, MI | On Site | Mar 04 |
 | **[Edo](https://edoenergy.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a8c09b79f3f4037f433390?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Mar 04 |
@@ -136,8 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Snowflake](https://www.snowflake.com)** | **[Software Engineer Intern (Toronto) - Summer 2026](https://jobright.ai/jobs/info/69a8ab9a2580d3183f00b033?utm_campaign=1079&utm_source=git)** | Ontario, Canada | On Site | Mar 04 |
 | **[SPC Student Price Card](https://www.spccard.ca/)** | **[Junior Quality and Assurance Specialist (Co-op/Intern)](https://jobright.ai/jobs/info/69a8ae9d7ac93962b7086fb2?utm_campaign=1079&utm_source=git)** | Vaughan, Ontario, Canada | Hybrid | Mar 04 |
 | **[HP](http://www.hp.com)** | **[Software Engineering Intern, Product Security - HP IQ](https://jobright.ai/jobs/info/69a88eb67ac93962b7084d70?utm_campaign=1079&utm_source=git)** | San Francisco, California, United States of America | On Site | Mar 04 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Edison Engineering Development Program Intern – Software](https://jobright.ai/jobs/info/69a88ea32580d3183f009308?utm_campaign=1079&utm_source=git)** | Waukesha, WI | On Site | Mar 04 |
-| **[HP](http://www.hp.com)** | **[Software Engineering Intern, Firmware - HP IQ](https://jobright.ai/jobs/info/69a88cd97ac93962b7084c38?utm_campaign=1079&utm_source=git)** | San Francisco, California, United States of America | On Site | Mar 04 |
+| ↳ | **[Software Engineering Intern, Firmware - HP IQ](https://jobright.ai/jobs/info/69a88cd97ac93962b7084c38?utm_campaign=1079&utm_source=git)** | San Francisco, California, United States of America | On Site | Mar 04 |
 | ↳ | **[Software Engineering Intern, Device Experiences - HP IQ](https://jobright.ai/jobs/info/69a88c2e79f3f4037f4262a6?utm_campaign=1079&utm_source=git)** | San Francisco, California, United States of America | On Site | Mar 04 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69a8b39679f3f4037f43102c?utm_campaign=1079&utm_source=git)** | Fulton, MD | On Site | Mar 04 |
 | **[Al Warren Oil](https://www.alwarrenoil.com)** | **[Software Developer - Summer Internship 2026](https://jobright.ai/jobs/info/69a8b0d57ac93962b708733e?utm_campaign=1079&utm_source=git)** | Bensenville, Illinois, United States | On Site | Mar 04 |
