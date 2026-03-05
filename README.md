@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Software Engineer Intern - Payments Summer 2026](https://jobright.ai/jobs/info/69a9a65e9ca4e908ec64e33a?utm_campaign=1079&utm_source=git)** | Chicago (Green St), IL | Remote | Mar 05 |
+| ↳ | **[Software Engineer Intern - Fraud Summer 2026](https://jobright.ai/jobs/info/69a9a64f2ebd316bece13998?utm_campaign=1079&utm_source=git)** | Chicago (Green St), IL | Remote | Mar 05 |
+| **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698df388f64d441a16502e1d?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Mar 05 |
+| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698dab9af64d441a164fd41e?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 05 |
+| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698da47bf64d441a164fcb69?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 05 |
+| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698da58778b4502f12a45ef9?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Mar 05 |
+| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698dbc4078b4502f12a47c7f?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Mar 05 |
+| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d988c78b4502f12a45204?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Mar 05 |
 | **[Teledyne Brown Engineering](http://www.tbe.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/699fb4f8ce78e77b4fe599a3?utm_campaign=1079&utm_source=git)** | Arkansas, United States | On Site | Mar 05 |
 | **[Ferrovias](joinferrovias.com)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69a9992a7f9271426f8873a5?utm_campaign=1079&utm_source=git)** | Bloomington, IL | On Site | Mar 05 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698daa1678b4502f12a46455?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Mar 05 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion : Entry Level Software Developer](https://jobright.ai/jobs/info/69a997be7f9271426f887291?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Mar 05 |
 | **[BeamSphere](beamsphere.net)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69a99766f2055e05d171dbf6?utm_campaign=1079&utm_source=git)** | Oak Brook, IL | On Site | Mar 05 |
-| **[Conair LLC](http://www.conair.com/)** | **[2026 IT Web Developer Intern](https://jobright.ai/jobs/info/69a997627f9271426f887254?utm_campaign=1079&utm_source=git)** | Stamford, CT | Hybrid | Mar 05 |
 | **[CPL](https://cplteam.com/locations)** | **[Architecture Intern](https://jobright.ai/jobs/info/698d044a0f6f7e7a2ce8b1e9?utm_campaign=1079&utm_source=git)** | Jamestown, NY | On Site | Mar 05 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698d32e5f64d441a164f2d85?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Mar 05 |
 | **[Machinify](http://www.machinify.com)** | **[IT Coop / Intern - Infrastructure](https://jobright.ai/jobs/info/69a67ab3e567421f42577ca5?utm_campaign=1079&utm_source=git)** | La Grange, KY | Hybrid | Mar 05 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HID](http://www.hidglobal.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69a8b8b52580d3183f00c469?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 04 |
 | **[AVL in North America](https://www.avl.com/web/na/avl-north-america)** | **[Digitalization Intern](https://jobright.ai/jobs/info/69a8b7f579f3f4037f431e07?utm_campaign=1079&utm_source=git)** | Plymouth, MI | Hybrid | Mar 04 |
 | **[HP](http://www.hp.com)** | **[Software Engineering Intern, Wireless - HP IQ](https://jobright.ai/jobs/info/69a8b1bb2580d3183f00ba2b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 04 |
-| ↳ | **[Software Engineering Intern, Device Experiences - HP IQ](https://jobright.ai/jobs/info/69a8b18079f3f4037f430b29?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 04 |
-| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Intern Developer - 2026 Four Seasons Corporate Summer Internship](https://jobright.ai/jobs/info/69a8d32c7ac93962b708aa8e?utm_campaign=1079&utm_source=git)** | Four Seasons Corporate Office Toronto | Hybrid | Mar 04 |
-| **[HP](http://www.hp.com)** | **[Software Engineering Intern, Systems - HP IQ](https://jobright.ai/jobs/info/69a8af772580d3183f00b6c3?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 04 |
-| **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Digital Innovation](https://jobright.ai/jobs/info/69a972e6f2055e05d1719e4a?utm_campaign=1079&utm_source=git)** | Silver Spring, MD | On Site | Mar 04 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - HMI Domain](https://jobright.ai/jobs/info/69a8de927ac93962b708bdfd?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Mar 04 |
-| **[Premier Inc.](http://www.premierinc.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a8aedb2580d3183f00b59e?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Mar 04 |
-| **[HP](http://www.hp.com)** | **[Software Engineering Intern, Product Security - HP IQ](https://jobright.ai/jobs/info/69a8ae447ac93962b7086f2b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
