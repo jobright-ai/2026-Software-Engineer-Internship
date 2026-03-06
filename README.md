@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Labor Systems Web Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a718da1fc3d83b78092e2b?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 06 |
+| **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (AI Infrastructure) - 2026 Start (PhD)](https://jobright.ai/jobs/info/698f17a66ea51a7610f14083?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972e45498522904c697b808?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Mar 06 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Enovia PLM Development Intern Summer 2026](https://jobright.ai/jobs/info/691aa30715b4156367189930?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Remote | Mar 06 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Embedded Firmware Engineer](https://jobright.ai/jobs/info/698e33a80f6f7e7a2cea4189?utm_campaign=1079&utm_source=git)** | Greater Phoenix Area | On Site | Mar 06 |
 | **[Netflix](https://www.netflix.com)** | **[Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)](https://jobright.ai/jobs/info/69aa4cfc9ca4e908ec65a2e3?utm_campaign=1079&utm_source=git)** | Los Gatos, CA | On Site | Mar 06 |
@@ -72,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Akamai Technologies](https://www.akamai.com)** | **[Intern - Software Engineering, Government SysOps](https://jobright.ai/jobs/info/69aa6c7a1f59c56275e345c8?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Mar 05 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Software Engineer Intern - Clearfield, UT](https://jobright.ai/jobs/info/69aa6c361f59c56275e3454c?utm_campaign=1079&utm_source=git)** | Clearfield, UT | On Site | Mar 05 |
 | **[Agility Robotics](http://www.agilityrobotics.com)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/69aa67e92ebd316bece226b0?utm_campaign=1079&utm_source=git)** | Salem, OR | On Site | Mar 05 |
-| **[Zentari](https://www.linkedin.com/company/105977823)** | **[Coding Intern Unpaid](https://jobright.ai/jobs/info/69aa61ae1f59c56275e33c0c?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | Mar 05 |
+| **[Nexdex](https://chromewebstore.google.com/detail/studyflow-ai/pgbjkajabpacfiekfpkkalfhehnnegii?authuser=0&hl=en-GB)** | **[Coding Intern Unpaid](https://jobright.ai/jobs/info/69aa61ae1f59c56275e33c0c?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | Mar 05 |
 | **[Deepiri](https://deepiri.com)** | **[Software Engineer Intern (Open Source)](https://jobright.ai/jobs/info/69aa5a0b1f59c56275e335cb?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 05 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Enterprise Architecture and Analysis / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/69aa59d41f59c56275e335a5?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Mar 05 |
 | **[Serco](https://www.serco.com)** | **[Engineering Intern - (Part-Time/Temp)](https://jobright.ai/jobs/info/69aa59ce1f59c56275e3359f?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Mar 05 |
@@ -130,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[KION Group](http://www.kiongroup.com/)** | **[Software Engineer Intern/Co-Op](https://jobright.ai/jobs/info/69a9fbfe1f59c56275e2cefa?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI, United States | On Site | Mar 05 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Software Engineer Intern - Dulles VA - R10224851](https://jobright.ai/jobs/info/69a9f7d79ca4e908ec6544bc?utm_campaign=1079&utm_source=git)** | Dulles, VA | On Site | Mar 05 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer Intern - Strategic Systems](https://jobright.ai/jobs/info/69a60649359fe034b1d0cf5c?utm_campaign=1079&utm_source=git)** | Dedham, MA | On Site | Mar 05 |
-| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69aa16772ebd316bece1d22f?utm_campaign=1079&utm_source=git)** | Vancouver, WA | Hybrid | Mar 05 |
-| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69aa16772ebd316bece1d230?utm_campaign=1079&utm_source=git)** | Spring, TX | Hybrid | Mar 05 |
+| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69aa16772ebd316bece1d230?utm_campaign=1079&utm_source=git)** | Spring, TX | Hybrid | Mar 05 |
+| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69aa16772ebd316bece1d22f?utm_campaign=1079&utm_source=git)** | Vancouver, WA | Hybrid | Mar 05 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69a9f2192ebd316bece1ab3a?utm_campaign=1079&utm_source=git)** | Corvallis, OR | Hybrid | Mar 05 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a9f1501f59c56275e2bcf0?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Mar 05 |
 | **[Credo](http://www.credosemi.com)** | **[Firmware Development and Validation Engineering Intern](https://jobright.ai/jobs/info/69a9f1471f59c56275e2bccf?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69a9db9b2ebd316bece16bdd?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 05 |
 | **[NuAxis Innovations](http://www.nuaxis.com)** | **[Intern – SEG Prototyping](https://jobright.ai/jobs/info/697d5a203f57a33569673b4f?utm_campaign=1079&utm_source=git)** | Richmond, VA | On Site | Mar 05 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Summer Intern - Advertising Engineering](https://jobright.ai/jobs/info/698d0f060f6f7e7a2ce8c147?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Mar 05 |
-| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Applications Intern-1](https://jobright.ai/jobs/info/69a9f6b02ebd316bece1b08a?utm_campaign=1079&utm_source=git)** | Office - New York | On Site | Mar 05 |
-| ↳ | **[Applications Intern-2](https://jobright.ai/jobs/info/69a9f25e1f59c56275e2bf8e?utm_campaign=1079&utm_source=git)** | Office - New York | On Site | Mar 05 |
-| **[Lynden](https://www.lynden.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69a9f7c59ca4e908ec65449b?utm_campaign=1079&utm_source=git)** | 18000 International Blvd, SeaTac, WA 98188, USA | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
