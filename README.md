@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Akamai Technologies](https://www.akamai.com)** | **[Intern - Software Engineering, Government SysOps](https://jobright.ai/jobs/info/69aa6c7a1f59c56275e345c8?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Mar 05 |
+| **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Software Engineer Intern - Clearfield, UT](https://jobright.ai/jobs/info/69aa6c361f59c56275e3454c?utm_campaign=1079&utm_source=git)** | Clearfield, UT | On Site | Mar 05 |
 | **[Agility Robotics](http://www.agilityrobotics.com)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/69aa67e92ebd316bece226b0?utm_campaign=1079&utm_source=git)** | Salem, OR | On Site | Mar 05 |
 | **[Zentari](https://www.linkedin.com/company/105977823)** | **[Coding Intern Unpaid](https://jobright.ai/jobs/info/69aa61ae1f59c56275e33c0c?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | Mar 05 |
 | **[Deepiri](https://deepiri.com)** | **[Software Engineer Intern (Open Source)](https://jobright.ai/jobs/info/69aa5a0b1f59c56275e335cb?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Software Engineer - SQL Development Intern](https://jobright.ai/jobs/info/69aa348b1f59c56275e30cd7?utm_campaign=1079&utm_source=git)** | Dallas, TX | Remote | Mar 05 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/69a9e8df1f59c56275e2b1ee?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 05 |
 | ↳ | **[Software Engineer Internship](https://jobright.ai/jobs/info/69a9e8dc9ca4e908ec652cf9?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Mar 05 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Research & Development Intern - Creative Technologist, Summer 2026](https://jobright.ai/jobs/info/69a2d80d359fe034b1ce3335?utm_campaign=1079&utm_source=git)** | Glendale, CA | On Site | Mar 05 |
-| **[Tarrant Regional Water District](https://www.trwd.com/)** | **[Infrastructure Engineering Intern](https://jobright.ai/jobs/info/69a9bf5e2ebd316bece14aeb?utm_campaign=1079&utm_source=git)** | Fort Worth, TX | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
