@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Akamai Technologies](https://www.akamai.com)** | **[Intern - Software Engineering, Government SysOps](https://jobright.ai/jobs/info/69aa4c102ebd316bece20bb9?utm_campaign=1079&utm_source=git)** | 145 Broadway, Cambridge, MA, 02142, US | Hybrid | Mar 05 |
+| **[ST Engineering - San Antonio Aerospace (SAA)](https://stengg-aero.us)** | **[CONTINUOUS IMPROVEMENT INTERN](https://jobright.ai/jobs/info/69aa488c2ebd316bece20a1c?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Mar 05 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Embedded Software Engineering Intern](https://jobright.ai/jobs/info/69aa45722ebd316bece2089f?utm_campaign=1079&utm_source=git)** | Roseville, California, United States of America | Hybrid | Mar 05 |
 | **[Dematic](http://www.dematic.com)** | **[Software Engineer Intern/Co-Op](https://jobright.ai/jobs/info/69aa3efc2ebd316bece20249?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Mar 05 |
 | ↳ | **[Software Engineer Intern/Co-Op](https://jobright.ai/jobs/info/69aa3ef92ebd316bece2023b?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Mar 05 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69aa193d2ebd316bece1d3f8?utm_campaign=1079&utm_source=git)** | New Haven, CT | On Site | Mar 05 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Senior Software Engineer - Embedded Linux](https://jobright.ai/jobs/info/69aa16ed2ebd316bece1d2e9?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | Mar 05 |
 | ↳ | **[Senior Software Engineer - Embedded Linux](https://jobright.ai/jobs/info/69aa16da2ebd316bece1d2ae?utm_campaign=1079&utm_source=git)** | Cary, NC | On Site | Mar 05 |
-| **[Todd](https://toddagriscience.com)** | **[Backend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/69aa12b61f59c56275e2e32c?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Mar 05 |
 | **[Strava](http://www.strava.com)** | **[Software Engineering Intern, iOS, Achieve](https://jobright.ai/jobs/info/69aa125e1f59c56275e2e284?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 05 |
 | ↳ | **[Software Engineering Intern, Server, Internal Platform](https://jobright.ai/jobs/info/69aa123a1f59c56275e2e268?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 05 |
 | **[Skechers](http://www.skechers.com)** | **[Full Stack & GenAI Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69aa10269ca4e908ec655d06?utm_campaign=1079&utm_source=git)** | Manhattan Beach, CA | On Site | Mar 05 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[KION Group](http://www.kiongroup.com/)** | **[Software Engineer Intern/Co-Op](https://jobright.ai/jobs/info/69a9fbfe1f59c56275e2cefa?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI, United States | On Site | Mar 05 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Software Engineer Intern - Dulles VA - R10224851](https://jobright.ai/jobs/info/69a9f7d79ca4e908ec6544bc?utm_campaign=1079&utm_source=git)** | Dulles, VA | On Site | Mar 05 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer Intern - Strategic Systems](https://jobright.ai/jobs/info/69a60649359fe034b1d0cf5c?utm_campaign=1079&utm_source=git)** | Dedham, MA | On Site | Mar 05 |
-| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69aa16772ebd316bece1d230?utm_campaign=1079&utm_source=git)** | Spring, TX | Hybrid | Mar 05 |
-| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69aa16772ebd316bece1d22f?utm_campaign=1079&utm_source=git)** | Vancouver, WA | Hybrid | Mar 05 |
+| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69aa16772ebd316bece1d22f?utm_campaign=1079&utm_source=git)** | Vancouver, WA | Hybrid | Mar 05 |
+| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69aa16772ebd316bece1d230?utm_campaign=1079&utm_source=git)** | Spring, TX | Hybrid | Mar 05 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69a9f2192ebd316bece1ab3a?utm_campaign=1079&utm_source=git)** | Corvallis, OR | Hybrid | Mar 05 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a9f1501f59c56275e2bcf0?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Mar 05 |
 | **[Credo](http://www.credosemi.com)** | **[Firmware Development and Validation Engineering Intern](https://jobright.ai/jobs/info/69a9f1471f59c56275e2bccf?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 05 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Sigma Defense Systems LLC](http://www.sigdef.com/)** | **[1636 - Software Engineering Intern](https://jobright.ai/jobs/info/69a9cab41f59c56275e27d40?utm_campaign=1079&utm_source=git)** | Fairmont, WV | On Site | Mar 05 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a5c4ecb600907a962b6ec1?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Mar 05 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Software Engineer - SQL Development Intern](https://jobright.ai/jobs/info/69aa348b1f59c56275e30cd7?utm_campaign=1079&utm_source=git)** | Dallas, TX | Remote | Mar 05 |
-| **[HealthEdge](http://www.healthedge.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/69a9e8dc9ca4e908ec652cf9?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Mar 05 |
-| ↳ | **[Software Engineer Internship](https://jobright.ai/jobs/info/69a9e8df1f59c56275e2b1ee?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 05 |
+| **[HealthEdge](http://www.healthedge.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/69a9e8df1f59c56275e2b1ee?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 05 |
+| ↳ | **[Software Engineer Internship](https://jobright.ai/jobs/info/69a9e8dc9ca4e908ec652cf9?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Mar 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Research & Development Intern - Creative Technologist, Summer 2026](https://jobright.ai/jobs/info/69a2d80d359fe034b1ce3335?utm_campaign=1079&utm_source=git)** | Glendale, CA | On Site | Mar 05 |
 | **[Tarrant Regional Water District](https://www.trwd.com/)** | **[Infrastructure Engineering Intern](https://jobright.ai/jobs/info/69a9bf5e2ebd316bece14aeb?utm_campaign=1079&utm_source=git)** | Fort Worth, TX | On Site | Mar 05 |
 | **[Dassault Falcon Jet](http://www.dassaultfalcon.com)** | **[Summer Intern - Continuous Improvement Identification and Enhancement Project](https://jobright.ai/jobs/info/697005b782817106e977230b?utm_campaign=1079&utm_source=git)** | Arkansas, United States | On Site | Mar 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a651bfe567421f42574e6d?utm_campaign=1079&utm_source=git)** | Connecticut, United States | On Site | Mar 05 |
 | **[Ericsson](https://www.ericsson.com)** | **[Baseband Software Developer Intern](https://jobright.ai/jobs/info/69aa0e402ebd316bece1c9ab?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 05 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Software Engineer Intern - Payments Summer 2026](https://jobright.ai/jobs/info/69a9a65e9ca4e908ec64e33a?utm_campaign=1079&utm_source=git)** | Chicago (Green St), IL | Remote | Mar 05 |
-| ↳ | **[Software Engineer Intern - Fraud Summer 2026](https://jobright.ai/jobs/info/69a9a64f2ebd316bece13998?utm_campaign=1079&utm_source=git)** | Chicago (Green St), IL | Remote | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
