@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OTR Solutions](http://www.otrsolutions.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69aad312142d5b4265fc276a?utm_campaign=1079&utm_source=git)** | Roswell, GA | On Site | Mar 06 |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Connected Car Software Engineer Intern - Silicon Valley, CA - Summer 2026](https://jobright.ai/jobs/info/698f31986ea51a7610f170b2?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 06 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Design Engineer](https://jobright.ai/jobs/info/69aacae02747003c3d506e25?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 06 |
+| **[Persona AI](https://personainc.ai/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6972c76a584a1c1ef6fdd999?utm_campaign=1079&utm_source=git)** | Greater Houston | On Site | Mar 06 |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Engineering Intern, Digital & Connected - Summer 2026](https://jobright.ai/jobs/info/698ea46378b4502f12a57ebd?utm_campaign=1079&utm_source=git)** | New Britain, CT | On Site | Mar 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Labor Systems Web Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a718da1fc3d83b78092e2b?utm_campaign=1079&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 06 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (AI Infrastructure) - 2026 Start (PhD)](https://jobright.ai/jobs/info/698f17a66ea51a7610f14083?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972e45498522904c697b808?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Mar 06 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Enovia PLM Development Intern Summer 2026](https://jobright.ai/jobs/info/691aa30715b4156367189930?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Remote | Mar 06 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Embedded Firmware Engineer](https://jobright.ai/jobs/info/698e33a80f6f7e7a2cea4189?utm_campaign=1079&utm_source=git)** | Greater Phoenix Area | On Site | Mar 06 |
-| **[Netflix](https://www.netflix.com)** | **[Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)](https://jobright.ai/jobs/info/69aa4cfc9ca4e908ec65a2e3?utm_campaign=1079&utm_source=git)** | Los Gatos, CA | On Site | Mar 06 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Software Engineer Intern (Class of 2027)](https://jobright.ai/jobs/info/69395ed356b68f3dc4e6ce2d?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Mar 06 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/69a88f6e79f3f4037f4271a6?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 06 |
 | **[Sectra](http://www.sectra.com)** | **[Summer Internship Program - Engineering and Technology](https://jobright.ai/jobs/info/6997e3c2ce78e77b4fdc5c5b?utm_campaign=1079&utm_source=git)** | Shelton, CT | On Site | Mar 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ZEISS Group](http://www.zeiss.com)** | **[Intern -- Software Engineering](https://jobright.ai/jobs/info/69a9e28d9ca4e908ec651f33?utm_campaign=1079&utm_source=git)** | Dublin, CA | On Site | Mar 05 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/69a9e27a9ca4e908ec651ec2?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 05 |
 | **[Castleton Commodities International](http://www.cci.com/)** | **[Full-Stack Software Engineer Internship (Summer 2026)](https://jobright.ai/jobs/info/69aa0edf2ebd316bece1cad5?utm_campaign=1079&utm_source=git)** | Stamford, CT | On Site | Mar 05 |
-| **[Avnet](https://www.avnet.com)** | **[Application Developer Intern](https://jobright.ai/jobs/info/69a9df452ebd316bece1707b?utm_campaign=1079&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 05 |
-| **[HealthEdge](http://www.healthedge.com)** | **[Product Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69a9db9b2ebd316bece16bdd?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 05 |
-| **[NuAxis Innovations](http://www.nuaxis.com)** | **[Intern – SEG Prototyping](https://jobright.ai/jobs/info/697d5a203f57a33569673b4f?utm_campaign=1079&utm_source=git)** | Richmond, VA | On Site | Mar 05 |
-| **[The Washington Post](http://www.washingtonpost.com/)** | **[Summer Intern - Advertising Engineering](https://jobright.ai/jobs/info/698d0f060f6f7e7a2ce8c147?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
