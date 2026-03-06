@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Enovia PLM Development Intern Summer 2026](https://jobright.ai/jobs/info/691aa30715b4156367189930?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Remote | Mar 06 |
+| **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern - Embedded Firmware Engineer](https://jobright.ai/jobs/info/698e33a80f6f7e7a2cea4189?utm_campaign=1079&utm_source=git)** | Greater Phoenix Area | On Site | Mar 06 |
+| **[Netflix](https://www.netflix.com)** | **[Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)](https://jobright.ai/jobs/info/69aa4cfc9ca4e908ec65a2e3?utm_campaign=1079&utm_source=git)** | Los Gatos, CA | On Site | Mar 06 |
+| **[Publicis Sapient](https://www.publicissapient.com)** | **[Software Engineer Intern (Class of 2027)](https://jobright.ai/jobs/info/69395ed356b68f3dc4e6ce2d?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Mar 06 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/69a88f6e79f3f4037f4271a6?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 06 |
+| **[Sectra](http://www.sectra.com)** | **[Summer Internship Program - Engineering and Technology](https://jobright.ai/jobs/info/6997e3c2ce78e77b4fdc5c5b?utm_campaign=1079&utm_source=git)** | Shelton, CT | On Site | Mar 06 |
 | **[IntelliVerse](https://play.google.com/store/apps/details?id=com.intelliverse)** | **[Android AI Developer (unpaid internship)](https://jobright.ai/jobs/info/69aa9e1f9ca4e908ec660ed7?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Remote | Mar 06 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[IC Development (Software) - Summer Intern (May '26 - Aug '26)](https://jobright.ai/jobs/info/69aa859a2ebd316bece24347?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 05 |
 | **[Pulsewave](https://www.pulsewave.app/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69aa7cd99ca4e908ec65cab7?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Remote | Mar 05 |
@@ -135,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Software Engineering Intern - Summer 2026 - ASL](https://jobright.ai/jobs/info/69aa0f479ca4e908ec655b97?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Mar 05 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[IT Quality Assurance Intern](https://jobright.ai/jobs/info/69a9ea5a9ca4e908ec65304c?utm_campaign=1079&utm_source=git)** | Chesapeake, VA | On Site | Mar 05 |
 | **[Briggs & Stratton](http://www.briggsandstratton.com/us/en)** | **[Intern - Software Engineering Summer 2026](https://jobright.ai/jobs/info/69a8bd8179f3f4037f432d6c?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Mar 05 |
+| **[CalAmp](http://www.calamp.com)** | **[Intern, Engineer Firmware - Carlsbad, CA (Summer 2026)](https://jobright.ai/jobs/info/69aaa6cf34184204e4493302?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | On Site | Mar 05 |
 | **[COLSA](http://www.colsa.com)** | **[CSF/Software Engineering Intern (Undergrad-Summer 2026)](https://jobright.ai/jobs/info/69a9e75c1f59c56275e2afde?utm_campaign=1079&utm_source=git)** | Alabama, United States | On Site | Mar 05 |
 | **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Applications Intern-1](https://jobright.ai/jobs/info/69a9e63c9ca4e908ec652a66?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 05 |
 | **[Alstom](https://www.alstom.com/)** | **[Digital Services Engineering Intern](https://jobright.ai/jobs/info/69a2529bb600907a96289b7d?utm_campaign=1079&utm_source=git)** | Saint-Bruno, Quebec, Canada | On Site | Mar 05 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Applications Intern-1](https://jobright.ai/jobs/info/69a9f6b02ebd316bece1b08a?utm_campaign=1079&utm_source=git)** | Office - New York | On Site | Mar 05 |
 | ↳ | **[Applications Intern-2](https://jobright.ai/jobs/info/69a9f25e1f59c56275e2bf8e?utm_campaign=1079&utm_source=git)** | Office - New York | On Site | Mar 05 |
 | **[Lynden](https://www.lynden.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69a9f7c59ca4e908ec65449b?utm_campaign=1079&utm_source=git)** | 18000 International Blvd, SeaTac, WA 98188, USA | Hybrid | Mar 05 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software System Technologist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/69a9d1122ebd316bece15615?utm_campaign=1079&utm_source=git)** | Allen, TX | Hybrid | Mar 05 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Associate Developer](https://jobright.ai/jobs/info/698d45a60f6f7e7a2ce91872?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | On Site | Mar 05 |
-| **[Stonebranch](https://www.stonebranch.com/)** | **[Software Test Engineer Intern](https://jobright.ai/jobs/info/69a9d0299ca4e908ec64fc7f?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | Hybrid | Mar 05 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/69054f30ff462851feffc995?utm_campaign=1079&utm_source=git)** | Lexington, KY | Hybrid | Mar 05 |
-| **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/698d23d6f64d441a164f188a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 05 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Enterprise Architecture](https://jobright.ai/jobs/info/6961e04df3f4cd132506da47?utm_campaign=1079&utm_source=git)** | Arlington, TX | Hybrid | Mar 05 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Hardware](https://jobright.ai/jobs/info/697841d539f7f96cc6d09310?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
