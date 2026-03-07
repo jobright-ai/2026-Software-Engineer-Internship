@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/69abbb4d2747003c3d51736a?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
 | **[ada CX](https://www.ada.cx)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699f673281476f6176b8feb2?utm_campaign=1079&utm_source=git)** | Remote - Canada | Remote | Mar 06 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/69ababb2142d5b4265fce2d6?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Mar 06 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Software Engineer Intern (SVT Team) - Summer 2026](https://jobright.ai/jobs/info/69abaab77e1fab39d38330bd?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Connected Car Software Engineer Intern - Silicon Valley, CA - Summer 2026](https://jobright.ai/jobs/info/698f31986ea51a7610f170b2?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 06 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Design Engineer](https://jobright.ai/jobs/info/69aacae02747003c3d506e25?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 06 |
 | **[Persona AI](https://personainc.ai/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6972c76a584a1c1ef6fdd999?utm_campaign=1079&utm_source=git)** | Greater Houston | On Site | Mar 06 |
-| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Engineering Intern, Digital & Connected - Summer 2026](https://jobright.ai/jobs/info/698ea46378b4502f12a57ebd?utm_campaign=1079&utm_source=git)** | New Britain, CT | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
