@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PerkinElmer](http://www.perkinelmer.com)** | **[Embedded System Intern](https://jobright.ai/jobs/info/69ac4e122747003c3d520766?utm_campaign=1079&utm_source=git)** | Woodbridge, Ontario, Canada | On Site | Mar 07 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: System Quality Assurance Co-op, Robots (July to December)](https://jobright.ai/jobs/info/69733832bc8e722e7b180b97?utm_campaign=1079&utm_source=git)** | Needham, MA | On Site | Mar 07 |
 | **[Etsy](https://www.etsy.com/)** | **[Software Engineering Intern, 2026 (Brooklyn, NY)](https://jobright.ai/jobs/info/6983ad8d01214b4cdacb7cad?utm_campaign=1079&utm_source=git)** | Brooklyn, NY | Hybrid | Mar 07 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Embedded Systems Intern](https://jobright.ai/jobs/info/6957e5859f1b381eb270d2e5?utm_campaign=1079&utm_source=git)** | Warrendale, PA | On Site | Mar 07 |
 | **[Zipline](https://www.zipline.com/)** | **[Software Systems Validation Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccd9249a7695fbd038539?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Mar 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Multi-Modal Sensing & Secure AI Devices](https://jobright.ai/jobs/info/69723dd9584a1c1ef6fd3927?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Mar 06 |
 | **[Veradigm®](https://veradigm.com)** | **[Software Engineering Intern - Hybrid](https://jobright.ai/jobs/info/69a65a39e567421f42575df8?utm_campaign=1079&utm_source=git)** | Raleigh, NC | Hybrid | Mar 06 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Transformation Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6973913737785856350d6279?utm_campaign=1079&utm_source=git)** | Parsippany, NJ | On Site | Mar 06 |
-| **[Rilla](https://www.rilla.com)** | **[Software Engineer Intern - 2027 Graduates](https://jobright.ai/jobs/info/68ce17e6e23def7af55c2054?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 06 |
-| **[Varda Space Industries](http://varda.com)** | **[Flight Software (C++) Internship - Summer 2026](https://jobright.ai/jobs/info/69a31e55b600907a9629714f?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
