@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026  Software Engineer Internship  - Dulles VA - R10207889](https://jobright.ai/jobs/info/69ab4bec7e1fab39d382e4d0?utm_campaign=1079&utm_source=git)** | Dulles, VA | On Site | Mar 06 |
 | **[Axiom Space](http://www.axiomspace.com)** | **[Software Application Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69ab46a92747003c3d50f617?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Mar 06 |
 | **[Unique Industries](https://www.favors.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69ab45102747003c3d50f2da?utm_campaign=1079&utm_source=git)** | Philadelphia, PA, US | On Site | Mar 06 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Customer Applications Developer Intern](https://jobright.ai/jobs/info/69ab44b2142d5b4265fc8e7f?utm_campaign=1079&utm_source=git)** | Paramus, NJ | Hybrid | Mar 06 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[IBM Research Creative Developer Intern](https://jobright.ai/jobs/info/69a1542fb600907a96279dc1?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Mar 06 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69aaf9ec2747003c3d50a2ff?utm_campaign=1079&utm_source=git)** | Jersey City, NJ United States of America | Hybrid | Mar 06 |
 | **[Comtech Telecommunications Corp.](https://comtech.com)** | **[Intern - Embedded Software Engineering](https://jobright.ai/jobs/info/69aaf94a7e1fab39d3828d12?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 06 |
-| **[IBM](http://www.ibm.com)** | **[IBM Research Creative Developer Intern](https://jobright.ai/jobs/info/699a8853ce78e77b4fdf41ca?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Mar 06 |
-| ↳ | **[IBM Research Creative Developer Intern](https://jobright.ai/jobs/info/69a2787db600907a9628ce7a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 06 |
+| **[IBM](http://www.ibm.com)** | **[IBM Research Creative Developer Intern](https://jobright.ai/jobs/info/69a2787db600907a9628ce7a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 06 |
+| ↳ | **[IBM Research Creative Developer Intern](https://jobright.ai/jobs/info/699a8853ce78e77b4fdf41ca?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Mar 06 |
 | **[York Space Systems](http://www.yorkspacesystems.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6933f7d5764507023d1baf82?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Mar 06 |
 | **[Elo Touch Solutions](http://www.elotouch.com)** | **[Android Developer Intern](https://jobright.ai/jobs/info/69aaf5ae7e1fab39d3828aef?utm_campaign=1079&utm_source=git)** | Milpitas, CA | Hybrid | Mar 06 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/698e8b1e0f6f7e7a2ceaab52?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 06 |
@@ -150,7 +151,6 @@ For a complete list, click the following sortable link below:
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Enterprise Architecture and Analysis / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/69aa59d41f59c56275e335a5?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Mar 05 |
 | **[Amperesand](https://amperesand.io/)** | **[Software Engineering Intern - Test Engineering](https://jobright.ai/jobs/info/6990116f0f6f7e7a2cec6339?utm_campaign=1079&utm_source=git)** | Reno, NV | On Site | Mar 05 |
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6944513f50bbaf7650564ecf?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Mar 05 |
-| **[eClinicalWorks](http://www.eclinicalworks.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/69aa57492ebd316bece21b01?utm_campaign=1079&utm_source=git)** | Westborough, MA | Remote | Mar 05 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Embedded Software Engineering Intern](https://jobright.ai/jobs/info/69aa543e2ebd316bece21559?utm_campaign=1079&utm_source=git)** | Roseville, CA | Hybrid | Mar 05 |
 | **[Akamai Technologies](https://www.akamai.com)** | **[Intern - Software Engineering, Government SysOps](https://jobright.ai/jobs/info/69aa4c102ebd316bece20bb9?utm_campaign=1079&utm_source=git)** | 145 Broadway, Cambridge, MA, 02142, US | Hybrid | Mar 05 |
 | **[ST Engineering - San Antonio Aerospace (SAA)](https://stengg-aero.us)** | **[CONTINUOUS IMPROVEMENT INTERN](https://jobright.ai/jobs/info/69aa488c2ebd316bece20a1c?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Mar 05 |
