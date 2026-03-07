@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/69abbb4d2747003c3d51736a?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
+| **[AIERAC](www.aierac.com)** | **[Intern](https://jobright.ai/jobs/info/69abd53d7e1fab39d383880c?utm_campaign=1079&utm_source=git)** | Orlando, FL | Hybrid | Mar 06 |
 | **[ada CX](https://www.ada.cx)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699f673281476f6176b8feb2?utm_campaign=1079&utm_source=git)** | Remote - Canada | Remote | Mar 06 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/69ababb2142d5b4265fce2d6?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Mar 06 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Software Engineer Intern (SVT Team) - Summer 2026](https://jobright.ai/jobs/info/69abaab77e1fab39d38330bd?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 06 |
@@ -109,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[MojoTech](https://www.mojotech.com/)** | **[Software Engineer Intern - PVD](https://jobright.ai/jobs/info/69ab3178142d5b4265fc76b0?utm_campaign=1079&utm_source=git)** | Providence, RI | Hybrid | Mar 06 |
 | **[Ninth Wave](https://ninth-wave.com/)** | **[Junior UI/UX Developer Intern](https://jobright.ai/jobs/info/69ab2e08142d5b4265fc7102?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | **[Credo](http://www.credosemi.com)** | **[Firmware and Tool Development Engineering Intern](https://jobright.ai/jobs/info/69ab2b287e1fab39d382b8fa?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 06 |
+| **[Per Scholas](http://www.perscholas.org/)** | **[Software Engineer Trainee](https://jobright.ai/jobs/info/69ab2d89142d5b4265fc6fdd?utm_campaign=1079&utm_source=git)** | Newark, NJ | Remote | Mar 06 |
 | **[NDI (Northern Digital Inc.)](https://www.ndigital.com/)** | **[Software Intern](https://jobright.ai/jobs/info/69ab28217e1fab39d382b0b8?utm_campaign=1079&utm_source=git)** | Shelburne, Town of, Vermont, United States | On Site | Mar 06 |
-| **[Per Scholas](http://www.perscholas.org/)** | **[Software Engineer](https://jobright.ai/jobs/info/69ab2d89142d5b4265fc6fdd?utm_campaign=1079&utm_source=git)** | Newark, NJ | Remote | Mar 06 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer, Community Apprenticeship - Intern](https://jobright.ai/jobs/info/69ab208a7e1fab39d382a745?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | Hybrid | Mar 06 |
 | **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Cloud & Infrastructure Engineering Intern](https://jobright.ai/jobs/info/69934ca8ce78e77b4fd71957?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 06 |
 | **[Indiana Farmers Insurance](https://insurance.indianafarmers.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/69ab1e3b2747003c3d50bbc7?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Mar 06 |
