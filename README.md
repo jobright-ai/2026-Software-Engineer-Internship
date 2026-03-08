@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Software Engineering (Reimbursement Intelligence)](https://jobright.ai/jobs/info/698fe9110cc8ea15f1da8186?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 07 |
 | **[Serco](https://www.serco.com)** | **[Engineering Intern - (Part-Time/Temp)](https://jobright.ai/jobs/info/69acfb49142d5b4265fe20b9?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Mar 07 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Software Engineering Intern, CUDA Build and Packaging - Summer 2026](https://jobright.ai/jobs/info/69acdf942747003c3d527594?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 07 |
 | **[Paramount](https://www.paramount.com)** | **[Junior Game Engineer Intern (Summer 2026 - In-Person - LA/NY)](https://jobright.ai/jobs/info/69accdb92747003c3d5252b2?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Software Engineer](https://jobright.ai/jobs/info/69ab3c27142d5b4265fc84f3?utm_campaign=1079&utm_source=git)** | Holtsville, New York, United States | Hybrid | Mar 06 |
 | **[Mitsubishi Electric Trane US](https://metahvac.com/)** | **[Intern, Software development](https://jobright.ai/jobs/info/69ab3712142d5b4265fc80d3?utm_campaign=1079&utm_source=git)** | Suwanee, GA | On Site | Mar 06 |
 | **[AWP Safety](http://www.awpsafety.com)** | **[IT Application Development Intern](https://jobright.ai/jobs/info/69ab35d32747003c3d50e432?utm_campaign=1079&utm_source=git)** | North Canton, OH, USA | Remote | Mar 06 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Digital Technology Internship - Summer 2026](https://jobright.ai/jobs/info/69ab35c1142d5b4265fc7ed4?utm_campaign=1079&utm_source=git)** | Schenectady, NY | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
