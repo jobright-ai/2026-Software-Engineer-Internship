@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Serco](https://www.serco.com)** | **[Engineering Intern - (Part-Time/Temp)](https://jobright.ai/jobs/info/69aca6e92747003c3d52476b?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 07 |
-| **[Apulza](https://www.linkedin.com/company/111952050)** | **[Software Engineer Intern (remote)](https://jobright.ai/jobs/info/69aca5122747003c3d5245f7?utm_campaign=1079&utm_source=git)** | Boston, MA | Remote | Mar 07 |
+| **[Apulza](https://www.linkedin.com/company/111952050)** | **[Software Engineer Intern (remote)](https://jobright.ai/jobs/info/69acb8b97e1fab39d3844609?utm_campaign=1079&utm_source=git)** | Boston, MA | Remote | Mar 07 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Identity) - Summer 2026](https://jobright.ai/jobs/info/690e894bd046ab6061cfea51?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Mar 07 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - ASIC Gen-AI](https://jobright.ai/jobs/info/69ac6c392747003c3d5212af?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 07 |
 | **[Kiewit](http://www.kiewit.com)** | **[Integrative Engineer Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/695870a09f1b381eb2715e71?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Mar 07 |
@@ -136,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Software Engineer](https://jobright.ai/jobs/info/69ab640e142d5b4265fc9979?utm_campaign=1079&utm_source=git)** | Holtsville, NY | Hybrid | Mar 06 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Software Engineer Intern (SVT Team) - Summer 2026](https://jobright.ai/jobs/info/69aba3757e1fab39d3831ce0?utm_campaign=1079&utm_source=git)** | Chicago (Green St), IL | Hybrid | Mar 06 |
 | ↳ | **[Software Engineer Intern (Consumer) - Summer 2026](https://jobright.ai/jobs/info/69aba3767e1fab39d3831cec?utm_campaign=1079&utm_source=git)** | Chicago (Green St), IL | Hybrid | Mar 06 |
+| **[Rize Credit Union](https://www.scefcu.org)** | **[Part-time Summer Intern - IT Team](https://jobright.ai/jobs/info/69acb6207e1fab39d38445ea?utm_campaign=1079&utm_source=git)** | Irwindale, CA | On Site | Mar 06 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026  Software Engineer Internship  - Dulles VA - R10207889](https://jobright.ai/jobs/info/69ab4bec7e1fab39d382e4d0?utm_campaign=1079&utm_source=git)** | Dulles, VA | On Site | Mar 06 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Integrations Intern](https://jobright.ai/jobs/info/69abef497e1fab39d383bce5?utm_campaign=1079&utm_source=git)** | Paramus, NJ | On Site | Mar 06 |
 | **[Axiom Space](http://www.axiomspace.com)** | **[Software Application Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69ab46a92747003c3d50f617?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Mar 06 |
