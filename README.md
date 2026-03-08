@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[[Online Assessment] Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6978412188e2b47213bc4e16?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Quality Assurance Analyst](https://jobright.ai/jobs/info/69ad43f7142d5b4265fe7411?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Mar 08 |
 | **[GenPark](https://genpark.ai)** | **[Web Development Intern](https://jobright.ai/jobs/info/69ad33592747003c3d52c9bf?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Mar 08 |
 | **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Software Engineering (Reimbursement Intelligence)](https://jobright.ai/jobs/info/698fe9110cc8ea15f1da8186?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 07 |
 | **[Serco](https://www.serco.com)** | **[Engineering Intern - (Part-Time/Temp)](https://jobright.ai/jobs/info/69acfb49142d5b4265fe20b9?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Mar 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Software Engineering Intern, CUDA Build and Packaging - Summer 2026](https://jobright.ai/jobs/info/69ab4445142d5b4265fc8d0f?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara | On Site | Mar 06 |
 | **[AskBio Inc.](http://www.askbio.com/)** | **[Intern- IT, Enterprise Architecture](https://jobright.ai/jobs/info/69ab4440142d5b4265fc8cfc?utm_campaign=1079&utm_source=git)** | US Discovery 1 | On Site | Mar 06 |
 | **[Dispatch Energy](https://www.c2.energy/)** | **[Summer Software Engineering (SWE) Intern](https://jobright.ai/jobs/info/69ab43e37e1fab39d382dc2a?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
-| **[AWP Safety](http://www.awpsafety.com)** | **[IT Application Development Intern](https://jobright.ai/jobs/info/69ab402a7e1fab39d382d887?utm_campaign=1079&utm_source=git)** | North Canton, OH | Remote | Mar 06 |
-| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - IT Application Development](https://jobright.ai/jobs/info/697ef68bce48107c054316c5?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
