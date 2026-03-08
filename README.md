@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zipline](https://www.zipline.com/)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc6b4aa598a08c3ed98d0?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Mar 08 |
+| **[Clarity](https://clarityapp.io)** | **[Internship - Software Engineering Intern](https://jobright.ai/jobs/info/687674c0ae2f413e4a5afd36?utm_campaign=1079&utm_source=git)** | Herndon, VA | Remote | Mar 08 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/699e829e81476f6176b7b1c3?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Mar 08 |
+| **[Lila Sciences](https://www.lila.ai)** | **[Intern, Security & Cloud Engineering](https://jobright.ai/jobs/info/6973f8f1206da320f49e0436?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Mar 08 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69861ffa0f6f7e7a2ce0f732?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Mar 08 |
+| ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/6931605a3a5f32082f714795?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 08 |
+| **[Giga](https://giga.ai)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6958f37ff1f8465b79ef9470?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 08 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Software Engineer - Autonomous Driving - Simulation Team (Bachelor's)](https://jobright.ai/jobs/info/697c67c4727747250d5716a6?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Mar 08 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/6922a3a4c0cefa13343d8a2a?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Mar 08 |
 | ↳ | **[Test Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69abdee02747003c3d51b65f?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Victaulic](https://www.victaulic.com)** | **[2026 Summer Internship – Information Technology](https://jobright.ai/jobs/info/69ab6551142d5b4265fc9f4d?utm_campaign=1079&utm_source=git)** | Northampton County, PA | On Site | Mar 06 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Software Engineer](https://jobright.ai/jobs/info/69ab640e142d5b4265fc9979?utm_campaign=1079&utm_source=git)** | Holtsville, NY | Hybrid | Mar 06 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Software Engineer Intern (SVT Team) - Summer 2026](https://jobright.ai/jobs/info/69aba3757e1fab39d3831ce0?utm_campaign=1079&utm_source=git)** | Chicago (Green St), IL | Hybrid | Mar 06 |
-| ↳ | **[Software Engineer Intern (Consumer) - Summer 2026](https://jobright.ai/jobs/info/69aba3767e1fab39d3831cec?utm_campaign=1079&utm_source=git)** | Chicago (Green St), IL | Hybrid | Mar 06 |
-| **[Rize Credit Union](https://www.scefcu.org)** | **[Part-time Summer Intern - IT Team](https://jobright.ai/jobs/info/69acb6207e1fab39d38445ea?utm_campaign=1079&utm_source=git)** | Irwindale, CA | On Site | Mar 06 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Integrations Intern](https://jobright.ai/jobs/info/69abef497e1fab39d383bce5?utm_campaign=1079&utm_source=git)** | Paramus, NJ | On Site | Mar 06 |
-| **[Axiom Space](http://www.axiomspace.com)** | **[Software Application Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69ab46a92747003c3d50f617?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Mar 06 |
-| **[Unique Industries](https://www.favors.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69ab45102747003c3d50f2da?utm_campaign=1079&utm_source=git)** | Philadelphia, PA, US | On Site | Mar 06 |
-| **[PerkinElmer](http://www.perkinelmer.com)** | **[Embedded System Intern](https://jobright.ai/jobs/info/69aba3302747003c3d513175?utm_campaign=1079&utm_source=git)** | Woodbridge | On Site | Mar 06 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Customer Applications Developer Intern](https://jobright.ai/jobs/info/69ab44b2142d5b4265fc8e7f?utm_campaign=1079&utm_source=git)** | Paramus, NJ | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
