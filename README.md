@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Web Development Intern](https://jobright.ai/jobs/info/69ad33592747003c3d52c9bf?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Mar 08 |
 | **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Software Engineering (Reimbursement Intelligence)](https://jobright.ai/jobs/info/698fe9110cc8ea15f1da8186?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 07 |
 | **[Serco](https://www.serco.com)** | **[Engineering Intern - (Part-Time/Temp)](https://jobright.ai/jobs/info/69acfb49142d5b4265fe20b9?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Mar 07 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Software Engineering Intern, CUDA Build and Packaging - Summer 2026](https://jobright.ai/jobs/info/69acdf942747003c3d527594?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 07 |
@@ -112,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT - Quality Assurance Intern](https://jobright.ai/jobs/info/698fc01c0f6f7e7a2cec0cd9?utm_campaign=1079&utm_source=git)** | Plano, TX | Hybrid | Mar 07 |
 | **[Atomic Semi](https://atomicsemi.com)** | **[Fab Software Engineering Intern - Summer](https://jobright.ai/jobs/info/69abed8d142d5b4265fd6f96?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 07 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Technology Summer Internship - Engineer (Philadelphia)](https://jobright.ai/jobs/info/69aad6dd142d5b4265fc289d?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 07 |
+| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69ad35c82747003c3d52cfbe?utm_campaign=1079&utm_source=git)** | Texas, United States | On Site | Mar 06 |
 | **[ada CX](https://www.ada.cx)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699f673281476f6176b8feb2?utm_campaign=1079&utm_source=git)** | Remote - Canada | Remote | Mar 06 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/69ababb2142d5b4265fce2d6?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Mar 06 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Software Engineer Intern (SVT Team) - Summer 2026](https://jobright.ai/jobs/info/69abaab77e1fab39d38330bd?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dispatch Energy](https://www.c2.energy/)** | **[Summer Software Engineering (SWE) Intern](https://jobright.ai/jobs/info/69ab43e37e1fab39d382dc2a?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
 | **[AWP Safety](http://www.awpsafety.com)** | **[IT Application Development Intern](https://jobright.ai/jobs/info/69ab402a7e1fab39d382d887?utm_campaign=1079&utm_source=git)** | North Canton, OH | Remote | Mar 06 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - IT Application Development](https://jobright.ai/jobs/info/697ef68bce48107c054316c5?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 06 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Software Engineer](https://jobright.ai/jobs/info/69ab3c27142d5b4265fc84f3?utm_campaign=1079&utm_source=git)** | Holtsville, New York, United States | Hybrid | Mar 06 |
-| **[Mitsubishi Electric Trane US](https://metahvac.com/)** | **[Intern, Software development](https://jobright.ai/jobs/info/69ab3712142d5b4265fc80d3?utm_campaign=1079&utm_source=git)** | Suwanee, GA | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
