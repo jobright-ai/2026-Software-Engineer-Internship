@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NVIDIA](https://www.nvidia.com)** | **[Software Engineering Intern, CUDA Build and Packaging - Summer 2026](https://jobright.ai/jobs/info/69acdf942747003c3d527594?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 07 |
 | **[Paramount](https://www.paramount.com)** | **[Junior Game Engineer Intern (Summer 2026 - In-Person - LA/NY)](https://jobright.ai/jobs/info/69accdb92747003c3d5252b2?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
 | **[Zoox](https://www.zoox.com/)** | **[Software Engineer Intern – Test Infrastructures](https://jobright.ai/jobs/info/694adfc23019f50a4fe5f43b?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Mar 07 |
 | **[Maritime Applied Physics Corporation](http://mapcorp.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69a845092580d3183f005327?utm_campaign=1079&utm_source=git)** | Baltimore, Maryland, United States | On Site | Mar 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AWP Safety](http://www.awpsafety.com)** | **[IT Application Development Intern](https://jobright.ai/jobs/info/69ab35d32747003c3d50e432?utm_campaign=1079&utm_source=git)** | North Canton, OH, USA | Remote | Mar 06 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Digital Technology Internship - Summer 2026](https://jobright.ai/jobs/info/69ab35c1142d5b4265fc7ed4?utm_campaign=1079&utm_source=git)** | Schenectady, NY | On Site | Mar 06 |
 | **[Asset Management Powered by AssetWorks USA](https://www.assetworks.com/active-assets/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69ab3242142d5b4265fc78b2?utm_campaign=1079&utm_source=git)** | Canada - Calgary, AB | On Site | Mar 06 |
-| **[WEC Energy Group](https://www.wecenergygroup.com)** | **[IT Applications Analyst](https://jobright.ai/jobs/info/69ab31887e1fab39d382c6b8?utm_campaign=1079&utm_source=git)** | Waukesha, WI | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
