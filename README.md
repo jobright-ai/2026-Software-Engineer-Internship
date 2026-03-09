@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Fall 2026)](https://jobright.ai/jobs/info/68b406d0bc187f64e1be2e4b?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Mar 09 |
 | **[Cerebras](https://cerebras.ai)** | **[Software Engineer Internship - Toronto](https://jobright.ai/jobs/info/69aec5cba4f2e119f26e1903?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Mar 09 |
 | **[GenPark](https://genpark.ai)** | **[Front End Intern](https://jobright.ai/jobs/info/69aec4415224a240f103c40e?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Mar 09 |
 | **[Cerebras](https://cerebras.ai)** | **[Software Engineer Internship - Sunnyvale](https://jobright.ai/jobs/info/69aec05ba4f2e119f26e179c?utm_campaign=1079&utm_source=git)** | Sunnyvale | Hybrid | Mar 09 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69ae3ca44f6bcc1828093c4a?utm_campaign=1079&utm_source=git)** | Corvallis, OR | Hybrid | Mar 08 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69ae3c807c309707d4af5a46?utm_campaign=1079&utm_source=git)** | Spring, TX | Hybrid | Mar 08 |
 | **[Atomic Semi](https://atomicsemi.com)** | **[Embedded Software Engineering Intern - Summer](https://jobright.ai/jobs/info/69ae2afa7e1fab39d38536b3?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 08 |
+| **[twoX](https://www.twox.dev/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69aece4abd1a716b43105812?utm_campaign=1079&utm_source=git)** | Greater Milwaukee | Hybrid | Mar 08 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer Intern (IT Intern 4)](https://jobright.ai/jobs/info/69ae0c4a7e1fab39d38520a6?utm_campaign=1079&utm_source=git)** | Norfolk, VA | On Site | Mar 08 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (AI Infrastructure) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69ae4e9f7c309707d4af8651?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 08 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Architecture ASIC / System Intern - Master's Degree](https://jobright.ai/jobs/info/6940360750bbaf76505237e8?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 08 |
@@ -128,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Software Engineer - Autonomous Driving - Simulation Team (Master's)](https://jobright.ai/jobs/info/697be2fe1136d179eeef7eaa?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Mar 07 |
 | ↳ | **[2026 Summer Intern - Software Engineer - Autonomous Driving - Simulation Team (Bachelor's)](https://jobright.ai/jobs/info/697856ee52f3c27ec644ad2c?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Mar 07 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/698674ad8da7a61204613edf?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Mar 07 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/69a5587eb600907a962b00c9?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Mar 07 |
-| ↳ | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ce70e4fb49c96ca6ea0702?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 07 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ce70e4fb49c96ca6ea0702?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 07 |
+| ↳ | **[Computer Engineering Internship (Summer 2025)](https://jobright.ai/jobs/info/69a5587eb600907a962b00c9?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Mar 07 |
 | ↳ | **[Test Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69abc4127e1fab39d3837714?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Mar 07 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Software Engineer - Autonomous Driving - Simulation Team (Master's)](https://jobright.ai/jobs/info/697c68973f57a335696615f8?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Mar 07 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/693e477749a7695fbd04915f?utm_campaign=1079&utm_source=git)** | Delaware, OH | On Site | Mar 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/69ab9724142d5b4265fcbb11?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Mar 06 |
 | **[AskBio Inc.](http://www.askbio.com/)** | **[Intern- IT, Enterprise Architecture](https://jobright.ai/jobs/info/69ab95032747003c3d511852?utm_campaign=1079&utm_source=git)** | Mammoth Lakes, CA | On Site | Mar 06 |
 | **[Leidos](https://www.leidos.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69ab94d3142d5b4265fcb212?utm_campaign=1079&utm_source=git)** | Oklahoma City, OK | On Site | Mar 06 |
-| **[Together AI](https://www.together.ai)** | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69ab914b2747003c3d511009?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 06 |
-| **[Kinective](https://www.kinective.io)** | **[Software Development Intern](https://jobright.ai/jobs/info/69a95c0df2055e05d17181e9?utm_campaign=1079&utm_source=git)** | Rahway, NJ | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
