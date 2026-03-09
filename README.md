@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - IVN ETH Software Engineer](https://jobright.ai/jobs/info/69ae69394f6bcc1828099543?utm_campaign=1079&utm_source=git)** | Shanghai, VA | Hybrid | Mar 08 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[UX/UI Engineer Intern](https://jobright.ai/jobs/info/69ae65dd3de6821aaccdb9be?utm_campaign=1079&utm_source=git)** | San Antonio, TX (Stone Oak) | Remote | Mar 08 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Embedded Software Engineering Intern](https://jobright.ai/jobs/info/69aa543e2ebd316bece21559?utm_campaign=1079&utm_source=git)** | Roseville, CA | Hybrid | Mar 08 |
 | **[Serco](https://www.serco.com)** | **[Engineering Intern - (Part-Time/Temp)](https://jobright.ai/jobs/info/69ae4c8b3de6821aaccda141?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Mar 08 |
 | **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69ae3ca44f6bcc1828093c4a?utm_campaign=1079&utm_source=git)** | Corvallis, OR | Hybrid | Mar 08 |
@@ -83,6 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[[Online Assessment] Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6978412188e2b47213bc4e16?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Mar 08 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Quality Assurance Analyst](https://jobright.ai/jobs/info/69ad43f7142d5b4265fe7411?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Mar 08 |
 | **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Software Engineering (Reimbursement Intelligence)](https://jobright.ai/jobs/info/698fe9110cc8ea15f1da8186?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 07 |
+| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern in Digital Strategies (Engineering), Pew Research Center Summer 2026](https://jobright.ai/jobs/info/69ae65c17c309707d4af9dc6?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Software Engineering Intern, CUDA Build and Packaging - Summer 2026](https://jobright.ai/jobs/info/69acdf942747003c3d527594?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 07 |
 | **[Paramount](https://www.paramount.com)** | **[Junior Game Engineer Intern (Summer 2026 - In-Person - LA/NY)](https://jobright.ai/jobs/info/69accdb92747003c3d5252b2?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
 | **[Zoox](https://www.zoox.com/)** | **[Software Engineer Intern – Test Infrastructures](https://jobright.ai/jobs/info/694adfc23019f50a4fe5f43b?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | Mar 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Software / System Test Engineering Intern](https://jobright.ai/jobs/info/69ab949b142d5b4265fcb0e5?utm_campaign=1079&utm_source=git)** | Billerica, MA | Hybrid | Mar 06 |
 | **[Intel](http://www.intel.com)** | **[Compiler Engineering Intern - Performance Tracking and Analysis](https://jobright.ai/jobs/info/69ab9536142d5b4265fcb3d5?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
 | **[Auria Space](https://www.auria.space)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69abdcfc142d5b4265fd4c5a?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 06 |
-| **[Alarm Detection Systems](https://www.adsalarm.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69ab9169142d5b4265fcaa81?utm_campaign=1079&utm_source=git)** | Aurora, IL | On Site | Mar 06 |
-| **[Mitsubishi Electric US, Inc.](https://us.mitsubishielectric.com/)** | **[Intern, Software development](https://jobright.ai/jobs/info/69ad1f6a7e1fab39d384892b?utm_campaign=1079&utm_source=git)** | Suwanee, GA | On Site | Mar 06 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[2026 Software Engineering Summer Internship](https://jobright.ai/jobs/info/69ab92a47e1fab39d382fd9a?utm_campaign=1079&utm_source=git)** | Plantation, FL | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
