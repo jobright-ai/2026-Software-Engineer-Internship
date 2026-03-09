@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69ae3ca44f6bcc1828093c4a?utm_campaign=1079&utm_source=git)** | Corvallis, OR | Hybrid | Mar 08 |
+| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69ae3c807c309707d4af5a46?utm_campaign=1079&utm_source=git)** | Spring, TX | Hybrid | Mar 08 |
+| **[LangPal](www.lang-pal.com)** | **[iOS Developer Intern](https://jobright.ai/jobs/info/69ae2c7c2747003c3d534d3e?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 08 |
+| **[Atomic Semi](https://atomicsemi.com)** | **[Embedded Software Engineering Intern - Summer](https://jobright.ai/jobs/info/69ae2afa7e1fab39d38536b3?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 08 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer Intern (IT Intern 4)](https://jobright.ai/jobs/info/69ae0c4a7e1fab39d38520a6?utm_campaign=1079&utm_source=git)** | Norfolk, VA | On Site | Mar 08 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (AI Infrastructure) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69aded2c7e1fab39d3850ece?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 08 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Architecture ASIC / System Intern - Master's Degree](https://jobright.ai/jobs/info/6940360750bbaf76505237e8?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Electric US, Inc.](https://us.mitsubishielectric.com/)** | **[Intern, Software development](https://jobright.ai/jobs/info/69ad1f6a7e1fab39d384892b?utm_campaign=1079&utm_source=git)** | Suwanee, GA | On Site | Mar 06 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[2026 Software Engineering Summer Internship](https://jobright.ai/jobs/info/69ab92a47e1fab39d382fd9a?utm_campaign=1079&utm_source=git)** | Plantation, FL | On Site | Mar 06 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineering Intern 4 - 27552](https://jobright.ai/jobs/info/69ab6eed142d5b4265fca50a?utm_campaign=1079&utm_source=git)** | Virginia Beach, VA | On Site | Mar 06 |
-| **[Together AI](https://www.together.ai)** | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69ab98942747003c3d512279?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Mar 06 |
-| **[Clockwork Systems, Inc.](https://clockwork.works)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69ab6b47142d5b4265fca352?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Mar 06 |
-| **[Centerfield](http://www.centerfield.com)** | **[Software Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/69ab99792747003c3d512370?utm_campaign=1079&utm_source=git)** | Los Angeles, California | On Site | Mar 06 |
-| **[365 Retail Markets](http://www.365retailmarkets.com/)** | **[Software Development Intern - On Site - Ankeny, IA](https://jobright.ai/jobs/info/69ab9167142d5b4265fcaa6f?utm_campaign=1079&utm_source=git)** | Ankeny, IA | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
