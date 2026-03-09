@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - IVN ETH Software Engineer](https://jobright.ai/jobs/info/69ae69394f6bcc1828099543?utm_campaign=1079&utm_source=git)** | Shanghai, VA | Hybrid | Mar 08 |
+| **[Fini](https://www.usefini.com)** | **[Tech Operations Intern](https://jobright.ai/jobs/info/69ae8c294f6bcc182809cb91?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 09 |
+| **[Oigetit Real-Time AI Intelligence Platform](https://oigetit.ai/)** | **[Quality Assurance Intern (IOS Team)](https://jobright.ai/jobs/info/69ae8b233de6821aaccde6d6?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 09 |
+| **[HII](https://hii.com)** | **[Software Engineering Intern 4 - 27552](https://jobright.ai/jobs/info/69ae89ad4f6bcc182809caad?utm_campaign=1079&utm_source=git)** | Virginia Beach, VA | On Site | Mar 09 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[UX/UI Engineer Intern](https://jobright.ai/jobs/info/69ae89974f6bcc182809ca84?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Mar 09 |
+| **[Astera Labs](https://www.asteralabs.com)** | **[Platform Applications Engineer Intern (8-month Co-Op)](https://jobright.ai/jobs/info/69ae86c43de6821aaccde482?utm_campaign=1079&utm_source=git)** | Vancouver, Canada | On Site | Mar 09 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[UX/UI Engineer Intern](https://jobright.ai/jobs/info/69ae65dd3de6821aaccdb9be?utm_campaign=1079&utm_source=git)** | San Antonio, TX (Stone Oak) | Remote | Mar 08 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Embedded Software Engineering Intern](https://jobright.ai/jobs/info/69aa543e2ebd316bece21559?utm_campaign=1079&utm_source=git)** | Roseville, CA | Hybrid | Mar 08 |
 | **[Serco](https://www.serco.com)** | **[Engineering Intern - (Part-Time/Temp)](https://jobright.ai/jobs/info/69ae4c8b3de6821aaccda141?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Mar 08 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69ab94d3142d5b4265fcb212?utm_campaign=1079&utm_source=git)** | Oklahoma City, OK | On Site | Mar 06 |
 | **[Together AI](https://www.together.ai)** | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69ab914b2747003c3d511009?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 06 |
 | **[Kinective](https://www.kinective.io)** | **[Software Development Intern](https://jobright.ai/jobs/info/69a95c0df2055e05d17181e9?utm_campaign=1079&utm_source=git)** | Rahway, NJ | Hybrid | Mar 06 |
-| **[Netflix](https://www.netflix.com)** | **[Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)](https://jobright.ai/jobs/info/69ae3e767c309707d4af5d39?utm_campaign=1079&utm_source=git)** | Los Gatos, CA | On Site | Mar 06 |
 | **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Software / System Test Engineering Intern](https://jobright.ai/jobs/info/69ab949b142d5b4265fcb0e5?utm_campaign=1079&utm_source=git)** | Billerica, MA | Hybrid | Mar 06 |
-| **[Intel](http://www.intel.com)** | **[Compiler Engineering Intern - Performance Tracking and Analysis](https://jobright.ai/jobs/info/69ab9536142d5b4265fcb3d5?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
-| **[Auria Space](https://www.auria.space)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69abdcfc142d5b4265fd4c5a?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 06 |
-| **[Alarm Detection Systems](https://www.adsalarm.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69ab9169142d5b4265fcaa81?utm_campaign=1079&utm_source=git)** | Aurora, IL | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
