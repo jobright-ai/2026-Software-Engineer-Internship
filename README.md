@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[SDET Intern](https://jobright.ai/jobs/info/69af5add749500645093d77a?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Mar 09 |
 | **[SI Group](https://www.siigroup.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69af5805749500645093d597?utm_campaign=1079&utm_source=git)** | Texas, United States | On Site | Mar 09 |
 | ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/69af54d3dfaeda6ff59770e5?utm_campaign=1079&utm_source=git)** | 1790 Hughes Landing Blvd, The Woodlands, TX, 77380, US | On Site | Mar 09 |
 | **[Analog Devices](http://www.analog.com)** | **[Embedded Software Intern](https://jobright.ai/jobs/info/69af53f46b21de023e608111?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Mar 09 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT SAP Intern](https://jobright.ai/jobs/info/69af1f5d7495006450938a94?utm_campaign=1079&utm_source=git)** | Corporate Headquarters Manchester CT | Hybrid | Mar 09 |
 | **[Amentum](https://www.amentum.com/)** | **[Software Programmer Intern](https://jobright.ai/jobs/info/69af3523749500645093b733?utm_campaign=1079&utm_source=git)** | Tullahoma, TN | On Site | Mar 09 |
 | **[Bob's Discount Furniture](http://www.mybobs.com)** | **[IT SAP Intern](https://jobright.ai/jobs/info/69af350b749500645093b716?utm_campaign=1079&utm_source=git)** | Fairfield County, CT | Hybrid | Mar 09 |
-| ↳ | **[IT SAP Intern](https://jobright.ai/jobs/info/69af34f4749500645093b6f7?utm_campaign=1079&utm_source=git)** | Manchester, CT | Hybrid | Mar 09 |
 | ↳ | **[IT SAP Intern](https://jobright.ai/jobs/info/69af34f4749500645093b6f6?utm_campaign=1079&utm_source=git)** | Massachusetts, United States | Hybrid | Mar 09 |
+| ↳ | **[IT SAP Intern](https://jobright.ai/jobs/info/69af34f4749500645093b6f7?utm_campaign=1079&utm_source=git)** | Manchester, CT | Hybrid | Mar 09 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - IT Application Development](https://jobright.ai/jobs/info/697ef68bce48107c054316c5?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 09 |
 | **[SAP](https://www.sap.com)** | **[SAP SuccessFactors iXp Intern - Software Developer, Learning](https://jobright.ai/jobs/info/69af3488749500645093b59c?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 09 |
 | **[Healthfirst](https://healthfirst.org)** | **[Software Engineering Intern - CBT - 2026 Summer Internship](https://jobright.ai/jobs/info/69af342e749500645093b2fa?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69ae3ca44f6bcc1828093c4a?utm_campaign=1079&utm_source=git)** | Corvallis, OR | Hybrid | Mar 08 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69ae3c807c309707d4af5a46?utm_campaign=1079&utm_source=git)** | Spring, TX | Hybrid | Mar 08 |
 | **[Atomic Semi](https://atomicsemi.com)** | **[Embedded Software Engineering Intern - Summer](https://jobright.ai/jobs/info/69ae2afa7e1fab39d38536b3?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 08 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer Intern (IT Intern 4)](https://jobright.ai/jobs/info/69ae0c4a7e1fab39d38520a6?utm_campaign=1079&utm_source=git)** | Norfolk, VA | On Site | Mar 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
