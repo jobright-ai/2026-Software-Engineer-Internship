@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - IEF - Software Engineering Collegiate Associate Intern](https://jobright.ai/jobs/info/697722c3fdeb8243a279f346?utm_campaign=1079&utm_source=git)** | Savannah, GA | On Site | Mar 10 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Forward Deployed Software Engineer, Internship - France](https://jobright.ai/jobs/info/69b03b0d749500645096142d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Integration Development Intern - Summer 2026](https://jobright.ai/jobs/info/69b03545dfaeda6ff599a891?utm_campaign=1079&utm_source=git)** | Salisbury, MD | On Site | Mar 10 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Research and Development Engineering Intern](https://jobright.ai/jobs/info/69a7538376bbe83d3afab424?utm_campaign=1079&utm_source=git)** | University Park, PA | On Site | Mar 10 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Full Stack Engineering Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/69979166ce78e77b4fdbe0dc?utm_campaign=1079&utm_source=git)** | Pasadena, CA | Hybrid | Mar 10 |
 | ↳ | **[Strategic Student Program: Software Development Intern (LCS, Summer 2026)](https://jobright.ai/jobs/info/6997b73e81476f6176afd881?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Mar 10 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Software Test Intern - Signal Integrity/Power Integrity (Summer 2026; EDA)](https://jobright.ai/jobs/info/69978c0681476f6176afa1cd?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Mar 10 |
-| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Intern (LCS, Summer 2026)](https://jobright.ai/jobs/info/6997a9d581476f6176afcab5?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Mar 10 |
-| ↳ | **[Strategic Student Program: R&D Software Engineering Intern (FT, Summer 2026)](https://jobright.ai/jobs/info/6997a85681476f6176afc839?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Mar 10 |
+| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: R&D Software Engineering Intern (FT, Summer 2026)](https://jobright.ai/jobs/info/6997a85681476f6176afc839?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Mar 10 |
+| ↳ | **[Strategic Student Program: Software Development Intern (LCS, Summer 2026)](https://jobright.ai/jobs/info/6997a9d581476f6176afcab5?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Mar 10 |
 | ↳ | **[Strategic Student Program: Software Development Intern (LCS, Summer 2026)](https://jobright.ai/jobs/info/69979e9d81476f6176afb9ff?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Mar 10 |
 | ↳ | **[Strategic Student Program: Software Development (CAE) Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/6997a39281476f6176afc0df?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Mar 10 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: A&V Software Development Intern (Summer 2026; EDA)](https://jobright.ai/jobs/info/699c884ce0bddb6acacb95ba?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Mar 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WM](https://www.wm.com/)** | **[Internship, Virtual Desktop Infrastructure](https://jobright.ai/jobs/info/69af3a41dfaeda6ff59759ad?utm_campaign=1079&utm_source=git)** | 800 CAPITOL ST STE 3000, HOUSTON, TX, 77002, US | On Site | Mar 09 |
 | **[New York Air Brake](http://nyab.com)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/69af3692dfaeda6ff59755a3?utm_campaign=1079&utm_source=git)** | Watertown, NY | On Site | Mar 09 |
 | **[Healthfirst](https://healthfirst.org)** | **[Application Development Intern - 2026 Summer Internship Program](https://jobright.ai/jobs/info/69af35bddfaeda6ff597528b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 09 |
-| ↳ | **[Application Development Intern - 2026 Summer Internship Program](https://jobright.ai/jobs/info/69af1eef6b21de023e603326?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
