@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Knorr-Bremse Lisieux – Systèmes pour Véhicules Utilitaires](http://www.knorr-bremse.fr)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/69af6adedfaeda6ff5977c87?utm_campaign=1079&utm_source=git)** | Watertown, NY | On Site | Mar 09 |
+| **[Brooks Automation](http://www.brooks.com)** | **[Software Quality Assurance Internship for Summer 2026](https://jobright.ai/jobs/info/69af6adddfaeda6ff5977c84?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | On Site | Mar 09 |
+| **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Front End Developer](https://jobright.ai/jobs/info/69af68dadfaeda6ff5977bff?utm_campaign=1079&utm_source=git)** | Southington, CT | Hybrid | Mar 09 |
+| **[Loop](https://loop.com)** | **[2026 Software Engineer Intern, Full-Stack](https://jobright.ai/jobs/info/699699c781476f6176ae80dc?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 09 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Integrations Intern](https://jobright.ai/jobs/info/69af612edfaeda6ff59777cc?utm_campaign=1079&utm_source=git)** | Paramus, NJ | On Site | Mar 09 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[SDET Intern](https://jobright.ai/jobs/info/69af5add749500645093d77a?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Mar 09 |
 | **[SI Group](https://www.siigroup.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69af5805749500645093d597?utm_campaign=1079&utm_source=git)** | Texas, United States | On Site | Mar 09 |
 | ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/69af54d3dfaeda6ff59770e5?utm_campaign=1079&utm_source=git)** | 1790 Hughes Landing Blvd, The Woodlands, TX, 77380, US | On Site | Mar 09 |
@@ -124,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/69af14667495006450938173?utm_campaign=1079&utm_source=git)** | Pascagoula, MS | On Site | Mar 09 |
 | **[365 Retail Markets](http://www.365retailmarkets.com/)** | **[Software Development Intern - On Site - Troy, MI](https://jobright.ai/jobs/info/69af11217495006450938015?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Mar 09 |
 | **[Teledyne Brown Engineering](http://www.tbe.com)** | **[Software Engineer (Intern)](https://jobright.ai/jobs/info/69af0ffa6b21de023e60280f?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Mar 09 |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Engineering](https://jobright.ai/jobs/info/693dd78e49a7695fbd044bd0?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 09 |
 | **[Diality](https://www.diality.com/)** | **[Software V&V Engineer Intern](https://jobright.ai/jobs/info/69af02d66b21de023e601b50?utm_campaign=1079&utm_source=git)** | Irvine, CA, US | On Site | Mar 09 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/69af02d674950064509370ac?utm_campaign=1079&utm_source=git)** | Pascagoula, MS, US | On Site | Mar 09 |
 | **[Veranex](https://veranex.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a5d1d3359fe034b1d07464?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Mar 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Astera Labs](https://www.asteralabs.com)** | **[Platform Applications Engineer Intern (8-month Co-Op)](https://jobright.ai/jobs/info/69ae86c43de6821aaccde482?utm_campaign=1079&utm_source=git)** | Vancouver, Canada | On Site | Mar 09 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[UX/UI Engineer Intern](https://jobright.ai/jobs/info/69ae65dd3de6821aaccdb9be?utm_campaign=1079&utm_source=git)** | San Antonio, TX (Stone Oak) | Remote | Mar 08 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Embedded Software Engineering Intern](https://jobright.ai/jobs/info/69aa543e2ebd316bece21559?utm_campaign=1079&utm_source=git)** | Roseville, CA | Hybrid | Mar 08 |
-| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69af45e5dfaeda6ff5976777?utm_campaign=1079&utm_source=git)** | Vancouver, WA | On Site | Mar 08 |
-| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69ae3ca44f6bcc1828093c4a?utm_campaign=1079&utm_source=git)** | Corvallis, OR | Hybrid | Mar 08 |
-| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69ae3c807c309707d4af5a46?utm_campaign=1079&utm_source=git)** | Spring, TX | Hybrid | Mar 08 |
-| **[Atomic Semi](https://atomicsemi.com)** | **[Embedded Software Engineering Intern - Summer](https://jobright.ai/jobs/info/69ae2afa7e1fab39d38536b3?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
