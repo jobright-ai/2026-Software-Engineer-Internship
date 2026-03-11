@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Post-Master's Student Intern](https://jobright.ai/jobs/info/69b0afb90b2db6275c05140e?utm_campaign=1079&utm_source=git)** | Los Alamos, NM | On Site | Mar 10 |
+| **[Matson, Inc.](http://matson.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69b0af65dfaeda6ff59b042b?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Mar 10 |
+| **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac9f7495006450976c17?utm_campaign=1079&utm_source=git)** | Colorado, United States | Hybrid | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac910b2db6275c050d75?utm_campaign=1079&utm_source=git)** | Utah, United States | Hybrid | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac890b2db6275c050d58?utm_campaign=1079&utm_source=git)** | Florida, United States | Hybrid | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac730b2db6275c050d11?utm_campaign=1079&utm_source=git)** | California, United States | Hybrid | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac67dfaeda6ff59afbf7?utm_campaign=1079&utm_source=git)** | Maine, United States | Hybrid | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac67dfaeda6ff59afbf8?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac67dfaeda6ff59afbf6?utm_campaign=1079&utm_source=git)** | Maryland, United States | Hybrid | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac48dfaeda6ff59afb72?utm_campaign=1079&utm_source=git)** | Hawaii, United States | Hybrid | Mar 10 |
+| **[Blue Seagull Group](https://blueseagull.org/)** | **[Backend Developer Internship](https://jobright.ai/jobs/info/69b0ac25dfaeda6ff59afadd?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Software Engineer](https://jobright.ai/jobs/info/69b0a9e874950064509762ce?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Mar 10 |
 | ↳ | **[Summer 2026 Intern - Software Engineer](https://jobright.ai/jobs/info/69b0a9d57495006450976263?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Mar 10 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Software Developer Intern - US Citizenship Required](https://jobright.ai/jobs/info/69b0a9cd0b2db6275c050534?utm_campaign=1079&utm_source=git)** | Centreville, VA | On Site | Mar 10 |
@@ -72,7 +83,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr. Director Engineering, Head of Internal Technology](https://jobright.ai/jobs/info/69b0a2440b2db6275c04eb4d?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | Mar 10 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69b0a242dfaeda6ff59adeb8?utm_campaign=1079&utm_source=git)** | Danvers, MA | On Site | Mar 10 |
 | **[Matson Logistics](http://www.matsonlogistics.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69b0a240dfaeda6ff59adea6?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Mar 10 |
-| **[99 Yards](https://99yards.app)** | **[Software Developer Intern (React Native + Spring Boot)](https://jobright.ai/jobs/info/69b0a1f5dfaeda6ff59add2c?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Remote | Mar 10 |
 | **[DigitalOcean](http://www.digitalocean.com)** | **[Sr. Director Engineering, Head of Internal Technology](https://jobright.ai/jobs/info/69a129e081476f6176bb8336?utm_campaign=1079&utm_source=git)** | Seattle, WA | Remote | Mar 10 |
 | ↳ | **[Sr. Director Engineering, Head of Internal Technology](https://jobright.ai/jobs/info/69a135545218a81676727200?utm_campaign=1079&utm_source=git)** | Denver, CO | Remote | Mar 10 |
 | **[Array Technologies](http://arraytechinc.com)** | **[Summer 2026 Intern - Computer Science / Software Engineering](https://jobright.ai/jobs/info/69b09ea4749500645097492b?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Mar 10 |
@@ -86,22 +96,22 @@ For a complete list, click the following sortable link below:
 | **[UFP Industries](https://www.ufpi.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/69b09045dfaeda6ff59aa6a3?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Mar 10 |
 | **[Vancity](http://www.vancity.com)** | **[ServiceNow User Acceptance Tester Intern (Co-op or Internship Opportunity - 4 Months)](https://jobright.ai/jobs/info/69b08c840b2db6275c04b693?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 10 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Software Developer](https://jobright.ai/jobs/info/69b08b1e74950064509703c1?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 10 |
-| **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754de?utm_campaign=1079&utm_source=git)** | Remote - New Hampshire | Remote | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e9?utm_campaign=1079&utm_source=git)** | Remote - Indiana | Remote | Mar 10 |
+| **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44174950064509754d8?utm_campaign=1079&utm_source=git)** | Remote - West Virginia | Remote | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754de?utm_campaign=1079&utm_source=git)** | Remote - New Hampshire | Remote | Mar 10 |
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e5?utm_campaign=1079&utm_source=git)** | Remote - Missouri | Remote | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754df?utm_campaign=1079&utm_source=git)** | Remote - Maine | Remote | Mar 10 |
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e6?utm_campaign=1079&utm_source=git)** | Remote - Tennessee | Remote | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44174950064509754d8?utm_campaign=1079&utm_source=git)** | Remote - West Virginia | Remote | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e2?utm_campaign=1079&utm_source=git)** | Remote - Iowa | Remote | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e7?utm_campaign=1079&utm_source=git)** | Remote - Louisiana | Remote | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e4?utm_campaign=1079&utm_source=git)** | Remote - Alaska | Remote | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754dd?utm_campaign=1079&utm_source=git)** | Remote - North Carolina | Remote | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e8?utm_campaign=1079&utm_source=git)** | Remote - Florida | Remote | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44274950064509754d9?utm_campaign=1079&utm_source=git)** | Remote - Vermont | Remote | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e1?utm_campaign=1079&utm_source=git)** | Remote - Oklahoma | Remote | Mar 10 |
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e3?utm_campaign=1079&utm_source=git)** | Remote - Nevada | Remote | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e0?utm_campaign=1079&utm_source=git)** | Remote - Arizona | Remote | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754df?utm_campaign=1079&utm_source=git)** | Remote - Maine | Remote | Mar 10 |
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754ea?utm_campaign=1079&utm_source=git)** | Remote - Connecticut | Remote | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e0?utm_campaign=1079&utm_source=git)** | Remote - Arizona | Remote | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e2?utm_campaign=1079&utm_source=git)** | Remote - Iowa | Remote | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e8?utm_campaign=1079&utm_source=git)** | Remote - Florida | Remote | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e1?utm_campaign=1079&utm_source=git)** | Remote - Oklahoma | Remote | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e4?utm_campaign=1079&utm_source=git)** | Remote - Alaska | Remote | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e9?utm_campaign=1079&utm_source=git)** | Remote - Indiana | Remote | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754e7?utm_campaign=1079&utm_source=git)** | Remote - Louisiana | Remote | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44574950064509754dd?utm_campaign=1079&utm_source=git)** | Remote - North Carolina | Remote | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0a44274950064509754d9?utm_campaign=1079&utm_source=git)** | Remote - Vermont | Remote | Mar 10 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Platform Engineer Intern](https://jobright.ai/jobs/info/69b08568dfaeda6ff59a8805?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Mar 10 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - SQL Developer](https://jobright.ai/jobs/info/69b08489dfaeda6ff59a84c4?utm_campaign=1079&utm_source=git)** | Irving, TX | On Site | Mar 10 |
 | **[Amentum](https://www.amentum.com/)** | **[Software Programmer Intern](https://jobright.ai/jobs/info/69b08184dfaeda6ff59a7b10?utm_campaign=1079&utm_source=git)** | Detroit, MI | On Site | Mar 10 |
@@ -121,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Palantir Technologies](http://www.palantir.com)** | **[Forward Deployed Software Engineer, Internship - France](https://jobright.ai/jobs/info/69b0635cdfaeda6ff59a2516?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering intern](https://jobright.ai/jobs/info/69b0626574950064509689f9?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69b0624c74950064509689c4?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
-| **[Pan-American Life Insurance Group](https://www.palig.com)** | **[Global Benefits Technology (IT) Intern](https://jobright.ai/jobs/info/69b0a384749500645097523a?utm_campaign=1079&utm_source=git)** | New Orleans, LA | Hybrid | Mar 10 |
 | **[UFP Site Built](https://www.ufpsitebuilt.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69b0a37274950064509751eb?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Mar 10 |
 | **[Forj Medical](https://forjmedical.com/)** | **[Design Software Engineer Intern](https://jobright.ai/jobs/info/69b048bf7495006450963c75?utm_campaign=1079&utm_source=git)** | St Paul, MN | On Site | Mar 10 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Intern, EngOps Software Tools: June - August 2026 (Onsite)](https://jobright.ai/jobs/info/69b045130b2db6275c03dfb7?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a97989f6c22f2e368660e8?utm_campaign=1079&utm_source=git)** | Salem, VA | Hybrid | Mar 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Software Development Intern (LCS, Summer 2026)](https://jobright.ai/jobs/info/69a22351359fe034b1cd60b7?utm_campaign=1079&utm_source=git)** | Milford, OH | Hybrid | Mar 10 |
 | **[Scale AI](https://scale.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf2491702aa35207aa361b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 10 |
-| **[Together AI](https://www.together.ai)** | **[GTM Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69a62fafb600907a962c0fc6?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Mar 10 |
-| **[Tektronix](http://www.tek.com)** | **[Services Business Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/68e9859165768b6412b1d0ce?utm_campaign=1079&utm_source=git)** | Beaverton, OR | Hybrid | Mar 10 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Quality Assurance Specialist Intern - Summer 2026](https://jobright.ai/jobs/info/6977ddaf88e2b47213bbd9c8?utm_campaign=1079&utm_source=git)** | Detroit, MI | On Site | Mar 10 |
-| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Post-Bachelor's Student Intern](https://jobright.ai/jobs/info/69b008bb0b2db6275c033e55?utm_campaign=1079&utm_source=git)** | Los Alamos, NM | On Site | Mar 10 |
-| **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Software Development Intern (Summer 2026; EDA)](https://jobright.ai/jobs/info/699c7c3a81476f6176b5074d?utm_campaign=1079&utm_source=git)** | Troy, MI | Remote | Mar 10 |
-| ↳ | **[Strategic Student Program: Software Development Intern (Summer 2026; EDA)](https://jobright.ai/jobs/info/699c7db081476f6176b508c7?utm_campaign=1079&utm_source=git)** | Livonia, MI | Remote | Mar 10 |
-| ↳ | **[Strategic Student Program: Software Development Intern (Summer 2026; EDA)](https://jobright.ai/jobs/info/699c8fb681476f6176b52e08?utm_campaign=1079&utm_source=git)** | Waltham, MA | Remote | Mar 10 |
-| ↳ | **[Strategic Student Program: Software Development & Quality Assurance Intern (Summer 2026; EBS)](https://jobright.ai/jobs/info/6997ba5fe0bddb6acac67815?utm_campaign=1079&utm_source=git)** | Huntsville, AL | Hybrid | Mar 10 |
-| ↳ | **[Strategic Student Program: Software Development Intern (Summer 2026; EDA)](https://jobright.ai/jobs/info/699c977ce0bddb6acacbaf84?utm_campaign=1079&utm_source=git)** | Chicago, IL | Remote | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
