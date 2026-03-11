@@ -57,6 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Akin Gump Strauss Hauer & Feld LLP](http://www.akingump.com)** | **[Intern (Practice Innovation)](https://jobright.ai/jobs/info/69b1bf7f65de58104c70bba8?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Mar 11 |
+| **[ModMed](https://www.modmed.com)** | **[2026 Summer Software Engineering Internships](https://jobright.ai/jobs/info/696e85c4db26b61895116380?utm_campaign=1079&utm_source=git)** | Boca Raton, FL | Hybrid | Mar 11 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a93ec479f3f4037f4411b1?utm_campaign=1079&utm_source=git)** | Boca Raton, FL | Hybrid | Mar 11 |
+| **[Al Warren Oil](https://www.alwarrenoil.com)** | **[Software Developer - Summer Internship 2026](https://jobright.ai/jobs/info/69b1be1f548f140066e78382?utm_campaign=1079&utm_source=git)** | Bensenville, IL | On Site | Mar 11 |
+| **[Benchmark](http://www.bench.com)** | **[Intern - Software Engineer](https://jobright.ai/jobs/info/69b1b82865de58104c70b818?utm_campaign=1079&utm_source=git)** | Tempe, AZ | On Site | Mar 11 |
+| **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/69794bfe39f7f96cc6d1c3bf?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 11 |
+| **[Sallie Mae](https://www.salliemae.com)** | **[IT User Acceptance Testing Intern](https://jobright.ai/jobs/info/69b1b781d04c69566c73f947?utm_campaign=1079&utm_source=git)** | Newark, DE | Hybrid | Mar 11 |
+| **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69b1b46565de58104c70b5b0?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Mar 11 |
+| **[Cornerstone OnDemand](http://www.cornerstoneondemand.com)** | **[Intern](https://jobright.ai/jobs/info/69b1b2f7548f140066e77cde?utm_campaign=1079&utm_source=git)** | Dublin, CA | On Site | Mar 11 |
+| **[Arm](http://www.arm.com)** | **[Intern Cloud/AI Solutions Architect](https://jobright.ai/jobs/info/69b1b233d04c69566c73f50a?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Mar 11 |
+| **[Walter P Moore](http://www.walterpmoore.com)** | **[Computational Designer Intern](https://jobright.ai/jobs/info/698560b78da7a612045fee6a?utm_campaign=1079&utm_source=git)** | Tippecanoe County, IN | On Site | Mar 11 |
+| **[Marvell Technology](https://www.marvell.com/)** | **[Firmware Engineering Intern - Bachelor's Degree (Summer 2026)](https://jobright.ai/jobs/info/6994f45ce0bddb6acac378ac?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Mar 11 |
+| **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[AWS Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69b1b10365de58104c70b137?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 11 |
+| **[Premier Inc.](http://www.premierinc.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/698eb0e10f6f7e7a2ceace00?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Mar 11 |
+| **[Proterra](http://www.proterra.com)** | **[Embedded Systems Validation Engineering Intern](https://jobright.ai/jobs/info/69b1af35548f140066e778d7?utm_campaign=1079&utm_source=git)** | Greer, SC | On Site | Mar 11 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Platform Developer Intern](https://jobright.ai/jobs/info/69b1aed3548f140066e77852?utm_campaign=1079&utm_source=git)** | Manhattan, NY | On Site | Mar 11 |
+| ↳ | **[Java Developer Intern](https://jobright.ai/jobs/info/69b1ae8dd04c69566c73f1db?utm_campaign=1079&utm_source=git)** | Manhattan, NY | On Site | Mar 11 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[Machine Control Software Developer Intern](https://jobright.ai/jobs/info/69962278e0bddb6acac481cc?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 11 |
+| **[BD](https://www.bd.com)** | **[Summer Intern - R&D Intern, Software Engineering](https://jobright.ai/jobs/info/69b1aac3548f140066e777af?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Mar 11 |
+| **[SWBC](https://www.swbc.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/69ab9ef92747003c3d512ae4?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Mar 11 |
+| **[Intel](http://www.intel.com)** | **[Discrete Graphics Validation Internship](https://jobright.ai/jobs/info/69b1a70fd04c69566c73ee08?utm_campaign=1079&utm_source=git)** | Canada, Toronto | On Site | Mar 11 |
 | **[Forward Networks, Inc.](http://www.forwardnetworks.com)** | **[Intern - Engineering - 2026](https://jobright.ai/jobs/info/69b1a3a1548f140066e772e6?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 11 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Mobile App Developer Intern (May to August)](https://jobright.ai/jobs/info/6995ac8981476f6176ad888b?utm_campaign=1079&utm_source=git)** | Needham, MA | Hybrid | Mar 11 |
 | **[Avathon](https://avathon.com)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6980f912abff4c399a9fc5f9?utm_campaign=1079&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 11 |
@@ -64,9 +85,10 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Digital Systems QA](https://jobright.ai/jobs/info/69b199a3548f140066e76c2c?utm_campaign=1079&utm_source=git)** | Bridgewater, NJ | Hybrid | Mar 11 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69b1996d548f140066e76b56?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Mar 11 |
 | ↳ | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69b1983cd04c69566c73e463?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
+| **[Quantic Electronics](https://www.quanticnow.com/)** | **[Electrical /Software Engineer Intern](https://jobright.ai/jobs/info/6994a5c981476f6176ac6914?utm_campaign=1079&utm_source=git)** | Maumelle, AR | On Site | Mar 11 |
 | **[Bob's Discount Furniture](http://www.mybobs.com)** | **[IT SAP Analyst Intern - Application & Development](https://jobright.ai/jobs/info/69b19588d04c69566c73e2aa?utm_campaign=1079&utm_source=git)** | Remote RI | Remote | Mar 11 |
-| ↳ | **[IT SAP Analyst Intern - Application & Development](https://jobright.ai/jobs/info/69b19586548f140066e768e3?utm_campaign=1079&utm_source=git)** | Remote MA | Remote | Mar 11 |
 | ↳ | **[IT SAP Analyst Intern - Application & Development](https://jobright.ai/jobs/info/69b19586548f140066e768e4?utm_campaign=1079&utm_source=git)** | Corporate Headquarters Manchester CT | Hybrid | Mar 11 |
+| ↳ | **[IT SAP Analyst Intern - Application & Development](https://jobright.ai/jobs/info/69b19586548f140066e768e3?utm_campaign=1079&utm_source=git)** | Remote MA | Remote | Mar 11 |
 | ↳ | **[IT SAP Analyst Intern - Application & Development](https://jobright.ai/jobs/info/69b1957a65de58104c70a012?utm_campaign=1079&utm_source=git)** | Remote CT | Remote | Mar 11 |
 | **[AGS - American Gaming Systems](http://www.playags.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69b1940d65de58104c709e03?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Mar 11 |
 | **[Cisco](http://www.cisco.com)** | **[Software Developer (Intern) I - Canada](https://jobright.ai/jobs/info/699540ad81476f6176ad2304?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 11 |
@@ -97,9 +119,7 @@ For a complete list, click the following sortable link below:
 | **[bioMérieux](https://www.biomerieux.com)** | **[Software Engineering, VITEK Co-op](https://jobright.ai/jobs/info/698415350f6f7e7a2cde3ce6?utm_campaign=1079&utm_source=git)** | Hazelwood, MO | On Site | Mar 11 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/699538a7e0bddb6acac3c141?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Mar 11 |
 | **[American Water](http://amwater.com)** | **[Web Development Intern](https://jobright.ai/jobs/info/697976719c90a224ecc32e63?utm_campaign=1079&utm_source=git)** | Camden, NJ | On Site | Mar 11 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern Software Developer, Stagiaire en développement logiciel](https://jobright.ai/jobs/info/698a60250f6f7e7a2ce580bd?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977e9c452f3c27ec64415c6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
-| **[HII](https://hii.com)** | **[Software Engineer Intern (IT Intern 4)](https://jobright.ai/jobs/info/69b13a12d04c69566c734f4f?utm_campaign=1079&utm_source=git)** | Norfolk, VA | On Site | Mar 11 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Manufacturing Software Engineering Intern](https://jobright.ai/jobs/info/69405e4caa598a08c3f000d5?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Mar 11 |
 | **[MathWorks](http://www.mathworks.com)** | **[Software Engineer in Test Intern - EDG](https://jobright.ai/jobs/info/694c033c1a572a617dde4c3d?utm_campaign=1079&utm_source=git)** | Natick, MA | Hybrid | Mar 11 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Software Engineering Internship](https://jobright.ai/jobs/info/69b12d680b2db6275c0649d7?utm_campaign=1079&utm_source=git)** | Overland Park, KS | On Site | Mar 11 |
@@ -129,32 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8dcdfaeda6ff59b1208?utm_campaign=1079&utm_source=git)** | New Hampshire, United States | Hybrid | Mar 10 |
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8d3dfaeda6ff59b11ef?utm_campaign=1079&utm_source=git)** | Alaska, United States | Hybrid | Mar 10 |
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8ccdfaeda6ff59b11e1?utm_campaign=1079&utm_source=git)** | Iowa, United States | Hybrid | Mar 10 |
+| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8be7495006450978b4a?utm_campaign=1079&utm_source=git)** | Louisiana, United States | Hybrid | Mar 10 |
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8be7495006450978b4e?utm_campaign=1079&utm_source=git)** | South Carolina, United States | Hybrid | Mar 10 |
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8be7495006450978b48?utm_campaign=1079&utm_source=git)** | Indiana, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8be7495006450978b4a?utm_campaign=1079&utm_source=git)** | Louisiana, United States | Hybrid | Mar 10 |
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8900b2db6275c05226a?utm_campaign=1079&utm_source=git)** | Illinois, United States | Hybrid | Mar 10 |
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b8880b2db6275c05223b?utm_campaign=1079&utm_source=git)** | Delaware, United States | Hybrid | Mar 10 |
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b87a0b2db6275c052229?utm_campaign=1079&utm_source=git)** | Arizona, United States | Hybrid | Mar 10 |
 | ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b87a0b2db6275c052228?utm_campaign=1079&utm_source=git)** | Missouri, United States | Hybrid | Mar 10 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Integrations Intern](https://jobright.ai/jobs/info/69b0b5addfaeda6ff59b0f47?utm_campaign=1079&utm_source=git)** | Paramus, NJ | On Site | Mar 10 |
-| **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b59f7495006450978160?utm_campaign=1079&utm_source=git)** | Hampton, VA | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b57cdfaeda6ff59b0e81?utm_campaign=1079&utm_source=git)** | Michigan, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0b57cdfaeda6ff59b0e82?utm_campaign=1079&utm_source=git)** | Kansas, United States | Hybrid | Mar 10 |
-| **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/69b0b4dedfaeda6ff59b0da8?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 10 |
-| **[Vancity](http://www.vancity.com)** | **[ServiceNow User Acceptance Tester Intern (May Co-op or Internship Opportunity - 4 Months)](https://jobright.ai/jobs/info/69b0e7857495006450980746?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 10 |
-| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Post-Master's Student Intern](https://jobright.ai/jobs/info/69b0afb90b2db6275c05140e?utm_campaign=1079&utm_source=git)** | Los Alamos, NM | On Site | Mar 10 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Enterprise Architecture Enablement Co-op (Summer 2026)](https://jobright.ai/jobs/info/69b0cdbe0b2db6275c056c86?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 10 |
-| **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac9f7495006450976c17?utm_campaign=1079&utm_source=git)** | Colorado, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac910b2db6275c050d75?utm_campaign=1079&utm_source=git)** | Utah, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac890b2db6275c050d58?utm_campaign=1079&utm_source=git)** | Florida, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac730b2db6275c050d11?utm_campaign=1079&utm_source=git)** | California, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac67dfaeda6ff59afbf7?utm_campaign=1079&utm_source=git)** | Maine, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac67dfaeda6ff59afbf8?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac67dfaeda6ff59afbf6?utm_campaign=1079&utm_source=git)** | Maryland, United States | Hybrid | Mar 10 |
-| ↳ | **[Algorithm Development - Intern](https://jobright.ai/jobs/info/69b0ac48dfaeda6ff59afb72?utm_campaign=1079&utm_source=git)** | Hawaii, United States | Hybrid | Mar 10 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Software Engineer](https://jobright.ai/jobs/info/69b0a9e874950064509762ce?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Mar 10 |
-| ↳ | **[Summer 2026 Intern - Software Engineer](https://jobright.ai/jobs/info/69b0a9d57495006450976263?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Mar 10 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[Software Developer Intern - US Citizenship Required](https://jobright.ai/jobs/info/69b0a9cd0b2db6275c050534?utm_campaign=1079&utm_source=git)** | Centreville, VA | On Site | Mar 10 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[AIS R&D Firmware Engineer Intern](https://jobright.ai/jobs/info/69b0a9cc0b2db6275c05052f?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Mar 10 |
-| **[Matson Logistics](http://www.matsonlogistics.com)** | **[Architecture and Engineering Enablement Intern](https://jobright.ai/jobs/info/69b0a9ac0b2db6275c05042b?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
