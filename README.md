@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hue.](https://poweredbyhue.com)** | **[Software Engineering Intern (Full Stack)](https://jobright.ai/jobs/info/69b36f3da8ac8e70ff67b58d?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 12 |
+| **[TEWAG](https://www.tewag.co)** | **[Software Engineer Internship- Summer 2026](https://jobright.ai/jobs/info/69b36c80a8ac8e70ff67b134?utm_campaign=1079&utm_source=git)** | New York, NY | Remote | Mar 12 |
 | **[Teradyne](http://www.teradyne.com)** | **[Software Engineer Intern / Summer 2026 (Teradyne, Deer Park, IL)](https://jobright.ai/jobs/info/69b367e8ad360c0340a8846f?utm_campaign=1079&utm_source=git)** | Deer Park, IL | Hybrid | Mar 12 |
 | **[Hue.](https://poweredbyhue.com)** | **[Software Engineering Intern (Full Stack)](https://jobright.ai/jobs/info/69b36636ad360c0340a87f25?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/69b3659aad360c0340a87e43?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Mar 12 |
@@ -125,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Software Developer (Innovation) Summer Intern](https://jobright.ai/jobs/info/697aa8e99d60e431a16c4228?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Mar 12 |
 | **[C1](http://www.spanlink.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/69960f9381476f6176adc9e8?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 12 |
 | **[IBM](http://www.ibm.com)** | **[Application Developer Intern – Client Innovation Center (Entry Level)](https://jobright.ai/jobs/info/69a128b35218a81676726235?utm_campaign=1079&utm_source=git)** | Lansing, MI | On Site | Mar 12 |
-| ↳ | **[Application Developer Intern – Client Innovation Center (Entry Level)](https://jobright.ai/jobs/info/69a12d635218a81676726817?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Mar 12 |
 | ↳ | **[Application Developer Intern – Client Innovation Center (Entry Level)](https://jobright.ai/jobs/info/69964cba81476f6176ae10b3?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Mar 12 |
+| ↳ | **[Application Developer Intern – Client Innovation Center (Entry Level)](https://jobright.ai/jobs/info/69a12d635218a81676726817?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Mar 12 |
 | **[First American](http://www.firstam.com)** | **[Software Engineering Intern - REMOTE](https://jobright.ai/jobs/info/69a7af0676bbe83d3afb1b0e?utm_campaign=1079&utm_source=git)** | Santa Ana, CA | Remote | Mar 12 |
 | **[Strand Therapeutics](https://www.strandtx.com/)** | **[Intern, Software](https://jobright.ai/jobs/info/69b2f866ad360c0340a807ad?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Mar 12 |
 | **[Versant Health](https://versanthealth.com/)** | **[Summer Undergraduate Internship - IT Applications Development](https://jobright.ai/jobs/info/69b2f2ccae2a534885ea3d90?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Mar 12 |
@@ -146,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69a3cf76b600907a9629cbe3?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | On Site | Mar 12 |
 | **[C1](http://www.spanlink.com)** | **[Application Development Intern- Artificial Intelligence](https://jobright.ai/jobs/info/69a5632eb600907a962b1895?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 12 |
 | **[IBM](http://www.ibm.com)** | **[Oracle Package Specialist Intern 2026](https://jobright.ai/jobs/info/69a12d645218a81676726831?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
-| ↳ | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/699abb6fce78e77b4fdf82ae?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Mar 12 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69afa561f63f733065b3325a?utm_campaign=1079&utm_source=git)** | Research Park, CA | Hybrid | Mar 12 |
+| ↳ | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/699abb6fce78e77b4fdf82ae?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Mar 12 |
 | **[Veranova](https://veranova.com)** | **[Quality Assurance Summer Internship](https://jobright.ai/jobs/info/69793da752f3c27ec64592e7?utm_campaign=1079&utm_source=git)** | West Deptford, NJ | On Site | Mar 12 |
 | **[IBM](http://www.ibm.com)** | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/6996443fe0bddb6acac4aaeb?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Mar 12 |
 | ↳ | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69a2912e0da45516f16be699?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Mar 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Developer Internship 2026](https://jobright.ai/jobs/info/6998f22ee0bddb6acac7df18?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Mar 12 |
 | ↳ | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69a14c87b600907a96278ca8?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Mar 12 |
 | ↳ | **[Oracle Package Specialist Intern 2026](https://jobright.ai/jobs/info/699a82f381476f6176b31281?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Mar 12 |
-| ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69963cec81476f6176adf906?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Mar 12 |
-| ↳ | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69afa70a7495006450946966?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
