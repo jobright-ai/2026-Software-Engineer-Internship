@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Software Engineering and Innovation Intern](https://jobright.ai/jobs/info/69b38535ae2a534885eaef32?utm_campaign=1079&utm_source=git)** | Longwood, FL | Hybrid | Mar 12 |
-| **[GenPark](https://genpark.ai)** | **[Web Developer Intern](https://jobright.ai/jobs/info/69b38477ae2a534885eaee8f?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Mar 12 |
+| **[WSP in Canada](https://www.wsp.com/en-ca)** | **[Web Developer Intern](https://jobright.ai/jobs/info/69b38befad360c0340a8b101?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 12 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Software Engineering and Innovation Intern](https://jobright.ai/jobs/info/69b381cea8ac8e70ff67c7bf?utm_campaign=1079&utm_source=git)** | Longwood, FL | Hybrid | Mar 12 |
 | **[Ampere](http://amperecomputing.com)** | **[Technical Intern, Design for Test](https://jobright.ai/jobs/info/69b379ffa8ac8e70ff67c059?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 12 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern - Test Engineer](https://jobright.ai/jobs/info/69b379ccae2a534885eae691?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Mar 12 |
@@ -147,8 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Desjardins](https://www.desjardins.com)** | **[Internship, IT sector, Summer 2026](https://jobright.ai/jobs/info/69b0db3ddfaeda6ff59b8e25?utm_campaign=1079&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | Mar 12 |
 | **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/699aa04181476f6176b34275?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 12 |
 | **[McKesson](http://www.mckesson.com)** | **[Stagiaire en développement logiciel - Été 2026 / Software Developer Intern - Summer 2026](https://jobright.ai/jobs/info/69b2ea9eae2a534885ea38f5?utm_campaign=1079&utm_source=git)** | Saint-Laurent, Quebec, Canada | Hybrid | Mar 12 |
-| **[IBM](http://www.ibm.com)** | **[Oracle Package Specialist Intern 2026](https://jobright.ai/jobs/info/69a14e4ab600907a962790b0?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
-| ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69965137ce78e77b4fda531c?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Mar 12 |
+| **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69965137ce78e77b4fda531c?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Mar 12 |
 | **[Cognex Corporation](http://www.cognex.com)** | **[Software Intern](https://jobright.ai/jobs/info/69b2e825ae2a534885ea333f?utm_campaign=1079&utm_source=git)** | Portland, Oregon | On Site | Mar 12 |
 | **[Adtran](http://www.adtran.com)** | **[AP Intern](https://jobright.ai/jobs/info/69b2e821ae2a534885ea3338?utm_campaign=1079&utm_source=git)** | Adtran Huntsville HQ | On Site | Mar 12 |
 | **[Acadium](http://www.acadium.com)** | **[WordPress Web Developer/Designer Intern](https://jobright.ai/jobs/info/69b2e7acad360c0340a7f75e?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 12 |
@@ -156,5 +154,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69a3cf76b600907a9629cbe3?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | On Site | Mar 12 |
 | **[C1](http://www.spanlink.com)** | **[Application Development Intern- Artificial Intelligence](https://jobright.ai/jobs/info/69a5632eb600907a962b1895?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 12 |
 | **[IBM](http://www.ibm.com)** | **[Oracle Package Specialist Intern 2026](https://jobright.ai/jobs/info/69a12d645218a81676726831?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
+| ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69afa561f63f733065b3325a?utm_campaign=1079&utm_source=git)** | Research Park, CA | Hybrid | Mar 12 |
 | ↳ | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/699abb6fce78e77b4fdf82ae?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Mar 12 |
+| **[Veranova](https://veranova.com)** | **[Quality Assurance Summer Internship](https://jobright.ai/jobs/info/69793da752f3c27ec64592e7?utm_campaign=1079&utm_source=git)** | West Deptford, NJ | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
