@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Technology Solutions Internship](https://jobright.ai/jobs/info/69b52a4d06c1ba00c546ecc4?utm_campaign=1079&utm_source=git)** | Daytona Beach, FL | On Site | Mar 14 |
+| **[AEM](https://www.aemonitoring.com)** | **[Sr. Computer Science Intern](https://jobright.ai/jobs/info/69b5231b3b74eb1e2c82c39c?utm_campaign=1079&utm_source=git)** | Germantown, MD | Remote | Mar 14 |
+| **[P2S](http://p2seng.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69b5213006c1ba00c546e544?utm_campaign=1079&utm_source=git)** | Long Beach, CA | On Site | Mar 14 |
+| **[CEVA SANTE ANIMALE](https://www.ceva.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69b5191706c1ba00c546d133?utm_campaign=1079&utm_source=git)** | Lenexa, KS | On Site | Mar 14 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/69b515ca56973837413a3853?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | Hybrid | Mar 14 |
 | **[GenPark](https://genpark.ai)** | **[Front end engineer intern](https://jobright.ai/jobs/info/69b50efe3b74eb1e2c829e59?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Mar 14 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Advanced Technology](https://jobright.ai/jobs/info/69b5061c06c1ba00c546a11b?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Mar 13 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[AIS R&D Firmware Engineer Intern](https://jobright.ai/jobs/info/69b0a9cc0b2db6275c05052f?utm_campaign=1079&utm_source=git)** | Arden Hills, MN | On Site | Mar 13 |
@@ -137,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69b0687c0b2db6275c044d99?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Mar 13 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/6997bbb1ce78e77b4fdc19cb?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Mar 13 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Software Engineering - Cloud and Data Platforms](https://jobright.ai/jobs/info/69a5a38c0da45516f16e5504?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Mar 13 |
-| **[AEM](https://www.aemonitoring.com)** | **[Sr. Computer Science Intern](https://jobright.ai/jobs/info/69b47f8506c1ba00c545fabb?utm_campaign=1079&utm_source=git)** | Victoria,B.C.,US | Remote | Mar 13 |
-| ↳ | **[Sr. Computer Science Intern](https://jobright.ai/jobs/info/69b47f943b74eb1e2c81da1a?utm_campaign=1079&utm_source=git)** | Fully Remote | Remote | Mar 13 |
+| **[AEM](https://www.aemonitoring.com)** | **[Sr. Computer Science Intern](https://jobright.ai/jobs/info/69b47f943b74eb1e2c81da1a?utm_campaign=1079&utm_source=git)** | Fully Remote | Remote | Mar 13 |
+| ↳ | **[Sr. Computer Science Intern](https://jobright.ai/jobs/info/69b47f8506c1ba00c545fabb?utm_campaign=1079&utm_source=git)** | Victoria,B.C.,US | Remote | Mar 13 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Software Development](https://jobright.ai/jobs/info/69a025905218a81676711737?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Mar 13 |
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Intern](https://jobright.ai/jobs/info/6944e8ba94730b73987818e8?utm_campaign=1079&utm_source=git)** | Centennial, CO | On Site | Mar 13 |
 | **[Fiserv](http://www.fiserv.com)** | **[Technology Summer Internship Program - Application Development (Frisco, TX)](https://jobright.ai/jobs/info/69b4709306c1ba00c545e0a7?utm_campaign=1079&utm_source=git)** | Frisco, Texas | On Site | Mar 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - C# .NET Desktop, Summer 2026](https://jobright.ai/jobs/info/69a3959d0da45516f16c9d21?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
 | **[Global Science & Technology, Inc](http://www.gst.com)** | **[Summer Intern Software Developer](https://jobright.ai/jobs/info/69b442ed06c1ba00c54578c1?utm_campaign=1079&utm_source=git)** | Arlington, VA | Hybrid | Mar 13 |
 | **[Etched](https://www.etched.com)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/69b441c13b74eb1e2c816ad8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 13 |
-| ↳ | **[Supercomputing Intern](https://jobright.ai/jobs/info/69b4412c3b74eb1e2c816897?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 13 |
-| **[EBSCO Information Services](https://www.ebsco.com)** | **[Full Stack Software Engineering Intern](https://jobright.ai/jobs/info/69b44023569738374138e3f0?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 13 |
-| **[Etched](https://www.etched.com)** | **[Platform Intern - ME](https://jobright.ai/jobs/info/69b4401f569738374138e3d4?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 13 |
-| **[EBSCO Information Services](https://www.ebsco.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69b43fdc06c1ba00c5457601?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 13 |
-| **[Etched](https://www.etched.com)** | **[PD Intern](https://jobright.ai/jobs/info/69b43f9e06c1ba00c5457503?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
