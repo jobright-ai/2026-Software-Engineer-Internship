@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adtran](http://www.adtran.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/6998e338ce78e77b4fdd719d?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Mar 14 |
+| **[ModMed](https://www.modmed.com)** | **[Software Architect - Intern](https://jobright.ai/jobs/info/6944685694730b7398779110?utm_campaign=1079&utm_source=git)** | Boca Raton, FL | On Site | Mar 14 |
+| **[Robinhood](https://www.robinhood.com)** | **[Software Engineering Intern, Android (Summer 2026)](https://jobright.ai/jobs/info/68d1a27bcece431f8b58648c?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | On Site | Mar 14 |
+| **[Moog Inc.](http://www.moog.com)** | **[Intern, IT/Computer Science](https://jobright.ai/jobs/info/69b49b25569738374139808f?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Mar 14 |
+| **[WebFX](https://www.webfx.com)** | **[Web Developer Internship](https://jobright.ai/jobs/info/6880c9ca16ea5743a373314a?utm_campaign=1079&utm_source=git)** | Harrisburg, PA | On Site | Mar 14 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[High School Intern](https://jobright.ai/jobs/info/69b5341c56973837413a635b?utm_campaign=1079&utm_source=git)** | Spring, Texas, United States of America | On Site | Mar 14 |
 | **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69991808e0bddb6acac812fd?utm_campaign=1079&utm_source=git)** | Cupertino, CA | On Site | Mar 14 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern - Software Engineer (Firmware)](https://jobright.ai/jobs/info/69991b0281476f6176b19733?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Mar 14 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Embedded Software Engineering (Summer 2026) - Franksville, WI](https://jobright.ai/jobs/info/69ad2bb02747003c3d52bb74?utm_campaign=1079&utm_source=git)** | Franksville, WI | On Site | Mar 14 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Software Development](https://jobright.ai/jobs/info/69a025905218a81676711737?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Mar 13 |
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Intern](https://jobright.ai/jobs/info/6944e8ba94730b73987818e8?utm_campaign=1079&utm_source=git)** | Centennial, CO | On Site | Mar 13 |
 | **[Fiserv](http://www.fiserv.com)** | **[Technology Summer Internship Program - Application Development (Frisco, TX)](https://jobright.ai/jobs/info/69b4709306c1ba00c545e0a7?utm_campaign=1079&utm_source=git)** | Frisco, Texas | On Site | Mar 13 |
-| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Infrastructure Engineering Intern](https://jobright.ai/jobs/info/69b4373e569738374138d74d?utm_campaign=1079&utm_source=git)** | Edmonton, AB - 10160 103 St. NW | On Site | Mar 13 |
-| **[BD](https://www.bd.com)** | **[Summer Intern - R&D Intern, Software Engineering](https://jobright.ai/jobs/info/69b44f6106c1ba00c5459570?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Mar 13 |
-| **[Etched](https://www.etched.com)** | **[Architecture Intern - Inference](https://jobright.ai/jobs/info/69b44b9c569738374138f8ec?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 13 |
-| ↳ | **[Core SWE Intern](https://jobright.ai/jobs/info/69b44b5d06c1ba00c5458cf5?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 13 |
-| **[Waters Corporation](http://www.waters.com)** | **[TA Instruments - Software Engineering Intern - Next Generation SW Platform](https://jobright.ai/jobs/info/69aeda726b21de023e5fe66f?utm_campaign=1079&utm_source=git)** | New Castle, DE | On Site | Mar 13 |
-| **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Software Development](https://jobright.ai/jobs/info/697c0f7c1136d179eeefb48c?utm_campaign=1079&utm_source=git)** | Fort Mill, SC | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
