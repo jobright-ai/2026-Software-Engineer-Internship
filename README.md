@@ -58,8 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Nextech Systems](http://www.nextech.com)** | **[Software Engineer Intern  (Summer 2026 Internship) - Remote United States](https://jobright.ai/jobs/info/69b5e23b06c1ba00c547c8ef?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 14 |
-| **[Truck Hai](truckhai.com)** | **[React.Native Intern](https://jobright.ai/jobs/info/69b5dddf3b74eb1e2c83a5ae?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Mar 14 |
-| **[Nextech Systems](http://www.nextech.com)** | **[Software Engineer Intern  (Summer 2026 Internship) - Remote United States](https://jobright.ai/jobs/info/69b5d81806c1ba00c547c4cf?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 14 |
+| ↳ | **[Software Engineer Intern  (Summer 2026 Internship) - Remote United States](https://jobright.ai/jobs/info/69b5d81806c1ba00c547c4cf?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 14 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer, Community Apprenticeship - Intern](https://jobright.ai/jobs/info/69ab208a7e1fab39d382a745?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | Hybrid | Mar 14 |
 | **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69b5bc8856973837413b285f?utm_campaign=1079&utm_source=git)** | Huntsville, AL | Remote | Mar 14 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Simulation and software development (Summer 2026)](https://jobright.ai/jobs/info/697d1889137a051025660f4d?utm_campaign=1079&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Mar 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69b1e9ea548f140066e7fab2?utm_campaign=1079&utm_source=git)** | Bartlesville, OK | Hybrid | Mar 13 |
 | **[Forerunner](https://withforerunner.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69b49bd206c1ba00c5461ac9?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 13 |
 | **[Triple Ring Technologies](http://tripleringtech.com/)** | **[Software Embedded Engineering Intern](https://jobright.ai/jobs/info/69b49bc306c1ba00c5461aad?utm_campaign=1079&utm_source=git)** | Newark, CA | Hybrid | Mar 13 |
+| **[Hanna Andersson](http://www.hannaandersson.com)** | **[Technical Design Intern](https://jobright.ai/jobs/info/69b4975b3b74eb1e2c81f683?utm_campaign=1079&utm_source=git)** | Portland, OR | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
