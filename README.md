@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern-SRE](https://jobright.ai/jobs/info/696b501fdb26b618950ed8a3?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Mar 15 |
 | **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69b651423b74eb1e2c841175?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 14 |
 | **[Pittsburgh Robotics Network](https://robopgh.org/)** | **[Senior Software Engineer, Autonomy Performance Evaluation](https://jobright.ai/jobs/info/69b637cd56973837413b7530?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Mar 14 |
 | **[Nextech Systems](http://www.nextech.com)** | **[Software Engineer Intern  (Summer 2026 Internship) - Remote United States](https://jobright.ai/jobs/info/69b5e23b06c1ba00c547c8ef?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/69b4a76706c1ba00c5462182?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Mar 13 |
 | **[Kiewit](http://www.kiewit.com)** | **[Design Management Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/69b4a76706c1ba00c546217e?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Mar 13 |
 | **[ABB](https://global.abb/group/en)** | **[Software Engineering Intern- Summer 2026](https://jobright.ai/jobs/info/69b1e9ea548f140066e7fab2?utm_campaign=1079&utm_source=git)** | Bartlesville, OK | Hybrid | Mar 13 |
-| **[Forerunner](https://withforerunner.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69b49bd206c1ba00c5461ac9?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
