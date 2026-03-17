@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sound Physicians](http://www.soundphysicians.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69b8c3783b74eb1e2c86ce42?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 16 |
+| **[bioMérieux](https://www.biomerieux.com)** | **[IS Testing Intern](https://jobright.ai/jobs/info/69b8bc6756973837413e5ae6?utm_campaign=1079&utm_source=git)** | Salt Lake City, Utah | On Site | Mar 16 |
 | **[Kiewit](http://www.kiewit.com)** | **[Drainage Engineer Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/69b89b0306c1ba00c54a95e7?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Mar 16 |
+| **[Wabtec Corporation](http://www.wabteccorp.com)** | **[Intern - Software Developer](https://jobright.ai/jobs/info/69b8ba4606c1ba00c54ae94a?utm_campaign=1079&utm_source=git)** | London, Canada | On Site | Mar 16 |
+| **[General Dynamics](https://www.gd.com)** | **[SW Engineering Intern (Summer 2026 - Lakewood)](https://jobright.ai/jobs/info/69b8bce456973837413e5b52?utm_campaign=1079&utm_source=git)** | Lakewood, OH, US | Hybrid | Mar 16 |
+| ↳ | **[SW Engineering Intern (Summer 2026 - Lakewood)](https://jobright.ai/jobs/info/69b8bc2b06c1ba00c54aeadf?utm_campaign=1079&utm_source=git)** | US-OH-Lakewood | Hybrid | Mar 16 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69b8bace3b74eb1e2c86c707?utm_campaign=1079&utm_source=git)** | Texas | On Site | Mar 16 |
 | **[Steely](https://www.steely.cc)** | **[Software Intern Summer 2026](https://jobright.ai/jobs/info/69b8954506c1ba00c54a90a9?utm_campaign=1079&utm_source=git)** | Reston, VA | On Site | Mar 16 |
 | **[Point72](https://www.point72.com)** | **[2026 Technology Internship – UI/UX Engineer (Full Stack)](https://jobright.ai/jobs/info/69b8908b56973837413def8b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[Arlo Technologies, Inc.](https://www.arlo.com)** | **[SW Engineer Intern, iOS (AI-Assisted Development)](https://jobright.ai/jobs/info/69b8902456973837413deeec?utm_campaign=1079&utm_source=git)** | Milpitas, CA | Hybrid | Mar 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Daifuku North America](https://www.daifukuia.com/)** | **[ILUS - Software Engineering Intern](https://jobright.ai/jobs/info/699c21afce78e77b4fe0b2d9?utm_campaign=1079&utm_source=git)** | Bolingbrook, IL | On Site | Mar 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern(Video-on-Demand Algorithm) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/699c1b5181476f6176b47b9a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 16 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Firmware Engineering Intern, Advanced Development (May to August)](https://jobright.ai/jobs/info/69b7ad6a3b74eb1e2c853e7e?utm_campaign=1079&utm_source=git)** | Needham, MA, United States | On Site | Mar 16 |
-| **[Forj Medical](https://forjmedical.com/)** | **[Design Software Engineer Intern](https://jobright.ai/jobs/info/69b048bf7495006450963c75?utm_campaign=1079&utm_source=git)** | St Paul, MN | On Site | Mar 15 |
-| **[State of Wyoming](http://www.wyo.gov)** | **[ITS Development Intern 2026-00661](https://jobright.ai/jobs/info/69b8815c06c1ba00c54a7e49?utm_campaign=1079&utm_source=git)** | Laramie County, WY | On Site | Mar 15 |
-| **[The Exploration Company](https://exploration.space)** | **[Crew Systems Engineering Intern- Software](https://jobright.ai/jobs/info/69b8a23556973837413e128c?utm_campaign=1079&utm_source=git)** | Houston, Texas | On Site | Mar 15 |
-| **[GameChanger](https://gc.com/)** | **[Software Engineer Summer Intern, Fan Experience](https://jobright.ai/jobs/info/69b81fbf56973837413d4c78?utm_campaign=1079&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
-| ↳ | **[Software Engineer Summer Intern, Revenue Growth](https://jobright.ai/jobs/info/69b8211d06c1ba00c549e84f?utm_campaign=1079&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
-| ↳ | **[Software Engineer Summer Intern, Core Services](https://jobright.ai/jobs/info/69b81fbf56973837413d4c7a?utm_campaign=1079&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
