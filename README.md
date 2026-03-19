@@ -57,7 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Alstom](https://www.alstom.com/)** | **[Verification and Test in Engineering Intern](https://jobright.ai/jobs/info/69bc573f45e08b3dc1f8d8e4?utm_campaign=1079&utm_source=git)** | Saint-Bruno, QC | On Site | Mar 19 |
+| **[Kinective](https://www.kinective.io)** | **[Software Development Intern](https://jobright.ai/jobs/info/69bc615945e08b3dc1f8fe72?utm_campaign=1079&utm_source=git)** | Gilbert, AZ | Hybrid | Mar 19 |
+| **[Dark Wolf](https://darkwolfsolutions.com/)** | **[2026 Dark Wolf Summer Internship](https://jobright.ai/jobs/info/69bc610f45e08b3dc1f8fd7c?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Mar 19 |
+| **[Waymo](https://waymo.com)** | **[2026 Summer Intern, BS/MS, Software Engineer, Multiverse](https://jobright.ai/jobs/info/69bc606045e08b3dc1f8fb3b?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Mar 19 |
+| **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP 2026 Summer Intern; Development Testing](https://jobright.ai/jobs/info/69bc5fca4828227293fe2027?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Mar 19 |
+| **[Maximus](http://www.maximus.com/)** | **[Senior Front End Developer](https://jobright.ai/jobs/info/69bc5f515b89c002acf1faf6?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 19 |
+| **[The Trade Desk](http://thetradedesk.com)** | **[2026 Toronto Software Engineering Internship](https://jobright.ai/jobs/info/69bc5eb65b89c002acf1f8f4?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Mar 19 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Sr. Mainframe Developer (COBOL/DB2)](https://jobright.ai/jobs/info/69bc5d894828227293fe1a0d?utm_campaign=1079&utm_source=git)** | Louisiana, United States | Remote | Mar 19 |
+| **[KLA](https://www.kla.com)** | **[Software Intern (Data & Automation)](https://jobright.ai/jobs/info/69bc5d5e5b89c002acf1f3a0?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Mar 19 |
+| **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Engineering](https://jobright.ai/jobs/info/69bc5d4a5b89c002acf1f346?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 19 |
+| **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Intern, Mobile Software Engineering](https://jobright.ai/jobs/info/69bc5a845b89c002acf1ed25?utm_campaign=1079&utm_source=git)** | Hilton - Commercial Services Center - Dallas15305 N Dallas Parkway Suite 600 | On Site | Mar 19 |
+| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Engineering Integration Associate Internship](https://jobright.ai/jobs/info/69bc5a3c4828227293fe156e?utm_campaign=1079&utm_source=git)** | Lake Mary, FL | On Site | Mar 19 |
+| **[Rakuten Advertising](https://rakutenadvertising.com/)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/69bc5a264828227293fe14c6?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Mar 19 |
+| **[Maximus](http://www.maximus.com/)** | **[Front End Developer – Mid-level](https://jobright.ai/jobs/info/69bc596145e08b3dc1f8e45d?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 19 |
+| **[Alstom](https://www.alstom.com/)** | **[Verification and Test in Engineering Intern](https://jobright.ai/jobs/info/69bc58ea4828227293fe0d7a?utm_campaign=1079&utm_source=git)** | Saint-Bruno, QC | On Site | Mar 19 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Intern - Engineering](https://jobright.ai/jobs/info/69bc56614828227293fe056a?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Engineering](https://jobright.ai/jobs/info/69bc565b5b89c002acf1dc14?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Mar 19 |
 | **[KLA](https://www.kla.com)** | **[Software Intern (Data & Automation)](https://jobright.ai/jobs/info/69bc55554828227293fe036b?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Mar 19 |
@@ -86,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Glydways](https://www.glydways.com)** | **[Software Engineering Intern  (Dispatch – Map Building)](https://jobright.ai/jobs/info/69bc33124828227293fdb2df?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 19 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Dedicated Support), Ref# 10898](https://jobright.ai/jobs/info/69bc2d1f45e08b3dc1f87165?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | **[AI Reskill Academy](https://www.linkedin.com/company/110621957)** | **[Wordpress Developer Intern](https://jobright.ai/jobs/info/69bc2c3a45e08b3dc1f86ee8?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 19 |
-| **[Pivotor AI](https://www.pivotor.ai)** | **[Frontend/AI Engineer - Internship](https://jobright.ai/jobs/info/69bc4be145e08b3dc1f8bec3?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Mar 19 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a7b7d776bbe83d3afb2b02?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Mar 19 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Summer 2026 (US)](https://jobright.ai/jobs/info/69008c0fe0c73b3a111a5b44?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Mar 19 |
 | **[IBM](http://www.ibm.com)** | **[Cloud-Native Front-end and API Developer Intern 2026](https://jobright.ai/jobs/info/69bc1b1b5b89c002acf12085?utm_campaign=1079&utm_source=git)** | Yorktown Heights, NY | On Site | Mar 19 |
@@ -104,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Dana Incorporated](https://www.danatm4.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699fd06453d97f23ee655514?utm_campaign=1079&utm_source=git)** | Boucherville, QC | On Site | Mar 19 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/695a125f9f1b381eb272b55b?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Mar 19 |
 | **[Florida Polytechnic University](https://floridapolytechnic.org)** | **[IT Infrastructure Engineering Intern](https://jobright.ai/jobs/info/69bc23dd4828227293fd7a7d?utm_campaign=1079&utm_source=git)** | JD Alexander Florida Polytechnic Main Campus | On Site | Mar 19 |
-| **[Tinder](http://www.tinder.com)** | **[iOS Intern](https://jobright.ai/jobs/info/6920f2fd3f782d2f1afcd551?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 19 |
-| ↳ | **[Cloud Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6920e52a3f782d2f1afcc93f?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 19 |
+| **[Tinder](http://www.tinder.com)** | **[Cloud Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6920e52a3f782d2f1afcc93f?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 19 |
+| ↳ | **[iOS Intern](https://jobright.ai/jobs/info/6920f2fd3f782d2f1afcd551?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 19 |
 | ↳ | **[Backend Engineer Intern](https://jobright.ai/jobs/info/6920d3883f782d2f1afcbe69?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 19 |
 | ↳ | **[Backend Engineer Intern](https://jobright.ai/jobs/info/6920df1600c9ee50eaec8f95?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 19 |
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f493419a63986de75762bc?utm_campaign=1079&utm_source=git)** | Washington, PA | On Site | Mar 19 |
@@ -141,20 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Enterprise Solutions Intern](https://jobright.ai/jobs/info/699feef253d97f23ee65822c?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD | On Site | Mar 19 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Enterprise Architecture Intern - MD & DC (Hybrid)](https://jobright.ai/jobs/info/699fad6281476f6176b96697?utm_campaign=1079&utm_source=git)** | Baltimore, MD | Hybrid | Mar 19 |
 | **[ByteDance](http://bytedance.com)** | **[Frontend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68daac016df7b8311bb10d12?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Mar 19 |
-| **[Backstage](https://www.backstage.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69bbc71478a5df4797fd63f9?utm_campaign=1079&utm_source=git)** | United States | On Site | Mar 19 |
+| **[Backstage](https://www.backstage.com)** | **[Intern](https://jobright.ai/jobs/info/69bbc71478a5df4797fd63fb?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Mar 19 |
+| ↳ | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69bbc71478a5df4797fd63f9?utm_campaign=1079&utm_source=git)** | United States | On Site | Mar 19 |
 | ↳ | **[Intern, Backend Development](https://jobright.ai/jobs/info/69bbc71478a5df4797fd63fd?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Mar 19 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69bbc71478a5df4797fd63fb?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Mar 19 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69bbc70c78a5df4797fd63f0?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 19 |
-| ↳ | **[Intern, Backend Development](https://jobright.ai/jobs/info/69bbc6cdc42b5f053291f9ea?utm_campaign=1079&utm_source=git)** | United States | On Site | Mar 19 |
-| ↳ | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69bbc6c3c42b5f053291f9cf?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Mar 19 |
-| ↳ | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69bbc6bb7ac0602a372c814e?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 19 |
-| **[ByteDance](http://bytedance.com)** | **[Research Intern, Low Latency Video Codec (Multimedia Lab) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68d9afc5022fc803b48779e3?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Mar 19 |
-| **[Defense Information Systems Agency](https://disa.mil)** | **[Student Trainee (Computer Engineering) - CES Intern](https://jobright.ai/jobs/info/69bbb917569738374141c915?utm_campaign=1079&utm_source=git)** | Fort George G. Meade, MD | On Site | Mar 19 |
-| **[Elsevier](http://www.elsevier.com)** | **[Simulation Software Engineer Intern](https://jobright.ai/jobs/info/69bba7ac06c1ba00c54e3df7?utm_campaign=1079&utm_source=git)** | Pennsylvania, United States | Remote | Mar 19 |
-| ↳ | **[Software Engineer Intern (LEARN)](https://jobright.ai/jobs/info/69bba79e06c1ba00c54e3dc2?utm_campaign=1079&utm_source=git)** | Pennsylvania, United States | Remote | Mar 19 |
-| ↳ | **[Software Engineer Intern (Compass)](https://jobright.ai/jobs/info/69bba7963b74eb1e2c8a264e?utm_campaign=1079&utm_source=git)** | Pennsylvania, United States | Remote | Mar 19 |
-| **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Summer 2026 - QA Engineering Internship](https://jobright.ai/jobs/info/69bb9a7806c1ba00c54e3416?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Remote | Mar 18 |
-| ↳ | **[Summer/Fall 2026 Internship- Frontend Developer](https://jobright.ai/jobs/info/69bb9a06569738374141af64?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Remote | Mar 18 |
-| ↳ | **[Summer/Fall 2026 - Backend Developer Internship](https://jobright.ai/jobs/info/69bb8d70569738374141a8e4?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Remote | Mar 18 |
-| **[Last Lock](https://lastlock.com)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69bb96e13b74eb1e2c8a1b64?utm_campaign=1079&utm_source=git)** | Madison, WI | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
