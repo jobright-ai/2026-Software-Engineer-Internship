@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[JMP 2026 Summer Intern; Development Testing](https://jobright.ai/jobs/info/69bc71974828227293fe4e9e?utm_campaign=1079&utm_source=git)** | Cary HQ, NC, US | Hybrid | Mar 19 |
 | **[Jaros, Baum & Bolles](http://jbb.com)** | **[Software Engineering  Co-Op](https://jobright.ai/jobs/info/69bc6b2745e08b3dc1f91865?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[Software Designer Intern / Stagiaire en conception de logiciels](https://jobright.ai/jobs/info/69bc69975b89c002acf20fc8?utm_campaign=1079&utm_source=git)** | Laval, Quebec | On Site | Mar 19 |
-| **[Pivotor AI](https://www.pivotor.ai)** | **[AI-Frontend Engineer Intern](https://jobright.ai/jobs/info/69bc68814828227293fe3a8e?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Mar 19 |
 | **[Dark Wolf](https://darkwolfsolutions.com/)** | **[2026 Dark Wolf Summer Internship](https://jobright.ai/jobs/info/69bc610f45e08b3dc1f8fd7c?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Mar 19 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, BS/MS, Software Engineer, Multiverse](https://jobright.ai/jobs/info/69bc606045e08b3dc1f8fb3b?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Mar 19 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP 2026 Summer Intern; Development Testing](https://jobright.ai/jobs/info/69bc5fca4828227293fe2027?utm_campaign=1079&utm_source=git)** | Cary, NC | Hybrid | Mar 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Maximus](http://www.maximus.com/)** | **[Senior Front-End Developer](https://jobright.ai/jobs/info/69bbfe6d4828227293fd15cc?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 19 |
 | **[Ampere](http://amperecomputing.com)** | **[Technical Intern, Compiler Software](https://jobright.ai/jobs/info/699fef6c53d97f23ee6582d1?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 19 |
 | **[MGIC](https://www.mgic.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/698270a7348f733a5c354b3c?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Mar 19 |
+| **[Motion](http://www.dragosupply.com/)** | **[Customer Software Development Intern](https://jobright.ai/jobs/info/69b62bd406c1ba00c54803b8?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
