@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LangPal](www.lang-pal.com)** | **[iOS Mobile App Developer Intern (Swift)](https://jobright.ai/jobs/info/69bd10dcb10602456281f5ba?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 20 |
+| **[GlobalFoundries](https://gf.com/)** | **[3D Advanced Heterogeneous Integration Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69bd0c5ab10602456281f23a?utm_campaign=1079&utm_source=git)** | Malta, NY | On Site | Mar 20 |
+| **[STERIS](http://steris.com)** | **[PLM Application Intern](https://jobright.ai/jobs/info/69a105796b458d060735bc56?utm_campaign=1079&utm_source=git)** | Mentor, OH | Hybrid | Mar 19 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Intern-Software Engineering- JL](https://jobright.ai/jobs/info/69bcc4cfe6a0d9792584cda4?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Mar 19 |
 | **[Leidos](https://www.leidos.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bcb95a4828227293fe9a8e?utm_campaign=1079&utm_source=git)** | Gaithersburg, MD | On Site | Mar 19 |
 | **[Nasuni](https://www.nasuni.com)** | **[Software Engineering Intern in Test - Internship](https://jobright.ai/jobs/info/69bcb6fce6a0d9792584b739?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Mar 19 |
@@ -72,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Intern, Mobile Software Engineering](https://jobright.ai/jobs/info/69bc889545e08b3dc1f944e0?utm_campaign=1079&utm_source=git)** | Addison, TX | On Site | Mar 19 |
 | **[Analog Devices](http://www.analog.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69bc884145e08b3dc1f9448f?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Mar 19 |
 | **[Nihon Kohden Digital Health Solutions](https://nkdhs.com/products.pl )** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bc87d35b89c002acf24544?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Mar 19 |
+| **[Arena](https://arena.run/)** | **[Campaign Operations Low-Code Developer](https://jobright.ai/jobs/info/69bd0f704828227293ff4601?utm_campaign=1079&utm_source=git)** | Ithaca, NY | Remote | Mar 19 |
 | **[SanMar](http://www.sanmar.com)** | **[IT Intern, Software Development](https://jobright.ai/jobs/info/69bc7f3545e08b3dc1f93db1?utm_campaign=1079&utm_source=git)** | Issaquah, WA | On Site | Mar 19 |
 | **[MITRE](http://www.mitre.org)** | **[Software Engineering Intern - Orlando, Fl](https://jobright.ai/jobs/info/697819b552f3c27ec644461c?utm_campaign=1079&utm_source=git)** | Orlando, FL | Hybrid | Mar 19 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Information Technology Intern - Summer 2026](https://jobright.ai/jobs/info/69bc7e4045e08b3dc1f93cf4?utm_campaign=1079&utm_source=git)** | New Britain, CT | Hybrid | Mar 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/69af024adfaeda6ff5970670?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Mar 19 |
 | **[Lake Trust Credit Union](https://laketrust.org/)** | **[Business Intelligence (Robotic Process Automation) Internship (Summer 2026)](https://jobright.ai/jobs/info/69bc212c45e08b3dc1f83afa?utm_campaign=1079&utm_source=git)** | Brighton, MI | On Site | Mar 19 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[RESEARCH AND DEVELOPMENT INTERN](https://jobright.ai/jobs/info/699ff1c781476f6176b9d118?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Mar 19 |
-| **[Maximus](http://www.maximus.com/)** | **[Senior Front-End Developer](https://jobright.ai/jobs/info/69bbfe6d4828227293fd15cc?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 19 |
-| **[Ampere](http://amperecomputing.com)** | **[Technical Intern, Compiler Software](https://jobright.ai/jobs/info/699fef6c53d97f23ee6582d1?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 19 |
-| **[MGIC](https://www.mgic.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/698270a7348f733a5c354b3c?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Mar 19 |
-| **[Motion](http://www.dragosupply.com/)** | **[Customer Software Development Intern](https://jobright.ai/jobs/info/69b62bd406c1ba00c54803b8?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
