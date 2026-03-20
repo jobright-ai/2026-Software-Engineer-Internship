@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Enterprise Architecture Solution Design](https://jobright.ai/jobs/info/69bd608c393a1008f742ba9c?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 20 |
+| **[Perdue Farms](http://www.perduefarms.com/)** | **[App Development Intern](https://jobright.ai/jobs/info/69bd602e4828227293ff9895?utm_campaign=1079&utm_source=git)** | Salisbury, MD | On Site | Mar 20 |
+| **[National Basketball Players Association (NBPA)](https://nbpa.com/)** | **[Software Developer Summer Intern](https://jobright.ai/jobs/info/69bd5d67b1060245628247de?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Mar 20 |
+| **[Minitab](http://www.minitab.com/en-us/)** | **[Software Quality Engineer Intern](https://jobright.ai/jobs/info/6966afd97a34f53920552d8b?utm_campaign=1079&utm_source=git)** | State College, PA | On Site | Mar 20 |
+| **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69bd5a79393a1008f742b865?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Mar 20 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Pharmacy Benefit Management Business Architect/Data Analyst](https://jobright.ai/jobs/info/69a93f1579f3f4037f4414bb?utm_campaign=1079&utm_source=git)** | Georgia, United States | Remote | Mar 20 |
+| **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Software Engineering Intern - Android AOSP](https://jobright.ai/jobs/info/69a650752c0d8b0f5cd064f6?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Mar 20 |
+| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Technology Intern](https://jobright.ai/jobs/info/695a06b3f1f8465b79f062de?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | Hybrid | Mar 20 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/69a2d62f359fe034b1ce31e6?utm_campaign=1079&utm_source=git)** | Bethlehem, PA | On Site | Mar 20 |
 | **[Qumulo](http://qumulo.com)** | **[Software Development Engineer Internship (Winter, Spring, or Summer '26)](https://jobright.ai/jobs/info/69a7b6c276bbe83d3afb2a43?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Mar 20 |
 | **[Ampere](http://amperecomputing.com)** | **[Technical Intern, Linux Kernel Software](https://jobright.ai/jobs/info/69a0b4235218a8167671de94?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 20 |
@@ -144,17 +152,9 @@ For a complete list, click the following sortable link below:
 | **[KLA](https://www.kla.com)** | **[Software Intern (Data & Automation)](https://jobright.ai/jobs/info/69bc55554828227293fe036b?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Mar 19 |
 | **[V2X Inc](https://gov2x.com)** | **[2026 Software Engineering Intern](https://jobright.ai/jobs/info/69a61b580da45516f16efecd?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Mar 19 |
 | **[Brex](https://brex.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/69bc4fb85b89c002acf1c6ad?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 19 |
-| **[LuMATH](https://www.lumath.com)** | **[Rust Systems Intern- Operating System Testing & Integration](https://jobright.ai/jobs/info/69bc4ca65b89c002acf1bf39?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 19 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Software Developer, New Grad](https://jobright.ai/jobs/info/6997dfe5ce78e77b4fdc56cb?utm_campaign=1079&utm_source=git)** | Toronto, ON | On Site | Mar 19 |
 | **[Nordson Corporation](http://www.nordson.com)** | **[Intern (Software Engineering)](https://jobright.ai/jobs/info/69bc4c2d45e08b3dc1f8bffe?utm_campaign=1079&utm_source=git)** | East Providence, RI | On Site | Mar 19 |
 | **[Delinea](https://delinea.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/694b08b13019f50a4fe60f41?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Mar 19 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Engineering Process & Agile](https://jobright.ai/jobs/info/699fc7e381476f6176b98380?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Mar 19 |
 | **[Analog Devices](http://www.analog.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69bc6acb4828227293fe3ea1?utm_campaign=1079&utm_source=git)** | US, NC, Durham | On Site | Mar 19 |
-| **[Waymo](https://waymo.com)** | **[2026 Summer Intern, BS/MS, Software Engineer, Multiverse](https://jobright.ai/jobs/info/69bc49634828227293fdea9e?utm_campaign=1079&utm_source=git)** | Mountain View, CA, USA | Hybrid | Mar 19 |
-| **[The Trade Desk](http://thetradedesk.com)** | **[2026 Toronto Software Engineering Internship](https://jobright.ai/jobs/info/69bc495a4828227293fdea6d?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | Mar 19 |
-| **[Planet](http://www.planet.com)** | **[Intern, Software Engineer, Mission Systems](https://jobright.ai/jobs/info/69bc494f4828227293fdea34?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 19 |
-| **[MSI Express](https://msiexpress.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69bc483e4828227293fde99f?utm_campaign=1079&utm_source=git)** | Portage, IN | On Site | Mar 19 |
-| ↳ | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69bc48154828227293fde945?utm_campaign=1079&utm_source=git)** | Batavia, IL | On Site | Mar 19 |
-| **[IXL Learning](https://www.ixl.com/)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/6997bbb1ce78e77b4fdc19cb?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Mar 19 |
-| ↳ | **[Software Engineer, Intern](https://jobright.ai/jobs/info/6997c4b4e0bddb6acac68842?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
