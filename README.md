@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Frontend engineer intern](https://jobright.ai/jobs/info/69be42b0393a1008f7442d0c?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Mar 21 |
+| **[Dollar Tree Stores](http://dollartree.com)** | **[IT Quality Assurance Intern](https://jobright.ai/jobs/info/69be579b4828227293012fbf?utm_campaign=1079&utm_source=git)** | Chesapeake, VA | On Site | Mar 21 |
+| **[GenPark](https://genpark.ai)** | **[Back End Developer](https://jobright.ai/jobs/info/69be53bdb10602456283d0e4?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Mar 21 |
+| **[Coherent Corp.](http://www.coherent.com)** | **[Intern – Software Developer, Document Control, Global Quality](https://jobright.ai/jobs/info/69be533c4828227293011f9d?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 21 |
 | **[Arm](http://www.arm.com)** | **[Intern Software Engineer](https://jobright.ai/jobs/info/69be362fb106024562839f12?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Mar 20 |
-| **[Guild](https://www.guild.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69be2a4d393a1008f7440798?utm_campaign=1079&utm_source=git)** | Denver, CO | Hybrid | Mar 20 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69be26f6482822729300e30b?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 20 |
+| **[Guild](https://www.guild.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69be26f6482822729300e30b?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69445066dd382f5f566a6b8c?utm_campaign=1079&utm_source=git)** | North Bethesda, Maryland | Hybrid | Mar 20 |
-| **[GenPark](https://genpark.ai)** | **[Frontend developer intern](https://jobright.ai/jobs/info/69be2140393a1008f7440515?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Mar 20 |
 | **[Sierra Lobo, Inc.](http://www.sierralobo.com/)** | **[Computer Science Engineer INTERN](https://jobright.ai/jobs/info/69be1dd5393a1008f743fc7e?utm_campaign=1079&utm_source=git)** | Greater Cleveland | On Site | Mar 20 |
 | **[Cadence](https://www.cadence.com)** | **[Professional Services Engineering Intern](https://jobright.ai/jobs/info/69be18a6393a1008f743f54c?utm_campaign=1079&utm_source=git)** | Wisconsin, United States | On Site | Mar 20 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern – Software Developer, Document Control, Global Quality](https://jobright.ai/jobs/info/69be1791482822729300cbc6?utm_campaign=1079&utm_source=git)** | 5100 Patrick Henry Drive, Santa Clara, CA, 95054, US | On Site | Mar 20 |
@@ -84,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bdde224828227293009234?utm_campaign=1079&utm_source=git)** | Glendale, CA | Hybrid | Mar 20 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Software Engineer Internship (Remote, US)](https://jobright.ai/jobs/info/69bb076106c1ba00c54d62ea?utm_campaign=1079&utm_source=git)** | Denver, CO | Remote | Mar 20 |
 | **[Sierra Lobo, Inc.](http://www.sierralobo.com/)** | **[Computer Science Engineer INTERN](https://jobright.ai/jobs/info/69bde96a393a1008f743bd88?utm_campaign=1079&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
+| **[Coherent Corp.](http://www.coherent.com)** | **[Intern – Software Developer, Document Control, Global Quality](https://jobright.ai/jobs/info/69be517c4828227293011c3c?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 20 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) Growth Team - Solution Architect Intern](https://jobright.ai/jobs/info/69bde717393a1008f743bc9d?utm_campaign=1079&utm_source=git)** | King of Prussia, PA | Hybrid | Mar 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Software Engineering Intern, Cloud Governance, Summer 2026](https://jobright.ai/jobs/info/69bde3d848282272930095ac?utm_campaign=1079&utm_source=git)** | Seattle, WA, USA | Hybrid | Mar 20 |
 | ↳ | **[Software Engineering Intern, Cloud Governance, Summer 2026](https://jobright.ai/jobs/info/69bde3ce393a1008f743b8e4?utm_campaign=1079&utm_source=git)** | Burbank, CA, USA | Hybrid | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Basketball Players Association (NBPA)](https://nbpa.com/)** | **[Software Developer Summer Intern](https://jobright.ai/jobs/info/69bd5d67b1060245628247de?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Mar 20 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Software Quality Engineer Intern](https://jobright.ai/jobs/info/6966afd97a34f53920552d8b?utm_campaign=1079&utm_source=git)** | State College, PA | On Site | Mar 20 |
 | **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69bd5a79393a1008f742b865?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Mar 20 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Pharmacy Benefit Management Business Architect/Data Analyst](https://jobright.ai/jobs/info/69a93f1579f3f4037f4414bb?utm_campaign=1079&utm_source=git)** | Georgia, United States | Remote | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
