@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Firmware Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6914ffd5286ccf0a1512a30c?utm_campaign=1079&utm_source=git)** | Nashua, NH | On Site | Mar 21 |
+| **[Jacobs](http://www.jacobs.com)** | **[Intern - Agile Software](https://jobright.ai/jobs/info/68f95084cadb2e5a06a63d36?utm_campaign=1079&utm_source=git)** | Nashua, NH | Hybrid | Mar 21 |
+| **[York Space Systems](http://www.yorkspacesystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6933cd10a0dde7020e2f1dff?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Mar 21 |
 | **[Northmarq](http://www.northmarq.com)** | **[Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69a1e548359fe034b1cd2a0c?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Mar 21 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[First Year Software Engineering Internship 2026- NYC](https://jobright.ai/jobs/info/6986b0628da7a612046195bb?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Mar 21 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Software Engineer](https://jobright.ai/jobs/info/69a2731d0da45516f16bbecb?utm_campaign=1079&utm_source=git)** | Novi, MI | On Site | Mar 21 |
@@ -115,6 +118,8 @@ For a complete list, click the following sortable link below:
 | **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) Growth Team - Solution Architect Intern](https://jobright.ai/jobs/info/69bde717393a1008f743bc9d?utm_campaign=1079&utm_source=git)** | King of Prussia, PA | Hybrid | Mar 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Software Engineering Intern, Cloud Governance, Summer 2026](https://jobright.ai/jobs/info/69bde3d848282272930095ac?utm_campaign=1079&utm_source=git)** | Seattle, WA, USA | Hybrid | Mar 20 |
 | ↳ | **[Software Engineering Intern, Cloud Governance, Summer 2026](https://jobright.ai/jobs/info/69bde3ce393a1008f743b8e4?utm_campaign=1079&utm_source=git)** | Burbank, CA, USA | Hybrid | Mar 20 |
+| **[NationGraph](https://www.nationgraph.com/)** | **[Fall 2027 Software Engineering Intern](https://jobright.ai/jobs/info/69bec6f84828227293018316?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | Mar 20 |
+| ↳ | **[Fall 2026 Software Engineering Intern](https://jobright.ai/jobs/info/69bec6f84828227293018317?utm_campaign=1079&utm_source=git)** | Toronto | On Site | Mar 20 |
 | **[Flatiron School](http://flatironschool.com)** | **[Accelerated Work-Study Program (Engineers Only) - Bletchley Fellowship](https://jobright.ai/jobs/info/69bdde5f48282272930092a6?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Programmer/Analyst](https://jobright.ai/jobs/info/69bddba34828227293008bb6?utm_campaign=1079&utm_source=git)** | De Pere, WI | Hybrid | Mar 20 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Software Engineering Summer Intern (Charlotte, NC, Hybrid)](https://jobright.ai/jobs/info/69bdba7748282272930013fc?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | Hybrid | Mar 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Transaction Network Services (TNS)](http://www.tnsi.com)** | **[Web Applications Intern](https://jobright.ai/jobs/info/69bd9b604828227293ffd5ab?utm_campaign=1079&utm_source=git)** | Reston, VA | On Site | Mar 20 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Intern, R&D Graduate Summer - Computer Science Research Institute (CSRI), Onsite](https://jobright.ai/jobs/info/69bd9b0b4828227293ffd55d?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | On Site | Mar 20 |
 | **[AtriCure, Inc.](http://atricure.com)** | **[Engineering Co-op - Fall 2026](https://jobright.ai/jobs/info/6981564b7f40342e15da58a8?utm_campaign=1079&utm_source=git)** | Minnetonka, MN | On Site | Mar 20 |
-| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69bd95d84828227293ffd30d?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 20 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Developer Technology Intern, AI - Summer 2026](https://jobright.ai/jobs/info/69a1186881476f6176bb7015?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 20 |
-| ↳ | **[Developer Technology Intern, High-Performance Databases - Summer 2026](https://jobright.ai/jobs/info/69a1262f81476f6176bb7f0c?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 20 |
-| **[American Outdoor Brands Inc.](http://www.aob.com/)** | **[Application Developer Intern](https://jobright.ai/jobs/info/69bd919db10602456282841b?utm_campaign=1079&utm_source=git)** | Columbia, MO, US | On Site | Mar 20 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Software Engineer (Backend)](https://jobright.ai/jobs/info/69bd9112b106024562828341?utm_campaign=1079&utm_source=git)** | Atlanta, GA | NYC, NY | Remote, USA | Remote | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
