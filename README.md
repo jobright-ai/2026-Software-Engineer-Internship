@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69bffd2c7798f73e35e4c196?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 22 |
+| **[Cisco](http://www.cisco.com)** | **[Quality Assurance I (Intern) - United States](https://jobright.ai/jobs/info/69bff3c97798f73e35e4bd73?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Mar 22 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Solution Architect](https://jobright.ai/jobs/info/696b7672350cf4380312c82b?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Rigetti Computing](http://www.rigetti.com)** | **[2026 Internship Project: Software Engineering, Computer Vision & Automation](https://jobright.ai/jobs/info/69a392b4359fe034b1ce9062?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Mar 22 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Positioning Algorithms Software Engineer](https://jobright.ai/jobs/info/696ab33bdb26b618950def23?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | Mar 22 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship- Computer Aided Design](https://jobright.ai/jobs/info/6968f5a41703f05405aad38a?utm_campaign=1079&utm_source=git)** | Lexington, KY | Hybrid | Mar 21 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Memory and Personalization (Summer)](https://jobright.ai/jobs/info/69a243c7b600907a96288e83?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Mar 21 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Firmware Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6914ffd5286ccf0a1512a30c?utm_campaign=1079&utm_source=git)** | Nashua, NH | On Site | Mar 21 |
-| **[One Community Bank](https://www.onecommunity.bank)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69bf979c79e36d3a847c2d87?utm_campaign=1079&utm_source=git)** | 5990 Hwy 51, McFarland, WI, USA | On Site | Mar 21 |
 | **[Jacobs](http://www.jacobs.com)** | **[Intern - Agile Software](https://jobright.ai/jobs/info/68f95084cadb2e5a06a63d36?utm_campaign=1079&utm_source=git)** | Nashua, NH | Hybrid | Mar 21 |
 | **[York Space Systems](http://www.yorkspacesystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6933cd10a0dde7020e2f1dff?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Mar 21 |
 | **[Northmarq](http://www.northmarq.com)** | **[Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69a1e548359fe034b1cd2a0c?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Mar 21 |
@@ -100,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[OpenAI](https://www.openai.com)** | **[Software Engineer Internship / Co-op, Applied Emerging Talent (Fall 2026)](https://jobright.ai/jobs/info/6969674b1703f05405ab446c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 21 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Software Engineering Intern - R&D](https://jobright.ai/jobs/info/69b0faa774950064509830c5?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Mar 21 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Team Leader Software Engineering](https://jobright.ai/jobs/info/69325cc7a0dde7020e2e6293?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Mar 21 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Corporate Innovation Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/69be855cb10602456284005b?utm_campaign=1079&utm_source=git)** | Glendale, CA | On Site | Mar 21 |
-| ↳ | **[Software Engineering Intern, Cloud Governance, Summer 2026](https://jobright.ai/jobs/info/69be855cb10602456284005c?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Mar 21 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Software Engineering Intern, Cloud Governance, Summer 2026](https://jobright.ai/jobs/info/69be855cb10602456284005c?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Mar 21 |
+| ↳ | **[Corporate Innovation Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/69be855cb10602456284005b?utm_campaign=1079&utm_source=git)** | Glendale, CA | On Site | Mar 21 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer - Full Stack (Java/Angular)](https://jobright.ai/jobs/info/6930b9274c474121999e8076?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Mar 21 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Full Stack Developer Intern - i-0062](https://jobright.ai/jobs/info/69a256cb0da45516f16b9a85?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 21 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Software Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/69a20d60b600907a96285ab8?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 21 |
@@ -143,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) Growth Team - Solution Architect Intern](https://jobright.ai/jobs/info/69bde717393a1008f743bc9d?utm_campaign=1079&utm_source=git)** | King of Prussia, PA | Hybrid | Mar 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Software Engineering Intern, Cloud Governance, Summer 2026](https://jobright.ai/jobs/info/69bde3d848282272930095ac?utm_campaign=1079&utm_source=git)** | Seattle, WA, USA | Hybrid | Mar 20 |
 | ↳ | **[Software Engineering Intern, Cloud Governance, Summer 2026](https://jobright.ai/jobs/info/69bde3ce393a1008f743b8e4?utm_campaign=1079&utm_source=git)** | Burbank, CA, USA | Hybrid | Mar 20 |
-| **[NationGraph](https://www.nationgraph.com/)** | **[Fall 2026 Software Engineering Intern](https://jobright.ai/jobs/info/69bec6f84828227293018317?utm_campaign=1079&utm_source=git)** | Toronto | On Site | Mar 20 |
-| ↳ | **[Fall 2027 Software Engineering Intern](https://jobright.ai/jobs/info/69bec6f84828227293018316?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | Mar 20 |
+| **[NationGraph](https://www.nationgraph.com/)** | **[Fall 2027 Software Engineering Intern](https://jobright.ai/jobs/info/69bec6f84828227293018316?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | Mar 20 |
+| ↳ | **[Fall 2026 Software Engineering Intern](https://jobright.ai/jobs/info/69bec6f84828227293018317?utm_campaign=1079&utm_source=git)** | Toronto | On Site | Mar 20 |
 | **[Flatiron School](http://flatironschool.com)** | **[Accelerated Work-Study Program (Engineers Only) - Bletchley Fellowship](https://jobright.ai/jobs/info/69bdde5f48282272930092a6?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Programmer/Analyst](https://jobright.ai/jobs/info/69bddba34828227293008bb6?utm_campaign=1079&utm_source=git)** | De Pere, WI | Hybrid | Mar 20 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Software Engineering Summer Intern (Charlotte, NC, Hybrid)](https://jobright.ai/jobs/info/69bdba7748282272930013fc?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | Hybrid | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Corporate Innovation Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/69bdc4fcb10602456282ed93?utm_campaign=1079&utm_source=git)** | Glendale, CA, USA | Hybrid | Mar 20 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer Stf](https://jobright.ai/jobs/info/69bdc15b48282272930029e9?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Mar 20 |
 | **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: Software (Summer 2026)](https://jobright.ai/jobs/info/69bdbff04828227293002317?utm_campaign=1079&utm_source=git)** | Shippensburg, PA | On Site | Mar 20 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Enterprise Architect Intern](https://jobright.ai/jobs/info/69a780c72672cb0acb4bf821?utm_campaign=1079&utm_source=git)** | Paramus, NJ | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
