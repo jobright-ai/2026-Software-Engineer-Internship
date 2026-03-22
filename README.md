@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BDI](https://bditest.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69c044d07798f73e35e4e5c2?utm_campaign=1079&utm_source=git)** | Louisville, CO | Hybrid | Mar 22 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Founding Backend Engineer Intern](https://jobright.ai/jobs/info/69c03c077798f73e35e4ddbc?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 22 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Without Compensation (WOC) Research Computer Scientist](https://jobright.ai/jobs/info/69c039372c312363dcd2c80e?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Mar 22 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Test Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/68cd81181ad6b16f0289a7d9?utm_campaign=1079&utm_source=git)** | Westlake Village, CA | On Site | Mar 22 |
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[Cloud Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69c0318f79e36d3a847c9f25?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Mar 22 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Python/Fast API Development Internship: Remote / Unpaid](https://jobright.ai/jobs/info/69c02e402c312363dcd2c61d?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Mar 22 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, XR Full Stack Developer (Summer)](https://jobright.ai/jobs/info/69868b418da7a61204615cf2?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Mar 22 |
 | **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69bffd2c7798f73e35e4c196?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Cisco](http://www.cisco.com)** | **[Quality Assurance I (Intern) - United States](https://jobright.ai/jobs/info/69bff3c97798f73e35e4bd73?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Mar 22 |
@@ -101,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Sr/Staff Software Engineer (UX Design) (Remote - US)](https://jobright.ai/jobs/info/69a670b92c0d8b0f5cd08fcb?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 21 |
 | **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB Chronicle & Engineering Intern](https://jobright.ai/jobs/info/69a214c2b600907a96286263?utm_campaign=1079&utm_source=git)** | Needham, MA | On Site | Mar 21 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69b64e6f56973837413b96d2?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Mar 21 |
-| **[One Community Bank](https://www.onecommunity.bank)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69bfef4e7798f73e35e4bcbc?utm_campaign=1079&utm_source=git)** | McFarland, WI | On Site | Mar 21 |
 | **[Tinder](http://www.tinder.com)** | **[iOS Intern](https://jobright.ai/jobs/info/6920f325a49a885af9a4107a?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 21 |
 | **[Safety National](https://www.safetynational.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a5cde2359fe034b1d06bb4?utm_campaign=1079&utm_source=git)** | St Louis, MO | On Site | Mar 21 |
 | **[OpenAI](https://www.openai.com)** | **[Software Engineer Internship / Co-op, Applied Emerging Talent (Fall 2026)](https://jobright.ai/jobs/info/6969674b1703f05405ab446c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Software Engineering Summer Intern (Charlotte, NC, Hybrid)](https://jobright.ai/jobs/info/69bdba7748282272930013fc?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | Hybrid | Mar 20 |
 | **[Teladoc Health](https://teladochealth.com)** | **[Staff Full Stack Engineer](https://jobright.ai/jobs/info/69bdd0734828227293005c36?utm_campaign=1079&utm_source=git)** | Girlstown USA, TX | Hybrid | Mar 20 |
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Intern](https://jobright.ai/jobs/info/6944e8ba94730b73987818e8?utm_campaign=1079&utm_source=git)** | Centennial, CO | On Site | Mar 20 |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Software Engineer (Backend)](https://jobright.ai/jobs/info/69bdca82b10602456283035b?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
