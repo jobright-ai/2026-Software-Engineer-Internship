@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vertiv](https://www.Vertiv.com)** | **[AI/ Gen AI Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69a51d8eb600907a962abe4c?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Mar 22 |
+| **[SanMar](http://www.sanmar.com)** | **[IT Intern, Software Development](https://jobright.ai/jobs/info/69bc7f3545e08b3dc1f93db1?utm_campaign=1079&utm_source=git)** | Issaquah, WA | On Site | Mar 22 |
+| **[Saronic Technologies](https://www.saronic.com)** | **[Forward Deployed Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/696b1f7b5fc86241853a8106?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 22 |
+| **[Nuro](https://nuro.ai)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/696af501350cf438031230b6?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Mar 22 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology - Ads Creative AI) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69aa4cf92ebd316bece20c2b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
+| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Computer Engineering Internship Summer 2027](https://jobright.ai/jobs/info/69a70b3076bbe83d3afa5ca8?utm_campaign=1079&utm_source=git)** | Idaho Falls, ID | On Site | Mar 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Frontend Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696adf2bdb26b618950e3a8a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
 | **[ETS-Lindgren](http://www.ets-lindgren.com/)** | **[Web/SharePoint Developer Intern](https://jobright.ai/jobs/info/6986588e8ca8121a3a688f93?utm_campaign=1079&utm_source=git)** | Cedar Park, TX | On Site | Mar 22 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Avionics Software Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/696b2141350cf438031279b6?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Mar 22 |
@@ -105,8 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Web Development Intern](https://jobright.ai/jobs/info/69699ee2639b452fb57f9045?utm_campaign=1079&utm_source=git)** | Lodi, CA | On Site | Mar 21 |
 | **[AssetMark](http://www.assetmark.com)** | **[QA Engineering Intern](https://jobright.ai/jobs/info/698505c68da7a612045f4e97?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Mar 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer/Mobile Engineer Intern (Monetization Technology - Ads Core Demonstration) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6984b63a348f733a5c38d03b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 21 |
-| **[Vivacity Tech PBC](https://vivacitytech.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69bfbe5a79e36d3a847c6640?utm_campaign=1079&utm_source=git)** | Greenville, SC | Hybrid | Mar 21 |
-| ↳ | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69bfc07b7798f73e35e49d84?utm_campaign=1079&utm_source=git)** | Greenville, SC | Hybrid | Mar 21 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69bf69182c312363dcd22a7c?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Mar 21 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[IT Quality Assurance Intern](https://jobright.ai/jobs/info/69be579b4828227293012fbf?utm_campaign=1079&utm_source=git)** | Chesapeake, VA | On Site | Mar 21 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern – Software Developer, Document Control, Global Quality](https://jobright.ai/jobs/info/69be533c4828227293011f9d?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern-Product Engineering](https://jobright.ai/jobs/info/69bdb950b10602456282c36e?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern](https://jobright.ai/jobs/info/69bdb67648282272930001a3?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | Mar 20 |
 | **[CalAmp](http://www.calamp.com)** | **[Intern, Engineer Software - Carlsbad, CA (Summer 2026)](https://jobright.ai/jobs/info/69bdb5f94828227293fffe9d?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | Hybrid | Mar 20 |
-| **[World Vision Canada](https://www.worldvision.ca)** | **[Intern, Employee-Centric Delivery](https://jobright.ai/jobs/info/69bdb5f84828227293fffe98?utm_campaign=1079&utm_source=git)** | Mississauga, ON | Hybrid | Mar 20 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Advisor Batch Developer (UNIX/C/Eligibility/Managed Care)](https://jobright.ai/jobs/info/69bdb5edb10602456282b382?utm_campaign=1079&utm_source=git)** | Wisconsin, United States | Remote | Mar 20 |
-| **[Age of Learning](http://www.ageoflearning.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bdb1adb10602456282a82d?utm_campaign=1079&utm_source=git)** | Glendale, CA (Hybrid) | Hybrid | Mar 20 |
-| **[Bill360](https://www.bill360.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bdb0654828227293ffeef8?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
