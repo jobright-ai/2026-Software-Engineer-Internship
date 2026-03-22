@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LangPal](www.lang-pal.com)** | **[iOS App Developer Intern (Swift) – Remote (U.S. & Canada)](https://jobright.ai/jobs/info/69bf20c2482822729301c363?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 21 |
 | **[NationGraph](https://www.nationgraph.com/)** | **[Winter 2027 Software Engineering Intern](https://jobright.ai/jobs/info/69bef7fe482822729301a614?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Mar 21 |
 | ↳ | **[Fall 2026 Software Engineering Intern](https://jobright.ai/jobs/info/69bef7fc482822729301a613?utm_campaign=1079&utm_source=git)** | Toronto, ON | On Site | Mar 21 |
 | **[Lake Trust Credit Union](https://laketrust.org/)** | **[Business Intelligence (Robotic Process Automation) Internship (Summer 2026)](https://jobright.ai/jobs/info/69bc212c45e08b3dc1f83afa?utm_campaign=1079&utm_source=git)** | Brighton, MI | On Site | Mar 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Easy Dynamics Corp](https://www.easydynamics.com/)** | **[Software Engineer Internship - Summer 2026](https://jobright.ai/jobs/info/69bda6ca393a1008f7430198?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Mar 20 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Software Developer Intern (QA/Test Engineering Focus)](https://jobright.ai/jobs/info/69bda5c3b10602456282944f?utm_campaign=1079&utm_source=git)** | Fargo, North Dakota, United States | On Site | Mar 20 |
 | **[R.D. Offutt Company](https://www.linkedin.com/company/6140330)** | **[Software Developer Intern (QA/Test Engineering Focus)](https://jobright.ai/jobs/info/69bda5ba4828227293ffde9d?utm_campaign=1079&utm_source=git)** | Fargo, North Dakota, United States | On Site | Mar 20 |
-| **[Jupiter Power](https://www.jupiterpower.io/)** | **[Software Development Engineer, 2026 Summer Intern](https://jobright.ai/jobs/info/69bda580393a1008f742ff87?utm_campaign=1079&utm_source=git)** | Houston, TX | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
