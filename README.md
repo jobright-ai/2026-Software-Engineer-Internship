@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rigetti Computing](http://www.rigetti.com)** | **[2026 Internship Project: Software Engineering, Computer Vision & Automation](https://jobright.ai/jobs/info/69a392b4359fe034b1ce9062?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Mar 22 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Positioning Algorithms Software Engineer](https://jobright.ai/jobs/info/696ab33bdb26b618950def23?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | Mar 22 |
+| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bfd8fe2c312363dcd29921?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Vertiv](https://www.Vertiv.com)** | **[AI/ Gen AI Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69a51d8eb600907a962abe4c?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Mar 22 |
 | **[SanMar](http://www.sanmar.com)** | **[IT Intern, Software Development](https://jobright.ai/jobs/info/69bc7f3545e08b3dc1f93db1?utm_campaign=1079&utm_source=git)** | Issaquah, WA | On Site | Mar 22 |
 | **[Saronic Technologies](https://www.saronic.com)** | **[Forward Deployed Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/696b1f7b5fc86241853a8106?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 22 |
@@ -97,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[OpenAI](https://www.openai.com)** | **[Software Engineer Internship / Co-op, Applied Emerging Talent (Fall 2026)](https://jobright.ai/jobs/info/6969674b1703f05405ab446c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 21 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Software Engineering Intern - R&D](https://jobright.ai/jobs/info/69b0faa774950064509830c5?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | Mar 21 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Team Leader Software Engineering](https://jobright.ai/jobs/info/69325cc7a0dde7020e2e6293?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Mar 21 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Software Engineering Intern, Cloud Governance, Summer 2026](https://jobright.ai/jobs/info/69be855cb10602456284005c?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Mar 21 |
-| ↳ | **[Corporate Innovation Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/69be855cb10602456284005b?utm_campaign=1079&utm_source=git)** | Glendale, CA | On Site | Mar 21 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Corporate Innovation Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/69be855cb10602456284005b?utm_campaign=1079&utm_source=git)** | Glendale, CA | On Site | Mar 21 |
+| ↳ | **[Software Engineering Intern, Cloud Governance, Summer 2026](https://jobright.ai/jobs/info/69be855cb10602456284005c?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Mar 21 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineer - Full Stack (Java/Angular)](https://jobright.ai/jobs/info/6930b9274c474121999e8076?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Mar 21 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Full Stack Developer Intern - i-0062](https://jobright.ai/jobs/info/69a256cb0da45516f16b9a85?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 21 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Software Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/69a20d60b600907a96285ab8?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 21 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Corporate Innovation Intern, Glendale, Summer 2026](https://jobright.ai/jobs/info/69bdc4fcb10602456282ed93?utm_campaign=1079&utm_source=git)** | Glendale, CA, USA | Hybrid | Mar 20 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer Stf](https://jobright.ai/jobs/info/69bdc15b48282272930029e9?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Mar 20 |
 | **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: Software (Summer 2026)](https://jobright.ai/jobs/info/69bdbff04828227293002317?utm_campaign=1079&utm_source=git)** | Shippensburg, PA | On Site | Mar 20 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Enterprise Architect Intern](https://jobright.ai/jobs/info/69a780c72672cb0acb4bf821?utm_campaign=1079&utm_source=git)** | Paramus, NJ | Hybrid | Mar 20 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Enterprise Architect Intern](https://jobright.ai/jobs/info/69a780c72672cb0acb4bf821?utm_campaign=1079&utm_source=git)** | Paramus, NJ | Hybrid | Mar 20 |
 | **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[Intern – Software Engineer](https://jobright.ai/jobs/info/69bdbc67393a1008f7433c9f?utm_campaign=1079&utm_source=git)** | Baltimore, MD | On Site | Mar 20 |
-| **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern-Product Engineering](https://jobright.ai/jobs/info/69bdb950b10602456282c36e?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern](https://jobright.ai/jobs/info/69bdb67648282272930001a3?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | Mar 20 |
-| **[CalAmp](http://www.calamp.com)** | **[Intern, Engineer Software - Carlsbad, CA (Summer 2026)](https://jobright.ai/jobs/info/69bdb5f94828227293fffe9d?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
