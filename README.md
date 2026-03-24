@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Deluxe](http://www.deluxe.com)** | **[Internship - Technology & Computer Science - Atlanta](https://jobright.ai/jobs/info/69c18bcb75f7ff1cd80fb085?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | ↳ | **[Internship - Technology & Computer Science - Minneapolis](https://jobright.ai/jobs/info/69c18b8d79e36d3a847e6a2c?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Mar 23 |
 | ↳ | **[Internship - Technology & Computer Science - Fort Worth](https://jobright.ai/jobs/info/69c18b0f2c312363dcd48963?utm_campaign=1079&utm_source=git)** | Fort Worth, TX | On Site | Mar 23 |
+| **[IBM](http://www.ibm.com)** | **[Intern 2026: Software Engineer - Semiconductor](https://jobright.ai/jobs/info/69c2493a2c312363dcd5e3e7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 23 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Software Engineer- Backend Intern (Summer 2026)](https://jobright.ai/jobs/info/69c187e675f7ff1cd80fadc3?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
 | **[Leidos](https://www.leidos.com)** | **[Technology Enablement & Technical Documentation Intern](https://jobright.ai/jobs/info/69c1868275f7ff1cd80fa96a?utm_campaign=1079&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Mar 23 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Dev Ops Intern](https://jobright.ai/jobs/info/69c1868079e36d3a847e617a?utm_campaign=1079&utm_source=git)** | Rapid City | On Site | Mar 23 |
 | **[Voya Financial](https://www.voya.com/)** | **[Technology Intern: Part-Time Role](https://jobright.ai/jobs/info/69c1867d75f7ff1cd80fa941?utm_campaign=1079&utm_source=git)** | MA-Boston, 121 Seaport Blvd | On Site | Mar 23 |
-| **[Farsight](https://farsight-ai.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1835f79e36d3a847e5012?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
