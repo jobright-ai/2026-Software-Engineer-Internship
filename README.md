@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Computer Engineering Internship Summer 2027](https://jobright.ai/jobs/info/69c218f675f7ff1cd810d4d9?utm_campaign=1079&utm_source=git)** | Niskayuna, NY | On Site | Mar 23 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Computer Science and Algorithms Intern (Bachelors - Austin, TX)](https://jobright.ai/jobs/info/69c20a8a2c312363dcd55e78?utm_campaign=1079&utm_source=git)** | Austin,TX | On Site | Mar 23 |
-| **[Solom](https://solom.earth)** | **[Biodiversity Software Engineering Intern](https://jobright.ai/jobs/info/69c2088ac9ad035e829a7860?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 23 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Drupal Developer Intern](https://jobright.ai/jobs/info/69a8d44579f3f4037f435c11?utm_campaign=1079&utm_source=git)** | Paramus, NJ | On Site | Mar 23 |
 | **[Hunt Electric, Inc.](http://huntelectric.com)** | **[Summer Intern - Web Developer](https://jobright.ai/jobs/info/69c207332c312363dcd55ae0?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Mar 23 |
 | **[Avnet](https://www.avnet.com)** | **[Supply Chain Solutions Intern](https://jobright.ai/jobs/info/69c2072d2c312363dcd55ad3?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 23 |
@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer, Intern (Summer 2026) - US](https://jobright.ai/jobs/info/69c1f9a275f7ff1cd8106320?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Mar 23 |
 | ↳ | **[Software Engineer, Intern (Summer 2026) - US](https://jobright.ai/jobs/info/69c1f98b75f7ff1cd8106313?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Mar 23 |
 | ↳ | **[Software Engineer, Intern (Summer 2026) - US](https://jobright.ai/jobs/info/69c1f97d2c312363dcd53cfb?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 23 |
-| **[Trishula AI](https://trishula-guard-connect.lovable.app/)** | **[Software Intern](https://jobright.ai/jobs/info/69c1f8f22c312363dcd53c87?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 23 |
 | **[Scowtt](https://www.scowtt.com)** | **[Full Stack Software Engineering Intern](https://jobright.ai/jobs/info/69c1f65e75f7ff1cd8105e7b?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Mar 23 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, IT Computer Science - A&D SAP Program](https://jobright.ai/jobs/info/69c1f3e575f7ff1cd8105bfb?utm_campaign=1079&utm_source=git)** | Buffalo, NY | Hybrid | Mar 23 |
 | **[DoorDash](http://www.doordash.com)** | **[Software Engineer, Intern (Summer 2026) - US](https://jobright.ai/jobs/info/69c1f3bf75f7ff1cd8105b4c?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Littelfuse](http://www.littelfuse.com)** | **[Dev Ops Intern](https://jobright.ai/jobs/info/69c1868079e36d3a847e617a?utm_campaign=1079&utm_source=git)** | Rapid City | On Site | Mar 23 |
 | **[Voya Financial](https://www.voya.com/)** | **[Technology Intern: Part-Time Role](https://jobright.ai/jobs/info/69c1867d75f7ff1cd80fa941?utm_campaign=1079&utm_source=git)** | MA-Boston, 121 Seaport Blvd | On Site | Mar 23 |
 | **[Farsight](https://farsight-ai.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1835f79e36d3a847e5012?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Mar 23 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Software Engineer](https://jobright.ai/jobs/info/69c21227c9ad035e829abf5d?utm_campaign=1079&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Mar 23 |
 | **[Voya Financial](https://www.voya.com/)** | **[Technology Intern: Part-Time Role](https://jobright.ai/jobs/info/69c182232c312363dcd46edd?utm_campaign=1079&utm_source=git)** | Hartford, CT | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
