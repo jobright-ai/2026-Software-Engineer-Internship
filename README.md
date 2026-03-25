@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[rf IDEAS, Inc](http://www.rfideas.com)** | **[Embedded Software Engineer – Intern](https://jobright.ai/jobs/info/69c3c9e96f4f855eeda5e543?utm_campaign=1079&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 25 |
+| **[Tektronix](http://www.tek.com)** | **[Software Engineering Intern - (Summer 2026)](https://jobright.ai/jobs/info/69a773ac76bbe83d3afad7b7?utm_campaign=1079&utm_source=git)** | Beaverton, OR | Hybrid | Mar 25 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Full Stack Software Engineer](https://jobright.ai/jobs/info/69a826427ac93962b707e956?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Mar 25 |
 | **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69a8205e2580d3183f00295e?utm_campaign=1079&utm_source=git)** | Greater Phoenix Area | On Site | Mar 25 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Software Engineer Research Intern](https://jobright.ai/jobs/info/69c3c40f33eecf310793a2c5?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Mar 25 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c319a3ec22f8310ab13ee9?utm_campaign=1079&utm_source=git)** | Columbus, OH | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c319a2753c101b2156aab1?utm_campaign=1079&utm_source=git)** | Denver, CO | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c319a094007a2195df5566?utm_campaign=1079&utm_source=git)** | Nashville, TN | Remote | Mar 24 |
-| ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c3199a753c101b2156aa9e?utm_campaign=1079&utm_source=git)** | Santa Fe, NM | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c3199a753c101b2156aa9f?utm_campaign=1079&utm_source=git)** | Boston, MA | Remote | Mar 24 |
+| ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c3199a753c101b2156aa9e?utm_campaign=1079&utm_source=git)** | Santa Fe, NM | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c31999753c101b2156aa9d?utm_campaign=1079&utm_source=git)** | Tallahassee, FL | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c31985ec22f8310ab13eaf?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c3197bec22f8310ab13e9e?utm_campaign=1079&utm_source=git)** | Bismarck, ND | Remote | Mar 24 |
@@ -135,7 +137,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c314f994007a2195df4386?utm_campaign=1079&utm_source=git)** | Richmond, VA | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c314f194007a2195df435c?utm_campaign=1079&utm_source=git)** | Honolulu, HI | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c314e994007a2195df433e?utm_campaign=1079&utm_source=git)** | Oklahoma City, OK | Remote | Mar 24 |
-| ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c314e7ec22f8310ab12c90?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c314e294007a2195df4323?utm_campaign=1079&utm_source=git)** | Des Moines, IA | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c314e1ec22f8310ab12c3d?utm_campaign=1079&utm_source=git)** | Montgomery, AL | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c314dc94007a2195df4304?utm_campaign=1079&utm_source=git)** | Little Rock, AR | Remote | Mar 24 |
@@ -143,11 +144,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c314ccec22f8310ab12b6c?utm_campaign=1079&utm_source=git)** | Sacramento, CA | Remote | Mar 24 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Software Engineer, New Grad](https://jobright.ai/jobs/info/6997cbb4e0bddb6acac6924f?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Mar 24 |
 | **[Pearson](https://www.pearson.com/)** | **[Cloud Engineer](https://jobright.ai/jobs/info/69c3318094007a2195df84c0?utm_campaign=1079&utm_source=git)** | Juneau, AK | Remote | Mar 24 |
-| ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c33155ec22f8310ab16f94?utm_campaign=1079&utm_source=git)** | Harrisburg, PA | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c33167753c101b2156d863?utm_campaign=1079&utm_source=git)** | Carson City, NV | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c3315a753c101b2156d859?utm_campaign=1079&utm_source=git)** | Concord, NH | Remote | Mar 24 |
-| ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c33149ec22f8310ab16f8a?utm_campaign=1079&utm_source=git)** | Annapolis, MD | Remote | Mar 24 |
+| ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c33155ec22f8310ab16f94?utm_campaign=1079&utm_source=git)** | Harrisburg, PA | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c33159ec22f8310ab16f98?utm_campaign=1079&utm_source=git)** | Augusta, ME | Remote | Mar 24 |
+| ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c33149ec22f8310ab16f8a?utm_campaign=1079&utm_source=git)** | Annapolis, MD | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c3315a753c101b2156d85a?utm_campaign=1079&utm_source=git)** | Boise, ID | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c3319b94007a2195df84e2?utm_campaign=1079&utm_source=git)** | Montpelier, VT | Remote | Mar 24 |
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c310bb94007a2195df38e0?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | Remote | Mar 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cloud Engineer](https://jobright.ai/jobs/info/69c3109aec22f8310ab12189?utm_campaign=1079&utm_source=git)** | Hartford, CT | Remote | Mar 24 |
 | **[Gen](https://www.gendigital.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69c30b9fec22f8310ab11902?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Mar 24 |
 | **[Alstom](https://www.alstom.com/)** | **[Verification and Test in Engineering Intern](https://jobright.ai/jobs/info/69bc573f45e08b3dc1f8d8e4?utm_campaign=1079&utm_source=git)** | Saint-Bruno, QC | On Site | Mar 24 |
-| **[IXL Learning](https://www.ixl.com/)** | **[Software Developer, New Grad](https://jobright.ai/jobs/info/6997dfe5ce78e77b4fdc56cb?utm_campaign=1079&utm_source=git)** | Toronto, ON | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
