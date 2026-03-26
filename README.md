@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Criteo](http://www.criteo.com)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/69c4f405d5a1016e98dc625d?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Mar 26 |
+| **[Truveta](https://www.truveta.com)** | **[Agentic AI Software Testing Intern – Intelligence Platform (IPA)](https://jobright.ai/jobs/info/69c4f0de6f4f855eeda7b2d2?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | On Site | Mar 26 |
+| **[State of Utah](http://www.utah.gov/)** | **[Legislative Software Engineer](https://jobright.ai/jobs/info/69c4f0cfd5a1016e98dc60e8?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 26 |
+| **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Software Engineering Intern - Summer 2026, Draper, UT](https://jobright.ai/jobs/info/69c4ed4cd5a1016e98dc5e53?utm_campaign=1079&utm_source=git)** | Draper, UT | On Site | Mar 26 |
 | **[First American](http://www.firstam.com)** | **[Software Engineering Intern - REMOTE](https://jobright.ai/jobs/info/69a7af0676bbe83d3afb1b0e?utm_campaign=1079&utm_source=git)** | Santa Ana, CA | Remote | Mar 26 |
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program-Application Development](https://jobright.ai/jobs/info/69c4e0946f4f855eeda793cd?utm_campaign=1079&utm_source=git)** | Fishers, IN | On Site | Mar 26 |
 | **[Criteo](http://www.criteo.com)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/69c4dd36d5a1016e98dc4084?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 26 |
@@ -127,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Mediaocean](http://www.mediaocean.com)** | **[Prisma Software Engineering Intern](https://jobright.ai/jobs/info/69c4277233eecf31079445c5?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69c4276433eecf31079445a3?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Mar 25 |
 | **[Al Warren Oil](https://www.alwarrenoil.com)** | **[Software Developer - Summer Internship 2026](https://jobright.ai/jobs/info/69c4d8cd33eecf310795479e?utm_campaign=1079&utm_source=git)** | Bensenville, Illinois, United States | On Site | Mar 25 |
-| **[General Dynamics](https://www.gd.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69c45193d5a1016e98db74cd?utm_campaign=1079&utm_source=git)** | US-MA-Taunton | On Site | Mar 25 |
-| ↳ | **[Test Engineering Intern](https://jobright.ai/jobs/info/69c4517a6f4f855eeda6c5d2?utm_campaign=1079&utm_source=git)** | Taunton, MA, US | On Site | Mar 25 |
+| **[General Dynamics](https://www.gd.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69c4517a6f4f855eeda6c5d2?utm_campaign=1079&utm_source=git)** | Taunton, MA, US | On Site | Mar 25 |
+| ↳ | **[Test Engineering Intern](https://jobright.ai/jobs/info/69c45193d5a1016e98db74cd?utm_campaign=1079&utm_source=git)** | US-MA-Taunton | On Site | Mar 25 |
 | **[Lumeto](https://lumeto.com)** | **[Intern - Backend / Test Automation Developer](https://jobright.ai/jobs/info/69c448f833eecf3107947dce?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 25 |
 | ↳ | **[Intern - Quality Assurance (QA)](https://jobright.ai/jobs/info/69c448f633eecf3107947dca?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 25 |
 | **[Kiewit](http://www.kiewit.com)** | **[Drainage Engineer Intern - Kiewit Infrastructure Engineers- Texas (Summer 2026)](https://jobright.ai/jobs/info/698ada434db8972cec005426?utm_campaign=1079&utm_source=git)** | Westlake, TX | On Site | Mar 25 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69ad07b12747003c3d529652?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Mar 25 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - EHSS Agentic AI & Multi Agent Orchestration (Enterprise Workflows)](https://jobright.ai/jobs/info/69c42d5433eecf310794516f?utm_campaign=1079&utm_source=git)** | Boise, ID - Main Site | On Site | Mar 25 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year-Round - AI For Autonomy, Hybrid](https://jobright.ai/jobs/info/695d40d5f1f8465b79f36f0d?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | Hybrid | Mar 25 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - Software Engineer Intern](https://jobright.ai/jobs/info/69c42bded5a1016e98db3c39?utm_campaign=1079&utm_source=git)** | Irving, TX, US | Hybrid | Mar 25 |
-| ↳ | **[Intern Program - Software Engineer Intern](https://jobright.ai/jobs/info/69c42c0f33eecf3107944fa7?utm_campaign=1079&utm_source=git)** | US-TX-Irving | Hybrid | Mar 25 |
-| **[Tyonek Native Corp](https://www.tyonek.com/)** | **[Engineering Intern- WR](https://jobright.ai/jobs/info/69c4074c33eecf31079420a4?utm_campaign=1079&utm_source=git)** | Warner Robins, GA | On Site | Mar 25 |
-| **[BenchSci](https://www.benchsci.com)** | **[BenchSci Software Engineering Intern (4-Month Contract)](https://jobright.ai/jobs/info/69c407366f4f855eeda65fff?utm_campaign=1079&utm_source=git)** | Toronto, ON | On Site | Mar 25 |
-| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Senior Software Developer](https://jobright.ai/jobs/info/69c404c4d5a1016e98db0a58?utm_campaign=1079&utm_source=git)** | Urbana, IL | On Site | Mar 25 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - Software Engineer Intern](https://jobright.ai/jobs/info/69c42c0f33eecf3107944fa7?utm_campaign=1079&utm_source=git)** | US-TX-Irving | Hybrid | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
