@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/698c04a30f6f7e7a2ce79494?utm_campaign=1079&utm_source=git)** | Ottawa, ON | On Site | Mar 26 |
+| **[AMETEK](http://www.ametek.com)** | **[Software Test Engineer Intern](https://jobright.ai/jobs/info/69a8a4937ac93962b7086118?utm_campaign=1079&utm_source=git)** | Mount Prospect, IL | On Site | Mar 26 |
+| **[Scowtt](https://www.scowtt.com)** | **[Intern - Full Stack Software Engineering](https://jobright.ai/jobs/info/69c1dc6075f7ff1cd8103919?utm_campaign=1079&utm_source=git)** | Seattle | Hybrid | Mar 26 |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - IT Infrastructure](https://jobright.ai/jobs/info/6996947581476f6176ae780b?utm_campaign=1079&utm_source=git)** | Springfield, MO | On Site | Mar 26 |
+| **[ByteDance](http://bytedance.com)** | **[[Online Assessment]Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/690d44c84a1b456627b1feee?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Mar 26 |
+| **[Kiewit](http://www.kiewit.com)** | **[Estimating Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/69c506db8652780152678dc0?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Mar 26 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Forward Deployed Software Engineer, Internship - Poland](https://jobright.ai/jobs/info/69c506d98652780152678db3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 26 |
+| ↳ | **[Forward Deployed Software Engineer, Internship - France](https://jobright.ai/jobs/info/69b0635cdfaeda6ff59a2516?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (Bachelor/Master)](https://jobright.ai/jobs/info/69bcc86945e08b3dc1f99223?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 26 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Digital Systems QA](https://jobright.ai/jobs/info/69a8b75f79f3f4037f431bdd?utm_campaign=1079&utm_source=git)** | Headquarters, NJ | Hybrid | Mar 26 |
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Software Engineering Intern - Summer 2026, Draper, UT](https://jobright.ai/jobs/info/69c4ed4cd5a1016e98dc5e53?utm_campaign=1079&utm_source=git)** | Draper, UT | On Site | Mar 26 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PsiQuantum](https://www.psiquantum.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69c4221733eecf3107943d98?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Mar 25 |
 | ↳ | **[Intern, Software Engineering - Computational Chemistry](https://jobright.ai/jobs/info/69c4221233eecf3107943d87?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Mar 25 |
 | **[Aflac](http://www.aflac.com)** | **[Solutions Engineer (Salesforce)](https://jobright.ai/jobs/info/69c4220e33eecf3107943d72?utm_campaign=1079&utm_source=git)** | Columbus, GA | Hybrid | Mar 25 |
-| **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Information Technology (Platform Engineering)](https://jobright.ai/jobs/info/69a852a67ac93962b70821cc?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Mar 25 |
-| **[Tech Manitoba](https://techmanitoba.ca/)** | **[SAP System Developer](https://jobright.ai/jobs/info/69c41b68d5a1016e98db2729?utm_campaign=1079&utm_source=git)** | Winnipeg, MB | Hybrid | Mar 25 |
-| **[TRG](https://trg.agency)** | **[Full Stack Application Developer Intern (2026 Summer)](https://jobright.ai/jobs/info/69c41b1b33eecf310794398e?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
-| **[Tech Manitoba](https://techmanitoba.ca/)** | **[SAP System Developer](https://jobright.ai/jobs/info/69c41add33eecf310794391a?utm_campaign=1079&utm_source=git)** | Winnipeg, MB | Hybrid | Mar 25 |
-| **[Honeywell](http://www.honeywell.com)** | **[Intern Bachelors Embedded Engineer (SATCOM)](https://jobright.ai/jobs/info/699a7a68ce78e77b4fdf3700?utm_campaign=1079&utm_source=git)** | Kanata, ON | On Site | Mar 25 |
-| **[NetJets](https://www.netjets.com/)** | **[Software Engineer Intern (NJUS)](https://jobright.ai/jobs/info/69c4188ad5a1016e98db2498?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Mar 25 |
-| **[Gildan](https://gildancorp.com)** | **[Intern, ERP GenAI](https://jobright.ai/jobs/info/69bfb6cb79e36d3a847c577c?utm_campaign=1079&utm_source=git)** | Montreal, QC | Hybrid | Mar 25 |
-| **[BMO](http://www.bmo.com)** | **[Technology  Analyst, Summer 2026 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/69c43cb933eecf31079467ca?utm_campaign=1079&utm_source=git)** | Naperville, IL, USA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
