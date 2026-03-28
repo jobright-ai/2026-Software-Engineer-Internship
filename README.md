@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Novaflow (YC S25)](https://www.novaflowapp.com/)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69c7dea6e565c26a7002c63e?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
+| **[GenPark](https://genpark.ai)** | **[Front end developer](https://jobright.ai/jobs/info/69c7f924aa3c2c1995e1c836?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Mar 28 |
 | **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/698e3a5c78b4502f12a5067d?utm_campaign=1079&utm_source=git)** | Cranbury, NJ | On Site | Mar 28 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer, Community Apprenticeship - Intern](https://jobright.ai/jobs/info/69ab65927e1fab39d382ec5e?utm_campaign=1079&utm_source=git)** | San Mateo, CA | Hybrid | Mar 28 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research Creative Developer Intern](https://jobright.ai/jobs/info/699a8853ce78e77b4fdf41ca?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Mar 28 |
@@ -143,9 +144,9 @@ For a complete list, click the following sortable link below:
 | **[Cooper Standard](http://www.cooperstandard.com)** | **[Intern - Python Programming/Virtual Validation](https://jobright.ai/jobs/info/69c764b883ea553769fe2bde?utm_campaign=1079&utm_source=git)** | Northville, Michigan | Hybrid | Mar 27 |
 | **[FTI](http://www.faithtechinc.com)** | **[Quality and Support Intern](https://jobright.ai/jobs/info/69c6e4c883ea553769fde5ae?utm_campaign=1079&utm_source=git)** | WI - Menasha | On Site | Mar 27 |
 | **[Company 9 LLC](http://www.company9llc.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c703621818a24cd84cac53?utm_campaign=1079&utm_source=git)** | Dallas, TX, US | On Site | Mar 27 |
-| ↳ | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c702ccaa3c2c1995e14678?utm_campaign=1079&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | On Site | Mar 27 |
-| ↳ | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c7008ee565c26a70024c07?utm_campaign=1079&utm_source=git)** | US-TX-Dallas | On Site | Mar 27 |
 | ↳ | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c7016783ea553769fdfb67?utm_campaign=1079&utm_source=git)** | US | On Site | Mar 27 |
+| ↳ | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c7008ee565c26a70024c07?utm_campaign=1079&utm_source=git)** | US-TX-Dallas | On Site | Mar 27 |
+| ↳ | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c702ccaa3c2c1995e14678?utm_campaign=1079&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | On Site | Mar 27 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Test Engineering](https://jobright.ai/jobs/info/69c6e31e1b5ad02887387d60?utm_campaign=1079&utm_source=git)** | Sherman, TX | On Site | Mar 27 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/698e8b1e0f6f7e7a2ceaab52?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Frontend Developer](https://jobright.ai/jobs/info/69c6dea5b773006330b739b0?utm_campaign=1079&utm_source=git)** | Toronto, ON | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matthews Marking Systems](https://matthewsmarking.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/69c6d3391b5ad02887387408?utm_campaign=1079&utm_source=git)** | Waukesha, WI | On Site | Mar 27 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69c6d31f83ea553769fddba8?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Computer Science Engineering Team Internship - Summer 2026](https://jobright.ai/jobs/info/69c6d0c31b5ad02887387313?utm_campaign=1079&utm_source=git)** | Shakopee, MN | On Site | Mar 27 |
-| **[Armada](https://www.armada.ai)** | **[Software Engineer Intern (Unpaid)](https://jobright.ai/jobs/info/69c6cf281818a24cd84c8af8?utm_campaign=1079&utm_source=git)** | Bellevue Office, Sunset Corporate Campus | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
