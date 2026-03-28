@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Proctor Loan Protector](https://proctorlp.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69c6f86f1b5ad02887388d80?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Mar 27 |
+| **[IGT](http://www.probability.co.uk)** | **[Intern Software Quality Tester](https://jobright.ai/jobs/info/69c6f71a83ea553769fdf494?utm_campaign=1079&utm_source=git)** | Moncton, NB | On Site | Mar 27 |
+| **[Chartbeat](http://chartbeat.com)** | **[QA Engineering Internship](https://jobright.ai/jobs/info/69c6f6d183ea553769fdf44a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 27 |
+| **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Software Quality Assurance (QA) Intern](https://jobright.ai/jobs/info/69c6f3a41b5ad02887388c1f?utm_campaign=1079&utm_source=git)** | Ankeny, IA | On Site | Mar 27 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Software Tester (Intern)](https://jobright.ai/jobs/info/69c6f2cf1818a24cd84c9e59?utm_campaign=1079&utm_source=git)** | USA NY Albany | Hybrid | Mar 27 |
+| ↳ | **[Summer 2026 Software Developer (Intern)](https://jobright.ai/jobs/info/69c6f2ce1818a24cd84c9e53?utm_campaign=1079&utm_source=git)** | USA NY Albany | Hybrid | Mar 27 |
+| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern - Graduate CV Innovation Virtual Reality - Temporary](https://jobright.ai/jobs/info/69c6f2b683ea553769fdee68?utm_campaign=1079&utm_source=git)** | Rochester, MN, United States | On Site | Mar 27 |
+| **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern - Graduate CV Innovation Virtual Reality - Temporary](https://jobright.ai/jobs/info/69c6f2b21b5ad028873886d4?utm_campaign=1079&utm_source=git)** | Rochester, MN, United States | On Site | Mar 27 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Software Developer Business Solutions Analyst (Intern)](https://jobright.ai/jobs/info/69c6f2a21b5ad0288738867c?utm_campaign=1079&utm_source=git)** | USA NY Albany | Hybrid | Mar 27 |
 | **[Hootsuite](https://hootsuite.com/)** | **[Co-Op/ Intern, Software Development - Summer 2026](https://jobright.ai/jobs/info/69c6efaee565c26a700240e1?utm_campaign=1079&utm_source=git)** | Vancouver, BC | On Site | Mar 27 |
 | **[Altera](https://www.altera.com)** | **[Embedded Solutions-Intern](https://jobright.ai/jobs/info/69c6eea5aa3c2c1995e136b0?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 27 |
 | **[Rivian](http://www.rivian.com)** | **[UIUC Research Park Intern - Design Verification](https://jobright.ai/jobs/info/69c6ee5aaa3c2c1995e1360c?utm_campaign=1079&utm_source=git)** | Champaign, IL | On Site | Mar 27 |
@@ -64,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/69b334e5a8ac8e70ff677533?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | On Site | Mar 27 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Computer Science Intern (AI/ML Tools) - Bachelor's (Huntsville, AL)](https://jobright.ai/jobs/info/69c6eb0eaa3c2c1995e13592?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Mar 27 |
 | **[Revolution Sustainable Solutions, LLC](https://revolutioncompany.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c6eaad83ea553769fdeb4d?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Mar 27 |
-| **[Cooper Standard](http://www.cooperstandard.com)** | **[Intern - Python Programming/Virtual Validation](https://jobright.ai/jobs/info/69c6ea49b773006330b7419d?utm_campaign=1079&utm_source=git)** | Northville, MI | Hybrid | Mar 27 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Applications Programmer III](https://jobright.ai/jobs/info/69c6e8721b5ad02887388289?utm_campaign=1079&utm_source=git)** | Greater Orlando | On Site | Mar 27 |
 | **[FTI](http://www.faithtechinc.com)** | **[Quality and Support Intern](https://jobright.ai/jobs/info/69c6e4c883ea553769fde5ae?utm_campaign=1079&utm_source=git)** | WI - Menasha | On Site | Mar 27 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Test Engineering](https://jobright.ai/jobs/info/69c6e31e1b5ad02887387d60?utm_campaign=1079&utm_source=git)** | Sherman, TX | On Site | Mar 27 |
@@ -145,16 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Cloud Support Engineer Internship - 2026 (US)](https://jobright.ai/jobs/info/69c675b91b5ad02887384b3c?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Mar 27 |
 | **[HealthTrust Performance Group](https://healthtrustpg.com/)** | **[Software Testing Intern](https://jobright.ai/jobs/info/69c64181aa9a29199e8116fc?utm_campaign=1079&utm_source=git)** | Nashville, TN | On Site | Mar 27 |
 | **[DiDi](https://www.didiglobal.com)** | **[Software Engineer, Simulation (Summer Intern)](https://jobright.ai/jobs/info/69c5f2ca1b5ad0288737b2ae?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 27 |
-| **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2026 Software Developer Engineer in Test (SDET) Intern](https://jobright.ai/jobs/info/69c62c5483ea553769fd5bd3?utm_campaign=1079&utm_source=git)** | Texas, United States | Hybrid | Mar 27 |
-| ↳ | **[2026 Software Developer Intern](https://jobright.ai/jobs/info/69c62c5483ea553769fd5bd5?utm_campaign=1079&utm_source=git)** | Washington, United States | Hybrid | Mar 27 |
+| **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2026 Software Developer Intern](https://jobright.ai/jobs/info/69c62c5483ea553769fd5bd5?utm_campaign=1079&utm_source=git)** | Washington, United States | Hybrid | Mar 27 |
+| ↳ | **[2026 Software Developer Engineer in Test (SDET) Intern](https://jobright.ai/jobs/info/69c62c5483ea553769fd5bd3?utm_campaign=1079&utm_source=git)** | Texas, United States | Hybrid | Mar 27 |
 | ↳ | **[2026 Software Developer Intern](https://jobright.ai/jobs/info/69c62b60e565c26a7001aeea?utm_campaign=1079&utm_source=git)** | Arizona, United States | Hybrid | Mar 27 |
 | ↳ | **[2026 Software Developer Engineer in Test (SDET) Intern](https://jobright.ai/jobs/info/69c62b4ee565c26a7001aee3?utm_campaign=1079&utm_source=git)** | Arizona, United States | Hybrid | Mar 27 |
-| ↳ | **[2026 Software Developer Engineer in Test (SDET) Intern](https://jobright.ai/jobs/info/69c62b3eaa9a29199e81014e?utm_campaign=1079&utm_source=git)** | Washington, United States | Hybrid | Mar 27 |
-| ↳ | **[2026 Software Developer Intern](https://jobright.ai/jobs/info/69c62b37aa9a29199e810112?utm_campaign=1079&utm_source=git)** | Texas, United States | Hybrid | Mar 27 |
-| **[Eagle Eye Networks](https://www.een.com)** | **[Engineering Intern - Media and Events](https://jobright.ai/jobs/info/699ef0efce78e77b4fe4a862?utm_campaign=1079&utm_source=git)** | Rollingwood, TX | On Site | Mar 26 |
-| **[Silimate (YC S23)](https://www.silimate.com/)** | **[Chip/EDA/Software Intern](https://jobright.ai/jobs/info/69c604dfaa9a29199e80cb4c?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Mar 26 |
-| **[ampliphi RMS](https://www.getampliphi.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69c600ebaa3c2c1995e06c3a?utm_campaign=1079&utm_source=git)** | Canada | Remote | Mar 26 |
-| **[Ayar Labs](https://ayarlabs.com)** | **[Intern, ASIC Backend Automation](https://jobright.ai/jobs/info/69c5f667aa3c2c1995e06514?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 26 |
-| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69c5f3a8aa3c2c1995e064b5?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Mar 26 |
-| **[Silimate (YC S23)](https://www.silimate.com/)** | **[Chip/EDA/Software Intern](https://jobright.ai/jobs/info/69c5f22383ea553769fd158e?utm_campaign=1079&utm_source=git)** | Mountain View, CA, US | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
