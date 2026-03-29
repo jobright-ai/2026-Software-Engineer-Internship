@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Swift iPhone Mobile (Non Paid Academic Credit Only) Developer Internship](https://jobright.ai/jobs/info/69c8992c83ea553769feac44?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Philo Homes](https://philo.homes/)** | **[Software Engineer Intern (iOS App Development)_Mandarin Bilingual](https://jobright.ai/jobs/info/69c85d30e565c26a7002ee37?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Mar 28 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer, Community Apprenticeship - Intern](https://jobright.ai/jobs/info/69ab208a7e1fab39d382a745?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | Hybrid | Mar 28 |
 | **[Arena](https://arena.im)** | **[Mobile Engineer Intern](https://jobright.ai/jobs/info/69c848dfb773006330b7ea88?utm_campaign=1079&utm_source=git)** | Cupertino, CA | On Site | Mar 28 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[ST Engineering iDirect](http://www.idirect.net)** | **[Engineering Intern-Intuition Software](https://jobright.ai/jobs/info/69c7ad831818a24cd84d0818?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Mar 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972e45498522904c697b808?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Mar 28 |
 | **[Precisely](https://www.precisely.com)** | **[Python Developer Intern](https://jobright.ai/jobs/info/69aafaf62747003c3d50a488?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 28 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69aafd56142d5b4265fc3ebf?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 28 |
 | ↳ | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69aafd70142d5b4265fc3eff?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 28 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69aafd56142d5b4265fc3ebf?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Digital Product Configuration Management Engineer Intern - Onsite (AZ)](https://jobright.ai/jobs/info/69c796e31818a24cd84cfb83?utm_campaign=1079&utm_source=git)** | Tucson, AZ | On Site | Mar 28 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Digital Technology Internship (Puerto Rico)](https://jobright.ai/jobs/info/69c7968083ea553769fe4ca9?utm_campaign=1079&utm_source=git)** | Santa Isabel, CO | Hybrid | Mar 28 |
 | **[Company 9 LLC](http://www.company9llc.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c78f6ce565c26a7002a06c?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cooper Standard](http://www.cooperstandard.com)** | **[Intern - Python Programming/Virtual Validation](https://jobright.ai/jobs/info/69c764b883ea553769fe2bde?utm_campaign=1079&utm_source=git)** | Northville, Michigan | Hybrid | Mar 27 |
 | **[FTI](http://www.faithtechinc.com)** | **[Quality and Support Intern](https://jobright.ai/jobs/info/69c6e4c883ea553769fde5ae?utm_campaign=1079&utm_source=git)** | WI - Menasha | On Site | Mar 27 |
 | **[Company 9 LLC](http://www.company9llc.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c7008ee565c26a70024c07?utm_campaign=1079&utm_source=git)** | US-TX-Dallas | On Site | Mar 27 |
-| ↳ | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69c703621818a24cd84cac53?utm_campaign=1079&utm_source=git)** | Dallas, TX, US | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
