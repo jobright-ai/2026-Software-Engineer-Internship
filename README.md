@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ZEST - A PRODUCT BY DC INFOTECH](dcinfotech.org.in)** | **[Google Cloud Internship Program](https://jobright.ai/jobs/info/69c92bdbb773006330b8471e?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship, iOS](https://jobright.ai/jobs/info/69199aed15b4156367186c9a?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 29 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Applications Testing Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69c924aee565c26a70034160?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | Hybrid | Mar 29 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/6922a3a4c0cefa13343d8a2a?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IGT](http://www.probability.co.uk)** | **[Intern Software Quality Tester](https://jobright.ai/jobs/info/69c6f71a83ea553769fdf494?utm_campaign=1079&utm_source=git)** | Moncton, NB | On Site | Mar 27 |
 | **[Chartbeat](http://chartbeat.com)** | **[QA Engineering Internship](https://jobright.ai/jobs/info/69c6f6d183ea553769fdf44a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | **[iWorks Corporation](https://iworkscorp.com/)** | **[Application Development Internship](https://jobright.ai/jobs/info/69c85412e565c26a7002ebe3?utm_campaign=1079&utm_source=git)** | USA, 00000 | Remote | Mar 27 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Software Tester (Intern)](https://jobright.ai/jobs/info/69c6f2cf1818a24cd84c9e59?utm_campaign=1079&utm_source=git)** | USA NY Albany | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
