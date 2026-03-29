@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Backend Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/69c961a81818a24cd84dad94?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Mar 29 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bb899406c1ba00c54e0558?utm_campaign=1079&utm_source=git)** | Alexandria, VA | Hybrid | Mar 29 |
 | **[Victory Solutions](https://www.v-s-inc.com)** | **[1008 - Computer Science/Engineering Inter](https://jobright.ai/jobs/info/69c95fb51818a24cd84dad77?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Mar 29 |
 | **[ZEST - A PRODUCT BY DC INFOTECH](dcinfotech.org.in)** | **[Google Cloud Internship Program](https://jobright.ai/jobs/info/69c958b1b773006330b84f51?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Developer, Clients, Front End Technologies](https://jobright.ai/jobs/info/69c700941b5ad02887389062?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | Mar 27 |
 | **[Proctor Loan Protector](https://proctorlp.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69c7d5281b5ad028873907b5?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Mar 27 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69c44794d5a1016e98db6373?utm_campaign=1079&utm_source=git)** | Taunton, MA | On Site | Mar 27 |
+| **[IGT](http://www.probability.co.uk)** | **[Intern Software Quality Tester](https://jobright.ai/jobs/info/69c6f71a83ea553769fdf494?utm_campaign=1079&utm_source=git)** | Moncton, NB | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
