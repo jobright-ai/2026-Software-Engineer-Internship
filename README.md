@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Jersey Resources](http://www.njresources.com/)** | **[Web Application Programmer Intern](https://jobright.ai/jobs/info/69cad504aa3c2c1995e30956?utm_campaign=1079&utm_source=git)** | Wall, NJ | Hybrid | Mar 30 |
+| **[Cirrus Logic](https://cirrus.com/)** | **[Fall 2026 Co-Op - Formal Verification Engineer](https://jobright.ai/jobs/info/69cad092466f1e133aac7701?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Mar 30 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Intern - Embedded Software, System, and Test Engineer - 2026](https://jobright.ai/jobs/info/69cace8aaa3c2c1995e3063f?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Mar 30 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern - UI Software Development](https://jobright.ai/jobs/info/69caca7d466f1e133aac6ee0?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69cac7c88fc6090c5d450ed9?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Mar 30 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Intern - Software Test Engineer - 2026](https://jobright.ai/jobs/info/69cac76da8c1822476e1ff90?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novaflow (YC S25)](https://www.novaflowapp.com/)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69c7dea6e565c26a7002c63e?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/698e3a5c78b4502f12a5067d?utm_campaign=1079&utm_source=git)** | Cranbury, NJ | On Site | Mar 28 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer, Community Apprenticeship - Intern](https://jobright.ai/jobs/info/69ab65927e1fab39d382ec5e?utm_campaign=1079&utm_source=git)** | San Mateo, CA | Hybrid | Mar 28 |
-| **[IBM](http://www.ibm.com)** | **[IBM Research Creative Developer Intern](https://jobright.ai/jobs/info/699a8853ce78e77b4fdf41ca?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Mar 28 |
-| **[BNSF Railway](http://www.bnsf.com/)** | **[Infrastructure Software Engineer II (Remote - US)](https://jobright.ai/jobs/info/698e5c21f64d441a16508f48?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 28 |
-| **[Rheem Manufacturing](http://www.rheem.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6973c7ef37785856350d9920?utm_campaign=1079&utm_source=git)** | Roswell, GA | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
