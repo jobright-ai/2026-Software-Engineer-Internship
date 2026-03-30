@@ -80,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[[Online Assessment] Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6978412188e2b47213bc4e16?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Mar 29 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Software Development Intern Summer 2026](https://jobright.ai/jobs/info/69c8fac6b773006330b8330e?utm_campaign=1079&utm_source=git)** | Warrendale, PA | Hybrid | Mar 29 |
 | **[D2L](http://www.d2l.com)** | **[Software Developer - New Graduate](https://jobright.ai/jobs/info/6939a95eac80bb5492bc239b?utm_campaign=1079&utm_source=git)** | Kitchener, ON | Hybrid | Mar 29 |
+| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Cloud & Infrastructure Engineering Intern](https://jobright.ai/jobs/info/69c9f7c21b5ad0288739dc72?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 28 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer, Community Apprenticeship - Intern](https://jobright.ai/jobs/info/69ab208a7e1fab39d382a745?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | Hybrid | Mar 28 |
 | **[Arena](https://arena.im)** | **[Mobile Engineer Intern](https://jobright.ai/jobs/info/69c848dfb773006330b7ea88?utm_campaign=1079&utm_source=git)** | Cupertino, CA | On Site | Mar 28 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Technology Intern](https://jobright.ai/jobs/info/695a06b3f1f8465b79f062de?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | Hybrid | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Developer, Clients, Front End Technologies](https://jobright.ai/jobs/info/69c700941b5ad02887389062?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | Mar 27 |
 | **[Proctor Loan Protector](https://proctorlp.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69c7d5281b5ad028873907b5?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Mar 27 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69c44794d5a1016e98db6373?utm_campaign=1079&utm_source=git)** | Taunton, MA | On Site | Mar 27 |
-| **[IGT](http://www.probability.co.uk)** | **[Intern Software Quality Tester](https://jobright.ai/jobs/info/69c6f71a83ea553769fdf494?utm_campaign=1079&utm_source=git)** | Moncton, NB | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
