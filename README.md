@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Developer Intern (Summer '26)](https://jobright.ai/jobs/info/69c9a2631818a24cd84ddaba?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Mar 29 |
+| **[Pivotor AI](https://www.pivotor.ai)** | **[Backend Engineer (AI-Native) Intern](https://jobright.ai/jobs/info/69c9a0ab1b5ad0288739c0b2?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
 | **[CENENCE](https://www.linkedin.com/company/105336376)** | **[Web Developer / Coder Student Internship (College Credit)](https://jobright.ai/jobs/info/69c97bdeb773006330b859a8?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Mar 29 |
 | **[Eagle Eye Networks](https://www.een.com)** | **[Engineering Intern - Media and Events](https://jobright.ai/jobs/info/699ef0efce78e77b4fe4a862?utm_campaign=1079&utm_source=git)** | Rollingwood, TX | On Site | Mar 29 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bb899406c1ba00c54e0558?utm_campaign=1079&utm_source=git)** | Alexandria, VA | Hybrid | Mar 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://www.raytheon.com)** | **[Digital Technology Internship (Puerto Rico)](https://jobright.ai/jobs/info/69c700b983ea553769fdf838?utm_campaign=1079&utm_source=git)** | US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1 | Hybrid | Mar 27 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Developer, Clients, Front End Technologies](https://jobright.ai/jobs/info/69c70095e565c26a70024c22?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | Hybrid | Mar 27 |
 | ↳ | **[Intern Developer, Clients, Front End Technologies](https://jobright.ai/jobs/info/69c700941b5ad02887389062?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | Mar 27 |
-| **[Proctor Loan Protector](https://proctorlp.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69c7d5281b5ad028873907b5?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Mar 27 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69c44794d5a1016e98db6373?utm_campaign=1079&utm_source=git)** | Taunton, MA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
