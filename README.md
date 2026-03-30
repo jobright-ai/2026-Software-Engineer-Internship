@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SitusAMC](https://www.situsamc.com)** | **[Intern - UI Software Development](https://jobright.ai/jobs/info/69caca7d466f1e133aac6ee0?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 30 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69cac7c88fc6090c5d450ed9?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Mar 30 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Intern - Software Test Engineer - 2026](https://jobright.ai/jobs/info/69cac76da8c1822476e1ff90?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[UX/UI Engineer Intern](https://jobright.ai/jobs/info/69ae89974f6bcc182809ca84?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Mar 30 |
+| **[Manulife](http://www.manulife.com/)** | **[Full Stack Software Developer Intern](https://jobright.ai/jobs/info/69cabd5baa3c2c1995e2faeb?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts | Hybrid | Mar 30 |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer Intern (IT Intern 4)](https://jobright.ai/jobs/info/69ae0c4a7e1fab39d38520a6?utm_campaign=1079&utm_source=git)** | Norfolk, VA | On Site | Mar 30 |
+| **[SESCO Terminals Corp.](www.sescoterminals.com)** | **[AI & Business Systems Intern](https://jobright.ai/jobs/info/69cabce68fc6090c5d450ad9?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Mar 30 |
 | **[Nokia](http://www.nokia.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69cab84b1b5ad028873a42ae?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Mar 30 |
 | **[New Jersey Resources](http://www.njresources.com/)** | **[Web Application Programmer Intern](https://jobright.ai/jobs/info/69cab841aa3c2c1995e2f7a2?utm_campaign=1079&utm_source=git)** | Wall Corporate Office, 1415 Wyckoff Rd, Wall, New Jersey, United States of America | Hybrid | Mar 30 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Software Engineer Internship (Remote, US)](https://jobright.ai/jobs/info/69cab835a8c1822476e1f5b9?utm_campaign=1079&utm_source=git)** | Remote- US | Remote | Mar 30 |
@@ -75,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Full-stack Software Developer [Vancouver]](https://jobright.ai/jobs/info/69caa8b3e565c26a7003f4cb?utm_campaign=1079&utm_source=git)** | Vancouver, BC | On Site | Mar 30 |
 | **[Shield AI](http://www.shield.ai)** | **[Embedded Software Engineering Intern - 2026 Summer Intern (Boston, MA)](https://jobright.ai/jobs/info/69caa70d466f1e133aac5944?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Mar 30 |
 | **[Hyland](https://www.hyland.com/)** | **[Intern, OnBase Development](https://jobright.ai/jobs/info/69caa6b71b5ad028873a3689?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 30 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year-Round - AI For Autonomy, Hybrid](https://jobright.ai/jobs/info/695d40d5f1f8465b79f36f0d?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | Hybrid | Mar 30 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - C# .NET Desktop, Summer 2026](https://jobright.ai/jobs/info/69a3959d0da45516f16c9d21?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 30 |
 | **[LogicGate](https://www.logicgate.com)** | **[Software Engineer Intern (Chicago)](https://jobright.ai/jobs/info/69af4135749500645093c56a?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 30 |
 | **[KLA](https://www.kla.com)** | **[Software Intern](https://jobright.ai/jobs/info/69caa0e78fc6090c5d44f466?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
@@ -90,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Sr/Staff Infrastructure Software Engineer (Remote - US)](https://jobright.ai/jobs/info/698ab0c74db8972cec000bd3?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 30 |
 | **[TreviPay](https://www.trevipay.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69ca95eaaa3c2c1995e2e137?utm_campaign=1079&utm_source=git)** | Overland Park, KS | Hybrid | Mar 30 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA - Quality Assurance Testing Internship](https://jobright.ai/jobs/info/69ca95a9aa3c2c1995e2e110?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Mar 30 |
-| ↳ | **[QA Testing & Vibe Coding Internship](https://jobright.ai/jobs/info/69ca959da8c1822476e1e151?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Software Developer Student Intern, Infectious Diseases Research](https://jobright.ai/jobs/info/69ca8f8aa8c1822476e1dae3?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Mar 30 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Software Engineer Student Intern-Summer 2026 - CIPHER](https://jobright.ai/jobs/info/69ca8d78e565c26a7003e50c?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Mar 30 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Senior Embedded Software Engineer - Connect IQ Platform](https://jobright.ai/jobs/info/69ca893d8fc6090c5d44e6f5?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[IBM Research Creative Developer Intern](https://jobright.ai/jobs/info/699a8853ce78e77b4fdf41ca?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Mar 28 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Infrastructure Software Engineer II (Remote - US)](https://jobright.ai/jobs/info/698e5c21f64d441a16508f48?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6973c7ef37785856350d9920?utm_campaign=1079&utm_source=git)** | Roswell, GA | On Site | Mar 28 |
-| **[Saviynt](http://saviynt.com)** | **[Software Engineering R&D - Internship](https://jobright.ai/jobs/info/698e8f37f64d441a1650d919?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Mar 28 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Senior Software Engineer](https://jobright.ai/jobs/info/68e596c1b99ec3563b0f6e33?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | Mar 28 |
-| **[Guidewire Software](http://www.guidewire.com)** | **[Front-End Developer Intern](https://jobright.ai/jobs/info/69b4fc9956973837413a0e17?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Mar 28 |
-| **[Rilla](https://www.rilla.com)** | **[Software Engineer Intern - 2027 Graduates](https://jobright.ai/jobs/info/68ce17e6e23def7af55c2054?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Mar 28 |
-| **[Daikin Comfort](http://www.daikincomfort.com)** | **[Programmer Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/69c7d810aa3c2c1995e1bb25?utm_campaign=1079&utm_source=git)** | Waller, TX | On Site | Mar 28 |
-| **[Comtech Telecommunications Corp.](https://comtech.com)** | **[Intern - Embedded Software Engineering](https://jobright.ai/jobs/info/69aaf94a7e1fab39d3828d12?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Mar 28 |
-| **[Altec](https://www.altec.com/altec-capital/)** | **[Information Services Software Development Internship Summer 2026](https://jobright.ai/jobs/info/68ccf06a77add66568abc551?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
