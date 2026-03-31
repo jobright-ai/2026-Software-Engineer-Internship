@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canon USA](https://www.usa.canon.com)** | **[Software Intern](https://jobright.ai/jobs/info/69cb459ba8c1822476e258c1?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Mar 30 |
+| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - IT Application Development](https://jobright.ai/jobs/info/697ef68bce48107c054316c5?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 30 |
+| **[Atomic Semi](https://atomicsemi.com)** | **[Rust Software Engineering Intern - Fall](https://jobright.ai/jobs/info/69cb425be565c26a700462f2?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 30 |
+| **[Leidos](https://www.leidos.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69cb408b466f1e133aacc4c7?utm_campaign=1079&utm_source=git)** | Arlington, VA | Hybrid | Mar 30 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/69cb3c8eaa3c2c1995e35610?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 30 |
 | **[Myriad Genetics](http://www.myriad.com)** | **[Software Engineer Technology - Student Internship](https://jobright.ai/jobs/info/69cb3a7fa8c1822476e2510c?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 30 |
 | ↳ | **[Software Engineer Architect - Technology Internship](https://jobright.ai/jobs/info/69cb3a7ae565c26a70045f27?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 30 |
@@ -80,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Rakuten](http://global.rakuten.com)** | **[Intern - Software Engineering, AI User Experience](https://jobright.ai/jobs/info/69cb11161b5ad028873a85b8?utm_campaign=1079&utm_source=git)** | Bellevue, Washington | On Site | Mar 30 |
 | **[InEight](https://ineight.com)** | **[Quality Assurance Automation Intern](https://jobright.ai/jobs/info/69cb110a8fc6090c5d4547ba?utm_campaign=1079&utm_source=git)** | Remote (Remote) | Remote | Mar 30 |
 | **[AARP](http://www.aarp.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69cb0faca8c1822476e238ff?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Mar 30 |
-| **[Oigetit Real-Time AI Intelligence Platform](https://oigetit.ai/)** | **[Quality Assurance Intern (IOS Team)](https://jobright.ai/jobs/info/69cb0efa1b5ad028873a852b?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Amazon Leo, Summer 2026 (US)](https://jobright.ai/jobs/info/69cb0d891b5ad028873a84cc?utm_campaign=1079&utm_source=git)** | Los Angeles, California, United States | On Site | Mar 30 |
 | ↳ | **[Software Development Engineer Internship - Amazon Leo, Summer 2026 (US)](https://jobright.ai/jobs/info/69cb099be565c26a70044010?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Mar 30 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Intern - Developer](https://jobright.ai/jobs/info/69cb09368fc6090c5d454262?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Mar 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Senior iOS Software Engineer](https://jobright.ai/jobs/info/68e5eb28e8daec61499a64b9?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | Mar 30 |
 | **[Akuna Capital](https://akunacapital.com)** | **[C++ Tech Sneak Peek Week: Reaching Women+ (June 2026)](https://jobright.ai/jobs/info/698a42240f6f7e7a2ce553bc?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Mar 30 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[2026 Summer Software Development Internship](https://jobright.ai/jobs/info/69ca9a3f8fc6090c5d44f26b?utm_campaign=1079&utm_source=git)** | Lititz, PA | Hybrid | Mar 30 |
-| **[BNSF Railway](http://www.bnsf.com/)** | **[Sr/Staff Infrastructure Software Engineer (Remote - US)](https://jobright.ai/jobs/info/698ab0c74db8972cec000bd3?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 30 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA - Quality Assurance Testing Internship](https://jobright.ai/jobs/info/69ca95a9aa3c2c1995e2e110?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Mar 30 |
-| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Software Developer Student Intern, Infectious Diseases Research](https://jobright.ai/jobs/info/69ca8f8aa8c1822476e1dae3?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
