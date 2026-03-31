@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ZEST - A PRODUCT BY DC INFOTECH](dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69cb70021b5ad028873ab733?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69cb67271b5ad028873ab37d?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Mar 30 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Senior Software Engineer](https://jobright.ai/jobs/info/68e596c1b99ec3563b0f6e33?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
 | **[Matson Logistics](http://www.matsonlogistics.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69cb5b5a466f1e133aacd2fa?utm_campaign=1079&utm_source=git)** | Walnut Creek, CA | On Site | Mar 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - C# .NET Desktop, Summer 2026](https://jobright.ai/jobs/info/69a3959d0da45516f16c9d21?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 30 |
 | **[LogicGate](https://www.logicgate.com)** | **[Software Engineer Intern (Chicago)](https://jobright.ai/jobs/info/69af4135749500645093c56a?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 30 |
 | **[KLA](https://www.kla.com)** | **[Software Intern](https://jobright.ai/jobs/info/69caa0e78fc6090c5d44f466?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
-| **[Assurant](https://www.assurant.com/)** | **[Summer 2026: Software Engineering Intern](https://jobright.ai/jobs/info/69caa0c7a8c1822476e1e4ab?utm_campaign=1079&utm_source=git)** | Georgia Virtual | Remote | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
