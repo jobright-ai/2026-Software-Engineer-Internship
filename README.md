@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69cb67271b5ad028873ab37d?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Mar 30 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Senior Software Engineer](https://jobright.ai/jobs/info/68e596c1b99ec3563b0f6e33?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
+| **[Matson Logistics](http://www.matsonlogistics.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69cb5b5a466f1e133aacd2fa?utm_campaign=1079&utm_source=git)** | Walnut Creek, CA | On Site | Mar 30 |
+| **[Samsung Electronics America](http://www.samsung.com/us/)** | **[Software Engineer, Backend Internship](https://jobright.ai/jobs/info/69cb5a711b5ad028873aaf1c?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Mar 30 |
 | **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69cb5263a8c1822476e25d4e?utm_campaign=1079&utm_source=git)** | Spring, TX | Hybrid | Mar 30 |
-| **[Matson, Inc.](http://matson.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69cb52238fc6090c5d456b8f?utm_campaign=1079&utm_source=git)** | Walnut Creek, CA | On Site | Mar 30 |
 | **[Hitachi Digital Services](https://hitachids.com)** | **[JR Developer - Intern](https://jobright.ai/jobs/info/69cb5045e565c26a7004695a?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Mar 30 |
 | **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69cb4c1ae565c26a70046729?utm_campaign=1079&utm_source=git)** | Vancouver, WA | Hybrid | Mar 30 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69cb4bf0466f1e133aacc9b5?utm_campaign=1079&utm_source=git)** | Corvallis, OR | Hybrid | Mar 30 |
-| **[Park My Ride, LLC](http://parkmyride.io)** | **[Backend Developer - Internship (USA ONLY)](https://jobright.ai/jobs/info/69cb4aa6e565c26a7004669e?utm_campaign=1079&utm_source=git)** | SD Metro Area | Remote | Mar 30 |
 | **[Canon USA](https://www.usa.canon.com)** | **[Software Intern](https://jobright.ai/jobs/info/69cb459ba8c1822476e258c1?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Mar 30 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - IT Application Development](https://jobright.ai/jobs/info/697ef68bce48107c054316c5?utm_campaign=1079&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Atomic Semi](https://atomicsemi.com)** | **[Rust Software Engineering Intern - Fall](https://jobright.ai/jobs/info/69cb425be565c26a700462f2?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Mar 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LogicGate](https://www.logicgate.com)** | **[Software Engineer Intern (Chicago)](https://jobright.ai/jobs/info/69af4135749500645093c56a?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Mar 30 |
 | **[KLA](https://www.kla.com)** | **[Software Intern](https://jobright.ai/jobs/info/69caa0e78fc6090c5d44f466?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | **[Assurant](https://www.assurant.com/)** | **[Summer 2026: Software Engineering Intern](https://jobright.ai/jobs/info/69caa0c7a8c1822476e1e4ab?utm_campaign=1079&utm_source=git)** | Georgia Virtual | Remote | Mar 30 |
-| ↳ | **[Summer 2026: Software Engineering Intern](https://jobright.ai/jobs/info/69caa0baaa3c2c1995e2e479?utm_campaign=1079&utm_source=git)** | Florida Virtual | Remote | Mar 30 |
-| **[Generac](https://www.generac.com)** | **[Intern Digital Engineering](https://jobright.ai/jobs/info/69caa0b9e565c26a7003ee6f?utm_campaign=1079&utm_source=git)** | Waukesha, WI - USA | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
