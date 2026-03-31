@@ -90,7 +90,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Software Engineering, AI User Experience](https://jobright.ai/jobs/info/69cb2c861b5ad028873a95b4?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Mar 30 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[Software Intern](https://jobright.ai/jobs/info/69cb1fb81b5ad028873a90a8?utm_campaign=1079&utm_source=git)** | US-CA-Irvine | Hybrid | Mar 30 |
 | ↳ | **[Software Intern](https://jobright.ai/jobs/info/69cb1f85e565c26a700450fc?utm_campaign=1079&utm_source=git)** | Irvine, CA, US | Hybrid | Mar 30 |
-| **[Ribbon Business](https://getribbon.ai)** | **[Software Engineer Co-op/Intern (Summer 2026)](https://jobright.ai/jobs/info/69cb1ee51b5ad028873a8c8b?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Mar 30 |
+| **[Ribbon Business](https://ribbonbusiness.com)** | **[Software Engineer Co-op/Intern (Summer 2026)](https://jobright.ai/jobs/info/69cb1ee51b5ad028873a8c8b?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Mar 30 |
 | **[RRD](http://www.rrd.com)** | **[Application Developer Summer Intern](https://jobright.ai/jobs/info/69cb14b3e565c26a700448a5?utm_campaign=1079&utm_source=git)** | Logan, UT | Hybrid | Mar 30 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Firmware Engineer - Summer 2026](https://jobright.ai/jobs/info/69cb126ee565c26a70044813?utm_campaign=1079&utm_source=git)** | Eden Prairie, MN | On Site | Mar 30 |
 | **[EnerSys](http://enersys.com)** | **[Applications Engineering Intern](https://jobright.ai/jobs/info/69cb12601b5ad028873a8865?utm_campaign=1079&utm_source=git)** | Reading, PA | On Site | Mar 30 |
