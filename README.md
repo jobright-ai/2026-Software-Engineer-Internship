@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Senior Android Engineer](https://jobright.ai/jobs/info/69b0a9bf7495006450976219?utm_campaign=1079&utm_source=git)** | Olathe, KS | On Site | Apr 01 |
+| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a97989f6c22f2e368660e8?utm_campaign=1079&utm_source=git)** | Salem, VA | Hybrid | Apr 01 |
 | **[Pacific Fusion](https://www.pacificfusion.com)** | **[Summer 2026 Internship - Software Engineering](https://jobright.ai/jobs/info/696ad36d5fc862418539f74d?utm_campaign=1079&utm_source=git)** | San Leandro, CA | On Site | Apr 01 |
 | **[Udemy](http://www.udemy.com)** | **[Front End Software Engineer Intern](https://jobright.ai/jobs/info/69bda892393a1008f74305bd?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977e9c452f3c27ec64415c6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 01 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Surgical Information Systems](http://www.sisfirst.com)** | **[Development Intern](https://jobright.ai/jobs/info/69cc62e4e1921223acc75a12?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Mar 31 |
 | **[Varda Space Industries](http://varda.com)** | **[Mission Software (Python) Internship - Fall 2026](https://jobright.ai/jobs/info/69c2201575f7ff1cd810e45e?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Mar 31 |
 | **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69cc6f73cdb525785fb7b716?utm_campaign=1079&utm_source=git)** | Spring, TX | Hybrid | Mar 31 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69cc2425e1921223acc742ce?utm_campaign=1079&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Mar 31 |
-| ↳ | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69cc2425366bb95ba54edc1c?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Mar 31 |
+| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69cc2425366bb95ba54edc1c?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Mar 31 |
+| ↳ | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69cc2425e1921223acc742ce?utm_campaign=1079&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Mar 31 |
 | **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern, Software Engineering - Engineering Applications and Automation Tools](https://jobright.ai/jobs/info/69cc2407cfdc6132f940a876?utm_campaign=1079&utm_source=git)** | 48800 Milmont Drive, Fremont, CA, 94538, US | On Site | Mar 31 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Software Engineering - Engineering Applications and Automation Tools](https://jobright.ai/jobs/info/69cc23f9cdb525785fb79b3f?utm_campaign=1079&utm_source=git)** | 48800 Milmont Drive, Fremont, CA, 94538, US | On Site | Mar 31 |
 | **[Surgical Information Systems](http://www.sisfirst.com)** | **[Development Intern](https://jobright.ai/jobs/info/69cc23f5891d7b11cfcaa9b1?utm_campaign=1079&utm_source=git)** | Alpharetta, Georgia, United States | On Site | Mar 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mouser Electronics](http://mouser.com)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/69cc08e0e1921223acc73a1f?utm_campaign=1079&utm_source=git)** | Mansfield, TX, United States | On Site | Mar 31 |
 | **[Leidos](https://www.leidos.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69cc08a7cfdc6132f9409f5d?utm_campaign=1079&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Mar 31 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) Internship – Software Engineering Intern](https://jobright.ai/jobs/info/69cc089e366bb95ba54ed27a?utm_campaign=1079&utm_source=git)** | Chantilly, Virginia | On Site | Mar 31 |
-| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, QA Engineering](https://jobright.ai/jobs/info/69cc088fcdb525785fb791e5?utm_campaign=1079&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Mar 31 |
-| **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69cc6488cfdc6132f940c027?utm_campaign=1079&utm_source=git)** | Lexington, KY | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
