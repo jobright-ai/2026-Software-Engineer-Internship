@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Science](http://urbanscience.com/)** | **[Software Engineering Intern- Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69ccb6f6891d7b11cfcb2793?utm_campaign=1079&utm_source=git)** | Detroit, MI | Hybrid | Mar 31 |
 | **[Scowtt](https://www.scowtt.com)** | **[Intern - Full Stack Software Engineering](https://jobright.ai/jobs/info/69c1dc6075f7ff1cd8103919?utm_campaign=1079&utm_source=git)** | Seattle | Hybrid | Mar 31 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern (UNDERGRAD only - Distributed Systems, Go, VMs, cloud)](https://jobright.ai/jobs/info/69cca4028130af1ac833d9b3?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Mar 31 |
 | **[VGM Group, Inc.](https://www.vgm.com)** | **[Software Development Intern - Waterloo, Iowa](https://jobright.ai/jobs/info/69c2d0d7ec22f8310ab0bf68?utm_campaign=1079&utm_source=git)** | Waterloo, IA | On Site | Mar 31 |
@@ -84,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Murata](https://www.murata.com/about/company/muratalocations/europe/mfi)** | **[Intern, Software Engineering - Summer 2026](https://jobright.ai/jobs/info/69cc5680366bb95ba54ef03a?utm_campaign=1079&utm_source=git)** | US | On Site | Mar 31 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[SW Engineer Support Intern](https://jobright.ai/jobs/info/69cc567ecfdc6132f940bc76?utm_campaign=1079&utm_source=git)** | Boulder, CO, United States | On Site | Mar 31 |
 | **[Ichor Systems, Inc.](http://www.ichorsystems.com)** | **[Intern](https://jobright.ai/jobs/info/69cc566ecfdc6132f940bc48?utm_campaign=1079&utm_source=git)** | 3800 Quick Hill Rd, Austin, TX, 78728, US | On Site | Mar 31 |
+| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Computer Engineering Internship Summer 2027](https://jobright.ai/jobs/info/69c29b73ec22f8310ab07c55?utm_campaign=1079&utm_source=git)** | Idaho Falls, ID | On Site | Mar 31 |
 | **[Ciena](http://www.ciena.com)** | **[Software Design Intern (May 2026 - 12 Months)](https://jobright.ai/jobs/info/69cc562e8130af1ac8337f10?utm_campaign=1079&utm_source=git)** | Ottawa | On Site | Mar 31 |
 | **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69cc534bcfdc6132f940ba8c?utm_campaign=1079&utm_source=git)** | Corvallis, OR | Hybrid | Mar 31 |
 | **[Urban Science](http://urbanscience.com/)** | **[Software Engineering Intern- Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69cc4ff5891d7b11cfcabb41?utm_campaign=1079&utm_source=git)** | US-MI-Detroit | Hybrid | Mar 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Torch Technologies, Inc.](https://www.torchtechnologies.com)** | **[Engineering Intern – Summer 2026](https://jobright.ai/jobs/info/69cbfff2cdb525785fb79019?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Mar 31 |
 | ↳ | **[Engineering Intern – Summer 2026](https://jobright.ai/jobs/info/69cbfd57891d7b11cfca9c9c?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Mar 31 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 Agentic System Development Intern](https://jobright.ai/jobs/info/69cc7fae366bb95ba54f0424?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Mar 31 |
-| **[Whatnot](https://www.whatnot.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69af218f7495006450939047?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 31 |
-| **[Illumio](http://www.illumio.com)** | **[Engineering Intern, Architecture Platform](https://jobright.ai/jobs/info/69b776fa06c1ba00c5492a0c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
