@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Udemy](http://www.udemy.com)** | **[Front End Software Engineer Intern](https://jobright.ai/jobs/info/69bda892393a1008f74305bd?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 01 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977e9c452f3c27ec64415c6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 01 |
+| **[Avanade](http://www.avanade.com)** | **[Infrastructure/Cloud Engineer](https://jobright.ai/jobs/info/69a2cd0ab600907a96293a05?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Apr 01 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 Software Development Intern - Mechanical](https://jobright.ai/jobs/info/69cce8c2cfdc6132f9414de2?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | Hybrid | Apr 01 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Digital Academy Intern - Enterprise Architecture Analyst](https://jobright.ai/jobs/info/69b097e60b2db6275c04d2d7?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[Urban Science](http://urbanscience.com/)** | **[Software Engineering Intern- Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69ccb6f6891d7b11cfcb2793?utm_campaign=1079&utm_source=git)** | Detroit, MI | Hybrid | Mar 31 |
@@ -128,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Surgical Information Systems](http://www.sisfirst.com)** | **[Development Intern](https://jobright.ai/jobs/info/69cc62e4e1921223acc75a12?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Mar 31 |
 | **[Varda Space Industries](http://varda.com)** | **[Mission Software (Python) Internship - Fall 2026](https://jobright.ai/jobs/info/69c2201575f7ff1cd810e45e?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Mar 31 |
 | **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69cc6f73cdb525785fb7b716?utm_campaign=1079&utm_source=git)** | Spring, TX | Hybrid | Mar 31 |
-| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69cc2425366bb95ba54edc1c?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Mar 31 |
-| ↳ | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69cc2425e1921223acc742ce?utm_campaign=1079&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Mar 31 |
+| **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69cc2425e1921223acc742ce?utm_campaign=1079&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Mar 31 |
+| ↳ | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69cc2425366bb95ba54edc1c?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Mar 31 |
 | **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern, Software Engineering - Engineering Applications and Automation Tools](https://jobright.ai/jobs/info/69cc2407cfdc6132f940a876?utm_campaign=1079&utm_source=git)** | 48800 Milmont Drive, Fremont, CA, 94538, US | On Site | Mar 31 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Software Engineering - Engineering Applications and Automation Tools](https://jobright.ai/jobs/info/69cc23f9cdb525785fb79b3f?utm_campaign=1079&utm_source=git)** | 48800 Milmont Drive, Fremont, CA, 94538, US | On Site | Mar 31 |
 | **[Surgical Information Systems](http://www.sisfirst.com)** | **[Development Intern](https://jobright.ai/jobs/info/69cc23f5891d7b11cfcaa9b1?utm_campaign=1079&utm_source=git)** | Alpharetta, Georgia, United States | On Site | Mar 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, QA Engineering](https://jobright.ai/jobs/info/69cc088fcdb525785fb791e5?utm_campaign=1079&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Mar 31 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69cc6488cfdc6132f940c027?utm_campaign=1079&utm_source=git)** | Lexington, KY | On Site | Mar 31 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69cc2b7a891d7b11cfcaacbe?utm_campaign=1079&utm_source=git)** | Alexandria, VA | Hybrid | Mar 31 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69cc0269891d7b11cfca9f49?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Mar 31 |
-| **[Whatnot](https://www.whatnot.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69af1d676b21de023e603178?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 31 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[SDET Intern](https://jobright.ai/jobs/info/69af5add749500645093d77a?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
