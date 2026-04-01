@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 Software Development Intern - Mechanical](https://jobright.ai/jobs/info/69cce8c2cfdc6132f9414de2?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | Hybrid | Apr 01 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Digital Academy Intern - Enterprise Architecture Analyst](https://jobright.ai/jobs/info/69b097e60b2db6275c04d2d7?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[Urban Science](http://urbanscience.com/)** | **[Software Engineering Intern- Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69ccb6f6891d7b11cfcb2793?utm_campaign=1079&utm_source=git)** | Detroit, MI | Hybrid | Mar 31 |
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69c2f9d794007a2195df1885?utm_campaign=1079&utm_source=git)** | Newark, CA | On Site | Mar 31 |
 | **[Scowtt](https://www.scowtt.com)** | **[Intern - Full Stack Software Engineering](https://jobright.ai/jobs/info/69c1dc6075f7ff1cd8103919?utm_campaign=1079&utm_source=git)** | Seattle | Hybrid | Mar 31 |
@@ -89,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Computer Engineering Internship Summer 2027](https://jobright.ai/jobs/info/69c29b73ec22f8310ab07c55?utm_campaign=1079&utm_source=git)** | Idaho Falls, ID | On Site | Mar 31 |
 | **[Ciena](http://www.ciena.com)** | **[Software Design Intern (May 2026 - 12 Months)](https://jobright.ai/jobs/info/69cc562e8130af1ac8337f10?utm_campaign=1079&utm_source=git)** | Ottawa | On Site | Mar 31 |
 | **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69cc534bcfdc6132f940ba8c?utm_campaign=1079&utm_source=git)** | Corvallis, OR | Hybrid | Mar 31 |
-| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Computer Engineering Internship Summer 2027](https://jobright.ai/jobs/info/69c218f675f7ff1cd810d4d9?utm_campaign=1079&utm_source=git)** | Niskayuna, NY | On Site | Mar 31 |
-| ↳ | **[Computer Engineering Internship Summer 2027](https://jobright.ai/jobs/info/69c29b6bec22f8310ab07c17?utm_campaign=1079&utm_source=git)** | West Mifflin, PA | On Site | Mar 31 |
+| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Computer Engineering Internship Summer 2027](https://jobright.ai/jobs/info/69c29b6bec22f8310ab07c17?utm_campaign=1079&utm_source=git)** | West Mifflin, PA | On Site | Mar 31 |
+| ↳ | **[Computer Engineering Internship Summer 2027](https://jobright.ai/jobs/info/69c218f675f7ff1cd810d4d9?utm_campaign=1079&utm_source=git)** | Niskayuna, NY | On Site | Mar 31 |
 | **[Urban Science](http://urbanscience.com/)** | **[Software Engineering Intern- Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69cc4ff5891d7b11cfcabb41?utm_campaign=1079&utm_source=git)** | US-MI-Detroit | Hybrid | Mar 31 |
 | ↳ | **[Software Engineering Intern- Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69cc4ff2cdb525785fb7ad32?utm_campaign=1079&utm_source=git)** | Detroit, MI, US | Hybrid | Mar 31 |
 | **[Arcesium](http://www.arcesium.com)** | **[Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6998f8b181476f6176b166bf?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Mar 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69cc0269891d7b11cfca9f49?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Mar 31 |
 | **[Whatnot](https://www.whatnot.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69af1d676b21de023e603178?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Mar 31 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[SDET Intern](https://jobright.ai/jobs/info/69af5add749500645093d77a?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Mar 31 |
-| **[Tarrant Regional Water District](https://www.trwd.com/)** | **[Infrastructure Engineering Intern](https://jobright.ai/jobs/info/69cc005bcfdc6132f9409d44?utm_campaign=1079&utm_source=git)** | Fort Worth, TX | On Site | Mar 31 |
-| **[Stony Brook University](http://stonybrook.edu)** | **[Senior Programmer/Analyst](https://jobright.ai/jobs/info/69cc1f4e8130af1ac83369f4?utm_campaign=1079&utm_source=git)** | Stony Brook, NY | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
