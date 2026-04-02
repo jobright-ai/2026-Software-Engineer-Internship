@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Water](http://amwater.com)** | **[Web Development Intern](https://jobright.ai/jobs/info/697976719c90a224ecc32e63?utm_campaign=1079&utm_source=git)** | Camden, NJ | On Site | Apr 02 |
+| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Automation and Workflow Engineering - Sr ServiceNow Developer](https://jobright.ai/jobs/info/69b23162d04c69566c74e4be?utm_campaign=1079&utm_source=git)** | Sacramento, CA | On Site | Apr 02 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Library Applications Developer](https://jobright.ai/jobs/info/69ce2fcd54f00230c6cfc6db?utm_campaign=1079&utm_source=git)** | Topeka Metropolitan Area | Hybrid | Apr 02 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Functional Analyst Intern](https://jobright.ai/jobs/info/69ce1b58cfdc6132f9424d68?utm_campaign=1079&utm_source=git)** | Montreal, QC | Hybrid | Apr 02 |
 | **[Best Egg](https://www.marlettefunding.com)** | **[2026 Summer Internship - Backend Software Engineering Intern](https://jobright.ai/jobs/info/69cd819bcfdc6132f941a21c?utm_campaign=1079&utm_source=git)** | Wilmington, DE | Remote | Apr 01 |
 | **[Serious Development](https://www.seriousdevelopment.com/)** | **[Software Engineering Intern Job ID: 26SEI203](https://jobright.ai/jobs/info/69cdf62b891d7b11cfcc37b7?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 01 |
@@ -115,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Al Warren Oil](https://www.alwarrenoil.com)** | **[Software Developer - Summer Internship 2026](https://jobright.ai/jobs/info/69cd8c87cfdc6132f941d0ba?utm_campaign=1079&utm_source=git)** | Bensenville, Illinois, United States | On Site | Apr 01 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69cd8c32cdb525785fb8bfd4?utm_campaign=1079&utm_source=git)** | 20 Toronto Street, Toronto, ON, M5C 2B8, CA | On Site | Apr 01 |
 | **[Starkey Hearing](https://www.starkey.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69cd8a73cfdc6132f941cae8?utm_campaign=1079&utm_source=git)** | Eden Prairie, MN | On Site | Apr 01 |
-| **[Amentum](https://www.amentum.com/)** | **[Intern - Test Engineer](https://jobright.ai/jobs/info/69cda814cdb525785fb8d72b?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Apr 01 |
 | **[Realm Alliance](https://www.realmalliance.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69cd8740891d7b11cfcbc9d6?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69cd8721366bb95ba54feeca?utm_campaign=1079&utm_source=git)** | Boca Raton, FL | On Site | Apr 01 |
 | **[S&P Global](https://www.spglobal.com)** | **[Software Engineering Intern, Commercial Technology](https://jobright.ai/jobs/info/69cd8708366bb95ba54fede1?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 01 |
@@ -128,12 +130,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69cd84accdb525785fb89a57?utm_campaign=1079&utm_source=git)** | Maynard, Massachusetts, US | Hybrid | Apr 01 |
 | ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69cd84accdb525785fb89a56?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, US | Hybrid | Apr 01 |
 | ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69cd84ab366bb95ba54fd9fa?utm_campaign=1079&utm_source=git)** | Alpharetta, Georgia, US | Hybrid | Apr 01 |
-| ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69cd84ab366bb95ba54fd9f9?utm_campaign=1079&utm_source=git)** | San Francisco, California, US | Hybrid | Apr 01 |
 | ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69cd84abcfdc6132f941a70e?utm_campaign=1079&utm_source=git)** | Hillsboro, Oregon, US | Hybrid | Apr 01 |
-| ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69cd84aa398fb071abf77d98?utm_campaign=1079&utm_source=git)** | Atlanta, Georgia, US | Hybrid | Apr 01 |
-| ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69cd84aa398fb071abf77d96?utm_campaign=1079&utm_source=git)** | Austin, Texas, US | Hybrid | Apr 01 |
+| ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69cd84ab366bb95ba54fd9f9?utm_campaign=1079&utm_source=git)** | San Francisco, California, US | Hybrid | Apr 01 |
 | ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69cd84aacfdc6132f941a6f8?utm_campaign=1079&utm_source=git)** | New York, New York, US | Hybrid | Apr 01 |
 | ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69cd84aa398fb071abf77d97?utm_campaign=1079&utm_source=git)** | Seattle, Washington, US | Hybrid | Apr 01 |
+| ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69cd84aa398fb071abf77d98?utm_campaign=1079&utm_source=git)** | Atlanta, Georgia, US | Hybrid | Apr 01 |
+| ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69cd84aa398fb071abf77d96?utm_campaign=1079&utm_source=git)** | Austin, Texas, US | Hybrid | Apr 01 |
 | ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69cd84a9891d7b11cfcbb6dd?utm_campaign=1079&utm_source=git)** | Knoxville, Tennessee, US | Hybrid | Apr 01 |
 | ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69cd84a9891d7b11cfcbb6dc?utm_campaign=1079&utm_source=git)** | Fulton, Maryland, US | Hybrid | Apr 01 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern - Test Engineer](https://jobright.ai/jobs/info/69cd84a6891d7b11cfcbb6c4?utm_campaign=1079&utm_source=git)** | US-AL-Huntsville | On Site | Apr 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lila Sciences](https://www.lila.ai)** | **[Software Engineering Intern, App, Full Stack](https://jobright.ai/jobs/info/69cd64b6cdb525785fb874ce?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Apr 01 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69cd97cf398fb071abf7a3e5?utm_campaign=1079&utm_source=git)** | Houston, Texas, United States | On Site | Apr 01 |
 | ↳ | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69cd97cd891d7b11cfcbddb2?utm_campaign=1079&utm_source=git)** | Hammond, Indiana, United States | On Site | Apr 01 |
-| **[Lila Sciences](https://www.lila.ai)** | **[Software Engineering Intern, App, Full Stack](https://jobright.ai/jobs/info/69cd618f366bb95ba54fb228?utm_campaign=1079&utm_source=git)** | Cambridge, MA USA | On Site | Apr 01 |
-| **[Cargill](https://www.cargill.com/home)** | **[Software Engineer Associate - Technology Development Program 2026, Atlanta, GA](https://jobright.ai/jobs/info/69cd6018398fb071abf74746?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
