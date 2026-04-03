@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69ce3ae2cfdc6132f9425eb2?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Intern - Software Engineer, IT Manufacturing Ops](https://jobright.ai/jobs/info/69ce77f6891d7b11cfcc8c58?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Apr 02 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Sr. Batch Developer (UNIX/LINUX/C/SQL)](https://jobright.ai/jobs/info/69c35e3a753c101b21571bc6?utm_campaign=1079&utm_source=git)** | Connecticut, United States | Remote | Apr 02 |
-| **[Cisco](http://www.cisco.com)** | **[Software Developer (Intern) I - Canada](https://jobright.ai/jobs/info/699540ad81476f6176ad2304?utm_campaign=1079&utm_source=git)** | Toronto, ON | On Site | Apr 02 |
 | **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Information Technology](https://jobright.ai/jobs/info/69b216e5548f140066e845ff?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 | **[Outcomes®](http://outcomesmtm.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6995252cce78e77b4fd93d3f?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Experienced Cloud Engineer - Hybrid Gold River, CA](https://jobright.ai/jobs/info/697a2241b4589b4ee87c6839?utm_campaign=1079&utm_source=git)** | Rancho Cordova, CA | Hybrid | Apr 02 |
 | **[Amentum](https://www.amentum.com/)** | **[Software Engineer Summer Intern](https://jobright.ai/jobs/info/69ce7298366bb95ba550b7e9?utm_campaign=1079&utm_source=git)** | US-FL-Cocoa Beach | On Site | Apr 02 |
+| **[Diality](https://www.diality.com/)** | **[Software V&V Engineer Intern](https://jobright.ai/jobs/info/69b1fe8765de58104c716cc3?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
