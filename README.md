@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gesture](https://gesture.vip)** | **[Full Stack & AI Engineering Intern - Denver](https://jobright.ai/jobs/info/69cf2beb54f00230c6d0731f?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Apr 02 |
+| **[System Automation Corporation](http://www.systemautomation.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69cf2bddcdb525785fb9f697?utm_campaign=1079&utm_source=git)** | Fully Remote | Remote | Apr 02 |
+| **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Software Test Automation Intern](https://jobright.ai/jobs/info/69cf2bd6398fb071abf8cfb8?utm_campaign=1079&utm_source=git)** | Barnes, CA | On Site | Apr 02 |
 | **[Chartbeat](http://chartbeat.com)** | **[QA Engineering Internship](https://jobright.ai/jobs/info/69c6ceeae565c26a70022df1?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 02 |
-| **[Pivotor AI](https://www.pivotor.ai)** | **[Backend Engineer – AI Data Systems Intern](https://jobright.ai/jobs/info/69cf2223366bb95ba5512d53?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 02 |
 | **[Futurewei Technologies, Inc.](https://www.futurewei.com/)** | **[Computer Architecture Research Intern](https://jobright.ai/jobs/info/69cf20e554f00230c6d069ad?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | **[SoFi](https://www.sofi.com)** | **[Intern, Software Engineer, Crypto](https://jobright.ai/jobs/info/69cf182d398fb071abf8c43f?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 02 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Frontend Software Engineer](https://jobright.ai/jobs/info/69cf140954f00230c6d065cf?utm_campaign=1079&utm_source=git)** | Corona, California, United States | On Site | Apr 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Diality](https://www.diality.com/)** | **[Software V&V Engineer Intern](https://jobright.ai/jobs/info/69b1fe8765de58104c716cc3?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Apr 02 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69ce6ff454f00230c6cff34f?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Apr 02 |
 | **[IBM](http://www.ibm.com)** | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/69ae34434f6bcc1828093819?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
-| **[Bob's Discount Furniture](http://www.mybobs.com)** | **[IT SAP Analyst Intern - Application & Development](https://jobright.ai/jobs/info/69c5afee1818a24cd84b96be?utm_campaign=1079&utm_source=git)** | Providence County, RI | Hybrid | Apr 02 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Information Technology Summer Internship 2026](https://jobright.ai/jobs/info/698e2f3ff64d441a16506a5a?utm_campaign=1079&utm_source=git)** | Egg Harbor, NJ | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
