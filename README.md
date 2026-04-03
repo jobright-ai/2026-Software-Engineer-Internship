@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sabel Systems](https://sabelsystems.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d014440b098b7a670764ef?utm_campaign=1079&utm_source=git)** | Beavercreek, OH | On Site | Apr 03 |
+| **[Arboreal Management](https://www.arboreal-info.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d01397cfdc6132f94382d9?utm_campaign=1079&utm_source=git)** | 1500 Fairview Ave E, Seattle, Seattle, 98102, US | Hybrid | Apr 03 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 ETI – QA Analyst Summer Intern](https://jobright.ai/jobs/info/69d01350cdb525785fba72ab?utm_campaign=1079&utm_source=git)** | Iselin | On Site | Apr 03 |
+| **[TEAMCAL AI](https://teamcal.ai)** | **[Quality Engineer for AI Agents - Intern](https://jobright.ai/jobs/info/69d00f30366bb95ba551b0b3?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Apr 03 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Server Test Engineer](https://jobright.ai/jobs/info/69975a81ce78e77b4fdbb6a8?utm_campaign=1079&utm_source=git)** | Whitsett, NC | On Site | Apr 03 |
+| **[American Outdoor Brands Inc.](http://www.aob.com/)** | **[Application Developer Intern](https://jobright.ai/jobs/info/69d00c78cfdc6132f9437c73?utm_campaign=1079&utm_source=git)** | Columbia, MO | On Site | Apr 03 |
+| **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Software Development](https://jobright.ai/jobs/info/69ce3162366bb95ba5508cf6?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
+| ↳ | **[Internship Summer 2026 - Technology, Software Development](https://jobright.ai/jobs/info/697c0f7c1136d179eeefb48c?utm_campaign=1079&utm_source=git)** | Fort Mill, SC | On Site | Apr 03 |
 | **[Analog Devices](http://www.analog.com)** | **[Digital Design Engineer Intern](https://jobright.ai/jobs/info/69b35d60ae2a534885eabb7c?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | On Site | Apr 03 |
 | **[Desjardins](https://www.desjardins.com)** | **[Internship, IT sector, Summer 2026](https://jobright.ai/jobs/info/69bc478c45e08b3dc1f8b446?utm_campaign=1079&utm_source=git)** | Lévis, QC | Hybrid | Apr 03 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Embedded Software Engineering Intern](https://jobright.ai/jobs/info/69d0076b891d7b11cfcd7d30?utm_campaign=1079&utm_source=git)** | Ottawa, ON | On Site | Apr 03 |
@@ -119,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (AI-Native Databases) - 2026 Summer (PhD)](https://jobright.ai/jobs/info/697bed301136d179eeef8c76?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Apr 03 |
 | ↳ | **[Student Researcher(Multimedia Streaming) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68d04d33fb49c96ca6eaeded?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Enterprise Applications Co-op Intern](https://jobright.ai/jobs/info/699752c1ce78e77b4fdbb2f1?utm_campaign=1079&utm_source=git)** | Plano, TX | Hybrid | Apr 03 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA - Quality Assurance Software Testing Internship (Remote)](https://jobright.ai/jobs/info/69cf76ab54f00230c6d0a704?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Apr 02 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Siemens Strategic Student Program: Engineering Software Intern, Aerodynamics CFD (STS, Fall 2026)](https://jobright.ai/jobs/info/69cf449554f00230c6d087b6?utm_campaign=1079&utm_source=git)** | St Louis, MO | Remote | Apr 02 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Frontend Software Engineer](https://jobright.ai/jobs/info/69cf3ea4cdb525785fba0a45?utm_campaign=1079&utm_source=git)** | Corona, CA | On Site | Apr 02 |
 | ↳ | **[Internship - SAP Release](https://jobright.ai/jobs/info/69cf3d7a54f00230c6d084ec?utm_campaign=1079&utm_source=git)** | Corona, CA | On Site | Apr 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Junior Application Developer](https://jobright.ai/jobs/info/69ced914891d7b11cfccd6be?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Apr 02 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Apprentice/Intern - QA Engineer](https://jobright.ai/jobs/info/69ced735891d7b11cfcccf69?utm_campaign=1079&utm_source=git)** | SelectHealth - Murray | Remote | Apr 02 |
 | **[Brex](https://brex.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/69ced44e891d7b11cfccceef?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 02 |
-| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Application Analyst Intern Summer 2026](https://jobright.ai/jobs/info/69b1ea9765de58104c713ab9?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Apr 02 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[IT Apps Designer II](https://jobright.ai/jobs/info/69ced3e3891d7b11cfcccec5?utm_campaign=1079&utm_source=git)** | Savannah, GA | On Site | Apr 02 |
-| **[Snyk](https://snyk.io   )** | **[Software Engineer Intern (Container)](https://jobright.ai/jobs/info/69ced2c054f00230c6d036c3?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Apr 02 |
-| **[Elevate Robotics Inc](https://www.elevaterobotics.ai/)** | **[Software Engineer – Intern Summer 2026](https://jobright.ai/jobs/info/69ced0b754f00230c6d035f9?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 02 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Forward Deployed Software Engineer, Internship - Poland](https://jobright.ai/jobs/info/69c506d98652780152678db3?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 02 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Computational Designer Intern](https://jobright.ai/jobs/info/698560b78da7a612045fee6a?utm_campaign=1079&utm_source=git)** | Tippecanoe County, IN | On Site | Apr 02 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Software Engineer Intern - Summer 2026 (For SNC Summer 2025 Interns Only)](https://jobright.ai/jobs/info/69cec53c366bb95ba550f558?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
