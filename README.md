@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Practising Law Institute (PLI)](https://pli.edu)** | **[IT Intern](https://jobright.ai/jobs/info/69cfce11cdb525785fba4d57?utm_campaign=1079&utm_source=git)** | New York, New York, United States | On Site | Apr 03 |
+| **[STMicroelectronics](https://www.st.com)** | **[Application Engineer Intern](https://jobright.ai/jobs/info/695d7563f5f3c43f38e242ad?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 03 |
+| **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/691d48937481340785ed6034?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Apr 03 |
+| **[Spacelabs Healthcare](http://www.spacelabshealthcare.com)** | **[Software Test Intern](https://jobright.ai/jobs/info/69b335f2ad360c0340a85d26?utm_campaign=1079&utm_source=git)** | Snoqualmie, WA | Hybrid | Apr 03 |
+| **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69963cec81476f6176adf906?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Apr 03 |
+| **[Hue.](https://poweredbyhue.com)** | **[Software Engineering Intern (Full Stack)](https://jobright.ai/jobs/info/69b36f3da8ac8e70ff67b58d?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
+| **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69c1ff962c312363dcd54acd?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Apr 03 |
+| ↳ | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69c20e7775f7ff1cd810bd80?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Apr 03 |
 | **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Information Technology (Production)](https://jobright.ai/jobs/info/69b31d9fae2a534885ea6b24?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69b76ac706c1ba00c549229a?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 03 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Android Developer Intern](https://jobright.ai/jobs/info/69b325e1ad360c0340a8458a?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Apr 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Intern - Engineering Software](https://jobright.ai/jobs/info/69ce8e45366bb95ba550c96c?utm_campaign=1079&utm_source=git)** | Southfield, Michigan, US | On Site | Apr 02 |
 | **[IBM](http://www.ibm.com)** | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/6996430581476f6176ae0186?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 02 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69bc971445e08b3dc1f9583b?utm_campaign=1079&utm_source=git)** | Sandy Springs, GA | Hybrid | Apr 02 |
-| ↳ | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69c20e8a2c312363dcd58024?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 02 |
-| ↳ | **[Application Developer Intern – Client Innovation Center (Entry Level)](https://jobright.ai/jobs/info/69c37bee7a7a0045db89477a?utm_campaign=1079&utm_source=git)** | Monroe, MI | On Site | Apr 02 |
-| **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[Computer Science/Software Engineering Intern](https://jobright.ai/jobs/info/69ce8872cfdc6132f942952c?utm_campaign=1079&utm_source=git)** | Patuxent River, MD, US | On Site | Apr 02 |
-| ↳ | **[Computer Science/Software Engineering Intern](https://jobright.ai/jobs/info/69ce8847398fb071abf8623c?utm_campaign=1079&utm_source=git)** | US-MD-Patuxent River | On Site | Apr 02 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Vice President, Testing Practice](https://jobright.ai/jobs/info/69ce832e366bb95ba550c4ac?utm_campaign=1079&utm_source=git)** | Missouri, United States | Remote | Apr 02 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Web Applications and DBs](https://jobright.ai/jobs/info/69b2255cd04c69566c74d937?utm_campaign=1079&utm_source=git)** | Saxonburg, PA | On Site | Apr 02 |
-| ↳ | **[Intern, Computer Science](https://jobright.ai/jobs/info/69b22543548f140066e86236?utm_campaign=1079&utm_source=git)** | Newark, DE | On Site | Apr 02 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026  - Investment Management - Software Developer](https://jobright.ai/jobs/info/69ce81d5cfdc6132f94291ca?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
