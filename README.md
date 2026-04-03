@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Information Technology (Production)](https://jobright.ai/jobs/info/69b31d9fae2a534885ea6b24?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
+| **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69b76ac706c1ba00c549229a?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 03 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Android Developer Intern](https://jobright.ai/jobs/info/69b325e1ad360c0340a8458a?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Apr 03 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern - Embedded Firmware Engineer, Battery Software, Summer 2026](https://jobright.ai/jobs/info/69b370a4ae2a534885eaddd7?utm_campaign=1079&utm_source=git)** | Newark, CA | On Site | Apr 03 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Solutions Engineer - Intern](https://jobright.ai/jobs/info/69963013e0bddb6acac49007?utm_campaign=1079&utm_source=git)** | Piscataway, NJ | On Site | Apr 03 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Enterprise Applications Co-op Intern](https://jobright.ai/jobs/info/699752c1ce78e77b4fdbb2f1?utm_campaign=1079&utm_source=git)** | Plano, TX | Hybrid | Apr 03 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA - Quality Assurance Software Testing Internship (Remote)](https://jobright.ai/jobs/info/69cf76ab54f00230c6d0a704?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Apr 02 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Siemens Strategic Student Program: Engineering Software Intern, Aerodynamics CFD (STS, Fall 2026)](https://jobright.ai/jobs/info/69cf449554f00230c6d087b6?utm_campaign=1079&utm_source=git)** | St Louis, MO | Remote | Apr 02 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/69cf3fedcfdc6132f94318b9?utm_campaign=1079&utm_source=git)** | Plainview, NY | On Site | Apr 02 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Frontend Software Engineer](https://jobright.ai/jobs/info/69cf3ea4cdb525785fba0a45?utm_campaign=1079&utm_source=git)** | Corona, CA | On Site | Apr 02 |
 | ↳ | **[Internship - SAP Release](https://jobright.ai/jobs/info/69cf3d7a54f00230c6d084ec?utm_campaign=1079&utm_source=git)** | Corona, CA | On Site | Apr 02 |
 | **[Gesture](https://gesture.vip)** | **[Full Stack & AI Engineering Intern - Denver](https://jobright.ai/jobs/info/69cf2beb54f00230c6d0731f?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Web Applications and DBs](https://jobright.ai/jobs/info/69b2255cd04c69566c74d937?utm_campaign=1079&utm_source=git)** | Saxonburg, PA | On Site | Apr 02 |
 | ↳ | **[Intern, Computer Science](https://jobright.ai/jobs/info/69b22543548f140066e86236?utm_campaign=1079&utm_source=git)** | Newark, DE | On Site | Apr 02 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026  - Investment Management - Software Developer](https://jobright.ai/jobs/info/69ce81d5cfdc6132f94291ca?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 02 |
-| **[Snyk](https://snyk.io   )** | **[Software Engineer Intern (Container)](https://jobright.ai/jobs/info/69ce8026cfdc6132f9428ad4?utm_campaign=1079&utm_source=git)** | United States - Boston Office | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
