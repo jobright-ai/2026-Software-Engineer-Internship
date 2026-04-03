@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Washington Post](http://www.washingtonpost.com/)** | **[Summer Intern, Android App Development](https://jobright.ai/jobs/info/69ceff76366bb95ba5511ee3?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Apr 02 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Software engineer NuoDB Orchestration](https://jobright.ai/jobs/info/69ceff7154f00230c6d05b1d?utm_campaign=1079&utm_source=git)** | Waltham, MA | On Site | Apr 02 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern – Software Engineer, Ultrasound R&D – Bothell, WA – Summer 2026](https://jobright.ai/jobs/info/69cefaf1366bb95ba5511ba2?utm_campaign=1079&utm_source=git)** | Bothell, Washington, United States | On Site | Apr 02 |
+| **[Canyon AeroConnect](https://www.canyonaeroconnect.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69cefaa954f00230c6d0585d?utm_campaign=1079&utm_source=git)** | Prescott, Arizona, United States | On Site | Apr 02 |
+| **[Teladoc Health](https://teladochealth.com)** | **[Director, Software Engineering](https://jobright.ai/jobs/info/69cef4cf398fb071abf8b375?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Apr 02 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - Undergrad ONLY](https://jobright.ai/jobs/info/69cef02a398fb071abf8acd1?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
 | **[Gesture](https://gesture.vip)** | **[Full Stack & AI Engineering Intern - Denver](https://jobright.ai/jobs/info/69cee77ccdb525785fb9cff9?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Apr 02 |
 | **[Fiserv](http://www.fiserv.com)** | **[Application Development  - Summer Intern](https://jobright.ai/jobs/info/69cee6cf54f00230c6d04a85?utm_campaign=1079&utm_source=git)** | King of Prussia, PA | On Site | Apr 02 |
@@ -101,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Zippo Manufacturing Company](https://www.zippo.com/)** | **[MarTech Intern](https://jobright.ai/jobs/info/69cea6a2366bb95ba550db19?utm_campaign=1079&utm_source=git)** | Bradford, Pennsylvania, United States | On Site | Apr 02 |
 | **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Salesforce Development Intern](https://jobright.ai/jobs/info/69c1aaee75f7ff1cd80ff9fe?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/69794bfe39f7f96cc6d1c3bf?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 02 |
-| **[NetApp](http://netapp.com)** | **[Software Engineer Intern - Chief Platform and Technology Office](https://jobright.ai/jobs/info/69ce9e41cfdc6132f942a4f6?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
-| ↳ | **[Systems, Processes, & Reporting Development Intern](https://jobright.ai/jobs/info/69ce9e41cfdc6132f942a4f5?utm_campaign=1079&utm_source=git)** | Morrisville, NC | Hybrid | Apr 02 |
+| **[NetApp](http://netapp.com)** | **[Systems, Processes, & Reporting Development Intern](https://jobright.ai/jobs/info/69ce9e41cfdc6132f942a4f5?utm_campaign=1079&utm_source=git)** | Morrisville, NC | Hybrid | Apr 02 |
+| ↳ | **[Software Engineer Intern - Chief Platform and Technology Office](https://jobright.ai/jobs/info/69ce9e41cfdc6132f942a4f6?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
 | **[IBM](http://www.ibm.com)** | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/69bc20cf5b89c002acf14229?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 02 |
 | **[Quantic Electronics](https://www.quanticnow.com/)** | **[Electrical /Software Engineer Intern](https://jobright.ai/jobs/info/6994a5c981476f6176ac6914?utm_campaign=1079&utm_source=git)** | Maumelle, AR | On Site | Apr 02 |
 | **[NetApp](http://netapp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69ce9d9ccdb525785fb99385?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Apr 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GM Performance Power Units](https://gmppu.com)** | **[ERS Engineering Intern](https://jobright.ai/jobs/info/69a625fa359fe034b1d0f75d?utm_campaign=1079&utm_source=git)** | Concord, NC | On Site | Apr 02 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69ce6dc1891d7b11cfcc8962?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 02 |
 | **[Quaker Houghton](https://home.quakerhoughton.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69ce6cbc366bb95ba550b68a?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 02 |
-| **[bioMérieux](https://www.biomerieux.com)** | **[IS Testing Intern](https://jobright.ai/jobs/info/69bc9df75b89c002acf25e89?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Apr 02 |
-| **[Bob's Discount Furniture](http://www.mybobs.com)** | **[IT SAP Analyst Intern - Application & Development](https://jobright.ai/jobs/info/69bc0aea45e08b3dc1f7f8ae?utm_campaign=1079&utm_source=git)** | Massachusetts, United States | Hybrid | Apr 02 |
-| **[Nokia](http://www.nokia.com)** | **[R&D Intern](https://jobright.ai/jobs/info/69c0c9c42c312363dcd33c52?utm_campaign=1079&utm_source=git)** | Naperville, IL | Hybrid | Apr 02 |
-| ↳ | **[Software Dev Intern](https://jobright.ai/jobs/info/69c0c90579e36d3a847d19fb?utm_campaign=1079&utm_source=git)** | Naperville, IL | Hybrid | Apr 02 |
-| **[Bob's Discount Furniture](http://www.mybobs.com)** | **[IT SAP Analyst Intern - Application & Development](https://jobright.ai/jobs/info/69c1167279e36d3a847da184?utm_campaign=1079&utm_source=git)** | Manchester, CT | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
