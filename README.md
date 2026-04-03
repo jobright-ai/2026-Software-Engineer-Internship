@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Flatiron School](http://flatironschool.com)** | **[Accelerated Software Engineer Apprenticeship (Engineers Only)](https://jobright.ai/jobs/info/69d032dc54f00230c6d10511?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
+| **[Actian](http://www.actian.com)** | **[Software Development Intern, EBC](https://jobright.ai/jobs/info/69d04084366bb95ba551ce14?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Apr 03 |
+| **[Gen II Fund Services](http://www.gen2fund.com)** | **[Platform Intern — Test & Release](https://jobright.ai/jobs/info/69d03c0d0b098b7a67077c8b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 03 |
+| **[Flatiron School](http://flatironschool.com)** | **[Software Engineer Trainee Program (No Tech Background Needed)](https://jobright.ai/jobs/info/69d03788366bb95ba551cb30?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
+| ↳ | **[Accelerated Software Engineer Apprenticeship (Engineers Only)](https://jobright.ai/jobs/info/69d032dc54f00230c6d10511?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d032c6891d7b11cfcd9bb6?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Apr 03 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d03204cfdc6132f943979c?utm_campaign=1079&utm_source=git)** | Goleta, CALIFORNIA | Hybrid | Apr 03 |
 | **[Todd](https://toddagriscience.com)** | **[Full Stack Software Engineer Intern (Fall '26)](https://jobright.ai/jobs/info/69d02e330b098b7a670773ec?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SoFi](https://www.sofi.com)** | **[Intern, Software Engineer, Crypto](https://jobright.ai/jobs/info/69cf182d398fb071abf8c43f?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 02 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Frontend Software Engineer](https://jobright.ai/jobs/info/69cf140954f00230c6d065cf?utm_campaign=1079&utm_source=git)** | Corona, California, United States | On Site | Apr 02 |
 | ↳ | **[Internship - SAP Release](https://jobright.ai/jobs/info/69cf140854f00230c6d065c0?utm_campaign=1079&utm_source=git)** | Corona, California, United States | On Site | Apr 02 |
-| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Enterprise Technology Full Stack Developer Summer Intern](https://jobright.ai/jobs/info/69cf0f5b891d7b11cfccfc76?utm_campaign=1079&utm_source=git)** | Iselin, NJ | On Site | Apr 02 |
-| **[U.S. AutoForce](https://www.usautoforce.com)** | **[Software Development Intern - U.S. AutoForce](https://jobright.ai/jobs/info/69cf09a2cfdc6132f942efa1?utm_campaign=1079&utm_source=git)** | Appleton, WI | On Site | Apr 02 |
-| **[The Washington Post](http://www.washingtonpost.com/)** | **[Summer Intern, Android App Development](https://jobright.ai/jobs/info/69ceff76366bb95ba5511ee3?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
