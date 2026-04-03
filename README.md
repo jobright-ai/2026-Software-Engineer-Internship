@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chartbeat](http://chartbeat.com)** | **[QA Engineering Internship](https://jobright.ai/jobs/info/69c6ceeae565c26a70022df1?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 02 |
+| **[Pivotor AI](https://www.pivotor.ai)** | **[Backend Engineer – AI Data Systems Intern](https://jobright.ai/jobs/info/69cf2223366bb95ba5512d53?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 02 |
+| **[Futurewei Technologies, Inc.](https://www.futurewei.com/)** | **[Computer Architecture Research Intern](https://jobright.ai/jobs/info/69cf20e554f00230c6d069ad?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | **[SoFi](https://www.sofi.com)** | **[Intern, Software Engineer, Crypto](https://jobright.ai/jobs/info/69cf182d398fb071abf8c43f?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 02 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Frontend Software Engineer](https://jobright.ai/jobs/info/69cf140954f00230c6d065cf?utm_campaign=1079&utm_source=git)** | Corona, California, United States | On Site | Apr 02 |
 | ↳ | **[Internship - SAP Release](https://jobright.ai/jobs/info/69cf140854f00230c6d065c0?utm_campaign=1079&utm_source=git)** | Corona, California, United States | On Site | Apr 02 |
@@ -74,8 +77,6 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXP Intern - Security AI & Automation Development (Chicago)](https://jobright.ai/jobs/info/69cee30a366bb95ba5510a85?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Apr 02 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - Undergrad ONLY](https://jobright.ai/jobs/info/69cee162cdb525785fb9c8c8?utm_campaign=1079&utm_source=git)** | San Jose, California | Hybrid | Apr 02 |
 | **[BCM One](http://www.bcmone.com)** | **[Software Developer Summer Intern](https://jobright.ai/jobs/info/69cee149398fb071abf8a289?utm_campaign=1079&utm_source=git)** | Blue Bell, Pennsylvania, United States | Hybrid | Apr 02 |
-| **[Generac](https://www.generac.com)** | **[Intern](https://jobright.ai/jobs/info/69cee107891d7b11cfccda3b?utm_campaign=1079&utm_source=git)** | Toronto, Canada | On Site | Apr 02 |
-| **[ecobee](https://www.ecobee.com)** | **[Intern](https://jobright.ai/jobs/info/69cede65cdb525785fb9c61b?utm_campaign=1079&utm_source=git)** | Toronto, ON | On Site | Apr 02 |
 | **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69cedd3a398fb071abf89f51?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Apr 02 |
 | **[Bertec](https://www.bertec.com/)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69cedc18cdb525785fb9c46d?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Apr 02 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Junior Application Developer](https://jobright.ai/jobs/info/69ced914891d7b11cfccd6be?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Apr 02 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Zippo Manufacturing Company](https://www.zippo.com/)** | **[MarTech Intern](https://jobright.ai/jobs/info/69cea6a2366bb95ba550db19?utm_campaign=1079&utm_source=git)** | Bradford, Pennsylvania, United States | On Site | Apr 02 |
 | **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Salesforce Development Intern](https://jobright.ai/jobs/info/69c1aaee75f7ff1cd80ff9fe?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/69794bfe39f7f96cc6d1c3bf?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 02 |
-| **[NetApp](http://netapp.com)** | **[Software Engineer Intern - Chief Platform and Technology Office](https://jobright.ai/jobs/info/69ce9e41cfdc6132f942a4f6?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
-| ↳ | **[Systems, Processes, & Reporting Development Intern](https://jobright.ai/jobs/info/69ce9e41cfdc6132f942a4f5?utm_campaign=1079&utm_source=git)** | Morrisville, NC | Hybrid | Apr 02 |
+| **[NetApp](http://netapp.com)** | **[Systems, Processes, & Reporting Development Intern](https://jobright.ai/jobs/info/69ce9e41cfdc6132f942a4f5?utm_campaign=1079&utm_source=git)** | Morrisville, NC | Hybrid | Apr 02 |
+| ↳ | **[Software Engineer Intern - Chief Platform and Technology Office](https://jobright.ai/jobs/info/69ce9e41cfdc6132f942a4f6?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
 | **[IBM](http://www.ibm.com)** | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/69bc20cf5b89c002acf14229?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 02 |
 | **[NetApp](http://netapp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69ce9d9ccdb525785fb99385?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Apr 02 |
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69963837e0bddb6acac499f1?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/69ae34434f6bcc1828093819?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
 | **[Bob's Discount Furniture](http://www.mybobs.com)** | **[IT SAP Analyst Intern - Application & Development](https://jobright.ai/jobs/info/69c5afee1818a24cd84b96be?utm_campaign=1079&utm_source=git)** | Providence County, RI | Hybrid | Apr 02 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Information Technology Summer Internship 2026](https://jobright.ai/jobs/info/698e2f3ff64d441a16506a5a?utm_campaign=1079&utm_source=git)** | Egg Harbor, NJ | On Site | Apr 02 |
-| **[GM Performance Power Units](https://gmppu.com)** | **[ERS Engineering Intern](https://jobright.ai/jobs/info/69a625fa359fe034b1d0f75d?utm_campaign=1079&utm_source=git)** | Concord, NC | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
