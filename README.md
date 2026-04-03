@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Actian](http://www.actian.com)** | **[Engineering Intern,  Pipeline Observability and Lineage](https://jobright.ai/jobs/info/69d0267dcdb525785fba7c2e?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Apr 03 |
+| **[CGI](https://www.cgi.com)** | **[Software Developer Intern (Summer Internship Program)](https://jobright.ai/jobs/info/69d0265e891d7b11cfcd8f09?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
+| **[LogicGate](https://www.logicgate.com)** | **[Software Engineer Intern (Chicago)](https://jobright.ai/jobs/info/69af4135749500645093c56a?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Apr 03 |
+| **[Actian](http://www.actian.com)** | **[Engineering Intern, Streaming Observability](https://jobright.ai/jobs/info/69d02311cdb525785fba79e3?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
+| ↳ | **[Engineering Intern, Pipeline Observability and Lineage](https://jobright.ai/jobs/info/69d022e70b098b7a67076acb?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
+| **[Compass](http://www.prudentialcal.com/)** | **[Zurich 2026 Summer Internship – IT Front End Intern](https://jobright.ai/jobs/info/69d021e8366bb95ba551b8d4?utm_campaign=1079&utm_source=git)** | Stevens Point, WI | Hybrid | Apr 03 |
+| **[Wiz](https://www.wiz.io)** | **[Senior Partner Solutions Architect](https://jobright.ai/jobs/info/69d0212e891d7b11cfcd8c94?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
+| **[Credo](http://www.credosemi.com)** | **[Firmware and Tool Development Engineering Intern](https://jobright.ai/jobs/info/69ab2b287e1fab39d382b8fa?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[Sabel Systems](https://sabelsystems.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d014440b098b7a670764ef?utm_campaign=1079&utm_source=git)** | Beavercreek, OH | On Site | Apr 03 |
 | **[Arboreal Management](https://www.arboreal-info.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d01397cfdc6132f94382d9?utm_campaign=1079&utm_source=git)** | 1500 Fairview Ave E, Seattle, Seattle, 98102, US | Hybrid | Apr 03 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 ETI – QA Analyst Summer Intern](https://jobright.ai/jobs/info/69d01350cdb525785fba72ab?utm_campaign=1079&utm_source=git)** | Iselin | On Site | Apr 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - Undergrad ONLY](https://jobright.ai/jobs/info/69cef02a398fb071abf8acd1?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
 | **[Gesture](https://gesture.vip)** | **[Full Stack & AI Engineering Intern - Denver](https://jobright.ai/jobs/info/69cee77ccdb525785fb9cff9?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Apr 02 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Enterprise Technology Full Stack Developer Summer Intern](https://jobright.ai/jobs/info/69cee42b366bb95ba5510b5b?utm_campaign=1079&utm_source=git)** | Iselin | On Site | Apr 02 |
-| **[SAP](https://www.sap.com)** | **[SAP iXP Intern - Security AI & Automation Development (Chicago)](https://jobright.ai/jobs/info/69cee30a366bb95ba5510a85?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Apr 02 |
-| **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern - Undergrad ONLY](https://jobright.ai/jobs/info/69cee162cdb525785fb9c8c8?utm_campaign=1079&utm_source=git)** | San Jose, California | Hybrid | Apr 02 |
-| **[BCM One](http://www.bcmone.com)** | **[Software Developer Summer Intern](https://jobright.ai/jobs/info/69cee149398fb071abf8a289?utm_campaign=1079&utm_source=git)** | Blue Bell, Pennsylvania, United States | Hybrid | Apr 02 |
-| **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69cedd3a398fb071abf89f51?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Apr 02 |
-| **[Leidos](https://www.leidos.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69cf80c3891d7b11cfcd40d0?utm_campaign=1079&utm_source=git)** | Morgantown, WV | On Site | Apr 02 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Junior Application Developer](https://jobright.ai/jobs/info/69ced914891d7b11cfccd6be?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Apr 02 |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Apprentice/Intern - QA Engineer](https://jobright.ai/jobs/info/69ced735891d7b11cfcccf69?utm_campaign=1079&utm_source=git)** | SelectHealth - Murray | Remote | Apr 02 |
-| **[Brex](https://brex.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/69ced44e891d7b11cfccceef?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
