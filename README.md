@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revolution Sustainable Solutions, LLC](https://revolutioncompany.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69cfa50354f00230c6d0b8b6?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
+| **[Saronic Technologies](https://www.saronic.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69a29a3e359fe034b1cde5a0?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 03 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69799b66ca92cf0d6a82d864?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfe6bc8e722e7b1b54da?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (AI-Native Databases) - 2026 Summer (PhD)](https://jobright.ai/jobs/info/697bed301136d179eeef8c76?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Apr 03 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Zippo Manufacturing Company](https://www.zippo.com/)** | **[MarTech Intern](https://jobright.ai/jobs/info/69cea6a2366bb95ba550db19?utm_campaign=1079&utm_source=git)** | Bradford, Pennsylvania, United States | On Site | Apr 02 |
 | **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Salesforce Development Intern](https://jobright.ai/jobs/info/69c1aaee75f7ff1cd80ff9fe?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/69794bfe39f7f96cc6d1c3bf?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 02 |
-| **[NetApp](http://netapp.com)** | **[Software Engineer Intern - Chief Platform and Technology Office](https://jobright.ai/jobs/info/69ce9e41cfdc6132f942a4f6?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
-| ↳ | **[Systems, Processes, & Reporting Development Intern](https://jobright.ai/jobs/info/69ce9e41cfdc6132f942a4f5?utm_campaign=1079&utm_source=git)** | Morrisville, NC | Hybrid | Apr 02 |
+| **[NetApp](http://netapp.com)** | **[Systems, Processes, & Reporting Development Intern](https://jobright.ai/jobs/info/69ce9e41cfdc6132f942a4f5?utm_campaign=1079&utm_source=git)** | Morrisville, NC | Hybrid | Apr 02 |
+| ↳ | **[Software Engineer Intern - Chief Platform and Technology Office](https://jobright.ai/jobs/info/69ce9e41cfdc6132f942a4f6?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
 | **[IBM](http://www.ibm.com)** | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/69bc20cf5b89c002acf14229?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 02 |
 | **[NetApp](http://netapp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69ce9d9ccdb525785fb99385?utm_campaign=1079&utm_source=git)** | Boulder, CO | Hybrid | Apr 02 |
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69963837e0bddb6acac499f1?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Apr 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chartbeat](http://chartbeat.com)** | **[Frontend Engineering Internship](https://jobright.ai/jobs/info/69ce7d2d398fb071abf85716?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Canon USA](https://www.usa.canon.com)** | **[Software Imaging Intern](https://jobright.ai/jobs/info/69b1da6565de58104c710913?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | Apr 02 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69ce7c5a891d7b11cfcc8dab?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
-| ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69ce3abdcdb525785fb952c3?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Apr 02 |
-| ↳ | **[Software Engineer Embedded/Network Systems I (Intern) - United States](https://jobright.ai/jobs/info/69ce3ae2cfdc6132f9425eb2?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
