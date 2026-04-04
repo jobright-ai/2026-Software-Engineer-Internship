@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6944513f50bbaf7650564ecf?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Apr 04 |
 | **[Todd](https://toddagriscience.com)** | **[Full Stack Software Engineer Intern (Summer '26)](https://jobright.ai/jobs/info/69d14cec891d7b11cfce2c8e?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 04 |
 | **[Etched](https://www.etched.com)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/69b441c13b74eb1e2c816ad8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 04 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Software Engineer - SQL Development Intern](https://jobright.ai/jobs/info/69b4b10606c1ba00c546258f?utm_campaign=1079&utm_source=git)** | Dallas, TX | Remote | Apr 04 |
@@ -65,7 +66,9 @@ For a complete list, click the following sortable link below:
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Computer Engineering Co-Op](https://jobright.ai/jobs/info/697b9dc71423772304ebbf49?utm_campaign=1079&utm_source=git)** | Greater Jackson Area | On Site | Apr 04 |
 | **[Eagle Eye Networks](https://www.een.com)** | **[Engineering Intern - Media and Events](https://jobright.ai/jobs/info/699ef0efce78e77b4fe4a862?utm_campaign=1079&utm_source=git)** | Rollingwood, TX | On Site | Apr 04 |
 | **[Wiz](https://www.wiz.io)** | **[Sovereign Cloud Flex Architect](https://jobright.ai/jobs/info/69978a20e0bddb6acac63b51?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 04 |
+| **[Eagle Eye Networks](https://www.een.com)** | **[Engineering Intern - Clip Service](https://jobright.ai/jobs/info/69c7414baa3c2c1995e16a16?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 04 |
 | **[Avant](https://www.avant.com)** | **[Application Platform Engineering Summer Internship](https://jobright.ai/jobs/info/6999156681476f6176b18d57?utm_campaign=1079&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 04 |
+| ↳ | **[Digital Services Engineering Summer Internship](https://jobright.ai/jobs/info/69991a3ece78e77b4fddbe77?utm_campaign=1079&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 04 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69d124c654f00230c6d18961?utm_campaign=1079&utm_source=git)** | Allen, TX (TX139) | On Site | Apr 04 |
 | **[CEVA SANTE ANIMALE](https://www.ceva.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69b5191706c1ba00c546d133?utm_campaign=1079&utm_source=git)** | Lenexa, KS | On Site | Apr 04 |
 | **[Saviynt](http://saviynt.com)** | **[Software Engineering R&D - Internship](https://jobright.ai/jobs/info/6940d87f49a7695fbd0660b5?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Apr 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 ETI – QA Analyst Summer Intern](https://jobright.ai/jobs/info/69d01350cdb525785fba72ab?utm_campaign=1079&utm_source=git)** | Iselin | On Site | Apr 03 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Server Test Engineer](https://jobright.ai/jobs/info/69975a81ce78e77b4fdbb6a8?utm_campaign=1079&utm_source=git)** | Whitsett, NC | On Site | Apr 03 |
 | **[American Outdoor Brands Inc.](http://www.aob.com/)** | **[Application Developer Intern](https://jobright.ai/jobs/info/69d00c78cfdc6132f9437c73?utm_campaign=1079&utm_source=git)** | Columbia, MO | On Site | Apr 03 |
-| **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Software Development](https://jobright.ai/jobs/info/69ce3162366bb95ba5508cf6?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
-| ↳ | **[Internship Summer 2026 - Technology, Software Development](https://jobright.ai/jobs/info/697c0f7c1136d179eeefb48c?utm_campaign=1079&utm_source=git)** | Fort Mill, SC | On Site | Apr 03 |
-| **[Analog Devices](http://www.analog.com)** | **[Digital Design Engineer Intern](https://jobright.ai/jobs/info/69b35d60ae2a534885eabb7c?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
