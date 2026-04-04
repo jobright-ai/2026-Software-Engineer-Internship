@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69cc0269891d7b11cfca9f49?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Apr 03 |
+| **[OMNIVISION](http://www.ovt.com)** | **[Simulation Software Engineering Intern](https://jobright.ai/jobs/info/69d04d3a0b098b7a67078760?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 03 |
+| **[Gannett Fleming](https://www.gftinc.com)** | **[Intern, Application Development](https://jobright.ai/jobs/info/69d04708cfdc6132f943a3fb?utm_campaign=1079&utm_source=git)** | US-IL-Chicago | On Site | Apr 03 |
+| ↳ | **[Intern, Application Development](https://jobright.ai/jobs/info/69d046fd891d7b11cfcda722?utm_campaign=1079&utm_source=git)** | Chicago, IL, US | On Site | Apr 03 |
 | **[Actian](http://www.actian.com)** | **[Software Development Intern, EBC](https://jobright.ai/jobs/info/69d04084366bb95ba551ce14?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Apr 03 |
 | **[Gen II Fund Services](http://www.gen2fund.com)** | **[Platform Intern — Test & Release](https://jobright.ai/jobs/info/69d03c0d0b098b7a67077c8b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[Flatiron School](http://flatironschool.com)** | **[Software Engineer Trainee Program (No Tech Background Needed)](https://jobright.ai/jobs/info/69d03788366bb95ba551cb30?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
 | ↳ | **[Accelerated Software Engineer Apprenticeship (Engineers Only)](https://jobright.ai/jobs/info/69d032dc54f00230c6d10511?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d032c6891d7b11cfcd9bb6?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Apr 03 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d03204cfdc6132f943979c?utm_campaign=1079&utm_source=git)** | Goleta, CALIFORNIA | Hybrid | Apr 03 |
-| **[Todd](https://toddagriscience.com)** | **[Full Stack Software Engineer Intern (Fall '26)](https://jobright.ai/jobs/info/69d02e330b098b7a670773ec?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 03 |
 | **[Amentum](https://www.amentum.com/)** | **[Software Developer Intern - NISSC - COS](https://jobright.ai/jobs/info/69d02a0c54f00230c6d0fb8e?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Apr 03 |
 | **[Gen II Fund Services](http://www.gen2fund.com)** | **[Platform Intern — Test & Release](https://jobright.ai/jobs/info/69d029b3cdb525785fba7cad?utm_campaign=1079&utm_source=git)** | Denver, Colorado, United States | On Site | Apr 03 |
 | ↳ | **[Platform Intern — Test & Release](https://jobright.ai/jobs/info/69d029a3891d7b11cfcd8fb1?utm_campaign=1079&utm_source=git)** | New York, New York, United States | On Site | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chartbeat](http://chartbeat.com)** | **[QA Engineering Internship](https://jobright.ai/jobs/info/69c6ceeae565c26a70022df1?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/69b261adad360c0340a72b30?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[Futurewei Technologies, Inc.](https://www.futurewei.com/)** | **[Computer Architecture Research Intern](https://jobright.ai/jobs/info/69cf20e554f00230c6d069ad?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
-| **[SoFi](https://www.sofi.com)** | **[Intern, Software Engineer, Crypto](https://jobright.ai/jobs/info/69cf182d398fb071abf8c43f?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 02 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Frontend Software Engineer](https://jobright.ai/jobs/info/69cf140954f00230c6d065cf?utm_campaign=1079&utm_source=git)** | Corona, California, United States | On Site | Apr 02 |
-| ↳ | **[Internship - SAP Release](https://jobright.ai/jobs/info/69cf140854f00230c6d065c0?utm_campaign=1079&utm_source=git)** | Corona, California, United States | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
