@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d0848354f00230c6d12ecc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
+| **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69ce1fcf398fb071abf81b97?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
 | **[Actian](http://www.actian.com)** | **[Software Development Intern, EBC](https://jobright.ai/jobs/info/69d075f20b098b7a6707988b?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d068e9366bb95ba551e1b4?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 03 |
 | ↳ | **[Software Engineer Intern - eTail](https://jobright.ai/jobs/info/69d068d4cfdc6132f943b134?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 03 |
@@ -100,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Analog Devices](http://www.analog.com)** | **[Digital Design Engineer Intern](https://jobright.ai/jobs/info/69b35d60ae2a534885eabb7c?utm_campaign=1079&utm_source=git)** | Chelmsford, MA | On Site | Apr 03 |
 | **[Desjardins](https://www.desjardins.com)** | **[Internship, IT sector, Summer 2026](https://jobright.ai/jobs/info/69bc478c45e08b3dc1f8b446?utm_campaign=1079&utm_source=git)** | Lévis, QC | Hybrid | Apr 03 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Embedded Software Engineering Intern](https://jobright.ai/jobs/info/69d0076b891d7b11cfcd7d30?utm_campaign=1079&utm_source=git)** | Ottawa, ON | On Site | Apr 03 |
-| **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Software Engineer Intern - Clearfield, UT](https://jobright.ai/jobs/info/69d004d354f00230c6d0e554?utm_campaign=1079&utm_source=git)** | Clearfield, UT | On Site | Apr 03 |
 | **[Etched](https://www.etched.com)** | **[PD Intern](https://jobright.ai/jobs/info/69b43f9e06c1ba00c5457503?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[NAPA Auto Parts](https://napaprolink.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69d00198cdb525785fba681b?utm_campaign=1079&utm_source=git)** | Birmingham, AL, USA | On Site | Apr 03 |
 | **[Gesture](https://gesture.vip)** | **[Full Stack & AI Engineering Intern - Denver On-Site](https://jobright.ai/jobs/info/69d00197891d7b11cfcd7ac8?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Apr 03 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Android Developer Intern](https://jobright.ai/jobs/info/69b325e1ad360c0340a8458a?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Apr 03 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern - Embedded Firmware Engineer, Battery Software, Summer 2026](https://jobright.ai/jobs/info/69b370a4ae2a534885eaddd7?utm_campaign=1079&utm_source=git)** | Newark, CA | On Site | Apr 03 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Solutions Engineer - Intern](https://jobright.ai/jobs/info/69963013e0bddb6acac49007?utm_campaign=1079&utm_source=git)** | Piscataway, NJ | On Site | Apr 03 |
-| **[Intel](http://www.intel.com)** | **[Software Engineering -  Intern, Bachelor’s](https://jobright.ai/jobs/info/69d076fb891d7b11cfcdb9e1?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Apr 03 |
 | **[Radiant](https://radiantnuclear.com)** | **[Summer 2026 Internship - Software Engineering](https://jobright.ai/jobs/info/69b35ffdad360c0340a87a97?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Apr 03 |
 | **[Planet](http://www.planet.com)** | **[Intern, Software Engineering, AI](https://jobright.ai/jobs/info/69b3419ea8ac8e70ff67823e?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
 | **[Revolution Sustainable Solutions, LLC](https://revolutioncompany.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69cfa50354f00230c6d0b8b6?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
