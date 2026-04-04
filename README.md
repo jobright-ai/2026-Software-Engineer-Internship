@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d068e9366bb95ba551e1b4?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 03 |
+| ↳ | **[Software Engineer Intern - eTail](https://jobright.ai/jobs/info/69d068d4cfdc6132f943b134?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 03 |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 ETI – QA Analyst Summer Intern](https://jobright.ai/jobs/info/69d064f5891d7b11cfcdb1e1?utm_campaign=1079&utm_source=git)** | Iselin, NJ | On Site | Apr 03 |
+| **[Arboreal Management](https://www.arboreal-info.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d064c5366bb95ba551e0d6?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Apr 03 |
+| **[GoLinks](https://www.golinks.io)** | **[Fullstack Engineering Intern - Hybrid (Summer 2026)](https://jobright.ai/jobs/info/69d0634fcfdc6132f943b049?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 03 |
+| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d062aecfdc6132f943b027?utm_campaign=1079&utm_source=git)** | West Greenwich, RI, US, 02817 | On Site | Apr 03 |
+| **[GoLinks](https://www.golinks.io)** | **[Fullstack Engineering Intern - Remote (Summer 2026)](https://jobright.ai/jobs/info/69d0623c0b098b7a67078e94?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
 | **[LangPal](www.lang-pal.com)** | **[iOS App Developer (Swift) – Remote (U.S. & Canada)](https://jobright.ai/jobs/info/69d05d1954f00230c6d115bb?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
 | **[CLEAResult](http://www.clearesult.com)** | **[Information Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/69d05b9d366bb95ba551da22?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Apr 03 |
 | **[Typeface](https://www.typeface.ai)** | **[Solutions Architect Intern](https://jobright.ai/jobs/info/69d05a21366bb95ba551d9eb?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 03 |
@@ -64,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[OMNIVISION](http://www.ovt.com)** | **[Simulation Software Engineering Intern](https://jobright.ai/jobs/info/69d04d3a0b098b7a67078760?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 03 |
 | **[Gannett Fleming](https://www.gftinc.com)** | **[Intern, Application Development](https://jobright.ai/jobs/info/69d04708cfdc6132f943a3fb?utm_campaign=1079&utm_source=git)** | US-IL-Chicago | On Site | Apr 03 |
 | ↳ | **[Intern, Application Development](https://jobright.ai/jobs/info/69d046fd891d7b11cfcda722?utm_campaign=1079&utm_source=git)** | Chicago, IL, US | On Site | Apr 03 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA - Quality Assurance Software Testing Internship (Remote, Part-Time)](https://jobright.ai/jobs/info/69d0634054f00230c6d11b60?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Apr 03 |
 | **[Actian](http://www.actian.com)** | **[Software Development Intern, EBC](https://jobright.ai/jobs/info/69d04084366bb95ba551ce14?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Apr 03 |
 | **[Gen II Fund Services](http://www.gen2fund.com)** | **[Platform Intern — Test & Release](https://jobright.ai/jobs/info/69d03c0d0b098b7a67077c8b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[Flatiron School](http://flatironschool.com)** | **[Software Engineer Trainee Program (No Tech Background Needed)](https://jobright.ai/jobs/info/69d03788366bb95ba551cb30?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69799b66ca92cf0d6a82d864?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfe6bc8e722e7b1b54da?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (AI-Native Databases) - 2026 Summer (PhD)](https://jobright.ai/jobs/info/697bed301136d179eeef8c76?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Apr 03 |
-| ↳ | **[Student Researcher(Multimedia Streaming) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68d04d33fb49c96ca6eaeded?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
-| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Enterprise Applications Co-op Intern](https://jobright.ai/jobs/info/699752c1ce78e77b4fdbb2f1?utm_campaign=1079&utm_source=git)** | Plano, TX | Hybrid | Apr 03 |
-| **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Siemens Strategic Student Program: Engineering Software Intern, Aerodynamics CFD (STS, Fall 2026)](https://jobright.ai/jobs/info/69cf449554f00230c6d087b6?utm_campaign=1079&utm_source=git)** | St Louis, MO | Remote | Apr 02 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Frontend Software Engineer](https://jobright.ai/jobs/info/69cf3ea4cdb525785fba0a45?utm_campaign=1079&utm_source=git)** | Corona, CA | On Site | Apr 02 |
-| ↳ | **[Internship - SAP Release](https://jobright.ai/jobs/info/69cf3d7a54f00230c6d084ec?utm_campaign=1079&utm_source=git)** | Corona, CA | On Site | Apr 02 |
-| **[Gesture](https://gesture.vip)** | **[Full Stack & AI Engineering Intern - Denver](https://jobright.ai/jobs/info/69cf2beb54f00230c6d0731f?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Apr 02 |
-| **[System Automation Corporation](http://www.systemautomation.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69cf2bddcdb525785fb9f697?utm_campaign=1079&utm_source=git)** | Fully Remote | Remote | Apr 02 |
-| **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Software Test Automation Intern](https://jobright.ai/jobs/info/69cf2bd6398fb071abf8cfb8?utm_campaign=1079&utm_source=git)** | Barnes, CA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
