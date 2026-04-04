@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smile Sync AI](https://www.smilesync.ai/)** | **[Intern - Engineering, Full-Stack](https://jobright.ai/jobs/info/69d180e4366bb95ba5526e8f?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 04 |
+| **[Park My Ride, LLC](http://parkmyride.io)** | **[Mobile App Developer - Internship (USA ONLY)](https://jobright.ai/jobs/info/69d17c22366bb95ba5526dfc?utm_campaign=1079&utm_source=git)** | SD Metro Area | Remote | Apr 04 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Technology Intern](https://jobright.ai/jobs/info/6968c02f639b452fb57e881b?utm_campaign=1079&utm_source=git)** | Coppell, TX | On Site | Apr 04 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Software Engineer, Intern (Summer 2027)](https://jobright.ai/jobs/info/69d16d2e54f00230c6d1a323?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
 | **[SWBC](https://www.swbc.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6997dc4581476f6176b015a4?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Compass](http://www.prudentialcal.com/)** | **[Zurich 2026 Summer Internship – IT Front End Intern](https://jobright.ai/jobs/info/69d021e8366bb95ba551b8d4?utm_campaign=1079&utm_source=git)** | Stevens Point, WI | Hybrid | Apr 03 |
 | **[Wiz](https://www.wiz.io)** | **[Senior Partner Solutions Architect](https://jobright.ai/jobs/info/69d0212e891d7b11cfcd8c94?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Credo](http://www.credosemi.com)** | **[Firmware and Tool Development Engineering Intern](https://jobright.ai/jobs/info/69ab2b287e1fab39d382b8fa?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
-| **[Finalsite](http://www.finalsite.com)** | **[Virtual Webmaster Intern](https://jobright.ai/jobs/info/69d0341f891d7b11cfcd9c41?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d033c8366bb95ba551c9bc?utm_campaign=1079&utm_source=git)** | Goleta, CA | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
