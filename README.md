@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Product Engineering Intern](https://jobright.ai/jobs/info/69d0c1bdcfdc6132f943f663?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Apr 04 |
 | **[SkipQ](http://www.skiptq.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69d0a3e654f00230c6d14221?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Typeface](https://www.typeface.ai)** | **[Solutions Architect Intern](https://jobright.ai/jobs/info/69d098c8cdb525785fbac059?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 03 |
 | **[Point72](https://www.point72.com)** | **[2026 Technology Internship – UI/UX Engineer (Full Stack)](https://jobright.ai/jobs/info/69b8908b56973837413def8b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern - Embedded Firmware Engineer, Battery Software, Summer 2026](https://jobright.ai/jobs/info/69b370a4ae2a534885eaddd7?utm_campaign=1079&utm_source=git)** | Newark, CA | On Site | Apr 03 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Solutions Engineer - Intern](https://jobright.ai/jobs/info/69963013e0bddb6acac49007?utm_campaign=1079&utm_source=git)** | Piscataway, NJ | On Site | Apr 03 |
 | **[Radiant](https://radiantnuclear.com)** | **[Summer 2026 Internship - Software Engineering](https://jobright.ai/jobs/info/69b35ffdad360c0340a87a97?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Apr 03 |
-| **[Planet](http://www.planet.com)** | **[Intern, Software Engineering, AI](https://jobright.ai/jobs/info/69b3419ea8ac8e70ff67823e?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
