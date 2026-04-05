@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA Quality Assurance Software Testing Intern (Remote, Part-Time)](https://jobright.ai/jobs/info/69d1e1d354f00230c6d1dc3b?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Apr 04 |
+| **[Pivotor AI](https://www.pivotor.ai)** | **[Backend Engineer – AI Systems Intern](https://jobright.ai/jobs/info/69d1dda0366bb95ba5529ddb?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 04 |
+| ↳ | **[Applied AI Engineer (frontend) Intern](https://jobright.ai/jobs/info/69d1dc67cfdc6132f9446e58?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 04 |
 | **[Ivalua](http://ivalua.com/)** | **[Customer Application Engineer Intern](https://jobright.ai/jobs/info/69d1c9a8cfdc6132f9446336?utm_campaign=1079&utm_source=git)** | Fremont, California - US | Hybrid | Apr 04 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer, Community Apprenticeship - Intern](https://jobright.ai/jobs/info/69ab208a7e1fab39d382a745?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | Hybrid | Apr 04 |
 | **[Smile Sync AI](https://www.smilesync.ai/)** | **[Intern - Engineering, Full-Stack](https://jobright.ai/jobs/info/69d180e4366bb95ba5526e8f?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 04 |
@@ -122,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[SkipQ](http://www.skiptq.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69d0a3e654f00230c6d14221?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Typeface](https://www.typeface.ai)** | **[Solutions Architect Intern](https://jobright.ai/jobs/info/69d098c8cdb525785fbac059?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 03 |
 | **[Point72](https://www.point72.com)** | **[2026 Technology Internship – UI/UX Engineer (Full Stack)](https://jobright.ai/jobs/info/69b8908b56973837413def8b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 03 |
+| **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69d1e8b6cfdc6132f944734b?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 03 |
 | **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern - Product Development](https://jobright.ai/jobs/info/69d08f910b098b7a6707aa12?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | On Site | Apr 03 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69cde246cdb525785fb90010?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Apr 03 |
 | **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[Software Developer Intern (Summer Internship Opportunity) - Remote](https://jobright.ai/jobs/info/69d08a34891d7b11cfcdc6dc?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Platform Intern — Test & Release](https://jobright.ai/jobs/info/69d029a3891d7b11cfcd8fb1?utm_campaign=1079&utm_source=git)** | New York, New York, United States | On Site | Apr 03 |
 | **[Actian](http://www.actian.com)** | **[Engineering Intern,  Pipeline Observability and Lineage](https://jobright.ai/jobs/info/69d0267dcdb525785fba7c2e?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Apr 03 |
 | **[LogicGate](https://www.logicgate.com)** | **[Software Engineer Intern (Chicago)](https://jobright.ai/jobs/info/69af4135749500645093c56a?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Apr 03 |
-| **[Actian](http://www.actian.com)** | **[Engineering Intern, Streaming Observability](https://jobright.ai/jobs/info/69d02311cdb525785fba79e3?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
-| ↳ | **[Engineering Intern, Pipeline Observability and Lineage](https://jobright.ai/jobs/info/69d022e70b098b7a67076acb?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Compass](http://www.prudentialcal.com/)** | **[Zurich 2026 Summer Internship – IT Front End Intern](https://jobright.ai/jobs/info/69d021e8366bb95ba551b8d4?utm_campaign=1079&utm_source=git)** | Stevens Point, WI | Hybrid | Apr 03 |
-| **[Wiz](https://www.wiz.io)** | **[Senior Partner Solutions Architect](https://jobright.ai/jobs/info/69d0212e891d7b11cfcd8c94?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
