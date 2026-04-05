@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Full stack developer intern](https://jobright.ai/jobs/info/69d1b719cfdc6132f9445997?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 04 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer, Community Apprenticeship - Intern](https://jobright.ai/jobs/info/69ab208a7e1fab39d382a745?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | Hybrid | Apr 04 |
 | **[Smile Sync AI](https://www.smilesync.ai/)** | **[Intern - Engineering, Full-Stack](https://jobright.ai/jobs/info/69d180e4366bb95ba5526e8f?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Park My Ride, LLC](http://parkmyride.io)** | **[Mobile App Developer - Internship (USA ONLY)](https://jobright.ai/jobs/info/69d17c22366bb95ba5526dfc?utm_campaign=1079&utm_source=git)** | SD Metro Area | Remote | Apr 04 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Etched](https://www.etched.com)** | **[Architecture Intern - Inference](https://jobright.ai/jobs/info/69b44b9c569738374138f8ec?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 04 |
 | **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - Retail Technology](https://jobright.ai/jobs/info/697daabaabff4c399a9c8064?utm_campaign=1079&utm_source=git)** | San Ramon, CA | On Site | Apr 04 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Sr. Batch Developer (UNIX/LINIX/C/Pharmacy Claims)](https://jobright.ai/jobs/info/69cf5a81cdb525785fba1746?utm_campaign=1079&utm_source=git)** | Connecticut, United States | Remote | Apr 04 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Technology Solutions Internship](https://jobright.ai/jobs/info/69b52a4d06c1ba00c546ecc4?utm_campaign=1079&utm_source=git)** | Daytona Beach, FL | On Site | Apr 04 |
 | **[Pure Storage](http://www.purestorage.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68eda55e81fdd1626d39e136?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 04 |
 | **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - HR/Payroll Systems](https://jobright.ai/jobs/info/697dab26abff4c399a9c80db?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Apr 04 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/691d48c80b7dff7341501fe9?utm_campaign=1079&utm_source=git)** | Owensboro, KY | On Site | Apr 04 |
