@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Resilience](https://resilience.com)** | **[Full Stack Software Engineering Intern](https://jobright.ai/jobs/info/69cc11b6891d7b11cfcaa415?utm_campaign=1079&utm_source=git)** | Burlingame, California | Hybrid | Apr 05 |
+| **[GenPark](https://genpark.ai)** | **[Full stack development intern](https://jobright.ai/jobs/info/69d2531c891d7b11cfcea43c?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Apr 05 |
+| **[ALO](https://www.aloyoga.com/)** | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697da96babff4c399a9c7f29?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Apr 05 |
+| ↳ | **[Engineering Intern - Business Technology Operations (Foundational PIM)](https://jobright.ai/jobs/info/697daabece48107c0541f948?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Apr 05 |
+| ↳ | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697dac82ce48107c0541fb08?utm_campaign=1079&utm_source=git)** | San Ramon, CA | On Site | Apr 05 |
+| **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69d250d954f00230c6d20fea?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 05 |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Connected Car Software Engineer Intern - Silicon Valley, CA - Summer 2026](https://jobright.ai/jobs/info/69b5601e56973837413a75df?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 05 |
+| **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/694473e9dd382f5f566a9c47?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Apr 05 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Software Engineering (Firmware)](https://jobright.ai/jobs/info/697d5b78727747250d583e3c?utm_campaign=1079&utm_source=git)** | Garden Grove, CA | On Site | Apr 05 |
 | **[Beckman Coulter Diagnostics](http://www.beckmancoulter.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/693aefcc5f2c001987ecec00?utm_campaign=1079&utm_source=git)** | Chaska, MN | Hybrid | Apr 05 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/69d22b69891d7b11cfce9849?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | Hybrid | Apr 05 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer Intern](https://jobright.ai/jobs/info/690d2adf221b890c27804294?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 05 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA Quality Assurance Software Testing Intern (Remote, Part-Time)](https://jobright.ai/jobs/info/69d1e1d354f00230c6d1dc3b?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Apr 04 |
-| **[Pivotor AI](https://www.pivotor.ai)** | **[Applied AI Engineer (frontend) Intern](https://jobright.ai/jobs/info/69d1dc67cfdc6132f9446e58?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 04 |
 | **[Ivalua](http://ivalua.com/)** | **[Customer Application Engineer Intern](https://jobright.ai/jobs/info/69d1c9a8cfdc6132f9446336?utm_campaign=1079&utm_source=git)** | Fremont, California - US | Hybrid | Apr 04 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer, Community Apprenticeship - Intern](https://jobright.ai/jobs/info/69ab208a7e1fab39d382a745?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | Hybrid | Apr 04 |
 | **[Smile Sync AI](https://www.smilesync.ai/)** | **[Intern - Engineering, Full-Stack](https://jobright.ai/jobs/info/69d180e4366bb95ba5526e8f?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CLEAResult](http://www.clearesult.com)** | **[Information Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/69d05b9d366bb95ba551da22?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Apr 03 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69cc0269891d7b11cfca9f49?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Apr 03 |
 | **[OMNIVISION](http://www.ovt.com)** | **[Simulation Software Engineering Intern](https://jobright.ai/jobs/info/69d04d3a0b098b7a67078760?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 03 |
-| **[Gannett Fleming](https://www.gftinc.com)** | **[Intern, Application Development](https://jobright.ai/jobs/info/69d04708cfdc6132f943a3fb?utm_campaign=1079&utm_source=git)** | US-IL-Chicago | On Site | Apr 03 |
-| ↳ | **[Intern, Application Development](https://jobright.ai/jobs/info/69d046fd891d7b11cfcda722?utm_campaign=1079&utm_source=git)** | Chicago, IL, US | On Site | Apr 03 |
-| **[Actian](http://www.actian.com)** | **[Software Development Intern, EBC](https://jobright.ai/jobs/info/69d04084366bb95ba551ce14?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Apr 03 |
-| **[Gen II Fund Services](http://www.gen2fund.com)** | **[Platform Intern — Test & Release](https://jobright.ai/jobs/info/69d03c0d0b098b7a67077c8b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 03 |
-| **[Flatiron School](http://flatironschool.com)** | **[Software Engineer Trainee Program (No Tech Background Needed)](https://jobright.ai/jobs/info/69d03788366bb95ba551cb30?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
-| ↳ | **[Accelerated Software Engineer Apprenticeship (Engineers Only)](https://jobright.ai/jobs/info/69d032dc54f00230c6d10511?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Premier Inc.](http://www.premierinc.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d032c6891d7b11cfcd9bb6?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
