@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/69d22b69891d7b11cfce9849?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | Hybrid | Apr 05 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer Intern](https://jobright.ai/jobs/info/690d2adf221b890c27804294?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 05 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA Quality Assurance Software Testing Intern (Remote, Part-Time)](https://jobright.ai/jobs/info/69d1e1d354f00230c6d1dc3b?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Apr 04 |
 | **[Pivotor AI](https://www.pivotor.ai)** | **[Applied AI Engineer (frontend) Intern](https://jobright.ai/jobs/info/69d1dc67cfdc6132f9446e58?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 04 |
 | **[Ivalua](http://ivalua.com/)** | **[Customer Application Engineer Intern](https://jobright.ai/jobs/info/69d1c9a8cfdc6132f9446336?utm_campaign=1079&utm_source=git)** | Fremont, California - US | Hybrid | Apr 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Premier Inc.](http://www.premierinc.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d032c6891d7b11cfcd9bb6?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Apr 03 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d03204cfdc6132f943979c?utm_campaign=1079&utm_source=git)** | Goleta, CALIFORNIA | Hybrid | Apr 03 |
 | **[Amentum](https://www.amentum.com/)** | **[Software Developer Intern - NISSC - COS](https://jobright.ai/jobs/info/69d02a0c54f00230c6d0fb8e?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Apr 03 |
-| **[Gen II Fund Services](http://www.gen2fund.com)** | **[Platform Intern — Test & Release](https://jobright.ai/jobs/info/69d029b3cdb525785fba7cad?utm_campaign=1079&utm_source=git)** | Denver, Colorado, United States | On Site | Apr 03 |
-| ↳ | **[Platform Intern — Test & Release](https://jobright.ai/jobs/info/69d029a3891d7b11cfcd8fb1?utm_campaign=1079&utm_source=git)** | New York, New York, United States | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
