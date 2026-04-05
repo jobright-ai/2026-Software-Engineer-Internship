@@ -57,10 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Full stack developer intern](https://jobright.ai/jobs/info/69d1b719cfdc6132f9445997?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 04 |
+| **[Ivalua](http://ivalua.com/)** | **[Customer Application Engineer Intern](https://jobright.ai/jobs/info/69d1c9a8cfdc6132f9446336?utm_campaign=1079&utm_source=git)** | Fremont, California - US | Hybrid | Apr 04 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer, Community Apprenticeship - Intern](https://jobright.ai/jobs/info/69ab208a7e1fab39d382a745?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | Hybrid | Apr 04 |
 | **[Smile Sync AI](https://www.smilesync.ai/)** | **[Intern - Engineering, Full-Stack](https://jobright.ai/jobs/info/69d180e4366bb95ba5526e8f?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 04 |
-| **[Park My Ride, LLC](http://parkmyride.io)** | **[Mobile App Developer - Internship (USA ONLY)](https://jobright.ai/jobs/info/69d17c22366bb95ba5526dfc?utm_campaign=1079&utm_source=git)** | SD Metro Area | Remote | Apr 04 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Technology Intern](https://jobright.ai/jobs/info/6968c02f639b452fb57e881b?utm_campaign=1079&utm_source=git)** | Coppell, TX | On Site | Apr 04 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Software Engineer, Intern (Summer 2027)](https://jobright.ai/jobs/info/69d16d2e54f00230c6d1a323?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
 | **[SWBC](https://www.swbc.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6997dc4581476f6176b015a4?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
@@ -129,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d0848354f00230c6d12ecc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69ce1fcf398fb071abf81b97?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
 | ↳ | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69d0a9bccdb525785fbac8f1?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Apr 03 |
+| **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69d1cd42366bb95ba552931b?utm_campaign=1079&utm_source=git)** | Lowell, MA | Hybrid | Apr 03 |
 | **[Actian](http://www.actian.com)** | **[Software Development Intern, EBC](https://jobright.ai/jobs/info/69d075f20b098b7a6707988b?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d068e9366bb95ba551e1b4?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 03 |
 | ↳ | **[Software Engineer Intern - eTail](https://jobright.ai/jobs/info/69d068d4cfdc6132f943b134?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 03 |
