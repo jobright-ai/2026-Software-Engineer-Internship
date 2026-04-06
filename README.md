@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[LangPal](www.lang-pal.com)** | **[Android Application Developer Intern (Flutter)](https://jobright.ai/jobs/info/69d3198e54f00230c6d2499d?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 05 |
+| **[Insignia Environmental](https://insigniaenvironmental.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/69d32908cfdc6132f944e5a7?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | On Site | Apr 05 |
+| **[Consenterra, Inc.](https://www.consenterra.ai/)** | **[Full Stack Engineer Intern (Unpaid)](https://jobright.ai/jobs/info/69d327b0cfdc6132f944e59c?utm_campaign=1079&utm_source=git)** | Wayne, NJ | Remote | Apr 05 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69d3050054f00230c6d24655?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Apr 05 |
 | ↳ | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69d304910b098b7a6708ba51?utm_campaign=1079&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Apr 05 |
 | ↳ | **[DPS - IT - College Information Technology Quality Assurance Team Intern (Unpaid) - 1570](https://jobright.ai/jobs/info/69d30460cdb525785fbbc849?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 05 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer Intern](https://jobright.ai/jobs/info/690d2adf221b890c27804294?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 05 |
 | **[Ivalua](http://ivalua.com/)** | **[Customer Application Engineer Intern](https://jobright.ai/jobs/info/69d1c9a8cfdc6132f9446336?utm_campaign=1079&utm_source=git)** | Fremont, California - US | Hybrid | Apr 04 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer, Community Apprenticeship - Intern](https://jobright.ai/jobs/info/69ab208a7e1fab39d382a745?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | Hybrid | Apr 04 |
-| **[Smile Sync AI](https://www.smilesync.ai/)** | **[Intern - Engineering, Full-Stack](https://jobright.ai/jobs/info/69d180e4366bb95ba5526e8f?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Technology Intern](https://jobright.ai/jobs/info/6968c02f639b452fb57e881b?utm_campaign=1079&utm_source=git)** | Coppell, TX | On Site | Apr 04 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Software Engineer, Intern (Summer 2027)](https://jobright.ai/jobs/info/69d16d2e54f00230c6d1a323?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
 | **[SWBC](https://www.swbc.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6997dc4581476f6176b015a4?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Apr 04 |
