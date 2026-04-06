@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LangPal](www.lang-pal.com)** | **[Mobile Application Developer Intern (Flutter)](https://jobright.ai/jobs/info/69d30c16366bb95ba5530bc0?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 05 |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69d3050054f00230c6d24655?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Apr 05 |
+| ↳ | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69d304910b098b7a6708ba51?utm_campaign=1079&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Apr 05 |
+| ↳ | **[DPS - IT - College Information Technology Quality Assurance Team Intern (Unpaid) - 1570](https://jobright.ai/jobs/info/69d30460cdb525785fbbc849?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 05 |
+| ↳ | **[DPS - IT - College Information Technology Quality Assurance Team Intern (Unpaid) - 1570](https://jobright.ai/jobs/info/69d303a3366bb95ba5530ac7?utm_campaign=1079&utm_source=git)** | AUSTIN HQ (MAIN)5805 N LAMAR BLVD | On Site | Apr 05 |
 | **[Diligent](http://diligent.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69cd9b7c366bb95ba5500cfa?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 05 |
 | **[LVT (LiveView Technologies)](https://lvt.co/)** | **[QA Engineer Intern](https://jobright.ai/jobs/info/69b324f1ad360c0340a84405?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | Apr 05 |
 | ↳ | **[Embedded Software Engineering Intern](https://jobright.ai/jobs/info/699d15abe0bddb6acacc33b1?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | Apr 05 |
@@ -74,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Flex](https://getflex.com)** | **[Senior Software Development Engineer in Test (SDET)](https://jobright.ai/jobs/info/697d83d97f40342e15d64d8c?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 05 |
 | **[Resilience](https://resilience.com)** | **[Full Stack Software Engineering Intern](https://jobright.ai/jobs/info/69cc11b6891d7b11cfcaa415?utm_campaign=1079&utm_source=git)** | Burlingame, California | Hybrid | Apr 05 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697da96babff4c399a9c7f29?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Apr 05 |
-| ↳ | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697dac82ce48107c0541fb08?utm_campaign=1079&utm_source=git)** | San Ramon, CA | On Site | Apr 05 |
 | ↳ | **[Engineering Intern - Business Technology Operations (Foundational PIM)](https://jobright.ai/jobs/info/697daabece48107c0541f948?utm_campaign=1079&utm_source=git)** | Beverly Hills, CA | On Site | Apr 05 |
+| ↳ | **[Digital Engineering Intern](https://jobright.ai/jobs/info/697dac82ce48107c0541fb08?utm_campaign=1079&utm_source=git)** | San Ramon, CA | On Site | Apr 05 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Connected Car Software Engineer Intern - Silicon Valley, CA - Summer 2026](https://jobright.ai/jobs/info/69b5601e56973837413a75df?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 05 |
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/694473e9dd382f5f566a9c47?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Apr 05 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Software Engineering (Firmware)](https://jobright.ai/jobs/info/697d5b78727747250d583e3c?utm_campaign=1079&utm_source=git)** | Garden Grove, CA | On Site | Apr 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Point72](https://www.point72.com)** | **[2026 Technology Internship – UI/UX Engineer (Full Stack)](https://jobright.ai/jobs/info/69b8908b56973837413def8b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69d1e8b6cfdc6132f944734b?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 03 |
 | **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern - Product Development](https://jobright.ai/jobs/info/69d08f910b098b7a6707aa12?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | On Site | Apr 03 |
-| **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69cde246cdb525785fb90010?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Apr 03 |
-| **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[Software Developer Intern (Summer Internship Opportunity) - Remote](https://jobright.ai/jobs/info/69d08a34891d7b11cfcdc6dc?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d0848354f00230c6d12ecc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
-| **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69ce1fcf398fb071abf81b97?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Apr 03 |
-| ↳ | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69d0a9bccdb525785fbac8f1?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
