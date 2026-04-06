@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pivotor AI](https://www.pivotor.ai)** | **[Applied AI Software Engineer (frontend) Intern @Pivotor AI](https://jobright.ai/jobs/info/69d3b648891d7b11cfcf2cd9?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 06 |
+| **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/68d5f0051f7fb2169ab14c97?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 06 |
 | **[Uber](http://www.uber.com)** | **[Graduate 2026 Software Engineer I, TOR](https://jobright.ai/jobs/info/69d392230b098b7a670901b6?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Apr 06 |
 | ↳ | **[Graduate 2026 Software Engineer I, US](https://jobright.ai/jobs/info/69d392200b098b7a670901af?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Apr 06 |
 | ↳ | **[Graduate 2026 Software Engineer I, US](https://jobright.ai/jobs/info/69d3921c54f00230c6d28bf8?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Apr 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern - Applications, Infotainment & Mobile - Summer 2026](https://jobright.ai/jobs/info/69d0ede854f00230c6d17809?utm_campaign=1079&utm_source=git)** | Irvine, CA, US | On Site | Apr 04 |
 | ↳ | **[Software Engineering Intern - Applications, Infotainment & Mobile - Summer 2026](https://jobright.ai/jobs/info/69d0ede2891d7b11cfce0d2c?utm_campaign=1079&utm_source=git)** | US-CA-Palo Alto | On Site | Apr 04 |
 | ↳ | **[Software Engineering Intern - Applications, Infotainment & Mobile - Summer 2026](https://jobright.ai/jobs/info/69d0ede0cdb525785fbafb77?utm_campaign=1079&utm_source=git)** | US-CA-Irvine | On Site | Apr 04 |
-| **[Adtran](http://www.adtran.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/6998e338ce78e77b4fdd719d?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Apr 04 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Quality Assurance Intern Summer 2026](https://jobright.ai/jobs/info/69b47cbd3b74eb1e2c81d355?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
