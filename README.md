@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SiFive](https://www.sifive.com)** | **[Intern - Platform Technology](https://jobright.ai/jobs/info/69d4a6ea891d7b11cfcfc62f?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Apr 06 |
+| **[Roku](https://www.roku.com)** | **[Software Engineer Intern, Streaming Media](https://jobright.ai/jobs/info/69d4b1c1366bb95ba55402e2?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 07 |
+| **[SiFive](https://www.sifive.com)** | **[Intern - Platform Technology](https://jobright.ai/jobs/info/69d4ab17cdb525785fbcb8ac?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 06 |
+| ↳ | **[Intern - Platform Technology](https://jobright.ai/jobs/info/69d4a6ea891d7b11cfcfc62f?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 | ↳ | **[Intern - Platform Technology](https://jobright.ai/jobs/info/69d4a100e63cea7a8b65bc97?utm_campaign=1079&utm_source=git)** | Berkeley, CA | Hybrid | Apr 06 |
 | ↳ | **[Intern - Firesim Development](https://jobright.ai/jobs/info/69d4a0fce63cea7a8b65bc91?utm_campaign=1079&utm_source=git)** | Berkeley, CA | On Site | Apr 06 |
 | ↳ | **[Intern - Platform Technology](https://jobright.ai/jobs/info/69d4a0f2891d7b11cfcfc598?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Apr 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Holtec International](https://holtecinternational.com/)** | **[Intern - Performance Improvement](https://jobright.ai/jobs/info/69d408cf891d7b11cfcf6bef?utm_campaign=1079&utm_source=git)** | Covert, MI | On Site | Apr 06 |
 | **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern (UNDERGRAD only - Distributed Systems, Go, VMs, cloud)](https://jobright.ai/jobs/info/69cca4028130af1ac833d9b3?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 06 |
 | **[Treevah](https://filterfolder.com/)** | **[Software Engineering Intern (Remote, Unpaid)](https://jobright.ai/jobs/info/69d4027f54f00230c6d2d564?utm_campaign=1079&utm_source=git)** | Chicago, IL | Remote | Apr 06 |
-| **[IXL Learning](https://www.ixl.com/)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/69d40258cfdc6132f9456c81?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Apr 06 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Software Developer Intern- Summer 2026](https://jobright.ai/jobs/info/69d4013754f00230c6d2d431?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
