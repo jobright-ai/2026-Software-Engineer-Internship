@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SiFive](https://www.sifive.com)** | **[Intern - Firesim Development](https://jobright.ai/jobs/info/69d49a54e63cea7a8b65ba0c?utm_campaign=1079&utm_source=git)** | Berkeley, California, United States | On Site | Apr 06 |
+| **[SiFive](https://www.sifive.com)** | **[Intern - Platform Technology](https://jobright.ai/jobs/info/69d4a6ea891d7b11cfcfc62f?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Apr 06 |
+| ↳ | **[Intern - Platform Technology](https://jobright.ai/jobs/info/69d4a100e63cea7a8b65bc97?utm_campaign=1079&utm_source=git)** | Berkeley, CA | Hybrid | Apr 06 |
+| ↳ | **[Intern - Firesim Development](https://jobright.ai/jobs/info/69d4a0fce63cea7a8b65bc91?utm_campaign=1079&utm_source=git)** | Berkeley, CA | On Site | Apr 06 |
+| ↳ | **[Intern - Platform Technology](https://jobright.ai/jobs/info/69d4a0f2891d7b11cfcfc598?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | Hybrid | Apr 06 |
+| ↳ | **[Intern - Firesim Development](https://jobright.ai/jobs/info/69d49a54e63cea7a8b65ba0c?utm_campaign=1079&utm_source=git)** | Berkeley, California, United States | On Site | Apr 06 |
 | **[Roku](https://www.roku.com)** | **[Software Engineer Intern, Embedded Systems](https://jobright.ai/jobs/info/69d497f8cdb525785fbcb15d?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 06 |
 | **[LangPal](www.lang-pal.com)** | **[iOS Mobile App Developer Intern (Swift)](https://jobright.ai/jobs/info/69d497c954f00230c6d32df3?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA Quality Assurance Testing Internship](https://jobright.ai/jobs/info/69d495bc891d7b11cfcfc00c?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 06 |
-| **[GenPark](https://genpark.ai)** | **[Web development intern](https://jobright.ai/jobs/info/69d48e4854f00230c6d3282f?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Apr 06 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Software Developer](https://jobright.ai/jobs/info/69d48e1acfdc6132f945c156?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, CA, H3B 0B3 | Hybrid | Apr 06 |
 | **[Omnissa](https://www.omnissa.com)** | **[Summer 2026 - Software Engineering Internship/Co-Op](https://jobright.ai/jobs/info/69d48d3a366bb95ba553ea2b?utm_campaign=1079&utm_source=git)** | Venice, CA | On Site | Apr 06 |
 | **[Bot Auto](https://bot.auto/)** | **[Intern, Software Engineer-Autonomous Driving Platform](https://jobright.ai/jobs/info/69d489d0e63cea7a8b65abe7?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Apr 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Treevah](https://filterfolder.com/)** | **[Software Engineering Intern (Remote, Unpaid)](https://jobright.ai/jobs/info/69d4027f54f00230c6d2d564?utm_campaign=1079&utm_source=git)** | Chicago, IL | Remote | Apr 06 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/69d40258cfdc6132f9456c81?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Apr 06 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Software Developer Intern- Summer 2026](https://jobright.ai/jobs/info/69d4013754f00230c6d2d431?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Apr 06 |
-| **[IXL Learning](https://www.ixl.com/)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/69d400d554f00230c6d2d22f?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Apr 06 |
-| **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[SWE Intern (Business Automation)](https://jobright.ai/jobs/info/691d3c810b7dff7341501371?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 06 |
-| **[Covius](https://covius.com/)** | **[IT Summer Intern](https://jobright.ai/jobs/info/69d4004bcfdc6132f945663b?utm_campaign=1079&utm_source=git)** | Glendale, CO | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
