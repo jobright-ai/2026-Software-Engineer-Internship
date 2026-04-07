@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SiFive](https://www.sifive.com)** | **[Intern - Firesim Development](https://jobright.ai/jobs/info/69d49a54e63cea7a8b65ba0c?utm_campaign=1079&utm_source=git)** | Berkeley, California, United States | On Site | Apr 06 |
+| **[Roku](https://www.roku.com)** | **[Software Engineer Intern, Embedded Systems](https://jobright.ai/jobs/info/69d497f8cdb525785fbcb15d?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 06 |
+| **[LangPal](www.lang-pal.com)** | **[iOS Mobile App Developer Intern (Swift)](https://jobright.ai/jobs/info/69d497c954f00230c6d32df3?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 06 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA Quality Assurance Testing Internship](https://jobright.ai/jobs/info/69d495bc891d7b11cfcfc00c?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 06 |
+| **[GenPark](https://genpark.ai)** | **[Web development intern](https://jobright.ai/jobs/info/69d48e4854f00230c6d3282f?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Apr 06 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Software Developer](https://jobright.ai/jobs/info/69d48e1acfdc6132f945c156?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, CA, H3B 0B3 | Hybrid | Apr 06 |
+| **[Omnissa](https://www.omnissa.com)** | **[Summer 2026 - Software Engineering Internship/Co-Op](https://jobright.ai/jobs/info/69d48d3a366bb95ba553ea2b?utm_campaign=1079&utm_source=git)** | Venice, CA | On Site | Apr 06 |
 | **[Bot Auto](https://bot.auto/)** | **[Intern, Software Engineer-Autonomous Driving Platform](https://jobright.ai/jobs/info/69d489d0e63cea7a8b65abe7?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Apr 06 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Software Developer](https://jobright.ai/jobs/info/69d4883fcfdc6132f945baaa?utm_campaign=1079&utm_source=git)** | Montreal, QC | Hybrid | Apr 06 |
 | ↳ | **[SAP iXp Intern - Software Development Engineer in Test (SDET)](https://jobright.ai/jobs/info/69d4883ecfdc6132f945baa8?utm_campaign=1079&utm_source=git)** | Montreal, QC | Hybrid | Apr 06 |
@@ -84,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/69d451f2891d7b11cfcf93cf?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Apr 06 |
 | **[Verkada](https://www.verkada.com)** | **[iOS Engineering Intern, Native Streaming - Fall 2026](https://jobright.ai/jobs/info/69d44ff2cfdc6132f9459910?utm_campaign=1079&utm_source=git)** | San Mateo, CA United States | On Site | Apr 06 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Information Systems](https://jobright.ai/jobs/info/69bda545b1060245628292aa?utm_campaign=1079&utm_source=git)** | Port Washington, NY | On Site | Apr 06 |
-| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Web Publishing Intern](https://jobright.ai/jobs/info/69d44e55e63cea7a8b658836?utm_campaign=1079&utm_source=git)** | Arizona, United States | Remote | Apr 06 |
-| ↳ | **[Web Publishing Intern](https://jobright.ai/jobs/info/69d44e55891d7b11cfcf92e1?utm_campaign=1079&utm_source=git)** | North Carolina, United States | Remote | Apr 06 |
+| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Web Publishing Intern](https://jobright.ai/jobs/info/69d44e55891d7b11cfcf92e1?utm_campaign=1079&utm_source=git)** | North Carolina, United States | Remote | Apr 06 |
+| ↳ | **[Web Publishing Intern](https://jobright.ai/jobs/info/69d44e55e63cea7a8b658836?utm_campaign=1079&utm_source=git)** | Arizona, United States | Remote | Apr 06 |
 | **[Intapp](http://www.intapp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d44c5454f00230c6d2fe72?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Apr 06 |
 | **[Cantaloupe Inc](http://www.cantaloupe.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d44abb891d7b11cfcf9030?utm_campaign=1079&utm_source=git)** | Atlanta, GA, US | On Site | Apr 06 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d44a93cfdc6132f945961d?utm_campaign=1079&utm_source=git)** | Malvern, PA, US | On Site | Apr 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IXL Learning](https://www.ixl.com/)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/69d400d554f00230c6d2d22f?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Apr 06 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[SWE Intern (Business Automation)](https://jobright.ai/jobs/info/691d3c810b7dff7341501371?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 06 |
 | **[Covius](https://covius.com/)** | **[IT Summer Intern](https://jobright.ai/jobs/info/69d4004bcfdc6132f945663b?utm_campaign=1079&utm_source=git)** | Glendale, CO | Hybrid | Apr 06 |
-| **[Appian](http://www.appian.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d3fc40366bb95ba5539431?utm_campaign=1079&utm_source=git)** | McLean, Virginia | On Site | Apr 06 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[AFIT DIICE Digital Engineering Intern (Dayton) - 27994](https://jobright.ai/jobs/info/69d3faa4366bb95ba55393d6?utm_campaign=1079&utm_source=git)** | Wright-Patterson Air Force Base, OH | Hybrid | Apr 06 |
-| **[Construction Resources](https://www.constructionresourcesusa.com)** | **[Web / Full-Stack Development Intern](https://jobright.ai/jobs/info/69d3f7cecdb525785fbc4f7d?utm_campaign=1079&utm_source=git)** | 196 Rio Circle, Decatur, Georgia 30030 | On Site | Apr 06 |
-| **[AFL](http://www.AFLglobal.com)** | **[Web Design/ Development Intern- Summer 2026](https://jobright.ai/jobs/info/69b82f623b74eb1e2c85d1b4?utm_campaign=1079&utm_source=git)** | Duncan, SC | On Site | Apr 06 |
-| **[Airgas](http://airgas.com/)** | **[Intern of Software Development](https://jobright.ai/jobs/info/69d3f32f54f00230c6d2c9b0?utm_campaign=1079&utm_source=git)** | Montreal, QC - Boul. René-Lévesque O (ALC HO) - Support functions - AME Hub | On Site | Apr 06 |
-| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Internship - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/69d3f31ee63cea7a8b6550a6?utm_campaign=1079&utm_source=git)** | Monroe, MI | Hybrid | Apr 06 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Software Validation Engineer Intern - Master's Degree](https://jobright.ai/jobs/info/69d3f310e63cea7a8b655088?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
