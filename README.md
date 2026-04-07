@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parachute Health](https://www.parachutehealth.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d4409354f00230c6d2fa4d?utm_campaign=1079&utm_source=git)** | New York, NY | Remote | Apr 06 |
+| **[Dermalogica](http://www.dermalogica.com/)** | **[Intern -IT](https://jobright.ai/jobs/info/69d4408454f00230c6d2fa0c?utm_campaign=1079&utm_source=git)** | Carson, CA | Hybrid | Apr 06 |
+| **[Cable One/Sparklight Careers](https://www.cableone.biz)** | **[Oracle Business Systems Intern](https://jobright.ai/jobs/info/69d44052cdb525785fbc7bf4?utm_campaign=1079&utm_source=git)** | Remote USA | Remote | Apr 06 |
+| **[ST Engineering iDirect](http://www.idirect.net)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d43a02e63cea7a8b658033?utm_campaign=1079&utm_source=git)** | Herndon, VA, US | On Site | Apr 06 |
+| **[Foundation Building Materials](http://www.fbmsales.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69d439d8366bb95ba553bdcf?utm_campaign=1079&utm_source=git)** | US-CA-Santa Ana | On Site | Apr 06 |
+| **[ST Engineering iDirect](http://www.idirect.net)** | **[Engineering Intern](https://jobright.ai/jobs/info/69d4392e54f00230c6d2f712?utm_campaign=1079&utm_source=git)** | US-VA-Herndon | On Site | Apr 06 |
+| **[Foundation Building Materials](http://www.fbmsales.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69d4392e54f00230c6d2f70f?utm_campaign=1079&utm_source=git)** | Santa Ana, CA, US | On Site | Apr 06 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69d43913e63cea7a8b657a05?utm_campaign=1079&utm_source=git)** | RTP, North Carolina, US | On Site | Apr 06 |
+| **[State Street](https://www.statestreet.com/)** | **[Software Engineer Intern -6 Month intern- July- Dec](https://jobright.ai/jobs/info/69d438e4366bb95ba553b799?utm_campaign=1079&utm_source=git)** | Burlington Massachusetts | On Site | Apr 06 |
 | **[RTX](http://www.raytheon.com)** | **[Crypto Software Engineering Intern Summer 2026 (Onsite)](https://jobright.ai/jobs/info/69d43839891d7b11cfcf84c9?utm_campaign=1079&utm_source=git)** | US-CA-FULLERTON-675 ~ 1801 Hughes Dr ~ BLDG 675 | On Site | Apr 06 |
 | ↳ | **[Crypto Software Engineering Intern Summer 2026 (Onsite)](https://jobright.ai/jobs/info/69d43837cdb525785fbc744c?utm_campaign=1079&utm_source=git)** | US-CA-EL SEGUNDO-R09 ~ 2222 E Imperial Hwy ~ BLDG R09 | On Site | Apr 06 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69d4382354f00230c6d2f0f1?utm_campaign=1079&utm_source=git)** | San Jose, California, US | On Site | Apr 06 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69d3050054f00230c6d24655?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | Hybrid | Apr 05 |
 | ↳ | **[Comptroller - Applications Developer Summer Intern (Amend)](https://jobright.ai/jobs/info/69d304910b098b7a6708ba51?utm_campaign=1079&utm_source=git)** | Lyndon B Johnson Building (304-00001)111 E 17th Street | Hybrid | Apr 05 |
 | ↳ | **[DPS - IT - College Information Technology Quality Assurance Team Intern (Unpaid) - 1570](https://jobright.ai/jobs/info/69d30460cdb525785fbbc849?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 05 |
-| ↳ | **[DPS - IT - College Information Technology Quality Assurance Team Intern (Unpaid) - 1570](https://jobright.ai/jobs/info/69d303a3366bb95ba5530ac7?utm_campaign=1079&utm_source=git)** | AUSTIN HQ (MAIN)5805 N LAMAR BLVD | On Site | Apr 05 |
-| **[SWAT Alliance](https://www.swatalliance.com/)** | **[Node JS Developer Intern (Remote)](https://jobright.ai/jobs/info/69d392180b098b7a6709017f?utm_campaign=1079&utm_source=git)** | Alliance, OH | Remote | Apr 05 |
-| **[The Byng Group](http://www.thebynggroup.com/)** | **[Summer Internship Program 2026 - Technology Analyst Intern](https://jobright.ai/jobs/info/69d413d7cfdc6132f9457508?utm_campaign=1079&utm_source=git)** | Vaughan, ON | On Site | Apr 05 |
-| **[Flock](https://www.flocksafety.com)** | **[Device Software Engineering Intern](https://jobright.ai/jobs/info/69d3e47a54f00230c6d2c051?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Apr 05 |
-| **[Diligent](http://diligent.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69cd9b7c366bb95ba5500cfa?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 05 |
-| **[LVT (LiveView Technologies)](https://lvt.co/)** | **[QA Engineer Intern](https://jobright.ai/jobs/info/69b324f1ad360c0340a84405?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | Apr 05 |
-| ↳ | **[Embedded Software Engineering Intern](https://jobright.ai/jobs/info/699d15abe0bddb6acacc33b1?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | Apr 05 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/699d16f9e0bddb6acacc3553?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | Apr 05 |
-| **[Scowtt](https://www.scowtt.com)** | **[Intern - Full Stack Software Engineering](https://jobright.ai/jobs/info/69c1dc6075f7ff1cd8103919?utm_campaign=1079&utm_source=git)** | Seattle | Hybrid | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
