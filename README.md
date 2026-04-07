@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HDR](http://www.hdrinc.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69d451f2891d7b11cfcf93cf?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Apr 06 |
+| **[Spot & Tango](http://www.spotandtango.com)** | **[Software Engineering Intern – Summer 2026](https://jobright.ai/jobs/info/698cfa7d78b4502f12a36da0?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
+| **[CN](http://www.cn.ca)** | **[Intern, Operational Technology (GIS Technologies)- EN](https://jobright.ai/jobs/info/69d45d03cdb525785fbc8bd3?utm_campaign=1079&utm_source=git)** | Montreal, QC | On Site | Apr 06 |
+| **[Pivotor AI](https://www.pivotor.ai)** | **[Backend Engineer – AI Systems Intern](https://jobright.ai/jobs/info/69d45a10e63cea7a8b65900f?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 06 |
+| **[TechX](https://techx.dev/)** | **[Software Engineer – TechX Engineering Internship (Unpaid, Remote)](https://jobright.ai/jobs/info/69d45905cfdc6132f9459fa4?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 06 |
+| **[Last Lock](https://lastlock.com)** | **[Software Intern - Manufacturing Team](https://jobright.ai/jobs/info/69d4565854f00230c6d30553?utm_campaign=1079&utm_source=git)** | Madison, WI | On Site | Apr 06 |
+| **[HDR](http://www.hdrinc.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69d4559de63cea7a8b65897f?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Apr 06 |
+| ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/69d451f2891d7b11cfcf93cf?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Apr 06 |
 | **[Verkada](https://www.verkada.com)** | **[iOS Engineering Intern, Native Streaming - Fall 2026](https://jobright.ai/jobs/info/69d44ff2cfdc6132f9459910?utm_campaign=1079&utm_source=git)** | San Mateo, CA United States | On Site | Apr 06 |
 | **[Bot Auto](https://bot.auto/)** | **[Intern, Software Engineer-Autonomous Driving Platform](https://jobright.ai/jobs/info/69d44fdccdb525785fbc8356?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Apr 06 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Information Systems](https://jobright.ai/jobs/info/69bda545b1060245628292aa?utm_campaign=1079&utm_source=git)** | Port Washington, NY | On Site | Apr 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Software Development Intern (Numbers) - Summer 2026](https://jobright.ai/jobs/info/69d3cbc3cfdc6132f9454538?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Apr 06 |
 | **[BMO](http://www.bmo.com)** | **[Software Engineer,  Summer 2026 (Co-op/Internship) - 8 months](https://jobright.ai/jobs/info/69d3c7bde63cea7a8b652870?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 06 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Technology Intern](https://jobright.ai/jobs/info/695a06b3f1f8465b79f062de?utm_campaign=1079&utm_source=git)** | Pleasanton, CA | On Site | Apr 06 |
-| **[Bertec](https://www.bertec.com/)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69d3e663cdb525785fbc4444?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Apr 06 |
-| **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/68d5f0051f7fb2169ab14c97?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 06 |
-| **[Uber](http://www.uber.com)** | **[Graduate 2026 Software Engineer I, TOR](https://jobright.ai/jobs/info/69d392230b098b7a670901b6?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Apr 06 |
-| ↳ | **[Graduate 2026 Software Engineer I, US](https://jobright.ai/jobs/info/69d392200b098b7a670901af?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | Hybrid | Apr 06 |
-| ↳ | **[Graduate 2026 Software Engineer I, US](https://jobright.ai/jobs/info/69d3921c54f00230c6d28bf8?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Apr 06 |
-| ↳ | **[Graduate 2026 Software Engineer I, US](https://jobright.ai/jobs/info/69d39211cfdc6132f94523c7?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
