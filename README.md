@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SiFive](https://www.sifive.com)** | **[Intern - Platform Technology](https://jobright.ai/jobs/info/69d47ca7cdb525785fbc9eac?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, United States | On Site | Apr 06 |
+| ↳ | **[Intern - Platform Technology](https://jobright.ai/jobs/info/69d47c86891d7b11cfcfade2?utm_campaign=1079&utm_source=git)** | Berkeley, California, United States | On Site | Apr 06 |
+| ↳ | **[Intern - Platform Technology](https://jobright.ai/jobs/info/69d47c70366bb95ba553e234?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Apr 06 |
+| ↳ | **[Intern - Platform Technology](https://jobright.ai/jobs/info/69d47c10e63cea7a8b65a45c?utm_campaign=1079&utm_source=git)** | Santa Clara, California, United States | On Site | Apr 06 |
+| **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Web Developer Specialist](https://jobright.ai/jobs/info/69d477f3366bb95ba553ddd4?utm_campaign=1079&utm_source=git)** | Seattle, WA | Remote | Apr 06 |
+| **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69ce1fcf398fb071abf81b97?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Apr 06 |
 | **[Notion](https://www.notion.com)** | **[Software Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/69d4704fe63cea7a8b659890?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 06 |
 | **[State Street](https://www.statestreet.com/)** | **[Software Engineer Intern -6 Month intern- July- Dec](https://jobright.ai/jobs/info/69d4704ee63cea7a8b659886?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Apr 06 |
-| **[Cognicom, Inc.](http://cognicom.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d46d32cdb525785fbc9085?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 06 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/69b261adad360c0340a72b30?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 06 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Intern -IT](https://jobright.ai/jobs/info/69d46a27366bb95ba553d27f?utm_campaign=1079&utm_source=git)** | Carson, CA | Hybrid | Apr 06 |
 | **[Actian](http://www.actian.com)** | **[Software Development Intern, EBC](https://jobright.ai/jobs/info/69d075f20b098b7a6707988b?utm_campaign=1079&utm_source=git)** | Round Rock, TX | On Site | Apr 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Software Engineering - June 2026](https://jobright.ai/jobs/info/69d3e3b9e63cea7a8b6543a3?utm_campaign=1079&utm_source=git)** | Los Angeles, 6181 W Centinela Ave, Corp | On Site | Apr 06 |
 | **[Netwrix Corporation](http://www.netwrix.com)** | **[Software Engineering Intern [Summer Internship]](https://jobright.ai/jobs/info/69d3e34acdb525785fbc3e7c?utm_campaign=1079&utm_source=git)** | Remote (United States) | Remote | Apr 06 |
 | **[EarnIn](https://www.earnin.com)** | **[Software Engineer Intern (Backend)](https://jobright.ai/jobs/info/69d3e0d1cdb525785fbc3d4e?utm_campaign=1079&utm_source=git)** | Mountain View, US | Hybrid | Apr 06 |
-| **[Seurat Technologies](http://www.seurat.com)** | **[Slice Software Engineer Intern](https://jobright.ai/jobs/info/69d3df9c54f00230c6d2bb13?utm_campaign=1079&utm_source=git)** | Wilmington, MA | On Site | Apr 06 |
-| **[Sparrow](https://www.sparrowup.com)** | **[Full Stack Intern](https://jobright.ai/jobs/info/69d3dd48cfdc6132f9455132?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 06 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Software Developer Intern- Summer 2026](https://jobright.ai/jobs/info/69d3c2cb54f00230c6d29e43?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Apr 06 |
-| **[Hermeus](http://www.hermeus.com)** | **[Software Engineering Intern (Mission Systems Software) - (Summer & Fall 2026)](https://jobright.ai/jobs/info/69d3d7becfdc6132f9454e71?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[IT Application Analyst Intern, AWS](https://jobright.ai/jobs/info/699c1d6381476f6176b47edf?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
