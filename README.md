@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tessera Labs](https://www.tesseralabs.ai/)** | **[Software Engineering Intern, Frontend](https://jobright.ai/jobs/info/69d5e7434a12eb12c5e14809?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 07 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA  -  Quality Assurance Testing Internship](https://jobright.ai/jobs/info/69d5e383891d7b11cfd0681c?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Apr 07 |
+| **[Tessera Labs](https://www.tesseralabs.ai/)** | **[Software Engineering Intern, Frontend](https://jobright.ai/jobs/info/69d5e0eecfdc6132f9466d26?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[Viasat](http://www.viasat.com)** | **[Embedded Software Engineering Intern, Viasat Government](https://jobright.ai/jobs/info/69d5d5d4cfdc6132f9466601?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | On Site | Apr 07 |
 | **[Fiserv](http://www.fiserv.com)** | **[Technology - Summer Intern](https://jobright.ai/jobs/info/69d5cc46706f771673ba6d4d?utm_campaign=1079&utm_source=git)** | Fishers, IN | On Site | Apr 07 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/69d5ba9ce63cea7a8b663303?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 07 |
@@ -92,12 +95,12 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5708bcfdc6132f94623c0?utm_campaign=1079&utm_source=git)** | Hillsboro, Oregon, US | Hybrid | Apr 07 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5708bcfdc6132f94623bc?utm_campaign=1079&utm_source=git)** | Alpharetta, Georgia, US | Hybrid | Apr 07 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5708bcfdc6132f94623bd?utm_campaign=1079&utm_source=git)** | San Jose, California, US | Hybrid | Apr 07 |
-| ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5707dcdb525785fbd0ca9?utm_campaign=1079&utm_source=git)** | Maynard, Massachusetts, US | Hybrid | Apr 07 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5707dcdb525785fbd0caa?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, US | Hybrid | Apr 07 |
+| ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5707dcdb525785fbd0ca9?utm_campaign=1079&utm_source=git)** | Maynard, Massachusetts, US | Hybrid | Apr 07 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d57074e63cea7a8b6613a5?utm_campaign=1079&utm_source=git)** | Atlanta, Georgia, US | Hybrid | Apr 07 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d57074e63cea7a8b6613a2?utm_campaign=1079&utm_source=git)** | Milpitas, California, US | Hybrid | Apr 07 |
-| ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5706f706f771673ba31ea?utm_campaign=1079&utm_source=git)** | Austin, Texas, US | Hybrid | Apr 07 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5706f706f771673ba31ec?utm_campaign=1079&utm_source=git)** | Dallas, Texas, US | Hybrid | Apr 07 |
+| ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5706f706f771673ba31ea?utm_campaign=1079&utm_source=git)** | Austin, Texas, US | Hybrid | Apr 07 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d57063891d7b11cfd01e46?utm_campaign=1079&utm_source=git)** | New York, New York, US | Hybrid | Apr 07 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d57063891d7b11cfd01e47?utm_campaign=1079&utm_source=git)** | RTP, North Carolina, US | Hybrid | Apr 07 |
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69d56b03891d7b11cfd01cc2?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Application Development](https://jobright.ai/jobs/info/69d5213f706f771673ba0b6c?utm_campaign=1079&utm_source=git)** | Okemos, MI | Hybrid | Apr 07 |
 | **[Actian](http://www.actian.com)** | **[Product Engineer Intern](https://jobright.ai/jobs/info/69d5210e891d7b11cfcff8a1?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 07 |
 | ↳ | **[Product Engineer Intern](https://jobright.ai/jobs/info/69d51a8ae63cea7a8b65eb79?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | Apr 07 |
-| **[Flex](https://getflex.com)** | **[Staff Infrastructure Engineer](https://jobright.ai/jobs/info/69cf6e1454f00230c6d0a2e1?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 07 |
-| **[Collabora](https://www.collabora.com)** | **[2026 Internship: Open Source Software Developer (Remote/Anywhere)](https://jobright.ai/jobs/info/69d5160bcdb525785fbce34f?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 07 |
-| **[Arlo Technologies, Inc.](https://www.arlo.com)** | **[SW Engineer Intern, Android (AI-Assisted Development)](https://jobright.ai/jobs/info/69bc2f165b89c002acf179f5?utm_campaign=1079&utm_source=git)** | Milpitas, CA | Hybrid | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
