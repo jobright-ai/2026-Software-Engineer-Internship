@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[Software Development (RADb/Business Systems) Intern](https://jobright.ai/jobs/info/69d6103a706f771673ba935a?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 08 |
+| **[Brady Corporation](https://www.bradyid.com/)** | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/69d6103a706f771673ba935b?utm_campaign=1079&utm_source=git)** | Plymouth, MN | On Site | Apr 08 |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/69d60bd1706f771673ba91f3?utm_campaign=1079&utm_source=git)** | Melbourne, FL | On Site | Apr 08 |
 | **[ITW Automotive](https://www.itwautomotive.com)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/69d5f316e63cea7a8b6665ab?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Apr 07 |
 | **[Tessera Labs](https://www.tesseralabs.ai/)** | **[Software Engineering Intern, Frontend](https://jobright.ai/jobs/info/69d5e7434a12eb12c5e14809?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 07 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA  -  Quality Assurance Testing Internship](https://jobright.ai/jobs/info/69d5e383891d7b11cfd0681c?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Apr 07 |
@@ -94,12 +97,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d57096366bb95ba5545085?utm_campaign=1079&utm_source=git)** | Knoxville, Tennessee, US | Hybrid | Apr 07 |
 | **[Communications & Power Industries (CPI)](https://www.cpii.com/)** | **[Software Engineering Internship/Co-Op (12-16 Months)](https://jobright.ai/jobs/info/69d57092891d7b11cfd01f46?utm_campaign=1079&utm_source=git)** | Georgetown, ON | On Site | Apr 07 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5708bcfdc6132f94623c0?utm_campaign=1079&utm_source=git)** | Hillsboro, Oregon, US | Hybrid | Apr 07 |
-| ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5708bcfdc6132f94623bd?utm_campaign=1079&utm_source=git)** | San Jose, California, US | Hybrid | Apr 07 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5708bcfdc6132f94623bc?utm_campaign=1079&utm_source=git)** | Alpharetta, Georgia, US | Hybrid | Apr 07 |
+| ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5708bcfdc6132f94623bd?utm_campaign=1079&utm_source=git)** | San Jose, California, US | Hybrid | Apr 07 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5707dcdb525785fbd0ca9?utm_campaign=1079&utm_source=git)** | Maynard, Massachusetts, US | Hybrid | Apr 07 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5707dcdb525785fbd0caa?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, US | Hybrid | Apr 07 |
-| ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d57074e63cea7a8b6613a5?utm_campaign=1079&utm_source=git)** | Atlanta, Georgia, US | Hybrid | Apr 07 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d57074e63cea7a8b6613a2?utm_campaign=1079&utm_source=git)** | Milpitas, California, US | Hybrid | Apr 07 |
+| ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d57074e63cea7a8b6613a5?utm_campaign=1079&utm_source=git)** | Atlanta, Georgia, US | Hybrid | Apr 07 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5706f706f771673ba31ea?utm_campaign=1079&utm_source=git)** | Austin, Texas, US | Hybrid | Apr 07 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d5706f706f771673ba31ec?utm_campaign=1079&utm_source=git)** | Dallas, Texas, US | Hybrid | Apr 07 |
 | ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69d57063891d7b11cfd01e46?utm_campaign=1079&utm_source=git)** | New York, New York, US | Hybrid | Apr 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IEEE](http://www.ieee.org)** | **[Summer Intern - Enterprise Architecture](https://jobright.ai/jobs/info/69d52be9706f771673ba0f9d?utm_campaign=1079&utm_source=git)** | Piscataway, NJ | On Site | Apr 07 |
 | **[CAI](http://www.compaid.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69d5a75c706f771673ba495f?utm_campaign=1079&utm_source=git)** | PA-CLIENT-STATE | Remote | Apr 07 |
 | **[Textron](http://textron.com)** | **[2026 Intern - IT Analyst - Slidell, LA](https://jobright.ai/jobs/info/69d528a8891d7b11cfcffc80?utm_campaign=1079&utm_source=git)** | Slidell, LA | On Site | Apr 07 |
-| **[Phoenix Contact USA](https://www.phoenixcontact.com/en-us/)** | **[Product Engineering Intern (EtherWAN) - Summer 2026](https://jobright.ai/jobs/info/69d52644e63cea7a8b65ef88?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Apr 07 |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Application Development](https://jobright.ai/jobs/info/69d5213f706f771673ba0b6c?utm_campaign=1079&utm_source=git)** | Okemos, MI | Hybrid | Apr 07 |
-| **[Actian](http://www.actian.com)** | **[Product Engineer Intern](https://jobright.ai/jobs/info/69d5210e891d7b11cfcff8a1?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
