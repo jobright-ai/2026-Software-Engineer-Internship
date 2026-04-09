@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Fullstack Engineer, Infrastructure Engineering (Summer 2026)](https://jobright.ai/jobs/info/69d73bc4e63cea7a8b66feff?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 08 |
+| **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d7371ee63cea7a8b66f7ff?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Apr 08 |
+| **[Forvis Mazars US](https://www.forvis.com)** | **[Lead Software Engineer](https://jobright.ai/jobs/info/69d7331e366bb95ba5552861?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 08 |
+| **[GenPark](https://genpark.ai)** | **[Frontend Intern](https://jobright.ai/jobs/info/69d73319cfdc6132f946fdb6?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Apr 08 |
 | **[Amperesand](https://amperesand.io/)** | **[Software Engineering Intern - Test Engineering](https://jobright.ai/jobs/info/699002c50f6f7e7a2cec55a2?utm_campaign=1079&utm_source=git)** | Reno, Nevada, United States | On Site | Apr 08 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69cde246cdb525785fb90010?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Apr 08 |
-| **[Pivotor AI](https://www.pivotor.ai)** | **[FullStack / AI Engineer(Frontend) - Internship](https://jobright.ai/jobs/info/69d722d448f0c8161d2fd296?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 08 |
-| **[Mental Wealth Solutions](https://mentalwealthsolutions.org/)** | **[Full-Stack AI Developer Intern](https://jobright.ai/jobs/info/69d720c9e63cea7a8b66e356?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Apr 08 |
 | **[The Exploration Company](https://exploration.space)** | **[Crew Systems Engineering Intern- Software](https://jobright.ai/jobs/info/69d713bd706f771673bafba4?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern – Digital and Analytics](https://jobright.ai/jobs/info/69d7132ee63cea7a8b66dd97?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
 | **[Frostbite](https://www.ea.com/frostbite)** | **[Software Engineer Intern - Fall](https://jobright.ai/jobs/info/69d70e35706f771673baf7c5?utm_campaign=1079&utm_source=git)** | Orlando, FL | Hybrid | Apr 08 |
@@ -135,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Loftware](http://www.loftware.com)** | **[Development Intern - Engineering](https://jobright.ai/jobs/info/69d6ac90706f771673bad0ac?utm_campaign=1079&utm_source=git)** | Portsmouth, New Hampshire, United States | On Site | Apr 08 |
 | **[Waystar](http://www.waystar.com)** | **[Application Engineer - Intern](https://jobright.ai/jobs/info/69d6ac7052a5bf580012b0d6?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Apr 08 |
 | **[Pepsi Bottling Ventures](http://www.pepsibottlingventures.com)** | **[Business Technology Intern](https://jobright.ai/jobs/info/69d6ff8f706f771673baf298?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Apr 08 |
+| **[Fiserv](http://www.fiserv.com)** | **[Technology - Summer Intern](https://jobright.ai/jobs/info/69d7360f950d1a0760b7cb7e?utm_campaign=1079&utm_source=git)** | King of Prussia, Pennsylvania | On Site | Apr 08 |
 | **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d6a8ce366bb95ba554eddd?utm_campaign=1079&utm_source=git)** | Freedom, PA | Hybrid | Apr 08 |
 | **[The Jackson Laboratory](http://www.jax.org)** | **[Summer Intern - Software Engineering](https://jobright.ai/jobs/info/69d6a8ae706f771673bacf30?utm_campaign=1079&utm_source=git)** | Farmington, CT | Hybrid | Apr 08 |
 | **[Unisys](http://www.unisys.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d6a56f48f0c8161d2f9294?utm_campaign=1079&utm_source=git)** | Blue Bell, PA | On Site | Apr 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Firmware Security](https://jobright.ai/jobs/info/69d480d4891d7b11cfcfaf43?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Apr 08 |
 | **[ACI Worldwide](https://www.aciworldwide.com)** | **[Intern Software Engineering](https://jobright.ai/jobs/info/699ce44fe0bddb6acacbea48?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Apr 08 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69d68cd5e63cea7a8b6699f3?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Apr 08 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/69d689e6cfdc6132f946a853?utm_campaign=1079&utm_source=git)** | West Greenwich, RI, US, 02817 | On Site | Apr 08 |
-| **[Zendesk](http://zendesk.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d689c452a5bf580012950c?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 08 |
-| **[Integer Technologies](https://www.integer-tech.com)** | **[Engineering Intern – Digital Twin Software](https://jobright.ai/jobs/info/69d6897e52a5bf5800129399?utm_campaign=1079&utm_source=git)** | 1556 Main St ste 200, Columbia, SC 29201, USA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
