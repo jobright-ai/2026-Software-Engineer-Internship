@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mental Wealth Solutions](https://mentalwealthsolutions.org/)** | **[Full-Stack AI Developer Intern](https://jobright.ai/jobs/info/69d720c9e63cea7a8b66e356?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Apr 08 |
+| **[The Exploration Company](https://exploration.space)** | **[Crew Systems Engineering Intern- Software](https://jobright.ai/jobs/info/69d713bd706f771673bafba4?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern – Digital and Analytics](https://jobright.ai/jobs/info/69d7132ee63cea7a8b66dd97?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
 | **[Frostbite](https://www.ea.com/frostbite)** | **[Software Engineer Intern - Fall](https://jobright.ai/jobs/info/69d70e35706f771673baf7c5?utm_campaign=1079&utm_source=git)** | Orlando, FL | Hybrid | Apr 08 |
 | **[Loftware](http://www.loftware.com)** | **[Development Intern - Engineering](https://jobright.ai/jobs/info/69d70bc248f0c8161d2fc77d?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | Apr 08 |
@@ -68,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Intern](https://jobright.ai/jobs/info/6944e8ba94730b73987818e8?utm_campaign=1079&utm_source=git)** | Centennial, CO | On Site | Apr 08 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/69d6ff3ecfdc6132f946e687?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | Hybrid | Apr 08 |
 | **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Software Engineer Intern, Summer 2026](https://jobright.ai/jobs/info/69d6f9e7706f771673baf192?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Apr 08 |
-| **[Todd](https://toddagriscience.com)** | **[Software Engineer, Fullstack Intern (Fall '26)](https://jobright.ai/jobs/info/69d6f9e2706f771673baf18f?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 08 |
 | **[Zymo Research Corp](https://www.zymoresearch.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69d6f8efcfdc6132f946e51b?utm_campaign=1079&utm_source=git)** | Tustin, CA | On Site | Apr 08 |
 | **[Check Point Software](http://www.checkpoint.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69d6f884706f771673baf027?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Apr 08 |
 | **[DiDi](https://www.didiglobal.com)** | **[Software Engineer, Simulation (Summer Intern)](https://jobright.ai/jobs/info/69c5f2ca1b5ad0288737b2ae?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
@@ -120,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Integration IT Developer Intern - Remote](https://jobright.ai/jobs/info/69d6b58948f0c8161d2fa51e?utm_campaign=1079&utm_source=git)** | USA - Remote SC | Remote | Apr 08 |
 | ↳ | **[Integration IT Developer Intern - Remote](https://jobright.ai/jobs/info/69d6b57e366bb95ba554f202?utm_campaign=1079&utm_source=git)** | USA - Remote GA | Remote | Apr 08 |
 | **[Tencent](https://www.tencent.com/)** | **[Game Research & Development Intern, Engine Research](https://jobright.ai/jobs/info/69d6b21552a5bf580012b411?utm_campaign=1079&utm_source=git)** | US-California-Los Angeles | On Site | Apr 08 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[Integration IT Developer Intern - Remote](https://jobright.ai/jobs/info/69d6b20d52a5bf580012b402?utm_campaign=1079&utm_source=git)** | USA - Remote MI | Remote | Apr 08 |
-| ↳ | **[Integration IT Developer Intern - Remote](https://jobright.ai/jobs/info/69d6b20dcfdc6132f946c6ea?utm_campaign=1079&utm_source=git)** | USA - Miami FL 33178 | Remote | Apr 08 |
+| **[Ryder System, Inc.](http://ryder.com/en)** | **[Integration IT Developer Intern - Remote](https://jobright.ai/jobs/info/69d6b20dcfdc6132f946c6ea?utm_campaign=1079&utm_source=git)** | USA - Miami FL 33178 | Remote | Apr 08 |
+| ↳ | **[Integration IT Developer Intern - Remote](https://jobright.ai/jobs/info/69d6b20d52a5bf580012b402?utm_campaign=1079&utm_source=git)** | USA - Remote MI | Remote | Apr 08 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69d6b17f366bb95ba554f17d?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | **[Intel](http://www.intel.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d6b15ce63cea7a8b66b5a6?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Apr 08 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/69d6b148366bb95ba554f142?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Integer Technologies](https://www.integer-tech.com)** | **[Engineering Intern – Digital Twin Software](https://jobright.ai/jobs/info/69d6897e52a5bf5800129399?utm_campaign=1079&utm_source=git)** | 1556 Main St ste 200, Columbia, SC 29201, USA | On Site | Apr 08 |
 | **[Tideturners](https://thetideturners.com/)** | **[Spring Internship-Technical Artist VFX (Unity 2D Title)](https://jobright.ai/jobs/info/69d6a92ae63cea7a8b66b1f1?utm_campaign=1079&utm_source=git)** | Orlando, FL | Remote | Apr 08 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69d68672706f771673bab295?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Apr 08 |
-| **[Ahrefs](https://ahrefs.com/about)** | **[Backend Engineering Intern - OCaml](https://jobright.ai/jobs/info/69ba993a06c1ba00c54cc94a?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Remote | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
