@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Agentic Software Engineering Intern](https://jobright.ai/jobs/info/69d8182ab67cec4f9b09a8c6?utm_campaign=1079&utm_source=git)** | Frisco, TX | On Site | Apr 09 |
+| **[Jabil](https://www.jabil.com)** | **[Lead Software Test Development Engineer for Hardware Manufacturing](https://jobright.ai/jobs/info/69d818249f97a42dc9c1a476?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 09 |
+| **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69d81761b861c42857c4890d?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Apr 09 |
+| ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69d80f7d738f2f099e89a6fe?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 09 |
+| **[Visteon Corporation](http://www.visteon.com)** | **[Intern, Software Product Testing - 2 positions](https://jobright.ai/jobs/info/69d80f61738f2f099e89a6d4?utm_campaign=1079&utm_source=git)** | Van Buren, MI | On Site | Apr 09 |
 | **[athenahealth](http://www.athenahealth.com)** | **[2026 Summer Software Engineering Intern](https://jobright.ai/jobs/info/69d80e7ab67cec4f9b09a484?utm_campaign=1079&utm_source=git)** | Boston MA | Hybrid | Apr 09 |
 | **[Organon](https://www.organon.com)** | **[Summer Intern – Global Information Technology Procurement](https://jobright.ai/jobs/info/69d80ce5869c7e25d8593633?utm_campaign=1079&utm_source=git)** | Plymouth Meeting, PA | On Site | Apr 09 |
-| **[USTechBridge](https://ustechbridge.com)** | **[Software Engineer Intern (Unpaid)](https://jobright.ai/jobs/info/69d80ad9b67cec4f9b09a28d?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 09 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - Embedded Software Development Engineer - UWB RADAR](https://jobright.ai/jobs/info/69d80a38b67cec4f9b09a152?utm_campaign=1079&utm_source=git)** | Shanghai, VA | Hybrid | Apr 09 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - IS Development and Support](https://jobright.ai/jobs/info/69d8097e869c7e25d859313c?utm_campaign=1079&utm_source=git)** | Irving, TX | On Site | Apr 09 |
-| **[Todd](https://toddagriscience.com)** | **[Software Engineer, Frontend Intern (Fall '26)](https://jobright.ai/jobs/info/69d8093fb861c42857c47fc0?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 09 |
 | **[Univyze Inc.](https://univyze.com/)** | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/69d808be9f97a42dc9c197d2?utm_campaign=1079&utm_source=git)** | Orange, CA | Remote | Apr 09 |
 | **[Air Transport Services Group, Inc.](http://www.atsginc.com)** | **[AMES - Software Engineer Intern](https://jobright.ai/jobs/info/69d7f8ecf4ea471a51fe2b4b?utm_campaign=1079&utm_source=git)** | Wilmington, Ohio, United States | On Site | Apr 09 |
 | **[Airborne Maintenance and Engineering Services](http://www.airbornemx.com/)** | **[AMES - Software Engineer Intern](https://jobright.ai/jobs/info/69d7f8d7738f2f099e899772?utm_campaign=1079&utm_source=git)** | Wilmington, Ohio, United States | On Site | Apr 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leadership Triangle](https://leadershiptriangle.com)** | **[Software Engineer - Mainframe](https://jobright.ai/jobs/info/69d6df46366bb95ba555079e?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Apr 08 |
 | ↳ | **[SAP Systems Analyst II](https://jobright.ai/jobs/info/69d6df37e63cea7a8b66ccd6?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Apr 08 |
 | **[Enterprise Fleet Management](https://www.efleets.com/)** | **[Intern - Software Engineer (Fleet IT), Summer 2026](https://jobright.ai/jobs/info/69d6df36e63cea7a8b66ccd0?utm_campaign=1079&utm_source=git)** | St Louis, MO | Hybrid | Apr 08 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[Integration IT Developer Intern - Remote](https://jobright.ai/jobs/info/69d6de01e63cea7a8b66cc98?utm_campaign=1079&utm_source=git)** | Columbia, SC | Remote | Apr 08 |
-| ↳ | **[Integration IT Developer Intern - Remote](https://jobright.ai/jobs/info/69d6dde948f0c8161d2fbad2?utm_campaign=1079&utm_source=git)** | Lansing, MI | Remote | Apr 08 |
-| **[CBIZ](http://www.cbiz.com)** | **[Digital Assets & Blockchain Intern / Fall 2026](https://jobright.ai/jobs/info/69d6dc7be63cea7a8b66cb9b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
