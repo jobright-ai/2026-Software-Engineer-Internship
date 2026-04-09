@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Agentic Software Engineering Intern](https://jobright.ai/jobs/info/69d7df07869c7e25d8591f9a?utm_campaign=1079&utm_source=git)** | Frisco, TX | On Site | Apr 09 |
+| **[Techneaux Technology Services](https://www.techneaux.com)** | **[Ignition Tools Development Intern](https://jobright.ai/jobs/info/69d7d7d4869c7e25d8591de4?utm_campaign=1079&utm_source=git)** | Lafayette, LA | On Site | Apr 09 |
+| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern – Software Engineering, VR Domain](https://jobright.ai/jobs/info/69d7d7b3b67cec4f9b098c50?utm_campaign=1079&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Apr 09 |
+| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a7b7d776bbe83d3afb2b02?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
 | **[Techneaux Technology Services](https://www.techneaux.com)** | **[Ignition Tools Development Intern](https://jobright.ai/jobs/info/69d7d6aeb67cec4f9b098b47?utm_campaign=1079&utm_source=git)** | Lafayette,LA,US | On Site | Apr 09 |
 | **[ATPCO](http://www.atpco.net)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/69d7d5a6b861c42857c46b34?utm_campaign=1079&utm_source=git)** | Virginia, United States | Remote | Apr 09 |
-| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69858763348f733a5c3a0029?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
-| **[Todd](https://toddagriscience.com)** | **[Software Engineer, Fullstack Intern (Summer '26)](https://jobright.ai/jobs/info/69d7d2c3b67cec4f9b09841b?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 09 |
 | **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[Google Cloud Engineer Internship (Certification + Real Projects + Job Opportunity)](https://jobright.ai/jobs/info/69d7d234738f2f099e8983fb?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Claude CLI Vibe Coding Front-End / Full-Stack Engineering Internship](https://jobright.ai/jobs/info/69d7c675738f2f099e89731a?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Apr 09 |
 | **[FireMon](http://www.firemon.com)** | **[Software Engineering intern](https://jobright.ai/jobs/info/69d7c5f4b67cec4f9b09729a?utm_campaign=1079&utm_source=git)** | Kansas City, KS | On Site | Apr 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arcesium](http://www.arcesium.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69c4412fd5a1016e98db5bd4?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Apr 08 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Integration IT Developer Intern - Remote](https://jobright.ai/jobs/info/69d6c1dfe63cea7a8b66c06c?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Apr 08 |
 | **[Tencent](https://www.tencent.com/)** | **[Game Research & Development Intern, Engine Research](https://jobright.ai/jobs/info/69d6c0c0e63cea7a8b66c018?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 08 |
-| **[Corpay](https://payments.corpay.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d6bfe7e63cea7a8b66bb61?utm_campaign=1079&utm_source=git)** | Toronto, ON, Canada | On Site | Apr 08 |
-| **[Astrion](https://astrion.us)** | **[Software Engineering Internship 2026](https://jobright.ai/jobs/info/69d6b925cfdc6132f946c930?utm_campaign=1079&utm_source=git)** | Columbia, MD | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
