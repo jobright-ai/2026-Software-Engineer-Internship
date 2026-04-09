@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Frontend developer intern](https://jobright.ai/jobs/info/69d77637950d1a0760b7f7f3?utm_campaign=1079&utm_source=git)** | Vancouver, BC | Hybrid | Apr 09 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer, Community Apprenticeship - Intern](https://jobright.ai/jobs/info/69ab208a7e1fab39d382a745?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | Hybrid | Apr 09 |
 | **[Raytheon](http://www.bbn.com)** | **[2027 Raytheon Intern - Software Engineer - CO/PA/TX/VA (Onsite)](https://jobright.ai/jobs/info/69d75fed706f771673bb304c?utm_campaign=1079&utm_source=git)** | Dulles, VA | On Site | Apr 09 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Integration Platforms Software Developer, Vehicle Firmware (Summer 2026)](https://jobright.ai/jobs/info/69d73c2fcfdc6132f9471174?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Apr 08 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern – Software Engineer](https://jobright.ai/jobs/info/69d6d223706f771673bae362?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Application Development Intern Summer 2026](https://jobright.ai/jobs/info/69d6d18c52a5bf580012c4d9?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 08 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Study Experience Software Intern](https://jobright.ai/jobs/info/69d6d150cfdc6132f946d737?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Apr 08 |
-| **[Healthfirst](https://healthfirst.org)** | **[Application Development Intern - 2026 Summer Internship Program](https://jobright.ai/jobs/info/69d72415e63cea7a8b66e4c1?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Information Technology (Finance & IT) Piscataway, NJ](https://jobright.ai/jobs/info/69d6ccd1cfdc6132f946d59f?utm_campaign=1079&utm_source=git)** | Piscataway, NJ | On Site | Apr 08 |
 | **[Sparton](http://www.sparton.com)** | **[Software Engineering Internship](https://jobright.ai/jobs/info/69d6ccad52a5bf580012c273?utm_campaign=1079&utm_source=git)** | De Leon Springs, FL | On Site | Apr 08 |
 | **[TIFEC](https://osv-tifec.wd5.myworkdayjobs.com/TIFEC)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d6cc7d48f0c8161d2fb2d3?utm_campaign=1079&utm_source=git)** | FanThreeSixty Leawood, KS 66211 | On Site | Apr 08 |
@@ -127,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Integration IT Developer Intern - Remote](https://jobright.ai/jobs/info/69d6b58948f0c8161d2fa51e?utm_campaign=1079&utm_source=git)** | USA - Remote SC | Remote | Apr 08 |
 | ↳ | **[Integration IT Developer Intern - Remote](https://jobright.ai/jobs/info/69d6b57e366bb95ba554f202?utm_campaign=1079&utm_source=git)** | USA - Remote GA | Remote | Apr 08 |
 | **[Tencent](https://www.tencent.com/)** | **[Game Research & Development Intern, Engine Research](https://jobright.ai/jobs/info/69d6b21552a5bf580012b411?utm_campaign=1079&utm_source=git)** | US-California-Los Angeles | On Site | Apr 08 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[Integration IT Developer Intern - Remote](https://jobright.ai/jobs/info/69d6b20dcfdc6132f946c6ea?utm_campaign=1079&utm_source=git)** | USA - Miami FL 33178 | Remote | Apr 08 |
-| ↳ | **[Integration IT Developer Intern - Remote](https://jobright.ai/jobs/info/69d6b20d52a5bf580012b402?utm_campaign=1079&utm_source=git)** | USA - Remote MI | Remote | Apr 08 |
+| **[Ryder System, Inc.](http://ryder.com/en)** | **[Integration IT Developer Intern - Remote](https://jobright.ai/jobs/info/69d6b20d52a5bf580012b402?utm_campaign=1079&utm_source=git)** | USA - Remote MI | Remote | Apr 08 |
+| ↳ | **[Integration IT Developer Intern - Remote](https://jobright.ai/jobs/info/69d6b20dcfdc6132f946c6ea?utm_campaign=1079&utm_source=git)** | USA - Miami FL 33178 | Remote | Apr 08 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69d6b17f366bb95ba554f17d?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | **[Intel](http://www.intel.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d6b15ce63cea7a8b66b5a6?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Apr 08 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/69d6b148366bb95ba554f142?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 08 |
