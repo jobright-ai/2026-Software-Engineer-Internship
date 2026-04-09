@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Software Engineer, Community Apprenticeship - Intern](https://jobright.ai/jobs/info/69ab208a7e1fab39d382a745?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | Hybrid | Apr 09 |
+| **[Raytheon](http://www.bbn.com)** | **[2027 Raytheon Intern - Software Engineer - CO/PA/TX/VA (Onsite)](https://jobright.ai/jobs/info/69d75fed706f771673bb304c?utm_campaign=1079&utm_source=git)** | Dulles, VA | On Site | Apr 09 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Integration Platforms Software Developer, Vehicle Firmware (Summer 2026)](https://jobright.ai/jobs/info/69d73c2fcfdc6132f9471174?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Apr 08 |
 | ↳ | **[Internship, Fullstack Engineer, Infrastructure Engineering (Summer 2026)](https://jobright.ai/jobs/info/69d73bc4e63cea7a8b66feff?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 08 |
 | **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d7371ee63cea7a8b66f7ff?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Apr 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69d6937c706f771673bab887?utm_campaign=1079&utm_source=git)** | Huntsville, Huntsville, AL, US | On Site | Apr 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Firmware Security](https://jobright.ai/jobs/info/69d480d4891d7b11cfcfaf43?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Apr 08 |
 | **[ACI Worldwide](https://www.aciworldwide.com)** | **[Intern Software Engineering](https://jobright.ai/jobs/info/699ce44fe0bddb6acacbea48?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | Apr 08 |
-| **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69d68cd5e63cea7a8b6699f3?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Apr 08 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/69d689e6cfdc6132f946a853?utm_campaign=1079&utm_source=git)** | West Greenwich, RI, US, 02817 | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
