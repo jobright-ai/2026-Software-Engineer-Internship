@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[iClassPro - Class Management Software](https://www.iclasspro.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69d8b4ddb67cec4f9b09e5a1?utm_campaign=1079&utm_source=git)** | Longview, TX | On Site | Apr 10 |
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69445066dd382f5f566a6b8c?utm_campaign=1079&utm_source=git)** | North Bethesda, Maryland | Hybrid | Apr 09 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[2026 Technical Co-Op Intern - Software Engineering - Cypress CA](https://jobright.ai/jobs/info/69d8983c869c7e25d8596a85?utm_campaign=1079&utm_source=git)** | Cypress, CA | On Site | Apr 09 |
 | **[Provation](https://www.provationmedical.com)** | **[AI / Software Engineering Intern](https://jobright.ai/jobs/info/69d87a71869c7e25d8595f1f?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Apr 09 |
-| ↳ | **[AI / Software Engineering Intern](https://jobright.ai/jobs/info/69d87a4d738f2f099e89cf04?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
 | ↳ | **[AI / Software Engineering Intern](https://jobright.ai/jobs/info/69d87a4d738f2f099e89cf05?utm_campaign=1079&utm_source=git)** | Nashville, TN | On Site | Apr 09 |
+| ↳ | **[AI / Software Engineering Intern](https://jobright.ai/jobs/info/69d87a4d738f2f099e89cf04?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
 | ↳ | **[AI / Software Engineering Intern](https://jobright.ai/jobs/info/69d87a3ab861c42857c4aee0?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Apr 09 |
 | ↳ | **[AI / Software Engineering Intern](https://jobright.ai/jobs/info/69d87923738f2f099e89cec5?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
 | ↳ | **[AI / Software Engineering Intern](https://jobright.ai/jobs/info/69d8791f869c7e25d8595ed1?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SiFive](https://www.sifive.com)** | **[Intern - Platform Technology](https://jobright.ai/jobs/info/69d4ab17cdb525785fbcb8ac?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 09 |
 | ↳ | **[Intern - Platform Technology](https://jobright.ai/jobs/info/69d4a100e63cea7a8b65bc97?utm_campaign=1079&utm_source=git)** | Berkeley, CA | Hybrid | Apr 09 |
 | **[Sandisk](https://www.sandisk.com)** | **[Summer 2026 IT Internship (Bachelors Graduating in 2027)](https://jobright.ai/jobs/info/69682984f25a38006696845c?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | Apr 09 |
-| **[Thomson Reuters](http://thomsonreuters.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bb1fca3b74eb1e2c898cc1?utm_campaign=1079&utm_source=git)** | Eagan, MN | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
