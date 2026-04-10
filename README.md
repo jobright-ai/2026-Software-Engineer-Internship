@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DentalScan](https://www.dentalscan.us)** | **[Mobile App Design & Development Intern (Figma + React Native)](https://jobright.ai/jobs/info/69d85430f4ea471a51fe5155?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 09 |
+| **[AviaryAI](https://cambiomoney.com)** | **[Full Stack Engineer, Intern Summer 2026](https://jobright.ai/jobs/info/69d85388869c7e25d8594d63?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Solutions Engineer - Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/69d84e97869c7e25d8594cc8?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 09 |
+| **[Todd](https://toddagriscience.com)** | **[Software Engineer, Backend Intern (Summer '26)](https://jobright.ai/jobs/info/69d84e719f97a42dc9c1b7cd?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 09 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Software Engineer (Summer)](https://jobright.ai/jobs/info/69d845ab738f2f099e89bb22?utm_campaign=1079&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | Apr 09 |
 | ↳ | **[2026 Intern, Software Engineer (Summer)](https://jobright.ai/jobs/info/69d843f1f4ea471a51fe4dd4?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Apr 09 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Digital Technology (Hybrid)](https://jobright.ai/jobs/info/69d8433b869c7e25d8594a56?utm_campaign=1079&utm_source=git)** | US-CT-FARMINGTON-0010 ~ 10 Farm Springs Rd ~ 10 FARM SPRINGS | Hybrid | Apr 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, Fullstack Engineer, Infrastructure Engineering (Summer 2026)](https://jobright.ai/jobs/info/69d73bc4e63cea7a8b66feff?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 08 |
 | **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d7371ee63cea7a8b66f7ff?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Apr 08 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Lead Software Engineer](https://jobright.ai/jobs/info/69d7331e366bb95ba5552861?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 08 |
-| **[Amperesand](https://amperesand.io/)** | **[Software Engineering Intern - Test Engineering](https://jobright.ai/jobs/info/699002c50f6f7e7a2cec55a2?utm_campaign=1079&utm_source=git)** | Reno, Nevada, United States | On Site | Apr 08 |
-| **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69cde246cdb525785fb90010?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Apr 08 |
-| **[Frostbite](https://www.ea.com/frostbite)** | **[Software Engineer Intern - Fall](https://jobright.ai/jobs/info/69d70e35706f771673baf7c5?utm_campaign=1079&utm_source=git)** | Orlando, FL | Hybrid | Apr 08 |
-| **[Loftware](http://www.loftware.com)** | **[Development Intern - Engineering](https://jobright.ai/jobs/info/69d70bc248f0c8161d2fc77d?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
