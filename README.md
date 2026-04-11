@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Engineer Intern (Summer '26)](https://jobright.ai/jobs/info/69dabce6f748bc5d08a556eb?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 11 |
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69daab395356a60f40fe39eb?utm_campaign=1079&utm_source=git)** | Coral Gables, FL | On Site | Apr 11 |
 | **[TechFlow, Inc.](http://www.techflow.com/)** | **[Python Developer Intern](https://jobright.ai/jobs/info/69daaafc738f2f099e8abdce?utm_campaign=1079&utm_source=git)** | Washington, DC | Remote | Apr 11 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/69a1205c6b458d060735d907?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Intern - Embedded Software, System, and Test Engineer - 2026](https://jobright.ai/jobs/info/69d95b14f748bc5d08a4ab6d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
 | **[Corpay](https://payments.corpay.com)** | **[Web Application Developer Intern](https://jobright.ai/jobs/info/69d95a69738f2f099e8a1487?utm_campaign=1079&utm_source=git)** | Louisville, KY | Hybrid | Apr 10 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Firmware Engineer - Summer 2026](https://jobright.ai/jobs/info/69cb126ee565c26a70044813?utm_campaign=1079&utm_source=git)** | Eden Prairie, MN | On Site | Apr 10 |
-| ↳ | **[Intern - Firmware Engineer - Summer 2026](https://jobright.ai/jobs/info/69b235c1ad360c0340a6eff6?utm_campaign=1079&utm_source=git)** | Fort Collins, CO | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
