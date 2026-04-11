@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fintech](https://www.fintech.com/)** | **[.Net Engineer Intern](https://jobright.ai/jobs/info/69d99590b67cec4f9b0a2be8?utm_campaign=1079&utm_source=git)** | Tampa, FL | Hybrid | Apr 10 |
+| **[Trellis](https://www.trelliscompany.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d99147f748bc5d08a4beea?utm_campaign=1079&utm_source=git)** | Round Rock, TX | Hybrid | Apr 10 |
+| **[HP IQ](https://www.hp-iq.com/join-us)** | **[Software Engineering Intern, Device Experiences (Fall 2026)](https://jobright.ai/jobs/info/69d99112f748bc5d08a4be43?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 10 |
+| **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d990a5869c7e25d859b888?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Apr 10 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Digital Services Engineering Intern (NCS) - BCIT](https://jobright.ai/jobs/info/69d988e4738f2f099e8a25ca?utm_campaign=1079&utm_source=git)** | Baltimore, MD | On Site | Apr 10 |
 | **[Forum Asset Management](http://forumequitypartners.com/)** | **[Intern, Software Development (Summer 2026)](https://jobright.ai/jobs/info/69d988df5356a60f40fda3f2?utm_campaign=1079&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
 | **[University of Southern California](http://www.usc.edu)** | **[Research Programmer I](https://jobright.ai/jobs/info/69d988d45356a60f40fda3bf?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motion](https://www.motion.com)** | **[Customer Software Development Intern](https://jobright.ai/jobs/info/69d0bc71cfdc6132f943ef42?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Apr 10 |
 | **[Tinder](http://www.tinder.com)** | **[Backend Engineer Intern](https://jobright.ai/jobs/info/6920d3883f782d2f1afcbe69?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern (TikTok-Privacy Innovation Lab-GPU Systems & Model Optimization) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69857545348f733a5c39dfa5?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[RESEARCH AND DEVELOPMENT INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/699fb943d643757b0e453f42?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
-| **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[IT Development Intern](https://jobright.ai/jobs/info/69a0e2de0836fe79d861ec1f?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
-| **[TikTok](https://www.tiktok.com)** | **[Frontend Software Engineer Intern (Ads Measurement Signal and Privacy) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696850701703f05405a9fecd?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
-| **[ByteDance](http://bytedance.com)** | **[[Online Assessment] Software Engineer Intern (Relational Database) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d95df8022fc803b487713a?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
