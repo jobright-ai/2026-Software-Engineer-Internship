@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Frontend Engineer Project Intern (TikTok Multimedia Arch) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6969db971703f05405abeb38?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
+| **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Software Test Engineer (Summer 2026)](https://jobright.ai/jobs/info/69a9d74c1f59c56275e28b5f?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 11 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer/Mobile Engineer Intern (Monetization Technology - Ads Core Demonstration) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6984b63a348f733a5c38d03b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
+| ↳ | **[Software Engineer Intern (Global SRE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6968a56b1703f05405aa7787?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
+| ↳ | **[Frontend Engineer Project Intern (TikTok Multimedia Arch) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6969db971703f05405abeb38?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Developer Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69d0a9e9cfdc6132f943d94c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
 | **[Generac](https://www.generac.com)** | **[IT Intern - Web Development](https://jobright.ai/jobs/info/69da1e609f97a42dc9c27839?utm_campaign=1079&utm_source=git)** | Waukesha, WI | On Site | Apr 11 |
 | **[AssetMark](http://www.assetmark.com)** | **[QA Engineering Intern](https://jobright.ai/jobs/info/698505c68da7a612045f4e97?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Apr 11 |
@@ -124,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Firmware Engineer - Summer 2026](https://jobright.ai/jobs/info/69a60f3c359fe034b1d0de46?utm_campaign=1079&utm_source=git)** | Wilmington, MA | On Site | Apr 10 |
 | **[Generac](https://www.generac.com)** | **[IT Intern - Web Development](https://jobright.ai/jobs/info/69d950c0b67cec4f9b0a1117?utm_campaign=1079&utm_source=git)** | Waukesha, WI - USA | On Site | Apr 10 |
 | **[Qualitest](http://www.qualitestgroup.com/)** | **[Digital Engineering CoE Intern](https://jobright.ai/jobs/info/69d95a0ef748bc5d08a4a9a6?utm_campaign=1079&utm_source=git)** | Tennessee, United States | Remote | Apr 10 |
-| **[Randolph Brooks Federal Credit Union](https://www.rbfcu.org/)** | **[IT Web College Intern - Java](https://jobright.ai/jobs/info/69d9d3eaf748bc5d08a4e598?utm_campaign=1079&utm_source=git)** | San Antonio, Texas Area | On Site | Apr 10 |
+| **[Randolph Brooks Federal Credit Union](https://www.rbfcu.org/)** | **[IT Web College Intern - Java](https://jobright.ai/jobs/info/69d9d3ed869c7e25d859dee0?utm_campaign=1079&utm_source=git)** | San Antonio, Texas Area | On Site | Apr 10 |
 | **[KION Group](http://www.kiongroup.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d943b19f97a42dc9c20722?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Apr 10 |
 | **[Capital Becarios](https://www.capitalbecarios.org/)** | **[QA intern](https://jobright.ai/jobs/info/69d943ad738f2f099e8a0bfe?utm_campaign=1079&utm_source=git)** | Remote job | Remote | Apr 10 |
 | **[EarnIn](https://www.earnin.com)** | **[Mobile Engineer Intern (iOS)](https://jobright.ai/jobs/info/69d6853f48f0c8161d2f83f0?utm_campaign=1079&utm_source=git)** | Mountain View, US | Hybrid | Apr 10 |
@@ -138,8 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Software Engineer- Backend Intern (Summer 2026)](https://jobright.ai/jobs/info/69c190792c312363dcd48e0d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 10 |
 | **[Aflac](http://www.aflac.com)** | **[PLADS Application Developer (SmartCOMM)](https://jobright.ai/jobs/info/69d934f7f748bc5d08a49c69?utm_campaign=1079&utm_source=git)** | Columbus, GA | Hybrid | Apr 10 |
 | **[TechFlow, Inc.](http://www.techflow.com/)** | **[Python Developer Intern](https://jobright.ai/jobs/info/69d934e5f748bc5d08a49c15?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 10 |
-| **[Leidos](https://www.leidos.com)** | **[Object-Oriented Developer Intern](https://jobright.ai/jobs/info/69d93438f748bc5d08a49a22?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 10 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d93437f748bc5d08a49a19?utm_campaign=1079&utm_source=git)** | Morgantown, WV | On Site | Apr 10 |
+| **[Leidos](https://www.leidos.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d93437f748bc5d08a49a19?utm_campaign=1079&utm_source=git)** | Morgantown, WV | On Site | Apr 10 |
 | **[Akima](https://www.akima.com)** | **[EMG STEM Summer Internship - IT/ SOFTWARE / Engineering](https://jobright.ai/jobs/info/69d933f5f748bc5d08a498f7?utm_campaign=1079&utm_source=git)** | Herndon, VA | On Site | Apr 10 |
 | **[Rakuten Advertising](https://rakutenadvertising.com/)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/69d5bf23cfdc6132f946468f?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Apr 10 |
 | **[Crane Company](http://www.craneco.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d93305869c7e25d8599639?utm_campaign=1079&utm_source=git)** | Burbank, California | On Site | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pearson](https://www.pearson.com/)** | **[Associate, Software Engineering Intern](https://jobright.ai/jobs/info/69d922e7869c7e25d859914f?utm_campaign=1079&utm_source=git)** | Toronto, ON, Canada | On Site | Apr 10 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - Engineering Software](https://jobright.ai/jobs/info/69d1fe7954f00230c6d1ed0d?utm_campaign=1079&utm_source=git)** | Southfield, MI | On Site | Apr 10 |
 | **[CoreSite](http://www.coresite.com)** | **[Quality Assurance Engineer (1829)](https://jobright.ai/jobs/info/69d918e25356a60f40fd7aae?utm_campaign=1079&utm_source=git)** | Denver, CO | Hybrid | Apr 10 |
-| **[Magna International](http://www.magna.com/)** | **[Intern - Engineering ADAS Features](https://jobright.ai/jobs/info/69bc4fd24828227293fdf2cf?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Apr 10 |
-| **[Tinder](http://www.tinder.com)** | **[Android Engineer Intern](https://jobright.ai/jobs/info/6946712bd1953b5d11bfa7ba?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
