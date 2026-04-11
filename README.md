@@ -114,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Firmware Engineer - Summer 2026](https://jobright.ai/jobs/info/69a60f3c359fe034b1d0de46?utm_campaign=1079&utm_source=git)** | Wilmington, MA | On Site | Apr 10 |
 | **[Generac](https://www.generac.com)** | **[IT Intern - Web Development](https://jobright.ai/jobs/info/69d950c0b67cec4f9b0a1117?utm_campaign=1079&utm_source=git)** | Waukesha, WI - USA | On Site | Apr 10 |
 | **[Qualitest](http://www.qualitestgroup.com/)** | **[Digital Engineering CoE Intern](https://jobright.ai/jobs/info/69d95a0ef748bc5d08a4a9a6?utm_campaign=1079&utm_source=git)** | Tennessee, United States | Remote | Apr 10 |
+| **[Randolph Brooks Federal Credit Union](https://www.rbfcu.org/)** | **[IT Web College Intern - Java](https://jobright.ai/jobs/info/69d9d3eaf748bc5d08a4e598?utm_campaign=1079&utm_source=git)** | San Antonio, Texas Area | On Site | Apr 10 |
 | **[KION Group](http://www.kiongroup.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69d943b19f97a42dc9c20722?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Apr 10 |
 | **[Capital Becarios](https://www.capitalbecarios.org/)** | **[QA intern](https://jobright.ai/jobs/info/69d943ad738f2f099e8a0bfe?utm_campaign=1079&utm_source=git)** | Remote job | Remote | Apr 10 |
 | **[EarnIn](https://www.earnin.com)** | **[Mobile Engineer Intern (iOS)](https://jobright.ai/jobs/info/69d6853f48f0c8161d2f83f0?utm_campaign=1079&utm_source=git)** | Mountain View, US | Hybrid | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/695a125f9f1b381eb272b55b?utm_campaign=1079&utm_source=git)** | Dayton, OH | On Site | Apr 10 |
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/69d209e20b098b7a670868d1?utm_campaign=1079&utm_source=git)** | Rochester, PA | On Site | Apr 10 |
 | **[American AgCredit](http://www.agloan.com/)** | **[.Net Developer Intern](https://jobright.ai/jobs/info/69d9059c869c7e25d859860a?utm_campaign=1079&utm_source=git)** | Columbia, SC, United States | Hybrid | Apr 10 |
-| **[Tinder](http://www.tinder.com)** | **[Cloud Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6920e52a3f782d2f1afcc93f?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
