@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/69a1205c6b458d060735d907?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
+| **[ImageTrend](http://www.imagetrend.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69da9addf748bc5d08a5478c?utm_campaign=1079&utm_source=git)** | Hybrid in Eagan, MN | Hybrid | Apr 11 |
+| ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/69da96b79f97a42dc9c2ad3e?utm_campaign=1079&utm_source=git)** | Hybrid in Eagan, MN | Hybrid | Apr 11 |
 | **[SAP](https://www.sap.com)** | **[SAP SuccessFactors iXp Intern - AI Software Engineer (SUMMER 2026)](https://jobright.ai/jobs/info/69d9dcd59f97a42dc9c24ec9?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 11 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/68cbb7f7ba798c1a501d4532?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | Apr 11 |
-| **[ZobeLab](http://www.ZobeLab.com)** | **[Internship - Full Stack Technology Developer (Unpaid)](https://jobright.ai/jobs/info/69da8ff4738f2f099e8a9bd6?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Todd](https://toddagriscience.com)** | **[Full Stack Software Engineer Intern (Fall '26)](https://jobright.ai/jobs/info/69da8fba738f2f099e8a9b5d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 11 |
 | **[R.D. Offutt Company](https://www.linkedin.com/company/6140330)** | **[Software Developer Intern (QA/Test Engineering Focus)](https://jobright.ai/jobs/info/69be0a63b106024562836c32?utm_campaign=1079&utm_source=git)** | Fargo, ND | On Site | Apr 11 |
 | **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/698587cb348f733a5c3a0207?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Apr 11 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[RF-SMART](http://rfsmart.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69bd7c3d393a1008f742d5fc?utm_campaign=1079&utm_source=git)** | Jacksonville, FL | On Site | Apr 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Global SRE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6968a56b1703f05405aa7787?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
 | ↳ | **[Frontend Engineer Project Intern (TikTok Multimedia Arch) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6969db971703f05405abeb38?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
-| **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Developer Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69d0a9e9cfdc6132f943d94c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
 | **[Generac](https://www.generac.com)** | **[IT Intern - Web Development](https://jobright.ai/jobs/info/69da1e609f97a42dc9c27839?utm_campaign=1079&utm_source=git)** | Waukesha, WI | On Site | Apr 11 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - SQL Developer](https://jobright.ai/jobs/info/69b063b40b2db6275c043cc6?utm_campaign=1079&utm_source=git)** | Irving, TX | On Site | Apr 11 |
 | **[AssetMark](http://www.assetmark.com)** | **[QA Engineering Intern](https://jobright.ai/jobs/info/698505c68da7a612045f4e97?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Apr 11 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Watkins Wellness](https://www.watkinsmfg.com/)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69da03b99f97a42dc9c2735a?utm_campaign=1079&utm_source=git)** | Vista, CA | Hybrid | Apr 11 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Web Content Developer & Editor - Student Intern](https://jobright.ai/jobs/info/69da0303869c7e25d85a07ff?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - ERP Finance Systems](https://jobright.ai/jobs/info/697d720e137a0510256694f0?utm_campaign=1079&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 10 |
-| **[ByteDance](http://bytedance.com)** | **[Student Researcher - (Seed Infra-Compiler) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69da0441b67cec4f9b0a7b44?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
 | **[Snowflake](https://www.snowflake.com)** | **[Sales/GTM Apps Developer Intern - Summer 2026](https://jobright.ai/jobs/info/69d9c07b5356a60f40fdc2cd?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | On Site | Apr 10 |
 | **[Arrow International, Inc.](http://arrowinternational.com)** | **[Software Engineer Intern - Summer](https://jobright.ai/jobs/info/69d9c071738f2f099e8a4459?utm_campaign=1079&utm_source=git)** | Las Vegas, NV | On Site | Apr 10 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69d711e3e63cea7a8b66dd50?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
