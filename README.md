@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ParsonsKellogg](https://parsonskellogg.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69db48b9869c7e25d85a76fc?utm_campaign=1079&utm_source=git)** | US - CA, Camarillo | On Site | Apr 12 |
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69daab395356a60f40fe39eb?utm_campaign=1079&utm_source=git)** | Coral Gables, FL | On Site | Apr 11 |
 | **[TechFlow, Inc.](http://www.techflow.com/)** | **[Python Developer Intern](https://jobright.ai/jobs/info/69daaafc738f2f099e8abdce?utm_campaign=1079&utm_source=git)** | Washington, DC | Remote | Apr 11 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/69a1205c6b458d060735d907?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Software Quality Engineer Intern](https://jobright.ai/jobs/info/6966afd97a34f53920552d8b?utm_campaign=1079&utm_source=git)** | State College, PA | On Site | Apr 11 |
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db0c2ae9b48513789b172a?utm_campaign=1079&utm_source=git)** | Latrobe, PA | On Site | Apr 11 |
 | **[Quva](http://www.quvapharma.com/)** | **[Information Technology Intern (Infrastructure)](https://jobright.ai/jobs/info/69bd77254828227293ffb095?utm_campaign=1079&utm_source=git)** | Sugar Land, TX | On Site | Apr 11 |
-| **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/69b62bbc3b74eb1e2c83e201?utm_campaign=1079&utm_source=git)** | Zelienople, PA | On Site | Apr 11 |
-| ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db077de9b48513789b13e3?utm_campaign=1079&utm_source=git)** | Monaca, PA | On Site | Apr 11 |
+| **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db077de9b48513789b13e3?utm_campaign=1079&utm_source=git)** | Monaca, PA | On Site | Apr 11 |
+| ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/69b62bbc3b74eb1e2c83e201?utm_campaign=1079&utm_source=git)** | Zelienople, PA | On Site | Apr 11 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bdde224828227293009234?utm_campaign=1079&utm_source=git)** | Glendale, CA | Hybrid | Apr 11 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/699a836d81476f6176b31530?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Apr 11 |
 | **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Software Test Engineer (Summer 2026)](https://jobright.ai/jobs/info/69a9d74c1f59c56275e28b5f?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 11 |
@@ -111,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Snowflake](https://www.snowflake.com)** | **[Sales/GTM Apps Developer Intern - Summer 2026](https://jobright.ai/jobs/info/69d9c07b5356a60f40fdc2cd?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | On Site | Apr 10 |
 | **[Arrow International, Inc.](http://arrowinternational.com)** | **[Software Engineer Intern - Summer](https://jobright.ai/jobs/info/69d9c071738f2f099e8a4459?utm_campaign=1079&utm_source=git)** | Las Vegas, NV | On Site | Apr 10 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69d711e3e63cea7a8b66dd50?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
-| ↳ | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69d7157c48f0c8161d2fcdcb?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Apr 10 |
 | **[Pearson](https://www.pearson.com/)** | **[Associate, Software Engineering Intern](https://jobright.ai/jobs/info/69d9b03f9f97a42dc9c23942?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Apr 10 |
 | **[Menards](https://www.menards.com)** | **[Menards.com Systems Programming Internship](https://jobright.ai/jobs/info/69d9ae2d9f97a42dc9c2368d?utm_campaign=1079&utm_source=git)** | Eau Claire, WI | On Site | Apr 10 |
 | **[The New York Times](https://www.nytco.com/)** | **[Full-stack Engineering Intern](https://jobright.ai/jobs/info/69d9a4ef869c7e25d859c8a8?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
