@@ -88,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Software Quality Engineer Intern](https://jobright.ai/jobs/info/6966afd97a34f53920552d8b?utm_campaign=1079&utm_source=git)** | State College, PA | On Site | Apr 11 |
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db0c2ae9b48513789b172a?utm_campaign=1079&utm_source=git)** | Latrobe, PA | On Site | Apr 11 |
 | **[Quva](http://www.quvapharma.com/)** | **[Information Technology Intern (Infrastructure)](https://jobright.ai/jobs/info/69bd77254828227293ffb095?utm_campaign=1079&utm_source=git)** | Sugar Land, TX | On Site | Apr 11 |
-| **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db077de9b48513789b13e3?utm_campaign=1079&utm_source=git)** | Monaca, PA | On Site | Apr 11 |
-| ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/69b62bbc3b74eb1e2c83e201?utm_campaign=1079&utm_source=git)** | Zelienople, PA | On Site | Apr 11 |
+| **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/69b62bbc3b74eb1e2c83e201?utm_campaign=1079&utm_source=git)** | Zelienople, PA | On Site | Apr 11 |
+| ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db077de9b48513789b13e3?utm_campaign=1079&utm_source=git)** | Monaca, PA | On Site | Apr 11 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bdde224828227293009234?utm_campaign=1079&utm_source=git)** | Glendale, CA | Hybrid | Apr 11 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/699a836d81476f6176b31530?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Apr 11 |
 | **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Software Test Engineer (Summer 2026)](https://jobright.ai/jobs/info/69a9d74c1f59c56275e28b5f?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 11 |
@@ -105,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Watkins Wellness](https://www.watkinsmfg.com/)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69da03b99f97a42dc9c2735a?utm_campaign=1079&utm_source=git)** | Vista, CA | Hybrid | Apr 11 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Web Content Developer & Editor - Student Intern](https://jobright.ai/jobs/info/69da0303869c7e25d85a07ff?utm_campaign=1079&utm_source=git)** | Albany, NY | On Site | Apr 11 |
 | **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - ERP Finance Systems](https://jobright.ai/jobs/info/697d720e137a0510256694f0?utm_campaign=1079&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 10 |
+| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[UIUC Research Park Intern - Embedded Systems Software, Summer 2026](https://jobright.ai/jobs/info/69db3e4d9f97a42dc9c2dfa0?utm_campaign=1079&utm_source=git)** | Champaign, IL | On Site | Apr 10 |
 | **[ByteDance](http://bytedance.com)** | **[Student Researcher - (Seed Infra-Compiler) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69daada35356a60f40fe3a2a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
 | ↳ | **[Student Researcher - (Seed Infra-Compiler) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69daee68b67cec4f9b0ac945?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
 | **[Snowflake](https://www.snowflake.com)** | **[Sales/GTM Apps Developer Intern - Summer 2026](https://jobright.ai/jobs/info/69d9c07b5356a60f40fdc2cd?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | On Site | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Intern - Embedded Software, System, and Test Engineer - 2026](https://jobright.ai/jobs/info/69d95b14f748bc5d08a4ab6d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
 | **[Corpay](https://payments.corpay.com)** | **[Web Application Developer Intern](https://jobright.ai/jobs/info/69d95a69738f2f099e8a1487?utm_campaign=1079&utm_source=git)** | Louisville, KY | Hybrid | Apr 10 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Firmware Engineer - Summer 2026](https://jobright.ai/jobs/info/69cb126ee565c26a70044813?utm_campaign=1079&utm_source=git)** | Eden Prairie, MN | On Site | Apr 10 |
-| ↳ | **[Intern - Firmware Engineer - Summer 2026](https://jobright.ai/jobs/info/69b235c1ad360c0340a6eff6?utm_campaign=1079&utm_source=git)** | Fort Collins, CO | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
