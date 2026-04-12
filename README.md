@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Full Stack Software Engineer Intern (Fall 26)](https://jobright.ai/jobs/info/69dbe01b869c7e25d85a84e0?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 12 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/69d72fed48f0c8161d2fda0e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Integration Development Intern](https://jobright.ai/jobs/info/69b03545dfaeda6ff599a891?utm_campaign=1079&utm_source=git)** | Salisbury, MD | On Site | Apr 12 |
 | **[Point72](https://www.point72.com)** | **[2026 Technology Internship – UI/UX Engineer (Full Stack)](https://jobright.ai/jobs/info/69b8908b56973837413def8b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Jencap](https://jencapgroup.com)** | **[IT Summer Internship – Computer Science](https://jobright.ai/jobs/info/69d976845356a60f40fd9d30?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
 | **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[Cloud Engineering Intern (AI) - Remote](https://jobright.ai/jobs/info/69d97638869c7e25d859af1f?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Fintech](https://www.fintech.com/)** | **[.Net Engineer Intern](https://jobright.ai/jobs/info/69d975ab738f2f099e8a1b8f?utm_campaign=1079&utm_source=git)** | Tampa, Florida, United States | Hybrid | Apr 10 |
+| **[Just Born, Inc.](http://www.justborn.com)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/69a2d62f359fe034b1ce31e6?utm_campaign=1079&utm_source=git)** | Bethlehem, PA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
