@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atria Community](www.atriacommunity.com)** | **[Volunteer Software Engineer Intern](https://jobright.ai/jobs/info/69dc18ff9f97a42dc9c2fca5?utm_campaign=1079&utm_source=git)** | Vancouver, BC | Remote | Apr 12 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA (Quality Assurance) Software Testing Intern - Remote & Part-Time](https://jobright.ai/jobs/info/69dc17c99f97a42dc9c2fc62?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Apr 12 |
 | **[Pivotor AI](https://www.pivotor.ai)** | **[Scalable Systems Intern](https://jobright.ai/jobs/info/69dbff72869c7e25d85a8c7b?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 12 |
 | **[cside](https://cside.com)** | **[Solution Engineer - Intern](https://jobright.ai/jobs/info/69dbfdd69f97a42dc9c2faa0?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 12 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern – Software Engineering, VR Domain](https://jobright.ai/jobs/info/69d9117c9f97a42dc9c1f58e?utm_campaign=1079&utm_source=git)** | Novi, MI | On Site | Apr 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Qualitest](http://www.qualitestgroup.com/)** | **[Digital Engineering CoE Intern](https://jobright.ai/jobs/info/69d976b6738f2f099e8a1d2e?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Apr 10 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d976b35356a60f40fd9dbb?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
 | **[Actian](http://www.actian.com)** | **[Product Engineer Intern](https://jobright.ai/jobs/info/69d5210e891d7b11cfcff8a1?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 10 |
-| **[Jencap](https://jencapgroup.com)** | **[IT Summer Internship – Computer Science](https://jobright.ai/jobs/info/69d976845356a60f40fd9d30?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
-| **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[Cloud Engineering Intern (AI) - Remote](https://jobright.ai/jobs/info/69d97638869c7e25d859af1f?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
