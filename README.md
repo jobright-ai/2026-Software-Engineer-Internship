@@ -57,8 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Engineer Intern (Fall 26)](https://jobright.ai/jobs/info/69daf474b67cec4f9b0ac9c3?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 11 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Claude CLI Vibe Coding Front-End / Full-Stack Engineering Internship](https://jobright.ai/jobs/info/69daee4c9f97a42dc9c2c5be?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69daab395356a60f40fe39eb?utm_campaign=1079&utm_source=git)** | Coral Gables, FL | On Site | Apr 11 |
 | **[TechFlow, Inc.](http://www.techflow.com/)** | **[Python Developer Intern](https://jobright.ai/jobs/info/69daaafc738f2f099e8abdce?utm_campaign=1079&utm_source=git)** | Washington, DC | Remote | Apr 11 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/69a1205c6b458d060735d907?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
@@ -130,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[ENFOS](http://www.enfos.com/)** | **[Frontend Engineering Intern (UI/UX Focus) (Summer 2026)](https://jobright.ai/jobs/info/69d98237b67cec4f9b0a2646?utm_campaign=1079&utm_source=git)** | Durham, North Carolina, United States | On Site | Apr 10 |
 | **[Trellis Strategies](https://www.trellisstrategies.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d982325356a60f40fda138?utm_campaign=1079&utm_source=git)** | Round Rock, TX, US | Hybrid | Apr 10 |
 | **[Arrow International, Inc.](http://arrowinternational.com)** | **[Software Engineer Intern - Summer](https://jobright.ai/jobs/info/69d97fd0b67cec4f9b0a25d5?utm_campaign=1079&utm_source=git)** | Las Vegas,NV,US | On Site | Apr 10 |
-| **[Lilypad CRM](https://fintech.com/suppliers)** | **[.Net Engineer Intern](https://jobright.ai/jobs/info/69da03d9b67cec4f9b0a7a18?utm_campaign=1079&utm_source=git)** | Tampa, FL | Hybrid | Apr 10 |
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6944513f50bbaf7650564ecf?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Apr 10 |
 | **[HX5, LLC](http://hxfive.com)** | **[Computer Science Engineering Intern](https://jobright.ai/jobs/info/69d979c55356a60f40fd9f8d?utm_campaign=1079&utm_source=git)** | Brook Park, OH | On Site | Apr 10 |
 | **[Qualitest](http://www.qualitestgroup.com/)** | **[Digital Engineering CoE Intern](https://jobright.ai/jobs/info/69d976b6738f2f099e8a1d2e?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Apr 10 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Corpay](https://payments.corpay.com)** | **[Web Application Developer Intern](https://jobright.ai/jobs/info/69d95e489f97a42dc9c2111b?utm_campaign=1079&utm_source=git)** | Louisville, KY, USA | Hybrid | Apr 10 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Digital Engineering Software Developer Graduate Intern](https://jobright.ai/jobs/info/69d95cc3b67cec4f9b0a17c5?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Apr 10 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Intern - Embedded Software, System, and Test Engineer - 2026](https://jobright.ai/jobs/info/69d95b14f748bc5d08a4ab6d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
+| **[Corpay](https://payments.corpay.com)** | **[Web Application Developer Intern](https://jobright.ai/jobs/info/69d95a69738f2f099e8a1487?utm_campaign=1079&utm_source=git)** | Louisville, KY | Hybrid | Apr 10 |
+| **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Firmware Engineer - Summer 2026](https://jobright.ai/jobs/info/69cb126ee565c26a70044813?utm_campaign=1079&utm_source=git)** | Eden Prairie, MN | On Site | Apr 10 |
+| ↳ | **[Intern - Firmware Engineer - Summer 2026](https://jobright.ai/jobs/info/69b235c1ad360c0340a6eff6?utm_campaign=1079&utm_source=git)** | Fort Collins, CO | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
