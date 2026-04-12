@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Point72](https://www.point72.com)** | **[2026 Technology Internship – UI/UX Engineer (Full Stack)](https://jobright.ai/jobs/info/69b8908b56973837413def8b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 12 |
+| **[ENFOS](http://www.enfos.com/)** | **[Software Engineering Intern UI/UX](https://jobright.ai/jobs/info/69dbc625b67cec4f9b0af61e?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Apr 12 |
+| **[Jacobs](http://www.jacobs.com)** | **[Intern - Agile Software](https://jobright.ai/jobs/info/68f95084cadb2e5a06a63d36?utm_campaign=1079&utm_source=git)** | Nashua, NH | Hybrid | Apr 12 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Firmware Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/6914ffd5286ccf0a1512a30c?utm_campaign=1079&utm_source=git)** | Nashua, NH | On Site | Apr 12 |
 | **[Tinder](http://www.tinder.com)** | **[iOS Engineer Intern](https://jobright.ai/jobs/info/6920f325a49a885af9a4107a?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 12 |
+| **[Northmarq](http://www.northmarq.com)** | **[Software Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69a1e548359fe034b1cd2a0c?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Apr 12 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69c8a083e565c26a700301ae?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Apr 12 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Sr/Staff Software Engineer (UX Design) (Remote - US)](https://jobright.ai/jobs/info/69c4ae0733eecf31079513db?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 12 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69db8dc4f748bc5d08a588ff?utm_campaign=1079&utm_source=git)** | Camarillo, CA | On Site | Apr 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fintech](https://www.fintech.com/)** | **[.Net Engineer Intern](https://jobright.ai/jobs/info/69d975ab738f2f099e8a1b8f?utm_campaign=1079&utm_source=git)** | Tampa, Florida, United States | Hybrid | Apr 10 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/69a2d62f359fe034b1ce31e6?utm_campaign=1079&utm_source=git)** | Bethlehem, PA | On Site | Apr 10 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Software Developer Business Solutions Analyst (Intern)](https://jobright.ai/jobs/info/69d96df4f748bc5d08a4b467?utm_campaign=1079&utm_source=git)** | USA NY Albany | Hybrid | Apr 10 |
-| ↳ | **[Summer 2026 Software Tester (Intern)](https://jobright.ai/jobs/info/69d96ddc9f97a42dc9c217cb?utm_campaign=1079&utm_source=git)** | USA NY Albany | Hybrid | Apr 10 |
-| **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69d96c855356a60f40fd996d?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 10 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d96c52b67cec4f9b0a1f7e?utm_campaign=1079&utm_source=git)** | San Antonio, TX (Stone Oak) | Remote | Apr 10 |
-| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Digital Services Engineering Intern (NCS) - BCIT](https://jobright.ai/jobs/info/69d96bed869c7e25d859ad3e?utm_campaign=1079&utm_source=git)** | 401 E Fayette St | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
