@@ -57,9 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SKXYWTF](http://www.worldtradefactory.com)** | **[The Future Belongs to you - Blockchain Engineering Intern](https://jobright.ai/jobs/info/69dc5bce869c7e25d85a97b5?utm_campaign=1079&utm_source=git)** | United States | On Site | Apr 12 |
 | **[DiDi](https://www.didiglobal.com)** | **[Software Engineer, Simulation (Summer Intern)](https://jobright.ai/jobs/info/69c5f2ca1b5ad0288737b2ae?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
-| **[Todd](https://toddagriscience.com)** | **[UI/UX Developer Intern (Summer '26)](https://jobright.ai/jobs/info/69dc21cdb67cec4f9b0b0181?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 12 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA (Quality Assurance) Software Testing Intern - Remote & Part-Time](https://jobright.ai/jobs/info/69dc17c99f97a42dc9c2fc62?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Apr 12 |
 | **[cside](https://cside.com)** | **[Solution Engineer - Intern](https://jobright.ai/jobs/info/69dbfdd69f97a42dc9c2faa0?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 12 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern – Software Engineering, VR Domain](https://jobright.ai/jobs/info/69d9117c9f97a42dc9c1f58e?utm_campaign=1079&utm_source=git)** | Novi, MI | On Site | Apr 12 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/69d72fed48f0c8161d2fda0e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
@@ -111,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Software Quality Engineer Intern](https://jobright.ai/jobs/info/6966afd97a34f53920552d8b?utm_campaign=1079&utm_source=git)** | State College, PA | On Site | Apr 11 |
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db0c2ae9b48513789b172a?utm_campaign=1079&utm_source=git)** | Latrobe, PA | On Site | Apr 11 |
 | **[Quva](http://www.quvapharma.com/)** | **[Information Technology Intern (Infrastructure)](https://jobright.ai/jobs/info/69bd77254828227293ffb095?utm_campaign=1079&utm_source=git)** | Sugar Land, TX | On Site | Apr 11 |
-| **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db077de9b48513789b13e3?utm_campaign=1079&utm_source=git)** | Monaca, PA | On Site | Apr 11 |
-| ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/69b62bbc3b74eb1e2c83e201?utm_campaign=1079&utm_source=git)** | Zelienople, PA | On Site | Apr 11 |
+| **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/69b62bbc3b74eb1e2c83e201?utm_campaign=1079&utm_source=git)** | Zelienople, PA | On Site | Apr 11 |
+| ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db077de9b48513789b13e3?utm_campaign=1079&utm_source=git)** | Monaca, PA | On Site | Apr 11 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bdde224828227293009234?utm_campaign=1079&utm_source=git)** | Glendale, CA | Hybrid | Apr 11 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/699a836d81476f6176b31530?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Apr 11 |
 | **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Software Test Engineer (Summer 2026)](https://jobright.ai/jobs/info/69a9d74c1f59c56275e28b5f?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d976b35356a60f40fd9dbb?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
 | **[Actian](http://www.actian.com)** | **[Product Engineer Intern](https://jobright.ai/jobs/info/69d5210e891d7b11cfcff8a1?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Jencap](https://jencapgroup.com)** | **[IT Summer Internship – Computer Science](https://jobright.ai/jobs/info/69d976845356a60f40fd9d30?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
+| **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[Cloud Engineering Intern (AI) - Remote](https://jobright.ai/jobs/info/69d97638869c7e25d859af1f?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
