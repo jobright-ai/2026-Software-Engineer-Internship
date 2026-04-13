@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rackspace Technology](https://www.rackspace.com)** | **[Intern I - IN](https://jobright.ai/jobs/info/69dc8ad0f748bc5d08a5ade6?utm_campaign=1079&utm_source=git)** | IND-Work from Home-Remote | Remote | Apr 12 |
 | **[Dover Fueling Solutions](https://doverfuelingsolutions.com)** | **[Engineer, Software Intern](https://jobright.ai/jobs/info/69dc6d305356a60f40fe8e8d?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 12 |
 | **[Amperesand](https://amperesand.io/)** | **[Software Engineering Intern - Test Engineering](https://jobright.ai/jobs/info/699002c50f6f7e7a2cec55a2?utm_campaign=1079&utm_source=git)** | Reno, Nevada, United States | On Site | Apr 12 |
 | **[SKXYWTF](http://www.worldtradefactory.com)** | **[The Future Belongs to you - Blockchain Engineering Intern](https://jobright.ai/jobs/info/69dc5bce869c7e25d85a97b5?utm_campaign=1079&utm_source=git)** | United States | On Site | Apr 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6944513f50bbaf7650564ecf?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Apr 10 |
 | **[HX5, LLC](http://hxfive.com)** | **[Computer Science Engineering Intern](https://jobright.ai/jobs/info/69d979c55356a60f40fd9f8d?utm_campaign=1079&utm_source=git)** | Brook Park, OH | On Site | Apr 10 |
 | **[Qualitest](http://www.qualitestgroup.com/)** | **[Digital Engineering CoE Intern](https://jobright.ai/jobs/info/69d976b6738f2f099e8a1d2e?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Apr 10 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d976b35356a60f40fd9dbb?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
