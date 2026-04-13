@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DiDi](https://www.didiglobal.com)** | **[Software Engineer, Simulation (Summer Intern)](https://jobright.ai/jobs/info/69c5f2ca1b5ad0288737b2ae?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
 | **[Todd](https://toddagriscience.com)** | **[UI/UX Developer Intern (Summer '26)](https://jobright.ai/jobs/info/69dc21cdb67cec4f9b0b0181?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 12 |
-| **[Atria Community](www.atriacommunity.com)** | **[Volunteer Software Engineer Intern](https://jobright.ai/jobs/info/69dc18ff9f97a42dc9c2fca5?utm_campaign=1079&utm_source=git)** | Vancouver, BC | Remote | Apr 12 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA (Quality Assurance) Software Testing Intern - Remote & Part-Time](https://jobright.ai/jobs/info/69dc17c99f97a42dc9c2fc62?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Apr 12 |
 | **[cside](https://cside.com)** | **[Solution Engineer - Intern](https://jobright.ai/jobs/info/69dbfdd69f97a42dc9c2faa0?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 12 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern – Software Engineering, VR Domain](https://jobright.ai/jobs/info/69d9117c9f97a42dc9c1f58e?utm_campaign=1079&utm_source=git)** | Novi, MI | On Site | Apr 12 |
