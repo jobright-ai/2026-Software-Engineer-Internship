@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Connected Car Software Engineer Intern - Silicon Valley, CA - Summer 2026](https://jobright.ai/jobs/info/69de35da36823d1b42580052?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 14 |
 | **[WHOOP](http://www.whoop.com)** | **[Software Engineer II (Backend, Business Systems)](https://jobright.ai/jobs/info/698aa77b0f6f7e7a2ce5dd18?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Apr 14 |
 | **[Scowtt](https://www.scowtt.com)** | **[Intern - Full Stack Software Engineering](https://jobright.ai/jobs/info/69c1f65e75f7ff1cd8105e7b?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Apr 14 |
 | **[EXFO](http://www.exfo.com)** | **[Intern](https://jobright.ai/jobs/info/69c1d74e75f7ff1cd8102e54?utm_campaign=1079&utm_source=git)** | Québec, QC | Hybrid | Apr 14 |
@@ -69,13 +70,12 @@ For a complete list, click the following sortable link below:
 | **[Rivian](http://www.rivian.com)** | **[UIUC Research Park Intern - Embedded Software](https://jobright.ai/jobs/info/69de19ac433ac8430e0d85e0?utm_campaign=1079&utm_source=git)** | Champaign, IL | On Site | Apr 14 |
 | **[TikTok](https://www.tiktok.com)** | **[[Online Assessment] Software Engineer Intern (Recommendation Infrastructure) - 2026 Fall (BS/ MS)](https://jobright.ai/jobs/info/697850d788e2b47213bc7b17?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Apr 14 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (NoSQL Databases) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ace6f42747003c3d527713?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Capital Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977014e52f3c27ec64310b7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
-| ↳ | **[Backend Software Engineer Intern(Foundation Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978571e52f3c27ec644ae66?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
+| **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern(Foundation Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978571e52f3c27ec644ae66?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
+| ↳ | **[Software Engineer Intern (Capital Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977014e52f3c27ec64310b7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | ↳ | **[Software Engineer Intern (Monetization Technology - Ads Creative) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69aa64d52ebd316bece2227b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | **[Pivotor AI](https://www.pivotor.ai)** | **[Applied AI Software Engineer (frontend) Internship (Onsite)](https://jobright.ai/jobs/info/69ddf709433ac8430e0d8083?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 14 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Digital Technology Internship (Puerto Rico)](https://jobright.ai/jobs/info/69ddf6f3aba61f141731358f?utm_campaign=1079&utm_source=git)** | Santa Isabel, CO | Hybrid | Apr 14 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Senior DevOps Cloud Engineer(Information Technology Subject Matter Expert)](https://jobright.ai/jobs/info/69ddec12aba61f1417313354?utm_campaign=1079&utm_source=git)** | Hartford, CT | Hybrid | Apr 14 |
-| **[PROJXON](www.projxon.com)** | **[Web Development Intern](https://jobright.ai/jobs/info/69ddbedb433ac8430e0d69a9?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 13 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Software Quality Engineer (Early Career)](https://jobright.ai/jobs/info/69ddb25d5913ad3398139ff4?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Technology Services Designer Intern](https://jobright.ai/jobs/info/69ddb23baba61f1417311abf?utm_campaign=1079&utm_source=git)** | San Diego, CA, US | On Site | Apr 13 |
 | ↳ | **[Technology Services Designer Intern](https://jobright.ai/jobs/info/69ddb22c8182b27d347411ba?utm_campaign=1079&utm_source=git)** | US-CA-San Diego | On Site | Apr 13 |
