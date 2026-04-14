@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BlueScope North America](https://www.bluescope.com/careers/join-our-team)** | **[Software Developer Intern Year 3](https://jobright.ai/jobs/info/69dd8d7d61f6ed54321fe109?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Apr 13 |
+| **[ZobeLab](http://www.ZobeLab.com)** | **[Full Stack Technology Developer - Internship (Unpaid)](https://jobright.ai/jobs/info/69dd87ad5356a60f40fee8f2?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 13 |
+| **[GenPark](https://genpark.ai)** | **[Development Intern](https://jobright.ai/jobs/info/69dd86dc738f2f099e8b6941?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Apr 13 |
+| **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Information Technology Intern](https://jobright.ai/jobs/info/69dd7e20738f2f099e8b67dc?utm_campaign=1079&utm_source=git)** | Metro Jacksonville | On Site | Apr 13 |
+| **[BlueScope North America](https://www.bluescope.com/careers/join-our-team)** | **[Software Developer Intern Year 2](https://jobright.ai/jobs/info/69dd7c7f738f2f099e8b676b?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Apr 13 |
+| **[Age of Learning](http://www.ageoflearning.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bdde224828227293009234?utm_campaign=1079&utm_source=git)** | Glendale, CA | Hybrid | Apr 13 |
+| **[FinThink Inc.](https://www.finthink.com)** | **[Front-End Developer Intern](https://jobright.ai/jobs/info/69dd7726f748bc5d08a5ffd0?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 13 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Front End Developer Intern](https://jobright.ai/jobs/info/69c2d11194007a2195decf72?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | Apr 13 |
 | **[Synapse ITS](https://synapse-its.com)** | **[Firmware Development Summer Intern](https://jobright.ai/jobs/info/69dd6fdf9f97a42dc9c36361?utm_campaign=1079&utm_source=git)** | Plano,TX,US | On Site | Apr 13 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Software Quality Engineer (Early Career)](https://jobright.ai/jobs/info/69dd6fd461f6ed54321fd73a?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 13 |
@@ -121,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[R-00178743 Technology Enablement & Technical Documentation Intern](https://jobright.ai/jobs/info/69d92f15869c7e25d8599584?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 13 |
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/69d92dadb67cec4f9b0a0611?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 13 |
 | **[Pittsburgh Robotics Network](https://robopgh.org/)** | **[2026 Summer Intern ? MS/PhD ? Infrastructure](https://jobright.ai/jobs/info/69dd271061f6ed54321fb64b?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Apr 13 |
+| **[Leidos](https://www.leidos.com)** | **[Software Intern](https://jobright.ai/jobs/info/69dd266c5356a60f40fecb05?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 13 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Web Developer I](https://jobright.ai/jobs/info/69c0f4787798f73e35e5a715?utm_campaign=1079&utm_source=git)** | SD Metro Area | Hybrid | Apr 13 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Software Development Intern, Year-Round (UMaine Internship Program)](https://jobright.ai/jobs/info/69dd1ff2738f2f099e8b4bf8?utm_campaign=1079&utm_source=git)** | Orono, Maine | On Site | Apr 13 |
 | **[TD](https://www.td.com)** | **[Mobile Software Engineer Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dd1fc461f6ed54321fb525?utm_campaign=1079&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 13 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology - Ads Creative AI) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69aa4cf92ebd316bece20c2b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
 | **[ByteDance](http://bytedance.com)** | **[3D Graphics Engineer Intern (PICO Foundation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69166f889c388539cbdfb3de?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
 | **[SkipQ](http://www.skiptq.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69dcc59df748bc5d08a5c681?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 13 |
-| **[TikTok](https://www.tiktok.com)** | **[Online Architecture Research Intern (TikTok-Generalized Arch)- 2026 Start (PhD)](https://jobright.ai/jobs/info/69dcc528738f2f099e8b2e32?utm_campaign=1079&utm_source=git)** | Seattle, WA | Remote | Apr 13 |
-| **[SkipQ](http://www.skiptq.com)** | **[Internship-Full Stack Engineer](https://jobright.ai/jobs/info/69dcc4ac5356a60f40feaadb?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 13 |
-| **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69afa7557495006450946c3a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern(Video-on-Demand Algorithm) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976f86e52f3c27ec64303b5?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
-| ↳ | **[Software Engineer Intern (Data Arch - ShortText Rec) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bcddaa45e08b3dc1f9c52b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
-| ↳ | **[Software Engineer Intern - TikTok Search Architecture team - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69abb05e7e1fab39d38335f8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
-| **[P2S](http://p2seng.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69dcc2009f97a42dc9c32be1?utm_campaign=1079&utm_source=git)** | Long Beach, CA | On Site | Apr 13 |
-| **[ETS-Lindgren](http://www.ets-lindgren.com/)** | **[Web/SharePoint Developer Intern](https://jobright.ai/jobs/info/6986588e8ca8121a3a688f93?utm_campaign=1079&utm_source=git)** | Cedar Park, TX | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
