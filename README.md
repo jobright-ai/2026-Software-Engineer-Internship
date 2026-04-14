@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Aptiv](http://www.aptiv.com)** | **[Engineering or Computer Science Intern](https://jobright.ai/jobs/info/69ddb2758182b27d34741276?utm_campaign=1079&utm_source=git)** | Ottawa, ON | On Site | Apr 13 |
+| **[DC Info Tech Pvt Ltd](https://dcinfotech.org.in)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69ddc4fd4d3bec4144b4e1e5?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 13 |
+| **[PROJXON](www.projxon.com)** | **[Web Development Intern](https://jobright.ai/jobs/info/69ddbedb433ac8430e0d69a9?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 13 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Software Quality Engineer (Early Career)](https://jobright.ai/jobs/info/69ddb25d5913ad3398139ff4?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Technology Services Designer Intern](https://jobright.ai/jobs/info/69ddb23baba61f1417311abf?utm_campaign=1079&utm_source=git)** | San Diego, CA, US | On Site | Apr 13 |
 | ↳ | **[Technology Services Designer Intern](https://jobright.ai/jobs/info/69ddb22c8182b27d347411ba?utm_campaign=1079&utm_source=git)** | US-CA-San Diego | On Site | Apr 13 |
@@ -96,8 +97,6 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP SuccessFactors iXp Intern - AI Software Developer (SUMMER 2026)](https://jobright.ai/jobs/info/69dd691ef748bc5d08a5faf5?utm_campaign=1079&utm_source=git)** | San Ramon, CA | On Site | Apr 13 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Embedded Software Developer, Network/Payload Software Intern (Summer 2026)](https://jobright.ai/jobs/info/69dd6914bc6f6622c991208b?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | Apr 13 |
 | **[Leidos](https://www.leidos.com)** | **[Software Intern](https://jobright.ai/jobs/info/69dd68cc9f97a42dc9c36037?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 13 |
-| **[Aptiv](http://www.aptiv.com)** | **[Engineering or Computer Science Intern](https://jobright.ai/jobs/info/69dd61a0f748bc5d08a5f934?utm_campaign=1079&utm_source=git)** | CAN Kanata (2), ON - WR | On Site | Apr 13 |
-| **[BMO](http://www.bmo.com)** | **[Application Software Developer, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69dd5fa4bc6f6622c9911e87?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 13 |
 | **[RTX](http://www.raytheon.com)** | **[Software Engineering Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/69dd9ec68182b27d3473fdf1?utm_campaign=1079&utm_source=git)** | US-NY-BINGHAMTON-288 ~ 31 Lewis Rd ~ LEWIS | On Site | Apr 13 |
 | **[Prosource](https://www.totalprosource.com/)** | **[Professional Services Software Developer - Internship](https://jobright.ai/jobs/info/69dd5a23bc6f6622c9911cd7?utm_campaign=1079&utm_source=git)** | Cincinnati,OH,US | Remote | Apr 13 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Space Ops Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69dd5a085356a60f40fedd36?utm_campaign=1079&utm_source=git)** | US - CO, Colorado Springs | On Site | Apr 13 |
@@ -130,7 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Software Development Intern, Year-Round (UMaine Internship Program)](https://jobright.ai/jobs/info/69dd310fbc6f6622c9910ccc?utm_campaign=1079&utm_source=git)** | Orono, ME | On Site | Apr 13 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Beyond Moore Computational Research Scientist](https://jobright.ai/jobs/info/69dd30e85356a60f40fece22?utm_campaign=1079&utm_source=git)** | California, United States | Hybrid | Apr 13 |
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[Cloud Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69c0318f79e36d3a847c9f25?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Apr 13 |
-| **[Leidos](https://www.leidos.com)** | **[R-00178743 Technology Enablement & Technical Documentation Intern](https://jobright.ai/jobs/info/69d92f15869c7e25d8599584?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 13 |
+| **[Leidos](https://www.leidos.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69d92dadb67cec4f9b0a0611?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 13 |
+| ↳ | **[R-00178743 Technology Enablement & Technical Documentation Intern](https://jobright.ai/jobs/info/69d92f15869c7e25d8599584?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 13 |
 | **[Pittsburgh Robotics Network](https://robopgh.org/)** | **[2026 Summer Intern ? MS/PhD ? Infrastructure](https://jobright.ai/jobs/info/69dd271061f6ed54321fb64b?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Apr 13 |
 | **[Leidos](https://www.leidos.com)** | **[Software Intern](https://jobright.ai/jobs/info/69dd266c5356a60f40fecb05?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 13 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Web Developer I](https://jobright.ai/jobs/info/69c0f4787798f73e35e5a715?utm_campaign=1079&utm_source=git)** | SD Metro Area | Hybrid | Apr 13 |
