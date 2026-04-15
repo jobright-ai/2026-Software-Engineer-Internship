@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UST HealthProof](https://usthealthproof.com)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/69dee2a6aba61f141731839e?utm_campaign=1079&utm_source=git)** | Alpharetta | Remote | Apr 14 |
 | **[Dollar Tree Distribution, Inc.](https://www.linkedin.com/company/53969352)** | **[IT Quality Assurance Intern](https://jobright.ai/jobs/info/69dedb03aba61f14173181ca?utm_campaign=1079&utm_source=git)** | VA-Chesapeake | On Site | Apr 14 |
 | **[Marvin Engineering Company](https://marvineng.com)** | **[IT APPLICATIONS INTERN](https://jobright.ai/jobs/info/69ded8a618cf504166e3035e?utm_campaign=1079&utm_source=git)** | LA Metro Area | On Site | Apr 14 |
 | **[UST](https://www.ust.com)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/69ded840e34484770f1a5175?utm_campaign=1079&utm_source=git)** | Alpharetta | Remote | Apr 14 |
@@ -119,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Carrier](https://www.corporate.carrier.com)** | **[Software Engineering Intern - Summer](https://jobright.ai/jobs/info/69de7819433ac8430e0d9e11?utm_campaign=1079&utm_source=git)** | East Syracuse, NY | On Site | Apr 14 |
 | **[LivaNova](http://www.livanova.com)** | **[Design Verification Engineer Intern](https://jobright.ai/jobs/info/69de7378433ac8430e0d9aff?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Apr 14 |
 | **[Hyland](https://www.hyland.com/)** | **[Intern, OnBase Development](https://jobright.ai/jobs/info/69caa6b71b5ad028873a3689?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 14 |
-| **[Uber](http://www.uber.com)** | **[2026 PhD Software Engineer Intern (Data Storage), United States](https://jobright.ai/jobs/info/69de6d6518cf504166e2cf82?utm_campaign=1079&utm_source=git)** | US-CA-Sunnyvale | On Site | Apr 14 |
-| ↳ | **[2026 PhD Software Engineer Intern (Data Storage), United States](https://jobright.ai/jobs/info/69de6d65aba61f1417314df0?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, US | On Site | Apr 14 |
+| **[Uber](http://www.uber.com)** | **[2026 PhD Software Engineer Intern (Data Storage), United States](https://jobright.ai/jobs/info/69de6d65aba61f1417314df0?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, US | On Site | Apr 14 |
+| ↳ | **[2026 PhD Software Engineer Intern (Data Storage), United States](https://jobright.ai/jobs/info/69de6d6518cf504166e2cf82?utm_campaign=1079&utm_source=git)** | US-CA-Sunnyvale | On Site | Apr 14 |
 | **[Deluxe](http://www.deluxe.com)** | **[Internship - Technology & Computer Science - Atlanta](https://jobright.ai/jobs/info/69d74d78366bb95ba55544fa?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | **[LivaNova](http://www.livanova.com)** | **[Design Verification Engineer Intern](https://jobright.ai/jobs/info/69de5f95e34484770f1a1a37?utm_campaign=1079&utm_source=git)** | Houston, Texas, United States | On Site | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Application Developer Intern 2026- Asset Management](https://jobright.ai/jobs/info/69ddb235433ac8430e0d65c6?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Apr 14 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern(Live Service) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bcddad45e08b3dc1f9c536?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | ↳ | **[[Online Assessment] Software Engineer Intern (Recommendation Infrastructure) - 2026 Fall (BS/ MS)](https://jobright.ai/jobs/info/697850d788e2b47213bc7b17?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Apr 14 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (NoSQL Databases) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ace6f42747003c3d527713?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern(Foundation Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978571e52f3c27ec644ae66?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
-| ↳ | **[Software Engineer Intern (Capital Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977014e52f3c27ec64310b7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Capital Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977014e52f3c27ec64310b7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
+| ↳ | **[Backend Software Engineer Intern(Foundation Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978571e52f3c27ec644ae66?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | ↳ | **[Software Engineer Intern (Monetization Technology - Ads Creative) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69aa64d52ebd316bece2227b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship ITS (Information Technology Solutions)](https://jobright.ai/jobs/info/69d5482a706f771673ba1baf?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 14 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Digital Technology Internship (Puerto Rico)](https://jobright.ai/jobs/info/69ddf6f3aba61f141731358f?utm_campaign=1079&utm_source=git)** | Santa Isabel, CO | Hybrid | Apr 14 |
-| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Senior DevOps Cloud Engineer(Information Technology Subject Matter Expert)](https://jobright.ai/jobs/info/69ddec12aba61f1417313354?utm_campaign=1079&utm_source=git)** | Hartford, CT | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
