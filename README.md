@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Sr Batch Developer (UNIX/C/SQL)](https://jobright.ai/jobs/info/69c37edf7a7a0045db895055?utm_campaign=1079&utm_source=git)** | Delaware, United States | Remote | Apr 15 |
+| **[Quantum Pulse Consulting](https://qpulse.tech/case-studies/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69df9142433ac8430e0e0fa0?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 15 |
+| **[Trifecta Enterprises](trifectaenterprises.co)** | **[Summer 2026 CS Internship - UPenn, Drexel, Temple Students](https://jobright.ai/jobs/info/69df90d6aba61f141731c30b?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 15 |
+| **[RadNet](https://www.radnet.com)** | **[Intern Software Development](https://jobright.ai/jobs/info/69df904f14bf245fc7a6c907?utm_campaign=1079&utm_source=git)** | Somerville, MA | On Site | Apr 15 |
 | **[Gen](https://www.gendigital.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69c30b9fec22f8310ab11902?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 15 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern - .Net Software Developement](https://jobright.ai/jobs/info/69c348ef7a7a0045db88e356?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Draper](https://www.draper.com)** | **[Software Modeling, Analysis, & Validation Intern](https://jobright.ai/jobs/info/69d876fcb67cec4f9b09c97c?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | Apr 15 |
@@ -74,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[[Online Assessment]Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69df2077aba61f141731a343?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 15 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69c33ce194007a2195df927e?utm_campaign=1079&utm_source=git)** | Leawood, KS | Hybrid | Apr 15 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Commercial Solutions Engineer Intern](https://jobright.ai/jobs/info/69df4dbfe34484770f1a888d?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 15 |
-| **[Pivotor AI](https://www.pivotor.ai)** | **[Applied AI Software Engineer (Backend) Internship](https://jobright.ai/jobs/info/69df4d4b18cf504166e33878?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 15 |
 | **[Tencent](https://www.tencent.com/)** | **[IT Application Developer (AI-Driven IT Ops) Intern](https://jobright.ai/jobs/info/69df80ba5913ad339814433d?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Apr 15 |
 | **[Click Bond](http://clickbond.com)** | **[Intern, Quality Assurance Engineering-CT](https://jobright.ai/jobs/info/69df2e7118cf504166e32c98?utm_campaign=1079&utm_source=git)** | Watertown, CT | On Site | Apr 14 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Financial Systems Integration Intern Spring 2026](https://jobright.ai/jobs/info/69df291c18cf504166e32bc3?utm_campaign=1079&utm_source=git)** | Virginia, United States | Remote | Apr 14 |
@@ -95,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[Computer Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69def8d75913ad3398141784?utm_campaign=1079&utm_source=git)** | Westerville, OH | On Site | Apr 14 |
 | ↳ | **[Computer Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69def52c36823d1b42585334?utm_campaign=1079&utm_source=git)** | Delaware, OH | On Site | Apr 14 |
 | **[Newmark](https://www.nmrk.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69def50036823d1b425852ce?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 14 |
-| **[MidFirst Bank](https://www.midfirst.com)** | **[CT Summer Intern](https://jobright.ai/jobs/info/69def42fe34484770f1a6029?utm_campaign=1079&utm_source=git)** | Oklahoma City, OK | On Site | Apr 14 |
 | **[Appian](http://www.appian.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69def3c436823d1b42585113?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Apr 14 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/69dee2a6aba61f141731839e?utm_campaign=1079&utm_source=git)** | Alpharetta | Remote | Apr 14 |
 | **[Prinova USA](http://www.prinovausa.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69df08aae34484770f1a67a1?utm_campaign=1079&utm_source=git)** | Hanover Park, IL | On Site | Apr 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Syntax](http://www.syntax.com/)** | **[Intern, Public Cloud](https://jobright.ai/jobs/info/69de7b52aba61f14173154bc?utm_campaign=1079&utm_source=git)** | Morrisville, NC | On Site | Apr 14 |
 | **[Zonda](https://zondahome.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69de7a9d5913ad339813d69f?utm_campaign=1079&utm_source=git)** | Austin, TX, US | On Site | Apr 14 |
 | **[Tacony Corporation](http://tacony.com)** | **[IT Intern - ERP Systems & .Net Development](https://jobright.ai/jobs/info/69de7a93e34484770f1a2516?utm_campaign=1079&utm_source=git)** | Fenton, MO, US | On Site | Apr 14 |
-| **[Brivo](http://www.brivo.com/)** | **[Brivo Software Engineering Internship](https://jobright.ai/jobs/info/69de8a035913ad339813dd06?utm_campaign=1079&utm_source=git)** | Bethesda, MD | On Site | Apr 14 |
-| **[Tricentis](https://tricentis.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69de786518cf504166e2d450?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
