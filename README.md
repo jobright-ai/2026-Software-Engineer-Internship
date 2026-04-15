@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pluralsight](http://www.pluralsight.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69dfa26314bf245fc7a6ccb4?utm_campaign=1079&utm_source=git)** | Hybrid - Texas (Westlake) | Hybrid | Apr 15 |
+| **[ServiceTrade](http://servicetrade.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69c7c686e565c26a7002bb8e?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Apr 15 |
+| **[MSI Express](https://msiexpress.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69bc483e4828227293fde99f?utm_campaign=1079&utm_source=git)** | Portage, IN | On Site | Apr 15 |
+| ↳ | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69bc48154828227293fde945?utm_campaign=1079&utm_source=git)** | Batavia, IL | On Site | Apr 15 |
+| **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Java Programmer](https://jobright.ai/jobs/info/69c2c5c894007a2195debd1b?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 15 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Advisor Application Architect](https://jobright.ai/jobs/info/69a7585d2672cb0acb4bcad2?utm_campaign=1079&utm_source=git)** | Idaho, United States | Remote | Apr 15 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Information Technology (IT) Internship (Summer 2026)](https://jobright.ai/jobs/info/698a6b130f6f7e7a2ce59154?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Apr 15 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Sr Batch Developer (UNIX/C/SQL)](https://jobright.ai/jobs/info/69c37edf7a7a0045db895055?utm_campaign=1079&utm_source=git)** | Delaware, United States | Remote | Apr 15 |
 | **[Quantum Pulse Consulting](https://qpulse.tech/case-studies/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69df9142433ac8430e0e0fa0?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Trifecta Enterprises](trifectaenterprises.co)** | **[Summer 2026 CS Internship - UPenn, Drexel, Temple Students](https://jobright.ai/jobs/info/69df90d6aba61f141731c30b?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Full Stack Software Developer Intern (Summer 2026)](https://jobright.ai/jobs/info/69de89ecaba61f1417315b6e?utm_campaign=1079&utm_source=git)** | US - MD, Annapolis Junction | On Site | Apr 14 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Dev Ops Intern](https://jobright.ai/jobs/info/69c735a61b5ad0288738b22c?utm_campaign=1079&utm_source=git)** | Rapid City, MI | On Site | Apr 14 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Partner Solutions Engineer Tooling Intern](https://jobright.ai/jobs/info/69de87c9aba61f1417315894?utm_campaign=1079&utm_source=git)** | United States - Remote | Remote | Apr 14 |
-| **[Trumid](https://www.trumid.com)** | **[Delivery Management Intern](https://jobright.ai/jobs/info/69de87beaba61f1417315871?utm_campaign=1079&utm_source=git)** | New York City | On Site | Apr 14 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Internship - Software Quality Assurance (SQA)](https://jobright.ai/jobs/info/69de868418cf504166e2d8d9?utm_campaign=1079&utm_source=git)** | Newark, DE | On Site | Apr 14 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Embedded Software Engineering Intern (Controls)](https://jobright.ai/jobs/info/69c1b75775f7ff1cd81005db?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
-| **[Cartesian](http://cartesian.systems)** | **[Mobile Engineering Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/69c59c5baa3c2c1995e01da7?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Apr 14 |
-| **[Syntax](http://www.syntax.com/)** | **[Intern, Public Cloud](https://jobright.ai/jobs/info/69de7b52aba61f14173154bc?utm_campaign=1079&utm_source=git)** | Morrisville, NC | On Site | Apr 14 |
-| **[Zonda](https://zondahome.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69de7a9d5913ad339813d69f?utm_campaign=1079&utm_source=git)** | Austin, TX, US | On Site | Apr 14 |
-| **[Tacony Corporation](http://tacony.com)** | **[IT Intern - ERP Systems & .Net Development](https://jobright.ai/jobs/info/69de7a93e34484770f1a2516?utm_campaign=1079&utm_source=git)** | Fenton, MO, US | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
