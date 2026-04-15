@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Agentic AI Engine - Data Management platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976e9fd52f3c27ec642de0c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 15 |
+| **[Qualitest](http://www.qualitestgroup.com/)** | **[Digital Engineering CoE Intern](https://jobright.ai/jobs/info/69d976b6738f2f099e8a1d2e?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Apr 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern(Media Engine) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69782e4888e2b47213bc3413?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 15 |
 | ↳ | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6967fe6f639b452fb57d8b52?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 15 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Senior Software Engineer](https://jobright.ai/jobs/info/69df69dbe34484770f1a8c15?utm_campaign=1079&utm_source=git)** | Irving, TX | Hybrid | Apr 15 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Carrier](https://www.corporate.carrier.com)** | **[Software Engineering Intern - Summer](https://jobright.ai/jobs/info/69de7819433ac8430e0d9e11?utm_campaign=1079&utm_source=git)** | East Syracuse, NY | On Site | Apr 14 |
 | **[LivaNova](http://www.livanova.com)** | **[Design Verification Engineer Intern](https://jobright.ai/jobs/info/69de7378433ac8430e0d9aff?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Apr 14 |
 | **[Hyland](https://www.hyland.com/)** | **[Intern, OnBase Development](https://jobright.ai/jobs/info/69caa6b71b5ad028873a3689?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 14 |
-| **[Uber](http://www.uber.com)** | **[2026 PhD Software Engineer Intern (Data Storage), United States](https://jobright.ai/jobs/info/69de6d65aba61f1417314df0?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, US | On Site | Apr 14 |
-| ↳ | **[2026 PhD Software Engineer Intern (Data Storage), United States](https://jobright.ai/jobs/info/69de6d6518cf504166e2cf82?utm_campaign=1079&utm_source=git)** | US-CA-Sunnyvale | On Site | Apr 14 |
+| **[Uber](http://www.uber.com)** | **[2026 PhD Software Engineer Intern (Data Storage), United States](https://jobright.ai/jobs/info/69de6d6518cf504166e2cf82?utm_campaign=1079&utm_source=git)** | US-CA-Sunnyvale | On Site | Apr 14 |
+| ↳ | **[2026 PhD Software Engineer Intern (Data Storage), United States](https://jobright.ai/jobs/info/69de6d65aba61f1417314df0?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, US | On Site | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Package Specialist Intern 2026- SAP HANA SCM SD](https://jobright.ai/jobs/info/69df32c018cf504166e33076?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Apr 14 |
-| ↳ | **[Package Specialist Intern 2026- SAP HANA SCM MM](https://jobright.ai/jobs/info/69df0aae433ac8430e0de635?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Apr 14 |
-| ↳ | **[Application Developer Intern 2026- Asset Management](https://jobright.ai/jobs/info/69df32bdaba61f141731af0d?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
