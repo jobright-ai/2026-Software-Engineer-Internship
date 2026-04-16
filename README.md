@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Back End Intern](https://jobright.ai/jobs/info/69e0780bb20fd532b4ae1bae?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Apr 15 |
 | **[Collaborative Drug Discovery - CDD Vault](http://www.collaborativedrug.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e077e29564e855a25ddb53?utm_campaign=1079&utm_source=git)** | Newport News, VA | Hybrid | Apr 15 |
 | **[Thales](http://www.thalesgroup.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e077d7c5691b27c176d93f?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Apr 15 |
 | **[Carboncopies Foundation](https://carboncopies.org)** | **[C++ Software Engineering Summer 2026 Unpaid Internship](https://jobright.ai/jobs/info/69e075f8cf5a9e0c33c86aa3?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Apr 15 |
@@ -126,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69dfec7314bf245fc7a6ea76?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Apr 15 |
 | **[Praxis Engineering](http://www.praxiseng.com)** | **[Summer 2026 Software Developer Internship](https://jobright.ai/jobs/info/69dfec63e34484770f1ab559?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD | On Site | Apr 15 |
 | **[ChargePoint](http://www.chargepoint.com)** | **[Software QA Engineering - Intern](https://jobright.ai/jobs/info/69dfec415913ad33981468b3?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Apr 15 |
-| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69dfebc1e34484770f1ab45d?utm_campaign=1079&utm_source=git)** | Corvallis, Oregon, United States of America | On Site | Apr 15 |
-| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69dfebc1e34484770f1ab45e?utm_campaign=1079&utm_source=git)** | Spring, Texas, United States of America | On Site | Apr 15 |
+| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69dfebc1e34484770f1ab45e?utm_campaign=1079&utm_source=git)** | Spring, Texas, United States of America | On Site | Apr 15 |
+| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69dfebc1e34484770f1ab45d?utm_campaign=1079&utm_source=git)** | Corvallis, Oregon, United States of America | On Site | Apr 15 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69dfeb965913ad3398146804?utm_campaign=1079&utm_source=git)** | Vancouver, Washington, United States of America | On Site | Apr 15 |
 | **[BMO](http://www.bmo.com)** | **[Technology  Analyst, Summer 2026 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/69dfeb8c14bf245fc7a6e920?utm_campaign=1079&utm_source=git)** | Naperville, IL, USA | On Site | Apr 15 |
 | **[Syntax](http://www.syntax.com/)** | **[Intern, Public Cloud](https://jobright.ai/jobs/info/69dfe8bae34484770f1ab389?utm_campaign=1079&utm_source=git)** | Montreal, QC | On Site | Apr 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69dfcf8c14bf245fc7a6df89?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Apr 15 |
 | **[Catapult Federal Services](https://catapultsg.com/)** | **[Senior GO Software Engineer - Card Services](https://jobright.ai/jobs/info/69dfcf6d4920452a85dcfaad?utm_campaign=1079&utm_source=git)** | Monett, MO | Remote | Apr 15 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Solutions Architect Intern Summer 2026](https://jobright.ai/jobs/info/69dfced45913ad3398145e59?utm_campaign=1079&utm_source=git)** | US - CO, Colorado Springs | On Site | Apr 15 |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Beyond Moore Computational Research Scientist](https://jobright.ai/jobs/info/69dfcdd6e34484770f1aa98a?utm_campaign=1079&utm_source=git)** | California, United States | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
