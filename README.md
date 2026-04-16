@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tektronix](http://www.tek.com)** | **[Software Engineering Intern - (Summer 2026)](https://jobright.ai/jobs/info/69d5cd23e63cea7a8b6650ac?utm_campaign=1079&utm_source=git)** | Beaverton, OR | Hybrid | Apr 16 |
+| **[Endgame](https://endgame.ai/)** | **[Frontend Developer Intern](https://jobright.ai/jobs/info/69e0c9bf40a62c1fa93b4d90?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 16 |
+| **[Producer Labs](https://www.producerlabs.io/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e0c5ead612782e61145115?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 16 |
+| **[Octave](https://www.octave.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/69c45abb6f4f855eeda6e085?utm_campaign=1079&utm_source=git)** | Madison, AL | Remote | Apr 16 |
+| **[GenPark](https://genpark.ai)** | **[Web Development Intern](https://jobright.ai/jobs/info/69e0c303fd1c0456f3faa971?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 16 |
+| **[Snowflake](https://www.snowflake.com)** | **[Software Engineer Intern (Toronto) - Summer 2026](https://jobright.ai/jobs/info/69a8ab9a2580d3183f00b033?utm_campaign=1079&utm_source=git)** | Ontario, Canada | On Site | Apr 16 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[.NET Senior Software Engineer](https://jobright.ai/jobs/info/69e0bd7c6c20aa114953d59c?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Apr 16 |
 | ↳ | **[.NET Senior Software Engineer](https://jobright.ai/jobs/info/69e0bd2b40a62c1fa93b4938?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 16 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69df2101433ac8430e0df0b4?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Apr 16 |
@@ -132,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69dfec7314bf245fc7a6ea76?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Apr 15 |
 | **[Praxis Engineering](http://www.praxiseng.com)** | **[Summer 2026 Software Developer Internship](https://jobright.ai/jobs/info/69dfec63e34484770f1ab559?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD | On Site | Apr 15 |
 | **[ChargePoint](http://www.chargepoint.com)** | **[Software QA Engineering - Intern](https://jobright.ai/jobs/info/69dfec415913ad33981468b3?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | Apr 15 |
-| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69dfebc1e34484770f1ab45e?utm_campaign=1079&utm_source=git)** | Spring, Texas, United States of America | On Site | Apr 15 |
-| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69dfebc1e34484770f1ab45d?utm_campaign=1079&utm_source=git)** | Corvallis, Oregon, United States of America | On Site | Apr 15 |
+| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69dfebc1e34484770f1ab45d?utm_campaign=1079&utm_source=git)** | Corvallis, Oregon, United States of America | On Site | Apr 15 |
+| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69dfebc1e34484770f1ab45e?utm_campaign=1079&utm_source=git)** | Spring, Texas, United States of America | On Site | Apr 15 |
 | ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69dfeb965913ad3398146804?utm_campaign=1079&utm_source=git)** | Vancouver, Washington, United States of America | On Site | Apr 15 |
 | **[BMO](http://www.bmo.com)** | **[Technology  Analyst, Summer 2026 (Internship) - 10 Weeks](https://jobright.ai/jobs/info/69dfeb8c14bf245fc7a6e920?utm_campaign=1079&utm_source=git)** | Naperville, IL, USA | On Site | Apr 15 |
 | **[Syntax](http://www.syntax.com/)** | **[Intern, Public Cloud](https://jobright.ai/jobs/info/69dfe8bae34484770f1ab389?utm_campaign=1079&utm_source=git)** | Montreal, QC | On Site | Apr 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Socure](http://www.socure.com)** | **[Engineering Intern-RiskOS](https://jobright.ai/jobs/info/69dfdacdaba61f141731ddc4?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 15 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Software Developer Intern - Summer 2026](https://jobright.ai/jobs/info/69dfda08433ac8430e0e2975?utm_campaign=1079&utm_source=git)** | US - Remote (Any Location) | Remote | Apr 15 |
 | **[UMB Bank](https://www.umb.com/)** | **[IT Blockchain Intern](https://jobright.ai/jobs/info/69dfda05aba61f141731dd1c?utm_campaign=1079&utm_source=git)** | Kansas City MO | Hybrid | Apr 15 |
-| **[Leidos](https://www.leidos.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69dfd9f914bf245fc7a6e268?utm_campaign=1079&utm_source=git)** | Atlantic City, NJ | On Site | Apr 15 |
-| **[Kiewit](http://www.kiewit.com)** | **[Drainage Engineer Intern - Kiewit Infrastructure Engineers- Texas (Summer 2026)](https://jobright.ai/jobs/info/698ada434db8972cec005426?utm_campaign=1079&utm_source=git)** | Westlake, TX | On Site | Apr 15 |
-| **[Lightmatter](https://lightmatter.co)** | **[Reliability Test, Intern](https://jobright.ai/jobs/info/69dfd82ae34484770f1aad17?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Apr 15 |
-| **[Strata Decision Technology](http://www.stratadecision.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69cdb0ea891d7b11cfcbee3c?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer (SkillBridge Intern) - 23875](https://jobright.ai/jobs/info/68cce080d11b445e0bee3779?utm_campaign=1079&utm_source=git)** | Greater Roanoke Area | On Site | Apr 15 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[Solutions Architect Intern Summer 2026](https://jobright.ai/jobs/info/69dfd694aba61f141731db31?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
