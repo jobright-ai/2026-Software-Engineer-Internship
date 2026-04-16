@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amdocs](http://www.amdocs.com)** | **[Software Engineer Intern - Rogers (GenAI / Log Mining)](https://jobright.ai/jobs/info/69e04c9c14bf245fc7a70d71?utm_campaign=1079&utm_source=git)** | Brampton, ON | On Site | Apr 15 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Information Technology Development Program - Internship](https://jobright.ai/jobs/info/69e049a0e34484770f1ad7df?utm_campaign=1079&utm_source=git)** | Wisconsin, United States | Hybrid | Apr 15 |
+| **[Synaptics Incorporated](https://www.synaptics.com)** | **[Intern, Embedded Software](https://jobright.ai/jobs/info/69e0499a433ac8430e0e53c3?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 15 |
 | **[Unbound](https://getunbound.ai)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e03ecd433ac8430e0e5179?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 15 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Intern - Software Engineer](https://jobright.ai/jobs/info/69e03e5ae34484770f1ad579?utm_campaign=1079&utm_source=git)** | Santa Clara,CA | On Site | Apr 15 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e03ae814bf245fc7a70a1e?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69a92f6779f3f4037f43f219?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 15 |
 | **[Deepiri](https://deepiri.com)** | **[Software Development Intern (QA, Open Source)](https://jobright.ai/jobs/info/69dfaf044920452a85dcec9a?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Redwire](https://redwirespace.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69ce414c366bb95ba5509932?utm_campaign=1079&utm_source=git)** | Littleton, CO | On Site | Apr 15 |
-| **[ServiceTrade](http://servicetrade.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69c7c686e565c26a7002bb8e?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Apr 15 |
-| **[MSI Express](https://msiexpress.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69bc483e4828227293fde99f?utm_campaign=1079&utm_source=git)** | Portage, IN | On Site | Apr 15 |
-| ↳ | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69bc48154828227293fde945?utm_campaign=1079&utm_source=git)** | Batavia, IL | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
