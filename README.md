@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69e09f139564e855a25de5fd?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 16 |
 | **[Collaborative Drug Discovery - CDD Vault](http://www.collaborativedrug.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e077e29564e855a25ddb53?utm_campaign=1079&utm_source=git)** | Newport News, VA | Hybrid | Apr 15 |
 | **[Thales](http://www.thalesgroup.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e077d7c5691b27c176d93f?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Apr 15 |
 | **[Carboncopies Foundation](https://carboncopies.org)** | **[C++ Software Engineering Summer 2026 Unpaid Internship](https://jobright.ai/jobs/info/69e075f8cf5a9e0c33c86aa3?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69dfcf8c14bf245fc7a6df89?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | Apr 15 |
 | **[Catapult Federal Services](https://catapultsg.com/)** | **[Senior GO Software Engineer - Card Services](https://jobright.ai/jobs/info/69dfcf6d4920452a85dcfaad?utm_campaign=1079&utm_source=git)** | Monett, MO | Remote | Apr 15 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Solutions Architect Intern Summer 2026](https://jobright.ai/jobs/info/69dfced45913ad3398145e59?utm_campaign=1079&utm_source=git)** | US - CO, Colorado Springs | On Site | Apr 15 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Beyond Moore Computational Research Scientist](https://jobright.ai/jobs/info/69dfcdd6e34484770f1aa98a?utm_campaign=1079&utm_source=git)** | California, United States | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
