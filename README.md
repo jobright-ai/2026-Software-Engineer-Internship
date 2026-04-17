@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revvity](https://www.revvity.com/)** | **[Full-Stack AI Developer Intern](https://jobright.ai/jobs/info/69e1dff76c20aa1149545491?utm_campaign=1079&utm_source=git)** | CAD Remote – ON | Remote | Apr 17 |
+| **[Spacial](https://spacial.io)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69e1da4ffd1c0456f3fb1798?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Apr 16 |
 | **[WGI](https://wginc.com/)** | **[Intern - Software Development Summer 2026](https://jobright.ai/jobs/info/69e1c6c3fd1c0456f3faffe5?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 16 |
 | **[Chartbeat](http://chartbeat.com)** | **[QA Engineering Internship](https://jobright.ai/jobs/info/69c6ceeae565c26a70022df1?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 16 |
 | **[SAIC](http://www.saic.com)** | **[Technical Intern](https://jobright.ai/jobs/info/69e1c29bd612782e6114a4b6?utm_campaign=1079&utm_source=git)** | Reston, VA | Hybrid | Apr 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (Bachelor/Master)](https://jobright.ai/jobs/info/69bcc86945e08b3dc1f99223?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Columbus Metro Software Engineering High School Internship – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69a939e679f3f4037f4407fc?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | Apr 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Experimentation & Evaluation, Data Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978167788e2b47213bc15f7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Raytheon Summer Intern- Software Engineer (Onsite)](https://jobright.ai/jobs/info/69e0ae5ae7504b37647310f4?utm_campaign=1079&utm_source=git)** | Aurora, CO | On Site | Apr 16 |
-| **[Collaborative Drug Discovery - CDD Vault](http://www.collaborativedrug.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e077e29564e855a25ddb53?utm_campaign=1079&utm_source=git)** | Newport News, VA | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
