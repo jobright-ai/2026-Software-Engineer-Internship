@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698da47bf64d441a164fcb69?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 17 |
 | **[Baxter International Inc.](http://www.baxter.com)** | **[Intern, R&D Embedded Software](https://jobright.ai/jobs/info/69e2346dcda04a63293a0251?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Apr 17 |
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/69c59e63e565c26a70012bca?utm_campaign=1079&utm_source=git)** | Lockport, NY | On Site | Apr 17 |
-| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Corporate Applications](https://jobright.ai/jobs/info/69e22c625183fd1fa64f9c8c?utm_campaign=1079&utm_source=git)** | 4299 NW Urbandale Dr, Urbandale, IA, 50322, US | On Site | Apr 17 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[UICC Engineering Intern](https://jobright.ai/jobs/info/69c551ac1818a24cd84b3d2a?utm_campaign=1079&utm_source=git)** | Dulles, VA | Hybrid | Apr 17 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[CORE Studio Intern](https://jobright.ai/jobs/info/69a950a87f9271426f882d26?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Persona AI](https://personainc.ai/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6972c76a584a1c1ef6fdd999?utm_campaign=1079&utm_source=git)** | Greater Houston | On Site | Apr 17 |
@@ -131,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Optimization Systems Analysis Intern](https://jobright.ai/jobs/info/69e12bdcd612782e61147323?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Apr 16 |
 | **[Gallagher](https://www.ajg.com/)** | **[GTS Corp Intern](https://jobright.ai/jobs/info/69c456d66f4f855eeda6cbc4?utm_campaign=1079&utm_source=git)** | Rolling Meadows, IL | On Site | Apr 16 |
 | **[ALSO.](https://ridealso.com)** | **[Software Engineering Intern, Firmware - Summer 2026](https://jobright.ai/jobs/info/69e1275840a62c1fa93b6cfc?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Apr 16 |
+| **[Pixelogic Media](https://www.pixelogicmedia.com/)** | **[Intern, Applications Developer](https://jobright.ai/jobs/info/69e12cd540a62c1fa93b6f0f?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Apr 16 |
 | **[Washington University in St. Louis](https://washu.edu/)** | **[Software Engineering Intern (Time-Limited/Remote) - WashU IT](https://jobright.ai/jobs/info/69e12007d612782e61146fd4?utm_campaign=1079&utm_source=git)** | St Louis, MO | Remote | Apr 16 |
-| **[Pixelogic Media](https://www.pixelogicmedia.com/)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/69e12cd540a62c1fa93b6f0f?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | Apr 16 |
 | **[U-Haul](http://www.uhaul.com/)** | **[iOS Developer Intern](https://jobright.ai/jobs/info/69e11cbcff71e82d604b5361?utm_campaign=1079&utm_source=git)** | Phoenix, Arizona | Remote | Apr 16 |
 | ↳ | **[Android Developer Intern](https://jobright.ai/jobs/info/69e11caed612782e61146f72?utm_campaign=1079&utm_source=git)** | Phoenix, Arizona | Remote | Apr 16 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Software Developer Intern - Fall 2026](https://jobright.ai/jobs/info/69e11690fd1c0456f3fac6fc?utm_campaign=1079&utm_source=git)** | Apex, NC | Hybrid | Apr 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Sr. Batch Developer (UNIX/LINUX/C/SQL)](https://jobright.ai/jobs/info/69c37eb9753c101b21575738?utm_campaign=1079&utm_source=git)** | Mississippi, United States | Remote | Apr 16 |
 | **[PsiQuantum](https://www.psiquantum.com)** | **[Intern, Software Engineering - Computational Chemistry](https://jobright.ai/jobs/info/69c4221233eecf3107943d87?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Apr 16 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Senior Full Stack Software Engineer](https://jobright.ai/jobs/info/69a79a6276bbe83d3afafc5b?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 16 |
+| **[PsiQuantum](https://www.psiquantum.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69c4221733eecf3107943d98?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
