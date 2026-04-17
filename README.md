@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Memory and Personalization (Fall)](https://jobright.ai/jobs/info/69e2540abe46fa3a4ef56e51?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Apr 17 |
+| **[RightOn Education](https://www.rightoneducation.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69e2519a3ce36005badbdd24?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Apr 17 |
 | **[Baxter International Inc.](http://www.baxter.com)** | **[Intern, Embedded Software R&D](https://jobright.ai/jobs/info/69e236e46523147bd0d87f79?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Apr 17 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Test Engineer Intern](https://jobright.ai/jobs/info/698d15c2f64d441a164efc16?utm_campaign=1079&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 17 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69a9db9b2ebd316bece16bdd?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EarnIn](https://www.earnin.com)** | **[Mobile Engineer Intern (iOS)](https://jobright.ai/jobs/info/69d6853f48f0c8161d2f83f0?utm_campaign=1079&utm_source=git)** | Mountain View, US | Hybrid | Apr 16 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Sr. Batch Developer (UNIX/LINUX/C/SQL)](https://jobright.ai/jobs/info/69c37eb9753c101b21575738?utm_campaign=1079&utm_source=git)** | Mississippi, United States | Remote | Apr 16 |
 | **[PsiQuantum](https://www.psiquantum.com)** | **[Intern, Software Engineering - Computational Chemistry](https://jobright.ai/jobs/info/69c4221233eecf3107943d87?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Apr 16 |
-| **[BetterHelp](https://www.betterhelp.com)** | **[Senior Full Stack Software Engineer](https://jobright.ai/jobs/info/69a79a6276bbe83d3afafc5b?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 16 |
-| **[PsiQuantum](https://www.psiquantum.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69c4221733eecf3107943d98?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
