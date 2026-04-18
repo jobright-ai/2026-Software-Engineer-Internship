@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MITRE](http://www.mitre.org)** | **[Software Engineering Graduate Intern](https://jobright.ai/jobs/info/69e2ce1bbe46fa3a4ef58f42?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Apr 17 |
 | **[Introba](https://www.introba.com)** | **[Intern, Technology Designer](https://jobright.ai/jobs/info/69e2c68c3770bd5361cd9f60?utm_campaign=1079&utm_source=git)** | Coral Gables, FL | On Site | Apr 17 |
 | **[SelectQuote Insurance Services](https://www.selectquote.com/)** | **[Intern - IT Application Development](https://jobright.ai/jobs/info/697ef68bce48107c054316c5?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Leidos](https://www.leidos.com)** | **[Jr. Software Engineer Intern](https://jobright.ai/jobs/info/69e2b364be46fa3a4ef584e5?utm_campaign=1079&utm_source=git)** | Tucson, AZ | On Site | Apr 17 |
 | ↳ | **[Engineering Intern – Software/App Development](https://jobright.ai/jobs/info/69e2b27a3770bd5361cd9915?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Apr 17 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - SQL Developer](https://jobright.ai/jobs/info/69b063b40b2db6275c043cc6?utm_campaign=1079&utm_source=git)** | Irving, TX | On Site | Apr 17 |
+| **[Leadership Triangle](https://leadershiptriangle.com)** | **[Lead Software Platform Engineer-Foundational Platform & Interoperability](https://jobright.ai/jobs/info/69e2d2533770bd5361cda38b?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Apr 17 |
 | **[Hermeus](http://www.hermeus.com)** | **[Modeling & Simulation Software Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69e29d133ce36005badbee9b?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[SAP BTP Senior Developer - (Open to remote)](https://jobright.ai/jobs/info/69e1bae86c20aa1149542a9d?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | Apr 17 |
 | **[Hermeus](http://www.hermeus.com)** | **[Modeling & Simulation Software Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69e29653fcfcbd43860a3947?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
@@ -77,10 +79,11 @@ For a complete list, click the following sortable link below:
 | **[Dematic](http://www.dematic.com)** | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69e28b592f2865359307706e?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Technology Intern – AI & Accounting Automation](https://jobright.ai/jobs/info/69e2b3dfbe46fa3a4ef58596?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[Profile Engineer Intern](https://jobright.ai/jobs/info/69e2884dfcfcbd43860a3493?utm_campaign=1079&utm_source=git)** | Dulles, VA | On Site | Apr 17 |
-| **[Prox Shopping](www.joinprox.com)** | **[Software Engineering Intern (Unpaid) / Startup](https://jobright.ai/jobs/info/69e2acb23ce36005badbf2a9?utm_campaign=1079&utm_source=git)** | West Hollywood, CA | On Site | Apr 17 |
 | **[Dematic](http://www.dematic.com)** | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69e28047fcfcbd43860a32f5?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Apr 17 |
 | ↳ | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69e280273770bd5361cd8b68?utm_campaign=1079&utm_source=git)** | Wauwatosa, WI | On Site | Apr 17 |
 | **[Laserfiche](http://www.laserfiche.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69c595281818a24cd84b8169?utm_campaign=1079&utm_source=git)** | Long Beach, CA | Hybrid | Apr 17 |
+| **[Piper Sandler](https://www.pipersandler.com/)** | **[2026 Summer Internship Program - Technology (Full Stack Development)](https://jobright.ai/jobs/info/69b81e6e56973837413d4b79?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | Apr 17 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/69c357bf7a7a0045db88ee7d?utm_campaign=1079&utm_source=git)** | Lexington, KY | Hybrid | Apr 17 |
 | **[HPR (Hyannis Port Research)](http://hyannisportresearch.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69e27b4cbe46fa3a4ef576c9?utm_campaign=1079&utm_source=git)** | Needham, MA | On Site | Apr 17 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Software Test Engineering Intern](https://jobright.ai/jobs/info/69e279622f28653593076c16?utm_campaign=1079&utm_source=git)** | Kirkland, WA | Hybrid | Apr 17 |
 | **[Lynk](https://www.lynk.world)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e272682f28653593076b05?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | Apr 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Front End Developer Intern](https://jobright.ai/jobs/info/69c2d11194007a2195decf72?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | Apr 16 |
 | **[BlackSky](http://www.blacksky.com/)** | **[Software Development Engineer in Test (SDET) Intern](https://jobright.ai/jobs/info/69e16adafd1c0456f3fae393?utm_campaign=1079&utm_source=git)** | Herndon, VA | Hybrid | Apr 16 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Information Systems Intern- Summer 2026](https://jobright.ai/jobs/info/69e16a91fd1c0456f3fae320?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| **[Burns Engineering, Inc.](http://burns-group.com)** | **[Software Engineering Intern-Rail & Transit](https://jobright.ai/jobs/info/69e1697ad612782e611488cc?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | Apr 16 |
-| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Memory and Personalization (Fall)](https://jobright.ai/jobs/info/69e16563d612782e61148756?utm_campaign=1079&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | Apr 16 |
-| **[Avathon](https://avathon.com)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6980f912abff4c399a9fc5f9?utm_campaign=1079&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
