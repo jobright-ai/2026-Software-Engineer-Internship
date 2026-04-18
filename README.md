@@ -126,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Test Engineer Intern](https://jobright.ai/jobs/info/698d15c2f64d441a164efc16?utm_campaign=1079&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 17 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Engineering Internship - Summer 2026](https://jobright.ai/jobs/info/69a9db9b2ebd316bece16bdd?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698da47bf64d441a164fcb69?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 17 |
-| **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/69c59e63e565c26a70012bca?utm_campaign=1079&utm_source=git)** | Lockport, NY | On Site | Apr 17 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[UICC Engineering Intern](https://jobright.ai/jobs/info/69c551ac1818a24cd84b3d2a?utm_campaign=1079&utm_source=git)** | Dulles, VA | Hybrid | Apr 17 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[CORE Studio Intern](https://jobright.ai/jobs/info/69a950a87f9271426f882d26?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 17 |
 | **[Persona AI](https://personainc.ai/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6972c76a584a1c1ef6fdd999?utm_campaign=1079&utm_source=git)** | Greater Houston | On Site | Apr 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e1789eacc736112f5c3dc5?utm_campaign=1079&utm_source=git)** | Appleton, WI | On Site | Apr 16 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e1788140a62c1fa93b8a05?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Apr 16 |
 | **[Nascent Markets](https://www.nascentmarkets.xyz/)** | **[Agentic Systems Intern (Graduate Level)](https://jobright.ai/jobs/info/69e296675c44d4710fe25df1?utm_campaign=1079&utm_source=git)** | Toronto, ON | Remote | Apr 16 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/69e31a283770bd5361cda9d0?utm_campaign=1079&utm_source=git)** | Lexington Park, Maryland, 20653 | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
