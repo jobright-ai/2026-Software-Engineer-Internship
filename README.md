@@ -102,10 +102,10 @@ For a complete list, click the following sortable link below:
 | **[Surge Energy America](https://www.surgeenergya.com)** | **[Information Technology Summer Intern](https://jobright.ai/jobs/info/69e271d35c44d4710fe2543c?utm_campaign=1079&utm_source=git)** | Greater Houston | On Site | Apr 17 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/698d32e5f64d441a164f2d85?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
 | **[Dematic](http://www.dematic.com)** | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69e28f51fcfcbd43860a37b5?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Apr 17 |
-| **[KION Group](http://www.kiongroup.com/)** | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69e3366c3770bd5361cdb69d?utm_campaign=1079&utm_source=git)** | DEMATIC Dallas, TX | On Site | Apr 17 |
-| ↳ | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69e33683be46fa3a4ef5a2d7?utm_campaign=1079&utm_source=git)** | Wauwatosa, WI, United States | On Site | Apr 17 |
-| ↳ | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69e335e05c44d4710fe28458?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Apr 17 |
+| **[KION Group](http://www.kiongroup.com/)** | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69e335e05c44d4710fe28458?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Apr 17 |
 | ↳ | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69e3367d3ce36005badc1167?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI, United States | On Site | Apr 17 |
+| ↳ | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69e33683be46fa3a4ef5a2d7?utm_campaign=1079&utm_source=git)** | Wauwatosa, WI, United States | On Site | Apr 17 |
+| ↳ | **[Software Development in Test Intern](https://jobright.ai/jobs/info/69e3366c3770bd5361cdb69d?utm_campaign=1079&utm_source=git)** | DEMATIC Dallas, TX | On Site | Apr 17 |
 | **[American Integrity Insurance Company](http://aiicfl.com)** | **[Summer Intern – Information Technology Application Development](https://jobright.ai/jobs/info/69c5cd601818a24cd84bb545?utm_campaign=1079&utm_source=git)** | Tampa, FL | On Site | Apr 17 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Full Stack Intern](https://jobright.ai/jobs/info/69e265a5fcfcbd43860a2bb6?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 17 |
 | **[ampliphi RMS](https://www.getampliphi.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d88bbab67cec4f9b09d38c?utm_campaign=1079&utm_source=git)** | Canada | Remote | Apr 17 |
@@ -132,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698da47bf64d441a164fcb69?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 17 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[UICC Engineering Intern](https://jobright.ai/jobs/info/69c551ac1818a24cd84b3d2a?utm_campaign=1079&utm_source=git)** | Dulles, VA | Hybrid | Apr 17 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[CORE Studio Intern](https://jobright.ai/jobs/info/69a950a87f9271426f882d26?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 17 |
+| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Corporate Applications](https://jobright.ai/jobs/info/69e3388abe46fa3a4ef5a3de?utm_campaign=1079&utm_source=git)** | 4299 NW Urbandale Dr, Urbandale, IA, 50322, US | On Site | Apr 17 |
 | **[Persona AI](https://personainc.ai/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6972c76a584a1c1ef6fdd999?utm_campaign=1079&utm_source=git)** | Greater Houston | On Site | Apr 17 |
 | **[Click Bond](http://clickbond.com)** | **[Intern, Quality Assurance Engineering-CT](https://jobright.ai/jobs/info/69e21a182ef4b138ddb25a11?utm_campaign=1079&utm_source=git)** | Watertown, CT | On Site | Apr 17 |
 | **[TMX Group](http://www.tmx.com)** | **[Enterprise Architecture Coordinator Intern (Contract)](https://jobright.ai/jobs/info/69c5b1d3aa9a29199e808dc9?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aflac](http://www.aflac.com)** | **[Solutions Engineer (Mulesoft)](https://jobright.ai/jobs/info/69e18bc3acc736112f5c41e6?utm_campaign=1079&utm_source=git)** | Columbus, GA | Hybrid | Apr 16 |
 | **[Specialized Dental Partners](https://specializeddental.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69e18b896c20aa1149541a0b?utm_campaign=1079&utm_source=git)** | Franklin, TN | On Site | Apr 16 |
 | **[By Light Professional IT Services](http://www.bylight.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/69e1835eff71e82d604b745c?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Apr 16 |
-| **[Trumid](https://www.trumid.com)** | **[Delivery Management Intern](https://jobright.ai/jobs/info/69de87beaba61f1417315871?utm_campaign=1079&utm_source=git)** | New York City | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
