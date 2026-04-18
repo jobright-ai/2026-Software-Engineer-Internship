@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intuitive Health](https://www.iheruc.com)** | **[Intern, Web Development](https://jobright.ai/jobs/info/69e2eb442f28653593078af1?utm_campaign=1079&utm_source=git)** | Plano, TX | Remote | Apr 17 |
 | **[MITRE](http://www.mitre.org)** | **[Software Engineering Graduate Intern](https://jobright.ai/jobs/info/69e2e160be46fa3a4ef594c3?utm_campaign=1079&utm_source=git)** | Bedford, MA | On Site | Apr 17 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bdde224828227293009234?utm_campaign=1079&utm_source=git)** | Glendale, CA | Hybrid | Apr 17 |
 | **[MITRE](http://www.mitre.org)** | **[Software Engineering Graduate Intern](https://jobright.ai/jobs/info/69e2ce1bbe46fa3a4ef58f42?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trumid](https://www.trumid.com)** | **[Delivery Management Intern](https://jobright.ai/jobs/info/69de87beaba61f1417315871?utm_campaign=1079&utm_source=git)** | New York City | On Site | Apr 16 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e1789eacc736112f5c3dc5?utm_campaign=1079&utm_source=git)** | Appleton, WI | On Site | Apr 16 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e1788140a62c1fa93b8a05?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Apr 16 |
-| **[Nascent Markets](https://www.nascentmarkets.xyz/)** | **[Agentic Systems Intern (Graduate Level)](https://jobright.ai/jobs/info/69e296675c44d4710fe25df1?utm_campaign=1079&utm_source=git)** | Toronto, ON | Remote | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
