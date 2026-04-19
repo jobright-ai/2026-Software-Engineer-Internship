@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prescient Edge](https://www.prescientedge.com/)** | **[Junior Software Developer Intern](https://jobright.ai/jobs/info/69e544ee3aa0c47964390c6b?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Apr 19 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Design Verification Engineer, Intern](https://jobright.ai/jobs/info/69d7f194f4ea471a51fe2a16?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Apr 19 |
 | **[Todd](https://toddagriscience.com)** | **[Software Engineer Intern, Frontend (Fall 26)](https://jobright.ai/jobs/info/69e52ef63cfd986aa6f82305?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 19 |
 | **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d83af1f4ea471a51fe4bb7?utm_campaign=1079&utm_source=git)** | Greater Boston | On Site | Apr 19 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[SelectQuote Insurance Services](https://www.selectquote.com/)** | **[Intern - IT Application Development](https://jobright.ai/jobs/info/69d6d259706f771673bae466?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Intern](https://jobright.ai/jobs/info/6944e8ba94730b73987818e8?utm_campaign=1079&utm_source=git)** | Centennial, CO | On Site | Apr 17 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Digital Transformation Intern (Summer 2026)](https://jobright.ai/jobs/info/69e32f2fbe46fa3a4ef5975e?utm_campaign=1079&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 17 |
-| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[DPS - IT - College Information Technology Quality Assurance Team Intern (Unpaid) - 1570](https://jobright.ai/jobs/info/69e4c0ca7820c036924cb912?utm_campaign=1079&utm_source=git)** | AUSTIN HQ (MAIN)5805 N LAMAR BLVD | On Site | Apr 17 |
-| ↳ | **[DPS - IT - College Information Technology Quality Assurance Team Intern (Unpaid) - 1570](https://jobright.ai/jobs/info/69e4c113f8fa2f3ec329d24c?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 17 |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[DPS - IT - College Information Technology Quality Assurance Team Intern (Unpaid) - 1570](https://jobright.ai/jobs/info/69e4c113f8fa2f3ec329d24c?utm_campaign=1079&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 17 |
+| ↳ | **[DPS - IT - College Information Technology Quality Assurance Team Intern (Unpaid) - 1570](https://jobright.ai/jobs/info/69e4c0ca7820c036924cb912?utm_campaign=1079&utm_source=git)** | AUSTIN HQ (MAIN)5805 N LAMAR BLVD | On Site | Apr 17 |
 | **[MITRE](http://www.mitre.org)** | **[Software Engineering Graduate Intern](https://jobright.ai/jobs/info/69e2e160be46fa3a4ef594c3?utm_campaign=1079&utm_source=git)** | Bedford, MA | On Site | Apr 17 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bdde224828227293009234?utm_campaign=1079&utm_source=git)** | Glendale, CA | Hybrid | Apr 17 |
 | **[Intuitive Health](https://www.iheruc.com)** | **[Intern, Web Development](https://jobright.ai/jobs/info/69e2eb442f28653593078af1?utm_campaign=1079&utm_source=git)** | Plano, TX | Remote | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Software Test Engineering Intern](https://jobright.ai/jobs/info/69e279622f28653593076c16?utm_campaign=1079&utm_source=git)** | Kirkland, WA | Hybrid | Apr 17 |
 | **[Mclaurin Aerospace](https://mclaurin.aero)** | **[Flight Software Research Intern - Pendulum Project](https://jobright.ai/jobs/info/69e4bb25f8fa2f3ec329c69b?utm_campaign=1079&utm_source=git)** | 800 South Gay Street suite 1425, Knoxville, TN 37929, USA | On Site | Apr 17 |
 | **[Lynk](https://www.lynk.world)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e272682f28653593076b05?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | Apr 17 |
-| **[Linde](https://www.linde.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69e2725f5c44d4710fe2547e?utm_campaign=1079&utm_source=git)** | Tonawanda, NY | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
