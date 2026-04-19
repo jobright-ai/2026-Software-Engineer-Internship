@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Design Verification Engineer, Intern](https://jobright.ai/jobs/info/69d7f194f4ea471a51fe2a16?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Apr 19 |
 | **[Todd](https://toddagriscience.com)** | **[Software Engineer Intern, Frontend (Fall 26)](https://jobright.ai/jobs/info/69e52ef63cfd986aa6f82305?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 19 |
 | **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d83af1f4ea471a51fe4bb7?utm_campaign=1079&utm_source=git)** | Greater Boston | On Site | Apr 19 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineering Intern 4 - 27552](https://jobright.ai/jobs/info/69ab6eed142d5b4265fca50a?utm_campaign=1079&utm_source=git)** | Virginia Beach, VA | On Site | Apr 19 |
@@ -69,13 +70,12 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Research Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/691ea3b2a49a885af9a2a19e?utm_campaign=1079&utm_source=git)** | In-Office | On Site | Apr 19 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Enovia PLM Development Intern Summer 2026](https://jobright.ai/jobs/info/691aa30715b4156367189930?utm_campaign=1079&utm_source=git)** | Cranberry Township, PA | Remote | Apr 19 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Software Engineer, Intern (Summer 2027)](https://jobright.ai/jobs/info/69cd81facdb525785fb89792?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Apr 19 |
-| **[Wunder](https://www.linkedin.com/company/78751950)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69e47ad67820c036924ca9cb?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Apr 18 |
 | **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e473879b6eb37e26f7a731?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 18 |
 | **[Planet](http://www.planet.com)** | **[Intern, Software Engineer, Mission Systems](https://jobright.ai/jobs/info/69e43ceccd85881c95060262?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
 | **[Dematic](http://www.dematic.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69e4cdefe0cd471b2f121b05?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI | On Site | Apr 18 |
 | **[Cartesian](http://cartesian.systems)** | **[Software Engineering Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/69c59d611818a24cd84b8457?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Apr 18 |
-| **[Tacit](https://tacit.ai)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e4ce139b6eb37e26f7c2da?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69c361bb7a7a0045db891b6f?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Apr 18 |
+| **[Tacit](https://tacit.ai)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69c361bb7a7a0045db891b6f?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Apr 18 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e4ce139b6eb37e26f7c2da?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69e3fd5d0ddab31db6f9783e?utm_campaign=1079&utm_source=git)** | Dallas, TX | Hybrid | Apr 18 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Computer Science Intern (AI/ML Tools) - Bachelor's (Huntsville, AL)](https://jobright.ai/jobs/info/69c6eb0eaa3c2c1995e13592?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Apr 18 |
 | **[Zip](https://www.ziphq.com)** | **[Software Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/69e1e4c06c20aa1149545ad7?utm_campaign=1079&utm_source=git)** | Toronto, ON | Hybrid | Apr 18 |
@@ -131,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[New York Air Brake](http://nyab.com)** | **[Intern, Test Engineering](https://jobright.ai/jobs/info/69e2d6ae3ce36005badc006f?utm_campaign=1079&utm_source=git)** | Watertown, NY | On Site | Apr 17 |
 | **[Leadership Triangle](https://leadershiptriangle.com)** | **[Lead Software Platform Engineer-Foundational Platform & Interoperability](https://jobright.ai/jobs/info/69e2d2533770bd5361cda38b?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Apr 17 |
 | **[Leidos](https://www.leidos.com)** | **[Engineering Intern – Software/App Development](https://jobright.ai/jobs/info/69e2d8db3770bd5361cda668?utm_campaign=1079&utm_source=git)** | Crane, IN | On Site | Apr 17 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e34e5d3ce36005badc1811?utm_campaign=1079&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Apr 17 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e34e5d3ce36005badc180c?utm_campaign=1079&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Apr 17 |
 | **[Hermeus](http://www.hermeus.com)** | **[Modeling & Simulation Software Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69e29d133ce36005badbee9b?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
 | ↳ | **[Modeling & Simulation Software Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69e29653fcfcbd43860a3947?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Software Engineer Intern - Fall](https://jobright.ai/jobs/info/69e2c4305c44d4710fe26ad0?utm_campaign=1079&utm_source=git)** | Vancouver, BC | On Site | Apr 17 |
