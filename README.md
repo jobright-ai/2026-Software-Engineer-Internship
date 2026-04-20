@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Software Engineer Intern, Frontend (Summer 26)](https://jobright.ai/jobs/info/69e56ed49b6eb37e26f7d0f4?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 19 |
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[Junior Software Developer Intern](https://jobright.ai/jobs/info/69e544ee3aa0c47964390c6b?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | Apr 19 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Design Verification Engineer, Intern](https://jobright.ai/jobs/info/69d7f194f4ea471a51fe2a16?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Apr 19 |
 | **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d83af1f4ea471a51fe4bb7?utm_campaign=1079&utm_source=git)** | Greater Boston | On Site | Apr 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/69c357bf7a7a0045db88ee7d?utm_campaign=1079&utm_source=git)** | Lexington, KY | Hybrid | Apr 17 |
 | **[HPR (Hyannis Port Research)](http://hyannisportresearch.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69e27b4cbe46fa3a4ef576c9?utm_campaign=1079&utm_source=git)** | Needham, MA | On Site | Apr 17 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Software Test Engineering Intern](https://jobright.ai/jobs/info/69e279622f28653593076c16?utm_campaign=1079&utm_source=git)** | Kirkland, WA | Hybrid | Apr 17 |
+| **[Lynk](https://www.lynk.world)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e272682f28653593076b05?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
