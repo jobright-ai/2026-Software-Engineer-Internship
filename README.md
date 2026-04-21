@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Newton Research](https://newtonresearch.ai/)** | **[Software Engineering Intern / Junior Developer (Backend + AI)](https://jobright.ai/jobs/info/69e7c11158811370cb11e3de?utm_campaign=1079&utm_source=git)** | Greater Boston Area | Hybrid | Apr 21 |
+| **[StackAdapt](https://www.stackadapt.com)** | **[Full Stack Engineer, Total Media](https://jobright.ai/jobs/info/69cc722a366bb95ba54ef7d4?utm_campaign=1079&utm_source=git)** | Canada | Remote | Apr 21 |
+| **[Natixis Corporate & Investment Banking](https://cib.natixis.com)** | **[Summer Intern - Information Technology](https://jobright.ai/jobs/info/69e7be7af8fa2f3ec32a953c?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 21 |
+| **[Lenovo](https://www.lenovo.com/in/en)** | **[Server Test Engineer](https://jobright.ai/jobs/info/69c2f684753c101b21566803?utm_campaign=1079&utm_source=git)** | Whitsett, NC | On Site | Apr 21 |
 | **[Sueep](https://sueep.com)** | **[Software Engineer Summer Intern](https://jobright.ai/jobs/info/69e7b8537820c036924d7edc?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | Remote | Apr 21 |
-| **[Whatnot](https://www.whatnot.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69af414c749500645093c5a8?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Apr 21 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[UX/UI Engineer Intern](https://jobright.ai/jobs/info/69ae89974f6bcc182809ca84?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Apr 21 |
 | **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Software Engineering Intern/Co-op, Predictive Algorithms](https://jobright.ai/jobs/info/69e7b6720a6e09555302bde3?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 21 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Intern - Embedded Software, System, and Test Engineer - 2026](https://jobright.ai/jobs/info/69d95b14f748bc5d08a4ab6d?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
 | **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Software Engineer](https://jobright.ai/jobs/info/69e7b28e0a6e09555302bd7f?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
-| **[Whatnot](https://www.whatnot.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69af1ecb749500645093892e?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[RedGuard](http://redguard.com)** | **[Web & Digital Media Intern (Summer 2026 Internship) - LANGE Shared Services](https://jobright.ai/jobs/info/69e05807b20fd532b4ae0e13?utm_campaign=1079&utm_source=git)** | Wichita, KS | On Site | Apr 21 |
 | **[MAG Aerospace](https://magaero.com/)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69e7a7c83aa0c4796439b2e0?utm_campaign=1079&utm_source=git)** | Aberdeen Proving Ground, MD, US | On Site | Apr 21 |
 | ↳ | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69e7a7c57820c036924d79b9?utm_campaign=1079&utm_source=git)** | MD-Aberdeen Proving Groun | On Site | Apr 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mark43](http://mark43.com)** | **[Mobile Engineer Intern](https://jobright.ai/jobs/info/69e66f6e3aa0c479643941e6?utm_campaign=1079&utm_source=git)** | Boston | On Site | Apr 20 |
 | **[Ichor Systems, Inc.](http://www.ichorsystems.com)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/69e66de47820c036924d05ee?utm_campaign=1079&utm_source=git)** | 50 E Greg St, Unit 105, Sparks, NV, 89431, US | On Site | Apr 20 |
 | **[AssetWorks Inc](https://www.assetworks.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e66d8fe0cd471b2f125a4a?utm_campaign=1079&utm_source=git)** | Greater Philadelphia | Remote | Apr 20 |
-| **[The Bancorp](http://www.thebancorp.com)** | **[Engineering Intern, Embedded Finance](https://jobright.ai/jobs/info/69e664f83aa0c47964393efc?utm_campaign=1079&utm_source=git)** | Greater Sioux Falls Area | On Site | Apr 20 |
-| **[407 ETR](https://407etr.com)** | **[Cloud Engineering Intern](https://jobright.ai/jobs/info/69e664c37820c036924d0372?utm_campaign=1079&utm_source=git)** | Woodbridge, Ontario | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
