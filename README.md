@@ -68,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Veolia | North America](http://growingblue.com/)** | **[Drupal Developer Intern](https://jobright.ai/jobs/info/69e84fc93aa0c4796439ee7b?utm_campaign=1079&utm_source=git)** | Paramus, NJ | On Site | Apr 21 |
 | **[State Street](https://www.statestreet.com/)** | **[Cloud Engineering Internship- 6 Month Internship- (July-Dec)](https://jobright.ai/jobs/info/69e84f8f58811370cb12240f?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Apr 21 |
 | **[BetterBasket](https://www.betterbasket.ai/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e84f6f7820c036924dbbf5?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 21 |
-| **[Radian](https://www.radian.com/)** | **[Software Engineering/Development Intern (100% remote, East Coast hours)](https://jobright.ai/jobs/info/69e848f44b0fa35a707621b8?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 21 |
-| ↳ | **[Software Engineering GenAI Intern (100% remote, East Coast hours)](https://jobright.ai/jobs/info/69e848f44b0fa35a707621ba?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 21 |
+| **[Radian](https://www.radian.com/)** | **[Software Engineering GenAI Intern (100% remote, East Coast hours)](https://jobright.ai/jobs/info/69e848f44b0fa35a707621ba?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 21 |
+| ↳ | **[Software Engineering/Development Intern (100% remote, East Coast hours)](https://jobright.ai/jobs/info/69e848f44b0fa35a707621b8?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 21 |
 | **[OrynAI](https://www.linkedin.com/company/113325962)** | **[Software Specialist](https://jobright.ai/jobs/info/69e848a93aa0c4796439eb08?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
 | **[NetApp](http://netapp.com)** | **[Performance Engineering Intern](https://jobright.ai/jobs/info/69e848943aa0c4796439ea99?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 21 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e848720a6e09555302fb25?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 21 |
@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Upbound Group](https://www.upbound.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e81a1ff8fa2f3ec32ab854?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | Apr 21 |
 | **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Software Engineering Intern/Co-op, Predictive Algorithms](https://jobright.ai/jobs/info/69e80a49e0cd471b2f12f19e?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 21 |
 | **[General Dynamics](https://www.gd.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e7e22ae0cd471b2f12e030?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ, US | Hybrid | Apr 21 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e7e20958811370cb11eff1?utm_campaign=1079&utm_source=git)** | US-AZ-Scottsdale | Hybrid | Apr 21 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e7e2090a6e09555302cb63?utm_campaign=1079&utm_source=git)** | US-TX-San Antonio | Hybrid | Apr 21 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e7e20958811370cb11eff1?utm_campaign=1079&utm_source=git)** | US-AZ-Scottsdale | Hybrid | Apr 21 |
 | **[MAG Aerospace](https://magaero.com/)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69e7e202e0cd471b2f12dfc0?utm_campaign=1079&utm_source=git)** | Aberdeen Proving Ground, MD | On Site | Apr 21 |
 | **[General Dynamics](https://www.gd.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e7e1a5f8fa2f3ec32aa09c?utm_campaign=1079&utm_source=git)** | San Antonio, TX, US | Hybrid | Apr 21 |
 | **[System Automation Corporation](http://www.systemautomation.com/)** | **[Implementation Specialist Intern](https://jobright.ai/jobs/info/69e7db2758811370cb11ec9f?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 21 |
