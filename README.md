@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SHI International Corp.](http://www.shi.com)** | **[Solutions Engineer - Intern](https://jobright.ai/jobs/info/69963013e0bddb6acac49007?utm_campaign=1079&utm_source=git)** | Piscataway, NJ | On Site | Apr 24 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - SQL Developer](https://jobright.ai/jobs/info/69b063b40b2db6275c043cc6?utm_campaign=1079&utm_source=git)** | Irving, TX | On Site | Apr 24 |
+| **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69de924de34484770f1a32d2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern (Lead Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd1f3e45e08b3dc1fa3b3a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
 | **[Lattice Semiconductor](http://www.latticesemi.com)** | **[Solution Validation Eng Intern](https://jobright.ai/jobs/info/69eb6e527820c036924f3c6b?utm_campaign=1079&utm_source=git)** | Shanghai, VA | On Site | Apr 24 |
 | **[Leidos](https://www.leidos.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69eb6e217820c036924f3bc6?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD | On Site | Apr 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Software Engineer - Orlando](https://jobright.ai/jobs/info/69ea0f410a6e09555303ee20?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Apr 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977e9c452f3c27ec64415c6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | **[ITW Automotive](https://www.itwautomotive.com)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/69e6d5bf3aa0c479643961f5?utm_campaign=1079&utm_source=git)** | Troy, MI | On Site | Apr 23 |
-| **[Alibaba Cloud](https://in.alibabacloud.com)** | **[Solution Architect Intern (North America Cloud & AI) - Sunnyvale](https://jobright.ai/jobs/info/69e9c72de0cd471b2f13f386?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Apr 23 |
-| **[Avathon](https://avathon.com)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6980f912abff4c399a9fc5f9?utm_campaign=1079&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
