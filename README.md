@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baxter International Inc.](http://www.baxter.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69ebd2d458811370cb13cfcf?utm_campaign=1079&utm_source=git)** | Raleigh, NC | On Site | Apr 24 |
+| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/69ebd2c916b2612c2a11f182?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN, US | Hybrid | Apr 24 |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/69ebc9e44b0fa35a7077ecea?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | Apr 24 |
+| **[V2X Inc](https://gov2x.com)** | **[2026 Software Engineering Intern](https://jobright.ai/jobs/info/69ebc9a57820c036924f74e1?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Apr 24 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) – Software Engineering Internship](https://jobright.ai/jobs/info/69ebc7b27820c036924f7409?utm_campaign=1079&utm_source=git)** | Columbia, Maryland, US | On Site | Apr 24 |
-| **[HP](http://www.hp.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/69ebc79216b2612c2a11eeb0?utm_campaign=1079&utm_source=git)** | Spring, Texas, United States of America | On Site | Apr 24 |
-| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69ebc76b58811370cb13cc95?utm_campaign=1079&utm_source=git)** | Porto Alegre, Rio Grande do Sul, Brazil, US | On Site | Apr 24 |
-| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69ebc6f9dc35f7132c4b3747?utm_campaign=1079&utm_source=git)** | Vancouver, Washington, United States of America | On Site | Apr 24 |
-| ↳ | **[Software Developer Internship](https://jobright.ai/jobs/info/69ebc6350a6e09555304a604?utm_campaign=1079&utm_source=git)** | Corvallis, Oregon, United States of America | On Site | Apr 24 |
 | **[Etched](https://www.etched.com)** | **[Platform Intern - ME](https://jobright.ai/jobs/info/69b4401f569738374138e3d4?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/69ebc3147820c036924f6ba1?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | Apr 24 |
 | **[Corpay](https://payments.corpay.com)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69ebc2d716b2612c2a11e5b0?utm_campaign=1079&utm_source=git)** | Peachtree Corners, GA 30092, USA | On Site | Apr 24 |
@@ -84,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Hue.](https://poweredbyhue.com)** | **[Software Engineering Intern (Full Stack)](https://jobright.ai/jobs/info/69b36f3da8ac8e70ff67b58d?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 24 |
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69ebb7a358811370cb13bf5a?utm_campaign=1079&utm_source=git)** | Rochester, MN | Hybrid | Apr 24 |
 | ↳ | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69eb7fa94b0fa35a7077b9da?utm_campaign=1079&utm_source=git)** | Sandy Springs, GA | Hybrid | Apr 24 |
-| ↳ | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/69eab77b3aa0c479643b1505?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 24 |
 | ↳ | **[Software Developer Intern 2026](https://jobright.ai/jobs/info/69eabf330a6e095553042a48?utm_campaign=1079&utm_source=git)** | Durham, NC | Hybrid | Apr 24 |
+| ↳ | **[Firmware Developer Intern 2026](https://jobright.ai/jobs/info/69eab77b3aa0c479643b1505?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 24 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Year at Palantir, Internship](https://jobright.ai/jobs/info/69eb964f7820c036924f5671?utm_campaign=1079&utm_source=git)** | Washington, D.C. | On Site | Apr 24 |
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69eb8d4858811370cb139bf1?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | Apr 24 |
 | **[System Automation Corporation](http://www.systemautomation.com/)** | **[Implementation Specialist Intern](https://jobright.ai/jobs/info/69e7db2758811370cb11ec9f?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 24 |
