@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vitu](https://www.vitu.com/)** | **[Intern](https://jobright.ai/jobs/info/69ec6ad4dc35f7132c4b6daf?utm_campaign=1079&utm_source=git)** | Agoura Hills, CA | On Site | Apr 25 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/69ec63be4b0fa35a70782331?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Apr 24 |
 | **[Point72](https://www.point72.com)** | **[2026 Technology Internship – UI/UX Engineer (Full Stack)](https://jobright.ai/jobs/info/69b8908b56973837413def8b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Central California Alliance for Health](https://thealliance.health/)** | **[Web and Digital Media Developer (Temporary)](https://jobright.ai/jobs/info/69ec5dae0a6e09555304dca6?utm_campaign=1079&utm_source=git)** | California, United States | Hybrid | Apr 24 |
-| **[GenPark](https://genpark.ai)** | **[Web development intern](https://jobright.ai/jobs/info/69ec52014b0fa35a70781cf1?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | Apr 24 |
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Intern, myQ Front End Developer (Android or iOS) (Summer 2026)](https://jobright.ai/jobs/info/69ec41850a6e09555304d88a?utm_campaign=1079&utm_source=git)** | Oak Brook, IL | On Site | Apr 24 |
 | **[Leidos](https://www.leidos.com)** | **[Visualization Engineer Intern](https://jobright.ai/jobs/info/69ec4166dc35f7132c4b645a?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 24 |
 | ↳ | **[Computer Engineering Intern](https://jobright.ai/jobs/info/69ec416316b2612c2a121e0f?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | On Site | Apr 24 |
