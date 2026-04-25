@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfe6bc8e722e7b1b54da?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
+| **[ByteDance](http://bytedance.com)** | **[Student Researcher(Multimedia Streaming) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68d04d33fb49c96ca6eaeded?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69ec87b116b2612c2a122a9f?utm_campaign=1079&utm_source=git)** | Simi Valley, CA | On Site | Apr 25 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Information Technology Development Program - Internship](https://jobright.ai/jobs/info/69ec791e4b0fa35a70782577?utm_campaign=1079&utm_source=git)** | Wisconsin, United States | Remote | Apr 25 |
 | **[Vitu](https://www.vitu.com/)** | **[Intern](https://jobright.ai/jobs/info/69ec6ad4dc35f7132c4b6daf?utm_campaign=1079&utm_source=git)** | Agoura Hills, CA | On Site | Apr 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Todd](https://toddagriscience.com)** | **[Product Engineer Intern, Frontend](https://jobright.ai/jobs/info/69eb130f16b2612c2a1187ce?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 23 |
 | **[Elevate Robotics Inc](https://www.elevaterobotics.ai/)** | **[Software Engineer – Intern Summer 2026](https://jobright.ai/jobs/info/69ced0b754f00230c6d035f9?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 23 |
 | **[MRO](http://www.mrocorp.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69ead2fd58811370cb135907?utm_campaign=1079&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | Remote | Apr 23 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69ead2db7820c036924eff81?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 23 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69ead2da16b2612c2a1179b3?utm_campaign=1079&utm_source=git)** | US- | Remote | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
