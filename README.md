@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Full stack developer intern](https://jobright.ai/jobs/info/69edbe0edc35f7132c4b95d8?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 26 |
+| **[Rumi](https://www.rumi.team/)** | **[Vibe Coder(Software Engineer Intern)](https://jobright.ai/jobs/info/69edcb95dc35f7132c4b96b6?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 26 |
+| **[SiFive](https://www.sifive.com)** | **[Intern - Firesim development](https://jobright.ai/jobs/info/69edc5e8dc35f7132c4b9634?utm_campaign=1079&utm_source=git)** | Berkeley, California, United States, US | Hybrid | Apr 26 |
 | **[West Loop Strategy](https://www.westloop.io)** | **[Software Engineer Intern Role / West Loop Strategy](https://jobright.ai/jobs/info/69edab920a6e0955530504b7?utm_campaign=1079&utm_source=git)** | Loop, WV | On Site | Apr 25 |
 | **[Eagle Eye Networks](https://www.een.com)** | **[Engineering Intern - Media and Events](https://jobright.ai/jobs/info/699ef0efce78e77b4fe4a862?utm_campaign=1079&utm_source=git)** | Rollingwood, TX | On Site | Apr 25 |
 | ↳ | **[Engineering Intern - Clip Service](https://jobright.ai/jobs/info/69c7414baa3c2c1995e16a16?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 25 |
@@ -100,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Siemens Electronic Systems Design & Manufacturing](http://www.pads.com)** | **[Strategic Student Program: R&D Software Engineering Intern (FT, Summer 2026)](https://jobright.ai/jobs/info/69ecd03f0a6e09555304ed98?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfe6bc8e722e7b1b54da?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[ByteDance](http://bytedance.com)** | **[Student Researcher(Multimedia Streaming) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68d04d33fb49c96ca6eaeded?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Software Engineer Intern eTail](https://jobright.ai/jobs/info/69d759c8cfdc6132f9472204?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d72017366bb95ba5551e29?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
+| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d72017366bb95ba5551e29?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
+| ↳ | **[Software Engineer Intern eTail](https://jobright.ai/jobs/info/69d759c8cfdc6132f9472204?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
 | **[pSemi, A Murata Company](http://www.psemi.com)** | **[Intern, Software Engineering - Summer 2026](https://jobright.ai/jobs/info/69ecb36a16b2612c2a122d79?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (AI-Native Databases) - 2026 Summer (PhD)](https://jobright.ai/jobs/info/697bed301136d179eeef8c76?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d0848354f00230c6d12ecc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern (22nd June - 11th September, remote-US)](https://jobright.ai/jobs/info/69ebb8950a6e095553049ceb?utm_campaign=1079&utm_source=git)** | Remote - US | Remote | Apr 24 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergrad Year Round - AI Software Development, Remote](https://jobright.ai/jobs/info/69ebb7a70a6e095553049be6?utm_campaign=1079&utm_source=git)** | Livermore, CA | Remote | Apr 24 |
 | **[Savannah River National Laboratory](https://www.srnl.gov)** | **[Software Developer ASPIRE Undergraduate Intern](https://jobright.ai/jobs/info/69ebaed94b0fa35a7077daff?utm_campaign=1079&utm_source=git)** | Aiken, SC | On Site | Apr 24 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e804f7e0cd471b2f12ecd2?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
