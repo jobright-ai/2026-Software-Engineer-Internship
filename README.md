@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/69edf6b758811370cb142b53?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 26 |
 | **[SiFive](https://www.sifive.com)** | **[Intern - Firesim development](https://jobright.ai/jobs/info/69edc5e8dc35f7132c4b9634?utm_campaign=1079&utm_source=git)** | Berkeley, California, United States, US | Hybrid | Apr 26 |
 | **[West Loop Strategy](https://www.westloop.io)** | **[Software Engineer Intern Role / West Loop Strategy](https://jobright.ai/jobs/info/69edab920a6e0955530504b7?utm_campaign=1079&utm_source=git)** | Loop, WV | On Site | Apr 25 |
 | **[Eagle Eye Networks](https://www.een.com)** | **[Engineering Intern - Media and Events](https://jobright.ai/jobs/info/699ef0efce78e77b4fe4a862?utm_campaign=1079&utm_source=git)** | Rollingwood, TX | On Site | Apr 25 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Motion](http://www.dragosupply.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69ecd01216b2612c2a12348b?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | Apr 25 |
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69eccff84b0fa35a70783528?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | Apr 25 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/68d00686846f0b04af686fbb?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 25 |
-| **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/69eccfdadc35f7132c4b79ca?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Onto Innovation](http://www.ontoinnovation.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/69cff46454f00230c6d0deb8?utm_campaign=1079&utm_source=git)** | Bloomington, MN | On Site | Apr 25 |
 | **[Smith](http://www.smithweb.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6998abb681476f6176b11f36?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Apr 25 |
 | **[Typeface](https://www.typeface.ai)** | **[Solutions Architect Intern](https://jobright.ai/jobs/info/69d098c8cdb525785fbac059?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 25 |
@@ -100,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Siemens Electronic Systems Design & Manufacturing](http://www.pads.com)** | **[Strategic Student Program: R&D Software Engineering Intern (FT, Summer 2026)](https://jobright.ai/jobs/info/69ecd03f0a6e09555304ed98?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfe6bc8e722e7b1b54da?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[ByteDance](http://bytedance.com)** | **[Student Researcher(Multimedia Streaming) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68d04d33fb49c96ca6eaeded?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Software Engineer Intern eTail](https://jobright.ai/jobs/info/69d759c8cfdc6132f9472204?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d72017366bb95ba5551e29?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
+| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d72017366bb95ba5551e29?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
+| ↳ | **[Software Engineer Intern eTail](https://jobright.ai/jobs/info/69d759c8cfdc6132f9472204?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
 | **[pSemi, A Murata Company](http://www.psemi.com)** | **[Intern, Software Engineering - Summer 2026](https://jobright.ai/jobs/info/69ecb36a16b2612c2a122d79?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (AI-Native Databases) - 2026 Summer (PhD)](https://jobright.ai/jobs/info/697bed301136d179eeef8c76?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d0848354f00230c6d12ecc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
