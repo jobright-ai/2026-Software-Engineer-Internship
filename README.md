@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Homebase](http://www.joinhomebase.com)** | **[Forward Deployed Engineering Intern, AI-Native (Hybrid)](https://jobright.ai/jobs/info/69efd4da16b2612c2a12bc59?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Apr 27 |
+| ↳ | **[Forward Deployed Engineering Intern, AI-Native (Hybrid)](https://jobright.ai/jobs/info/69efd4b8fbe0994a40eb894a?utm_campaign=1079&utm_source=git)** | Houston, TX | Hybrid | Apr 27 |
 | **[Werfen](http://www.werfen.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69efc6ee58811370cb14892d?utm_campaign=1079&utm_source=git)** | Orangeburg, NY, US | On Site | Apr 27 |
 | ↳ | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69efc6eb16b2612c2a12bb0f?utm_campaign=1079&utm_source=git)** | US-NY-Orangeburg | On Site | Apr 27 |
-| **[Intel](http://www.intel.com)** | **[Intern - Graduate Software Application Development](https://jobright.ai/jobs/info/69efc6710a6e095553057261?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Apr 27 |
 | **[Calix](http://www.calix.com)** | **[Cloud Engineer Intern - Cloud Platform](https://jobright.ai/jobs/info/69efc5f958811370cb148797?utm_campaign=1079&utm_source=git)** | San Jose, CA | Remote | Apr 27 |
 | **[Dragin](https://www.dragin.io/)** | **[Software Engineering, Applied AI, Internship, In Office](https://jobright.ai/jobs/info/69efbcf4fbe0994a40eb855c?utm_campaign=1079&utm_source=git)** | NYC Metro Area | On Site | Apr 27 |
+| **[Intel](http://www.intel.com)** | **[Intern - Graduate Software Application Development](https://jobright.ai/jobs/info/69efd651fbe0994a40eb8ada?utm_campaign=1079&utm_source=git)** | Hillsboro, OR | On Site | Apr 27 |
+| ↳ | **[Intern - Graduate Software Application Development](https://jobright.ai/jobs/info/69efd64c4b0fa35a7078bf86?utm_campaign=1079&utm_source=git)** | Folsom, CA | On Site | Apr 27 |
 | **[Analytical Mechanics Associates](http://www.ama-inc.com)** | **[Optimization Systems Analysis Intern](https://jobright.ai/jobs/info/69efb90358811370cb1480ec?utm_campaign=1079&utm_source=git)** | Mountain View, CA, US | On Site | Apr 27 |
-| **[HaciGroup](hacigroup.org)** | **[Mobile App Developer Intern (React Native) — HaciGroup (Nonprofit)](https://jobright.ai/jobs/info/69efb88be624fe645d532e84?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 27 |
 | **[AFL](http://www.AFLglobal.com)** | **[Web Design/ Development Intern- Summer 2026](https://jobright.ai/jobs/info/69b82f623b74eb1e2c85d1b4?utm_campaign=1079&utm_source=git)** | Duncan, SC | On Site | Apr 27 |
 | **[AssetMark](http://www.assetmark.com)** | **[QA Engineering Intern](https://jobright.ai/jobs/info/69efb03d58811370cb147da4?utm_campaign=1079&utm_source=git)** | Charlotte, NC, US | Hybrid | Apr 27 |
 | **[Horace Mann](http://www.horacemann.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69efabd5e624fe645d53294a?utm_campaign=1079&utm_source=git)** | In person - Springfield, IL | On Site | Apr 27 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Homebase](http://www.joinhomebase.com)** | **[Forward Deployed Engineering Intern, AI-Native (Hybrid)](https://jobright.ai/jobs/info/69efbe8016b2612c2a12b8e3?utm_campaign=1079&utm_source=git)** | Houston | Hybrid | Apr 26 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineer, Tooling (Internship)](https://jobright.ai/jobs/info/69620e8f25e18715077eeded?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Apr 26 |
 | **[Hearst Health](http://www.hearsthealth.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bf704b7798f73e35e444a0?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Apr 26 |
-| **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineer, Tooling (Internship)](https://jobright.ai/jobs/info/696213492cbf4e44756c0a80?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Apr 26 |
 | **[Pure Storage](http://www.purestorage.com)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68eda55e81fdd1626d39e136?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 26 |
 | **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern)](https://jobright.ai/jobs/info/69d7e58bb67cec4f9b09915a?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Apr 26 |
 | **[FDB (First Databank, Inc.)](http://fdbhealth.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bf7cd17798f73e35e44903?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Apr 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[PFC IT Summer Internship - Summer Internship 2026](https://jobright.ai/jobs/info/69ec2eb7dc35f7132c4b6071?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | Apr 24 |
 | **[Vital Lyfe](https://www.vital-lyfe.com)** | **[Software Engineering Internship](https://jobright.ai/jobs/info/69ec63760a6e09555304e05e?utm_campaign=1079&utm_source=git)** | LA Metro Area | On Site | Apr 24 |
 | **[NuAxis Innovations](http://www.nuaxis.com)** | **[Intern – SEG Prototyping](https://jobright.ai/jobs/info/69ec1ef17820c036924f96ef?utm_campaign=1079&utm_source=git)** | Vienna, VA | On Site | Apr 24 |
-| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Platform Engineer Intern - Hybrid Summer 2026](https://jobright.ai/jobs/info/69ec41840a6e09555304d887?utm_campaign=1079&utm_source=git)** | Madison, WI | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
