@@ -57,15 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Accounting Engineering [Newtown Square]](https://jobright.ai/jobs/info/69ef921f58811370cb14735a?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | On Site | Apr 27 |
 | **[Calix](http://www.calix.com)** | **[Cloud Engineer Intern - Cloud Platform](https://jobright.ai/jobs/info/69ef84fafbe0994a40eb6b60?utm_campaign=1079&utm_source=git)** | Remote - Canada, US | Remote | Apr 27 |
 | ↳ | **[Cloud Engineer Intern - Cloud Platform](https://jobright.ai/jobs/info/69ef84f34b0fa35a70789d75?utm_campaign=1079&utm_source=git)** | Remote - USA, US | Remote | Apr 27 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Full Stack Intern](https://jobright.ai/jobs/info/69ef84ef0a6e09555305567b?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 27 |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Engineer Intern (Summer '26)](https://jobright.ai/jobs/info/69ef84e00a6e095553055611?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 27 |
 | **[Cogeco Media](https://www.cogecomedia.com/)** | **[Digital Product & Systems Intern (oxio)](https://jobright.ai/jobs/info/69ef84c90a6e09555305557f?utm_campaign=1079&utm_source=git)** | Montréal, QC, CA | Hybrid | Apr 27 |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Engineer Intern (Fall '26)](https://jobright.ai/jobs/info/69ef84b0fbe0994a40eb69b3?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 27 |
 | **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[Software Quality Intern](https://jobright.ai/jobs/info/69ef7df54b0fa35a70789aac?utm_campaign=1079&utm_source=git)** | Rock Hill, SC, Sout, Un | On Site | Apr 27 |
 | **[Franklin Street](http://franklinst.com)** | **[Insurance Intern](https://jobright.ai/jobs/info/69ef7d7b16b2612c2a129ae6?utm_campaign=1079&utm_source=git)** | Greater Tampa Bay Area | On Site | Apr 27 |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Software Engineer Intern](https://jobright.ai/jobs/info/69ef7ce10a6e095553055125?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 27 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699959b281476f6176b201b7?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Apr 27 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer Intern](https://jobright.ai/jobs/info/690d2adf221b890c27804294?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 27 |
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69445066dd382f5f566a6b8c?utm_campaign=1079&utm_source=git)** | North Bethesda, Maryland | Hybrid | Apr 26 |
@@ -126,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[WebFX](https://www.webfx.com)** | **[Web Developer Internship](https://jobright.ai/jobs/info/6880c9ca16ea5743a373314a?utm_campaign=1079&utm_source=git)** | Harrisburg, PA | On Site | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfe6bc8e722e7b1b54da?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[ByteDance](http://bytedance.com)** | **[Student Researcher(Multimedia Streaming) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68d04d33fb49c96ca6eaeded?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Software Engineer Intern eTail](https://jobright.ai/jobs/info/69d759c8cfdc6132f9472204?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d72017366bb95ba5551e29?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
+| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d72017366bb95ba5551e29?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
+| ↳ | **[Software Engineer Intern eTail](https://jobright.ai/jobs/info/69d759c8cfdc6132f9472204?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
 | **[pSemi, A Murata Company](http://www.psemi.com)** | **[Intern, Software Engineering - Summer 2026](https://jobright.ai/jobs/info/69ecb36a16b2612c2a122d79?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (AI-Native Databases) - 2026 Summer (PhD)](https://jobright.ai/jobs/info/697bed301136d179eeef8c76?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d0848354f00230c6d12ecc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
@@ -156,5 +154,7 @@ For a complete list, click the following sortable link below:
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/69ec0ab94b0fa35a707806c2?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | Hybrid | Apr 24 |
 | **[Enlyte](https://www.enlyte.com/)** | **[Software Development Engineering Intern](https://jobright.ai/jobs/info/69ec0a8cdc35f7132c4b53a0?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Dexmate](https://www.dexmate.ai/vega)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/69ecf5367820c036924fc1e7?utm_campaign=1079&utm_source=git)** | Santa Clara Office | On Site | Apr 24 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[PFC IT Summer Internship - Summer Internship 2026](https://jobright.ai/jobs/info/69ebfc4e4b0fa35a7077ff46?utm_campaign=1079&utm_source=git)** | Bellevue, WA, US, 98004 | On Site | Apr 24 |
+| **[Figure](https://www.figure.ai)** | **[Firmware Intern [Summer 2026]](https://jobright.ai/jobs/info/69ebfc250a6e09555304bb27?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69ebfc1b58811370cb13e0d1?utm_campaign=1079&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Apr 24 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Information Technology Development Program - Internship](https://jobright.ai/jobs/info/69ebfc084b0fa35a7077fd8d?utm_campaign=1079&utm_source=git)** | Remote, Wisconsin, United States of America, 99999 | Remote | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
