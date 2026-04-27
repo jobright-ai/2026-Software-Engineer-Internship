@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Horace Mann](http://www.horacemann.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69efabd5e624fe645d53294a?utm_campaign=1079&utm_source=git)** | In person - Springfield, IL | On Site | Apr 27 |
+| **[Biio](biio.ai)** | **[ASIC and Embedded SW Summer Intern](https://jobright.ai/jobs/info/69efa1e2e624fe645d532648?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | Remote | Apr 27 |
+| **[Vise](https://vise.com)** | **[Accelerate Fellowship (Summer 2026)](https://jobright.ai/jobs/info/69cd54d654f00230c6cee65e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 27 |
+| **[Aquatic Capital Management](https://aquatic.com)** | **[Software Engineer, Intern (Summer 2027)](https://jobright.ai/jobs/info/69efa16516b2612c2a12a8de?utm_campaign=1079&utm_source=git)** | Greater Chicago Area | On Site | Apr 27 |
 | **[Cogeco Connexion](http://www.cogeco.ca)** | **[Digital Product & Systems Intern (oxio)](https://jobright.ai/jobs/info/69ef9e884b0fa35a7078a8b0?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Apr 27 |
 | **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[Software Quality Intern](https://jobright.ai/jobs/info/69ef971e16b2612c2a12a5bd?utm_campaign=1079&utm_source=git)** | South Carolina, United States | On Site | Apr 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Accounting Engineering [Newtown Square]](https://jobright.ai/jobs/info/69ef921f58811370cb14735a?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | On Site | Apr 27 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69e804f7e0cd471b2f12ecd2?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | Hybrid | Apr 27 |
 | **[Calix](http://www.calix.com)** | **[Cloud Engineer Intern - Cloud Platform](https://jobright.ai/jobs/info/69ef84fafbe0994a40eb6b60?utm_campaign=1079&utm_source=git)** | Remote - Canada, US | Remote | Apr 27 |
 | ↳ | **[Cloud Engineer Intern - Cloud Platform](https://jobright.ai/jobs/info/69ef84f34b0fa35a70789d75?utm_campaign=1079&utm_source=git)** | Remote - USA, US | Remote | Apr 27 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Full Stack Intern](https://jobright.ai/jobs/info/69ef84ef0a6e09555305567b?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 27 |
@@ -117,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Smith](http://www.smithweb.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6998abb681476f6176b11f36?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Apr 25 |
 | **[Typeface](https://www.typeface.ai)** | **[Solutions Architect Intern](https://jobright.ai/jobs/info/69d098c8cdb525785fbac059?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 25 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69ecce200a6e09555304ecb8?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Apr 25 |
-| **[Genmab](https://www.genmab.com)** | **[Programming Intern - Application Performance Monitoring (APM)](https://jobright.ai/jobs/info/69bcc9854828227293febd39?utm_campaign=1079&utm_source=git)** | Princeton, NJ | Hybrid | Apr 25 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6940d7e749a7695fbd065e45?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 25 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Software Engineer, Intern (Summer 2027)](https://jobright.ai/jobs/info/69cd81facdb525785fb89792?utm_campaign=1079&utm_source=git)** | Chicago | On Site | Apr 25 |
 | **[Neuralink](https://www.neuralink.com)** | **[Firmware Engineer Intern, Robotics and Surgery Engineering](https://jobright.ai/jobs/info/68cfed50fb49c96ca6eacad6?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 25 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Platform Engineer Intern - Hybrid Summer 2026](https://jobright.ai/jobs/info/69ec41840a6e09555304d887?utm_campaign=1079&utm_source=git)** | Madison, WI | Hybrid | Apr 24 |
 | **[Figure](https://www.figure.ai)** | **[Firmware Intern [Summer 2026]](https://jobright.ai/jobs/info/69ec17bb0a6e09555304c6a9?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
 | **[Skrypt AI Labs](https://www.skryptlabs.ai/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69ec11ee7820c036924f8fef?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 24 |
-| **[KBR Careers](https://careers.kbr.com/)** | **[National Security Solutions (NSS) – Software Engineering Internship](https://jobright.ai/jobs/info/69ec118e4b0fa35a707808b4?utm_campaign=1079&utm_source=git)** | Columbia, MD | On Site | Apr 24 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Software Engineering Intern, JAX - Fall 2026](https://jobright.ai/jobs/info/69ec115e58811370cb13e717?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 24 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Quality Engineering Intern — AI-Powered Testing - 6mo June 2026](https://jobright.ai/jobs/info/69ec0ae716b2612c2a120a59?utm_campaign=1079&utm_source=git)** | Johnston, RI | On Site | Apr 24 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/69ec0ab94b0fa35a707806c2?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | Hybrid | Apr 24 |
-| **[Enlyte](https://www.enlyte.com/)** | **[Software Development Engineering Intern](https://jobright.ai/jobs/info/69ec0a8cdc35f7132c4b53a0?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Dexmate](https://www.dexmate.ai/vega)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/69ecf5367820c036924fc1e7?utm_campaign=1079&utm_source=git)** | Santa Clara Office | On Site | Apr 24 |
-| **[Figure](https://www.figure.ai)** | **[Firmware Intern [Summer 2026]](https://jobright.ai/jobs/info/69ebfc250a6e09555304bb27?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
