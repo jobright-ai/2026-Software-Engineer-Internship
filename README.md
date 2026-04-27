@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RightOn Education](https://www.rightoneducation.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69ef4189e624fe645d530219?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 27 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer Intern](https://jobright.ai/jobs/info/690d2adf221b890c27804294?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 27 |
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69445066dd382f5f566a6b8c?utm_campaign=1079&utm_source=git)** | North Bethesda, Maryland | Hybrid | Apr 26 |
 | **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/69eee5e40a6e0955530531bd?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 26 |
@@ -77,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/694472d294730b739877a1ff?utm_campaign=1079&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 26 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/694473e9dd382f5f566a9c47?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | Apr 26 |
 | **[SiFive](https://www.sifive.com)** | **[Intern - Firesim development](https://jobright.ai/jobs/info/69edc5e8dc35f7132c4b9634?utm_campaign=1079&utm_source=git)** | Berkeley, California, United States, US | Hybrid | Apr 26 |
-| **[West Loop Strategy](https://www.westloop.io)** | **[Software Engineer Intern Role / West Loop Strategy](https://jobright.ai/jobs/info/69edab920a6e0955530504b7?utm_campaign=1079&utm_source=git)** | Loop, WV | On Site | Apr 25 |
+| **[West Loop Strategy | AWS Analytics & Migration Consulting](https://www.westloop.io)** | **[Software Engineer Intern Role / West Loop Strategy](https://jobright.ai/jobs/info/69edab920a6e0955530504b7?utm_campaign=1079&utm_source=git)** | Loop, WV | On Site | Apr 25 |
 | **[Eagle Eye Networks](https://www.een.com)** | **[Engineering Intern - Media and Events](https://jobright.ai/jobs/info/699ef0efce78e77b4fe4a862?utm_campaign=1079&utm_source=git)** | Rollingwood, TX | On Site | Apr 25 |
 | ↳ | **[Engineering Intern - Clip Service](https://jobright.ai/jobs/info/69c7414baa3c2c1995e16a16?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 25 |
 | **[Jigsaw](https://jigsaw.build/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69ed78364b0fa35a7078469d?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Apr 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Xylem Tree Experts](https://www.xylemtree.com)** | **[Full Stack Software Developer Intern - Norfolk, VA](https://jobright.ai/jobs/info/69ebe63d58811370cb13d85f?utm_campaign=1079&utm_source=git)** | Norfolk, VA 23510, USA | Hybrid | Apr 24 |
 | **[Nutrien](https://www.nutrien.com/)** | **[AI and Simulation Engineer (Co-op)](https://jobright.ai/jobs/info/69ec02d77820c036924f8995?utm_campaign=1079&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Apr 24 |
 | **[Rainmaker Technology Corporation](https://makerain.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69ebe2654b0fa35a7077f5e2?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | Apr 24 |
+| **[Corpay](https://payments.corpay.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69ebde2d16b2612c2a11f730?utm_campaign=1079&utm_source=git)** | Buckhead, GA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
