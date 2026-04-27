@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Frontend Software Engineer Intern](https://jobright.ai/jobs/info/69ee731416b2612c2a126edb?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 26 |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Summer 26)](https://jobright.ai/jobs/info/69eea24858811370cb144324?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Apr 26 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineer, Tooling (Internship)](https://jobright.ai/jobs/info/69620e8f25e18715077eeded?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Apr 26 |
 | **[Hearst Health](http://www.hearsthealth.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69bf704b7798f73e35e444a0?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | Apr 26 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Software Engineer, Tooling (Internship)](https://jobright.ai/jobs/info/696213492cbf4e44756c0a80?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | Apr 26 |
@@ -116,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Siemens Electronic Systems Design & Manufacturing](http://www.pads.com)** | **[Strategic Student Program: R&D Software Engineering Intern (FT, Summer 2026)](https://jobright.ai/jobs/info/69ecd03f0a6e09555304ed98?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfe6bc8e722e7b1b54da?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[ByteDance](http://bytedance.com)** | **[Student Researcher(Multimedia Streaming) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68d04d33fb49c96ca6eaeded?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Software Engineer Intern eTail](https://jobright.ai/jobs/info/69d759c8cfdc6132f9472204?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d72017366bb95ba5551e29?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
+| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d72017366bb95ba5551e29?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
+| ↳ | **[Software Engineer Intern eTail](https://jobright.ai/jobs/info/69d759c8cfdc6132f9472204?utm_campaign=1079&utm_source=git)** | West Greenwich, RI | On Site | Apr 25 |
 | **[pSemi, A Murata Company](http://www.psemi.com)** | **[Intern, Software Engineering - Summer 2026](https://jobright.ai/jobs/info/69ecb36a16b2612c2a122d79?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (AI-Native Databases) - 2026 Summer (PhD)](https://jobright.ai/jobs/info/697bed301136d179eeef8c76?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d0848354f00230c6d12ecc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
