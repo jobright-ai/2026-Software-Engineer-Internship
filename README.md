@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DiDi](https://www.didiglobal.com)** | **[Software Engineer, Simulation (Summer Intern)](https://jobright.ai/jobs/info/69eff28de624fe645d534713?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
+| **[WindBorne Systems](https://windbornesystems.com)** | **[Firmware Intern](https://jobright.ai/jobs/info/69eff14e58811370cb149e64?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Apr 27 |
+| **[TeamViewer](https://www.teamviewer.com)** | **[IT Solution Engineering Internship (Hybrid, Clearwater, FL)](https://jobright.ai/jobs/info/69efee38e624fe645d534612?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Hybrid | Apr 27 |
+| **[Corvic AI](https://www.corvic.ai/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69efed82fbe0994a40eb977b?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Apr 27 |
+| **[Anritsu](https://www.anritsu.com)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/69efed704b0fa35a7078ce3d?utm_campaign=1079&utm_source=git)** | Belvidere, Illinois, United States | On Site | Apr 27 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Maps & Self-Driving Navigation (Fall 2026)](https://jobright.ai/jobs/info/69efe8174b0fa35a7078cc11?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Apr 27 |
+| **[Phibro Animal Health](http://www.pahc.com/)** | **[IT Developer Intern](https://jobright.ai/jobs/info/69efe7f7fbe0994a40eb9572?utm_campaign=1079&utm_source=git)** | Teaneck, NJ | Hybrid | Apr 27 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69efe7c316b2612c2a12c896?utm_campaign=1079&utm_source=git)** | Orangeburg, NY | On Site | Apr 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Fullstack Software Engineer, Fleetnet (Fall 2026)](https://jobright.ai/jobs/info/69efe5a04b0fa35a7078c851?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Apr 27 |
 | **[AssetMark](http://www.assetmark.com)** | **[QA Engineering Intern](https://jobright.ai/jobs/info/69efe4b1e624fe645d533f19?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | Apr 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vitu](https://www.vitu.com/)** | **[Intern](https://jobright.ai/jobs/info/69ec6ad4dc35f7132c4b6daf?utm_campaign=1079&utm_source=git)** | Agoura Hills, CA | On Site | Apr 25 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/69ec63be4b0fa35a70782331?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Apr 24 |
 | **[Point72](https://www.point72.com)** | **[2026 Technology Internship – UI/UX Engineer (Full Stack)](https://jobright.ai/jobs/info/69b8908b56973837413def8b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 24 |
-| **[Central California Alliance for Health](https://thealliance.health/)** | **[Web and Digital Media Developer (Temporary)](https://jobright.ai/jobs/info/69ec5dae0a6e09555304dca6?utm_campaign=1079&utm_source=git)** | California, United States | Hybrid | Apr 24 |
-| **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Intern, myQ Front End Developer (Android or iOS) (Summer 2026)](https://jobright.ai/jobs/info/69ec41850a6e09555304d88a?utm_campaign=1079&utm_source=git)** | Oak Brook, IL | On Site | Apr 24 |
-| **[Leidos](https://www.leidos.com)** | **[Visualization Engineer Intern](https://jobright.ai/jobs/info/69ec4166dc35f7132c4b645a?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 24 |
-| ↳ | **[Computer Engineering Intern](https://jobright.ai/jobs/info/69ec416316b2612c2a121e0f?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | On Site | Apr 24 |
-| ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/69ec415a0a6e09555304d772?utm_campaign=1079&utm_source=git)** | Reston, VA | On Site | Apr 24 |
-| **[Tenstorrent](http://tenstorrent.com)** | **[Design Verification Engineer, Intern](https://jobright.ai/jobs/info/69d7f194f4ea471a51fe2a16?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Apr 24 |
-| **[Leidos](https://www.leidos.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69ec40e958811370cb13f623?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
