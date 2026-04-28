@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Milk Producers Association](http://mimilk.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69f10f07825a315d7ca35b4a?utm_campaign=1079&utm_source=git)** | Remus, MI, US | On Site | Apr 28 |
+| **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[SW Engineering Intern](https://jobright.ai/jobs/info/69f10e0ab27fee43e8cd6d90?utm_campaign=1079&utm_source=git)** | Binghamton, NY | On Site | Apr 28 |
+| **[Amazon](https://amazon.com)** | **[Quality Assurance Engineer Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/69f10dfd8d8d624381a99f6c?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Apr 28 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Intern (Technical-Engineering) - 17169](https://jobright.ai/jobs/info/69f108a7b27fee43e8cd6cd6?utm_campaign=1079&utm_source=git)** | US (non-CA) Off-Site, US (non-CA) Off-Site Office | Remote | Apr 28 |
 | **[ABBA Roller](https://abbaroller.com/)** | **[Business Systems Development Intern](https://jobright.ai/jobs/info/69f108648d8d624381a99cf1?utm_campaign=1079&utm_source=git)** | Extex Engineered Products, Gilbert, AZ, US | On Site | Apr 28 |
 | **[IRP Medical](http://www.irpi.com)** | **[Business Systems Development Intern](https://jobright.ai/jobs/info/69f108618d8d624381a99cd5?utm_campaign=1079&utm_source=git)** | Extex Engineered Products, Gilbert, AZ, US | On Site | Apr 28 |
@@ -66,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Inservio](https://inservio.app/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69f103b662b48c683879324f?utm_campaign=1079&utm_source=git)** | Kansas, United States | Remote | Apr 28 |
 | **[Tektronix](http://www.tek.com)** | **[Software Engineering Intern - (Summer 2026)](https://jobright.ai/jobs/info/69f103a68d8d624381a99afb?utm_campaign=1079&utm_source=git)** | Solon, OH | Hybrid | Apr 28 |
 | **[LIGHT Helmets](https://lighthelmets.com)** | **[iOS / Sports Technology Intern](https://jobright.ai/jobs/info/69f1036c825a315d7ca35738?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | On Site | Apr 28 |
+| **[Eagle Eye Networks](https://www.een.com)** | **[Engineering Intern - Clip Service](https://jobright.ai/jobs/info/69c7414baa3c2c1995e16a16?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 28 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Summer Intern, Site Engineering](https://jobright.ai/jobs/info/69f0fc698d8d624381a9991c?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Apr 28 |
 | **[Kiewit](http://www.kiewit.com)** | **[Drainage Engineer Intern - Kiewit Infrastructure Engineers (Summer 2026)](https://jobright.ai/jobs/info/69b89b0306c1ba00c54a95e7?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Apr 28 |
 | **[EarnIn](https://www.earnin.com)** | **[Mobile Engineer Intern (iOS)](https://jobright.ai/jobs/info/69d6853f48f0c8161d2f83f0?utm_campaign=1079&utm_source=git)** | Mountain View, US | Hybrid | Apr 28 |
@@ -112,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/69f059f82b095843b0312622?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 27 |
 | **[General Dynamics](https://www.gd.com)** | **[Intern Engineer - (Co-Op)](https://jobright.ai/jobs/info/69f03746b27fee43e8cd2c84?utm_campaign=1079&utm_source=git)** | US-CO-Colorado Springs | Hybrid | Apr 27 |
 | ↳ | **[Intern Engineer - (Co-Op)](https://jobright.ai/jobs/info/69f0370aa4aa3545d8a5d85a?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO, US | Hybrid | Apr 27 |
-| **[SelectQuote Insurance Services](https://www.selectquote.com/)** | **[Intern - IT Application Development](https://jobright.ai/jobs/info/697ef68bce48107c054316c5?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 27 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69f02c01ecbc8c2f731feddf?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern: 2026](https://jobright.ai/jobs/info/69f02869825a315d7ca311f1?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | On Site | Apr 27 |
 | **[Specialized Dental Partners](https://specializeddental.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69f0130ea4aa3545d8a5cf43?utm_campaign=1079&utm_source=git)** | Franklin, TN | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sparrow](https://www.sparrowup.com)** | **[Full Stack Intern](https://jobright.ai/jobs/info/69ef84ef0a6e09555305567b?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Cogeco Media](https://www.cogecomedia.com/)** | **[Digital Product & Systems Intern (oxio)](https://jobright.ai/jobs/info/69ef84c90a6e09555305557f?utm_campaign=1079&utm_source=git)** | Montréal, QC, CA | Hybrid | Apr 27 |
 | **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[Software Quality Intern](https://jobright.ai/jobs/info/69ef7df54b0fa35a70789aac?utm_campaign=1079&utm_source=git)** | Rock Hill, SC, Sout, Un | On Site | Apr 27 |
-| **[Franklin Street](http://franklinst.com)** | **[Insurance Intern](https://jobright.ai/jobs/info/69ef7d7b16b2612c2a129ae6?utm_campaign=1079&utm_source=git)** | Greater Tampa Bay Area | On Site | Apr 27 |
-| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699959b281476f6176b201b7?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Apr 27 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer Intern](https://jobright.ai/jobs/info/690d2adf221b890c27804294?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
