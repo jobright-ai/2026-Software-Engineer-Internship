@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Engineer - (Co-Op)](https://jobright.ai/jobs/info/69f0370aa4aa3545d8a5d85a?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO, US | Hybrid | Apr 27 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69f02c01ecbc8c2f731feddf?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern: 2026](https://jobright.ai/jobs/info/69f02869825a315d7ca311f1?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | On Site | Apr 27 |
-| **[LangPal](www.lang-pal.com)** | **[iOS Mobile App Developer Intern (Swift)](https://jobright.ai/jobs/info/69f027a22b095843b0311980?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Specialized Dental Partners](https://specializeddental.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69f0130ea4aa3545d8a5cf43?utm_campaign=1079&utm_source=git)** | Franklin, TN | On Site | Apr 27 |
 | **[Draper](https://www.draper.com)** | **[Electronics & Embedded Systems Summer Intern](https://jobright.ai/jobs/info/69f012e9825a315d7ca30db3?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Apr 27 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Forward Deployed Engineering Intern, AI-Native (Hybrid)](https://jobright.ai/jobs/info/69f0038bfbe0994a40eb9f81?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Apr 27 |
@@ -136,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[SQUID3 Space](https://www.squid3.space)** | **[Flight Software Engineer — ISS Payload (Intern)](https://jobright.ai/jobs/info/69ed0791dc35f7132c4b807e?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Apr 25 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/69ed072258811370cb141273?utm_campaign=1079&utm_source=git)** | Topeka, KS | Hybrid | Apr 25 |
 | **[Etched](https://www.etched.com)** | **[Architecture Intern - Inference](https://jobright.ai/jobs/info/69b44b9c569738374138f8ec?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
-| **[Synopsys Inc](http://www.synopsys.com)** | **[QA Software Testing Internship](https://jobright.ai/jobs/info/69ecf7c24b0fa35a70783c44?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | On Site | Apr 25 |
 | **[Chartbeat](http://chartbeat.com)** | **[Frontend Engineering Internship](https://jobright.ai/jobs/info/69ce7d2d398fb071abf85716?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Application Development Intern](https://jobright.ai/jobs/info/69ed1cfd16b2612c2a123e64?utm_campaign=1079&utm_source=git)** | Topeka, KS | Hybrid | Apr 25 |
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69eb58497820c036924f3573?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 25 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Onto Innovation](http://www.ontoinnovation.com)** | **[Software QA Engineer Internship](https://jobright.ai/jobs/info/69ecd0267820c036924fbc60?utm_campaign=1079&utm_source=git)** | Bloomington, MN | On Site | Apr 25 |
 | **[Gen II Fund Services](http://www.gen2fund.com)** | **[Platform Intern — Test & Release](https://jobright.ai/jobs/info/69d03c0d0b098b7a67077c8b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 25 |
 | **[WebFX](https://www.webfx.com)** | **[Web Developer Internship](https://jobright.ai/jobs/info/6880c9ca16ea5743a373314a?utm_campaign=1079&utm_source=git)** | Harrisburg, PA | On Site | Apr 25 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfe6bc8e722e7b1b54da?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
+| **[ByteDance](http://bytedance.com)** | **[Student Researcher(Multimedia Streaming) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68d04d33fb49c96ca6eaeded?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
