@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[General Dynamics](https://www.gd.com)** | **[Intern Engineer - (Co-Op)](https://jobright.ai/jobs/info/69f03746b27fee43e8cd2c84?utm_campaign=1079&utm_source=git)** | US-CO-Colorado Springs | Hybrid | Apr 27 |
 | ↳ | **[Intern Engineer - (Co-Op)](https://jobright.ai/jobs/info/69f0370aa4aa3545d8a5d85a?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO, US | Hybrid | Apr 27 |
+| **[SelectQuote Insurance Services](https://www.selectquote.com/)** | **[Intern - IT Application Development](https://jobright.ai/jobs/info/697ef68bce48107c054316c5?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 27 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69f02c01ecbc8c2f731feddf?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern: 2026](https://jobright.ai/jobs/info/69f02869825a315d7ca311f1?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | On Site | Apr 27 |
 | **[Specialized Dental Partners](https://specializeddental.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69f0130ea4aa3545d8a5cf43?utm_campaign=1079&utm_source=git)** | Franklin, TN | On Site | Apr 27 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699959b281476f6176b201b7?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Apr 27 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Software Engineer Intern](https://jobright.ai/jobs/info/690d2adf221b890c27804294?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 27 |
 | **[Xometry](https://www.xometry.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69445066dd382f5f566a6b8c?utm_campaign=1079&utm_source=git)** | North Bethesda, Maryland | Hybrid | Apr 26 |
-| **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/69eee5e40a6e0955530531bd?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 26 |
 | **[The Fidelity Bank](http://fidelitybanknc.com)** | **[IT Intern](https://jobright.ai/jobs/info/69effc47e624fe645d5348e5?utm_campaign=1079&utm_source=git)** | Fuquay-Varina, NC | On Site | Apr 26 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/69f001894b0fa35a7078d587?utm_campaign=1079&utm_source=git)** | Fuquay-Varina, NC | On Site | Apr 26 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Forward Deployed Engineering Intern, AI-Native (Hybrid)](https://jobright.ai/jobs/info/69efbe8016b2612c2a12b8e3?utm_campaign=1079&utm_source=git)** | Houston | Hybrid | Apr 26 |
