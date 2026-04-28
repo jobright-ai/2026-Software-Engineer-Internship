@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAIC](http://www.saic.com)** | **[Intern II](https://jobright.ai/jobs/info/69f0df558d8d624381a98ce5?utm_campaign=1079&utm_source=git)** | Upper Marlboro, MD | On Site | Apr 28 |
+| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Web Publishing Intern](https://jobright.ai/jobs/info/69d44e55e63cea7a8b658836?utm_campaign=1079&utm_source=git)** | Arizona, United States | Remote | Apr 28 |
+| **[Hermeus](http://www.hermeus.com)** | **[Software Engineering Intern (Mission Systems Software) - (Summer & Fall 2026)](https://jobright.ai/jobs/info/69d3d7becfdc6132f9454e71?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
+| **[SOTI](http://www.soti.net/)** | **[Software Developer Intern (September 2026 12 Months)](https://jobright.ai/jobs/info/69f0d6aeecbc8c2f732023b7?utm_campaign=1079&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | Apr 28 |
+| ↳ | **[Quality Assurance Specialist Intern, SOTI XSight (September 2026 12 Months)](https://jobright.ai/jobs/info/69f0d6a9b27fee43e8cd5be5?utm_campaign=1079&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | Apr 28 |
+| **[SAIC](http://www.saic.com)** | **[Cloud/Mobile Developer Intern](https://jobright.ai/jobs/info/69f0d68d825a315d7ca349d5?utm_campaign=1079&utm_source=git)** | Alexandria, VA | Hybrid | Apr 28 |
+| **[NetApp](http://netapp.com)** | **[Performance Engineering Intern](https://jobright.ai/jobs/info/69f0d642b27fee43e8cd5a4b?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 28 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Mobile Developer](https://jobright.ai/jobs/info/69f0d004b27fee43e8cd596c?utm_campaign=1079&utm_source=git)** | Naperville, IL, US, 60563 | Hybrid | Apr 28 |
-| **[Jabil](https://www.jabil.com)** | **[Lead Software Test Development Engineer for Hardware Manufacturing](https://jobright.ai/jobs/info/69f0cf998d8d624381a986e4?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 28 |
 | **[Verkada](https://www.verkada.com)** | **[Embedded Software Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69d434ebcfdc6132f945887c?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Apr 28 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Full Stack Software Engineer - Team Integrated Storefront - Fall 2026](https://jobright.ai/jobs/info/69f0cc0e825a315d7ca3449a?utm_campaign=1079&utm_source=git)** | Toronto, ON, CA | Hybrid | Apr 28 |
 | ↳ | **[Intern, Backend Software Engineer - Team Customer Acquisitions - Fall 2026](https://jobright.ai/jobs/info/69f0cb74ecbc8c2f73201e06?utm_campaign=1079&utm_source=git)** | Toronto, ON, CA | Hybrid | Apr 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Intern - Clip Service](https://jobright.ai/jobs/info/69c7414baa3c2c1995e16a16?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 25 |
 | **[Jigsaw](https://jigsaw.build/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69ed78364b0fa35a7078469d?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Apr 25 |
 | **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - ERP Finance Systems](https://jobright.ai/jobs/info/697d720e137a0510256694f0?utm_campaign=1079&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 25 |
-| **[Trumid](https://www.trumid.com)** | **[Delivery Management Intern](https://jobright.ai/jobs/info/69de87beaba61f1417315871?utm_campaign=1079&utm_source=git)** | New York City | On Site | Apr 25 |
-| **[Avathon](https://avathon.com)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6980f912abff4c399a9fc5f9?utm_campaign=1079&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 25 |
-| **[SWBC](https://www.swbc.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6997dc4581476f6176b015a4?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | Apr 25 |
-| **[NVIDIA AI](http://nvda.ws/2nfcPK3)** | **[Software Engineering Intern, JAX - Fall 2026](https://jobright.ai/jobs/info/69ed12f958811370cb1412ae?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 25 |
-| **[Etched](https://www.etched.com)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/69b441c13b74eb1e2c816ad8?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
-| ↳ | **[Supercomputing Intern](https://jobright.ai/jobs/info/69b4412c3b74eb1e2c816897?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
