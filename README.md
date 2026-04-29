@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Remedy Scientific Inc.](https://www.remedyscientific.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69f1d353ecbc8c2f73208111?utm_campaign=1079&utm_source=git)** | Oakland, CA | On Site | Apr 29 |
+| **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Payment Network) - Global Payment - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/69b892eb06c1ba00c54a8998?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Apr 29 |
 | **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/69f1b98e8feca91f149222e2?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Gen](https://www.gendigital.com)** | **[Software Engineer Intern - NortonLifeLock](https://jobright.ai/jobs/info/69f1b8f78feca91f14921ff4?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Apr 29 |
 | **[LMI](http://www.lmi.org)** | **[Software Development Intern (FIU Students)](https://jobright.ai/jobs/info/69f1b07e8d8d624381a9dce6?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69f0977ab27fee43e8cd3903?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | On Site | Apr 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern(Video-on-Demand Algorithm) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/699c1b5181476f6176b47b9a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69eaffd716b2612c2a1184aa?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | On Site | Apr 28 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[IT Intern-Corporate](https://jobright.ai/jobs/info/69f07cce825a315d7ca32107?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
