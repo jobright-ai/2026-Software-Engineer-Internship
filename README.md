@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Remedy Scientific Inc.](https://www.remedyscientific.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69f1d353ecbc8c2f73208111?utm_campaign=1079&utm_source=git)** | Oakland, CA | On Site | Apr 29 |
 | **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/69f1b98e8feca91f149222e2?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Gen](https://www.gendigital.com)** | **[Software Engineer Intern - NortonLifeLock](https://jobright.ai/jobs/info/69f1b8f78feca91f14921ff4?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Apr 29 |
 | **[LMI](http://www.lmi.org)** | **[Software Development Intern (FIU Students)](https://jobright.ai/jobs/info/69f1b07e8d8d624381a9dce6?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 29 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineering, People Systems (Fall 2026)](https://jobright.ai/jobs/info/69f16b31b27fee43e8cd8ec0?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Apr 28 |
 | **[Trident](https://www.tridsys.com/)** | **[Software Engineering (Data Analytics) Intern](https://jobright.ai/jobs/info/69f15efeecbc8c2f73205705?utm_campaign=1079&utm_source=git)** | Fairfax, VA, US | On Site | Apr 28 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69f15ef762b48c683879535b?utm_campaign=1079&utm_source=git)** | Fairfax, VA, US | On Site | Apr 28 |
-| **[Remedy Scientific Inc.](https://www.remedyscientific.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69f173308feca91f1492020b?utm_campaign=1079&utm_source=git)** | Oakland, CA | On Site | Apr 28 |
 | **[Onyx Odds](https://onyxodds.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69f16e52ecbc8c2f73205aad?utm_campaign=1079&utm_source=git)** | New York City | On Site | Apr 28 |
 | **[Gen](https://www.gendigital.com)** | **[Software Engineer Intern - NortonLifeLock](https://jobright.ai/jobs/info/69f1b13c8feca91f14921f7c?utm_campaign=1079&utm_source=git)** | USA - Mountain View, CA | On Site | Apr 28 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69f148dc8d8d624381a9b80e?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 28 |
