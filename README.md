@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Provation](https://www.provationmedical.com)** | **[Software Engineering Intern – AI Enablement](https://jobright.ai/jobs/info/69de81045913ad339813d75b?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Apr 29 |
+| **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Amazon Leo, Summer 2026 (US)](https://jobright.ai/jobs/info/69f20b45ecbc8c2f7320894b?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 29 |
+| ↳ | **[Software Development Engineer Internship - Amazon Leo, Summer 2026 (US)](https://jobright.ai/jobs/info/69f20a8b8d8d624381a9edaa?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Apr 29 |
+| ↳ | **[Software Development Engineer Internship - Amazon Leo, Summer 2026 (US)](https://jobright.ai/jobs/info/69f20a80ab4ec4779fff6f1e?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Apr 29 |
+| **[apexanalytix](https://www.apexanalytix.com)** | **[Cloud Engineer Intern - Databases](https://jobright.ai/jobs/info/69d57be3cfdc6132f9462ae2?utm_campaign=1079&utm_source=git)** | Greensboro, NC | On Site | Apr 29 |
+| **[Viasat](http://www.viasat.com)** | **[Embedded Software Engineering Intern, Viasat Government](https://jobright.ai/jobs/info/69d5d5d4cfdc6132f9466601?utm_campaign=1079&utm_source=git)** | Carlsbad, CA | On Site | Apr 29 |
+| **[Provation](https://www.provationmedical.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d4f938e63cea7a8b65e01f?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 29 |
+| ↳ | **[Software Engineering Intern – AI Enablement](https://jobright.ai/jobs/info/69de81045913ad339813d75b?utm_campaign=1079&utm_source=git)** | Kansas City, MO | On Site | Apr 29 |
 | **[Tessera Labs](https://www.tesseralabs.ai/)** | **[Software Engineering Intern, Frontend](https://jobright.ai/jobs/info/69d639e848f0c8161d2f710b?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 29 |
 | ↳ | **[Software Engineering Intern, Frontend](https://jobright.ai/jobs/info/69d5e7434a12eb12c5e14809?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Apr 29 |
 | **[Provation](https://www.provationmedical.com)** | **[Software Engineering Intern – AI Enablement](https://jobright.ai/jobs/info/69d4f940e63cea7a8b65e034?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 29 |
@@ -68,7 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Gen](https://www.gendigital.com)** | **[Software Engineer Intern - NortonLifeLock](https://jobright.ai/jobs/info/69f1b8f78feca91f14921ff4?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Apr 29 |
 | **[LMI](http://www.lmi.org)** | **[Software Development Intern (FIU Students)](https://jobright.ai/jobs/info/69f1b07e8d8d624381a9dce6?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 29 |
 | **[Ampere](http://amperecomputing.com)** | **[Technical Intern, Firmware Engineer](https://jobright.ai/jobs/info/69f19009ecbc8c2f73206eea?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Apr 28 |
-| **[Silvus Technologies](http://silvustechnologies.com)** | **[Intern - Software Test Engineer - 2026](https://jobright.ai/jobs/info/69f1fbf1825a315d7ca3a326?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
+| **[Silvus Technologies](http://silvustechnologies.com)** | **[Intern - Embedded Software, System, and Test Engineer - 2026](https://jobright.ai/jobs/info/69f1fc568d8d624381a9ea8d?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Apr 28 |
+| ↳ | **[Intern - Software Test Engineer - 2026](https://jobright.ai/jobs/info/69f1fbf1825a315d7ca3a326?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[2026 Summer Intern – Computational Design](https://jobright.ai/jobs/info/69af2f10dfaeda6ff59744ab?utm_campaign=1079&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Apr 28 |
 | **[Silvus Technologies](http://silvustechnologies.com)** | **[Intern - Embedded Software, System, and Test Engineer - 2026](https://jobright.ai/jobs/info/69f1a8a0b27fee43e8cdab6b?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[Onyx Odds](https://onyxodds.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69f1b0a4b27fee43e8cdabeb?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 28 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Web Publishing Intern](https://jobright.ai/jobs/info/69eae7ecdc35f7132c4acdac?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Apr 28 |
 | **[Aflac](http://www.aflac.com)** | **[Platform Business Analyst (SQL/Snowflake/AWS)](https://jobright.ai/jobs/info/69f0c6d9825a315d7ca34389?utm_campaign=1079&utm_source=git)** | Columbus, GA | Hybrid | Apr 28 |
 | **[People Inc.](https://www.people.inc/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69d5d839706f771673ba743e?utm_campaign=1079&utm_source=git)** | Fairview, Alberta, Canada | On Site | Apr 28 |
-| **[Verkada](https://www.verkada.com)** | **[Frontend Software Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69d434e054f00230c6d2f02b?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Apr 28 |
-| **[Communications & Power Industries (CPI)](https://www.cpii.com/)** | **[Software Engineering Internship/Co-op (4-8 Months)](https://jobright.ai/jobs/info/69eb42f47820c036924f27f6?utm_campaign=1079&utm_source=git)** | Georgetown, Ontario, Canada | On Site | Apr 28 |
-| **[Brivo](http://www.brivo.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69f0bd538d8d624381a976a7?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Apr 28 |
-| **[Verkada](https://www.verkada.com)** | **[Backend Software Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69d433a0cfdc6132f945880f?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Apr 28 |
-| **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/68d5f0051f7fb2169ab14c97?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 28 |
-| **[Notion](https://www.notion.com)** | **[Software Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/69d4704fe63cea7a8b659890?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Apr 28 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978426639f7f96cc6d09696?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
