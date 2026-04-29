@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/69f1b98e8feca91f149222e2?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 29 |
+| **[Gen](https://www.gendigital.com)** | **[Software Engineer Intern - NortonLifeLock](https://jobright.ai/jobs/info/69f1b8f78feca91f14921ff4?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Apr 29 |
 | **[LMI](http://www.lmi.org)** | **[Software Development Intern (FIU Students)](https://jobright.ai/jobs/info/69f1b07e8d8d624381a9dce6?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 29 |
 | **[Ampere](http://amperecomputing.com)** | **[Technical Intern, Firmware Engineer](https://jobright.ai/jobs/info/69f19009ecbc8c2f73206eea?utm_campaign=1079&utm_source=git)** | Durham, NC | On Site | Apr 28 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[2026 Summer Intern – Computational Design](https://jobright.ai/jobs/info/69af2f10dfaeda6ff59744ab?utm_campaign=1079&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Apr 28 |
-| **[GenPark](https://genpark.ai)** | **[Web Development intern](https://jobright.ai/jobs/info/69f1a37a8feca91f149215ee?utm_campaign=1079&utm_source=git)** | Miami, FL | Hybrid | Apr 28 |
 | **[Silvus Technologies](http://silvustechnologies.com)** | **[Intern - Embedded Software, System, and Test Engineer - 2026](https://jobright.ai/jobs/info/69f1a8a0b27fee43e8cdab6b?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[QA Software Testing Internship - Remote & Part-Time](https://jobright.ai/jobs/info/69f1817e825a315d7ca3848a?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | Apr 28 |
 | **[Onyx Odds](https://onyxodds.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69f1b0a4b27fee43e8cdabeb?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Trident](https://www.tridsys.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69f17a7a825a315d7ca37d29?utm_campaign=1079&utm_source=git)** | Fairfax, VA | On Site | Apr 28 |
 | ↳ | **[Software Engineering (Data Analytics) Intern](https://jobright.ai/jobs/info/69f17a30b27fee43e8cd906e?utm_campaign=1079&utm_source=git)** | Fairfax, VA | On Site | Apr 28 |
