@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scowtt](https://www.scowtt.com)** | **[Intern - Full Stack Software Engineering](https://jobright.ai/jobs/info/69c1dc6075f7ff1cd8103919?utm_campaign=1079&utm_source=git)** | Seattle | Hybrid | Apr 28 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineering, People Systems (Fall 2026)](https://jobright.ai/jobs/info/69f16b31b27fee43e8cd8ec0?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Apr 28 |
 | **[Trident](https://www.tridsys.com/)** | **[Software Engineering (Data Analytics) Intern](https://jobright.ai/jobs/info/69f15efeecbc8c2f73205705?utm_campaign=1079&utm_source=git)** | Fairfax, VA, US | On Site | Apr 28 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69f15ef762b48c683879535b?utm_campaign=1079&utm_source=git)** | Fairfax, VA, US | On Site | Apr 28 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - System Test](https://jobright.ai/jobs/info/69f157ac8feca91f1491fd69?utm_campaign=1079&utm_source=git)** | Rochester Hills, MI | On Site | Apr 28 |
+| **[Onyx Odds](https://onyxodds.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69f16e52ecbc8c2f73205aad?utm_campaign=1079&utm_source=git)** | New York City | On Site | Apr 28 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69f148dc8d8d624381a9b80e?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 28 |
 | ↳ | **[Java Developer - Intern](https://jobright.ai/jobs/info/69f14832b27fee43e8cd861b?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 28 |
 | **[Thales](http://www.thalesgroup.com)** | **[Intern Quality Assurance](https://jobright.ai/jobs/info/69f1472fecbc8c2f732051da?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Draper](https://www.draper.com)** | **[Electronics & Embedded Systems Summer Intern](https://jobright.ai/jobs/info/69f012e9825a315d7ca30db3?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | Apr 27 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Forward Deployed Engineering Intern, AI-Native (Hybrid)](https://jobright.ai/jobs/info/69f0038bfbe0994a40eb9f81?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Apr 27 |
 | **[DiDi](https://www.didiglobal.com)** | **[Software Engineer, Simulation (Summer Intern)](https://jobright.ai/jobs/info/69f001ece624fe645d534b75?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
-| **[Kiewit](http://www.kiewit.com)** | **[Kiewit Infrastructure Engineering High School Internship (Summer 2026)](https://jobright.ai/jobs/info/69f001aee624fe645d534acc?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Apr 27 |
-| **[PrePass](https://www.prepass.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69effc55fbe0994a40eb9d13?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Apr 27 |
-| **[Redcan.ai](https://redcan.ai/)** | **[Intern Software Engineer (Fall 2026)](https://jobright.ai/jobs/info/69f0fb6b8d8d624381a9977b?utm_campaign=1079&utm_source=git)** | Toronto Area | Remote | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
