@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trident](https://www.tridsys.com/)** | **[Software Engineering (Data Analytics) Intern](https://jobright.ai/jobs/info/69f15efeecbc8c2f73205705?utm_campaign=1079&utm_source=git)** | Fairfax, VA, US | On Site | Apr 28 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/69f15ef762b48c683879535b?utm_campaign=1079&utm_source=git)** | Fairfax, VA, US | On Site | Apr 28 |
+| **[Magna International](http://www.magna.com/)** | **[Intern - System Test](https://jobright.ai/jobs/info/69f157ac8feca91f1491fd69?utm_campaign=1079&utm_source=git)** | Rochester Hills, MI | On Site | Apr 28 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69f148dc8d8d624381a9b80e?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 28 |
 | ↳ | **[Java Developer - Intern](https://jobright.ai/jobs/info/69f14832b27fee43e8cd861b?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 28 |
 | **[Thales](http://www.thalesgroup.com)** | **[Intern Quality Assurance](https://jobright.ai/jobs/info/69f1472fecbc8c2f732051da?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | Apr 28 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Beth Graves](https://jobright.ai/jobs/info/69f141e5ecbc8c2f73204fab?utm_campaign=1079&utm_source=git)** | Albany, NY, US | Hybrid | Apr 28 |
+| **[Ophir](http://www.ophir.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69f15ef8ecbc8c2f732056dc?utm_campaign=1079&utm_source=git)** | Fairfax, VA, US | On Site | Apr 28 |
 | **[AV](https://www.avinc.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69f13b0e8d8d624381a9b21b?utm_campaign=1079&utm_source=git)** | Huntsville, AL | Hybrid | Apr 28 |
 | **[Quadric](https://quadric.ai)** | **[Software Engineer Intern - Compiler](https://jobright.ai/jobs/info/69f13604b27fee43e8cd7e06?utm_campaign=1079&utm_source=git)** | Burlingame, California, United States | On Site | Apr 28 |
 | **[Thales](http://www.thalesgroup.com)** | **[Intern Quality Assurance](https://jobright.ai/jobs/info/69f135f2b27fee43e8cd7d73?utm_campaign=1079&utm_source=git)** | Austin, US-TX, USA | Hybrid | Apr 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Kiewit Infrastructure Engineering High School Internship (Summer 2026)](https://jobright.ai/jobs/info/69f001aee624fe645d534acc?utm_campaign=1079&utm_source=git)** | Lone Tree, CO | On Site | Apr 27 |
 | **[PrePass](https://www.prepass.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69effc55fbe0994a40eb9d13?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | Apr 27 |
 | **[Redcan.ai](https://redcan.ai/)** | **[Intern Software Engineer (Fall 2026)](https://jobright.ai/jobs/info/69f0fb6b8d8d624381a9977b?utm_campaign=1079&utm_source=git)** | Toronto Area | Remote | Apr 27 |
-| **[DiDi](https://www.didiglobal.com)** | **[Software Engineer, Simulation (Summer Intern)](https://jobright.ai/jobs/info/69eff28de624fe645d534713?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
-| **[WindBorne Systems](https://windbornesystems.com)** | **[Firmware Intern](https://jobright.ai/jobs/info/69eff14e58811370cb149e64?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | Apr 27 |
-| **[TeamViewer](https://www.teamviewer.com)** | **[IT Solution Engineering Internship (Hybrid, Clearwater, FL)](https://jobright.ai/jobs/info/69efee38e624fe645d534612?utm_campaign=1079&utm_source=git)** | Clearwater, FL | Hybrid | Apr 27 |
-| **[Anritsu](https://www.anritsu.com)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/69efed704b0fa35a7078ce3d?utm_campaign=1079&utm_source=git)** | Belvidere, Illinois, United States | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
