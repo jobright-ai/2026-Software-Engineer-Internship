@@ -57,13 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/69f2ec428d8d624381aa48a7?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Apr 29 |
+| **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/69f2e9ec825a315d7ca4131a?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69f2d32c8d8d624381aa4365?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Apr 29 |
-| **[Zyncora](https://www.zyncorainc.com/)** | **[Founding Engineer - Phase II](https://jobright.ai/jobs/info/69f2d323ab4ec4779fffcc06?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 29 |
+| **[Zyncora](https://www.zyncorainc.com/)** | **[Founding Engineer - Phase II](https://jobright.ai/jobs/info/69f2d2a834c4af7a79ab6d93?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69f2d2a234c4af7a79ab6d71?utm_campaign=1079&utm_source=git)** | New York, United States | Hybrid | Apr 29 |
-| ↳ | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69f2cd168d8d624381aa3ef4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Apr 29 |
+| **[Nokia](http://www.nokia.com)** | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2ec1b34c4af7a79ab7e74?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
+| **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer)](https://jobright.ai/jobs/info/69f2cd168d8d624381aa3ef4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Apr 29 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I](https://jobright.ai/jobs/info/69f2cc50ecbc8c2f7320da10?utm_campaign=1079&utm_source=git)** | Temple, TX | On Site | Apr 29 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Engineering Integration Associate Internship](https://jobright.ai/jobs/info/69f2ca408feca91f14927f00?utm_campaign=1079&utm_source=git)** | Lake Mary, FL | On Site | Apr 29 |
 | **[nLIGHT, Inc.](http://www.nlight.net)** | **[IT Software Engineering Intern](https://jobright.ai/jobs/info/69f2c6288feca91f14927e8d?utm_campaign=1079&utm_source=git)** | Camas, WA | On Site | Apr 29 |
+| **[Nokia](http://www.nokia.com)** | **[Web Developer Co-op/Intern](https://jobright.ai/jobs/info/69f2ec30825a315d7ca4135d?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
+| ↳ | **[HW/SW Integration Eng Co-op/Intern](https://jobright.ai/jobs/info/69f2dfcfab4ec4779fffd981?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
+| ↳ | **[IP R&D Lab Technologist Co-op/Intern](https://jobright.ai/jobs/info/69f2dfaf825a315d7ca41237?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
+| ↳ | **[IT Network Software/AI Development - Co-op/Intern](https://jobright.ai/jobs/info/69f2dfa28d8d624381aa46d7?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | **[Seven Research, LLC](sevenresearch.com)** | **[Core Developer - Intern](https://jobright.ai/jobs/info/69f2c0688feca91f14927d25?utm_campaign=1079&utm_source=git)** | New York | On Site | Apr 29 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Website Maintenance and Innovation](https://jobright.ai/jobs/info/69f2d8468d8d624381aa453e?utm_campaign=1079&utm_source=git)** | Arlington, TX | On Site | Apr 29 |
 | **[Andromeda Systems Incorporated](https://androsysinc.com/)** | **[Software Tester Intern](https://jobright.ai/jobs/info/69f2b664ab4ec4779fffa7bb?utm_campaign=1079&utm_source=git)** | Jacksonville, FL | On Site | Apr 29 |
@@ -71,11 +78,11 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[HW/SW Integration Eng Co-op/Intern](https://jobright.ai/jobs/info/69f2b07a825a315d7ca3dfaa?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Apr 29 |
 | ↳ | **[Web Developer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9b?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[Software Tester – Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa0?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
-| ↳ | **[Software Test Co-op/Intern](https://jobright.ai/jobs/info/69f2b0758d8d624381aa2349?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[Web Developer Co-op/Intern](https://jobright.ai/jobs/info/69f2b0758d8d624381aa2348?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
+| ↳ | **[Software Test Co-op/Intern](https://jobright.ai/jobs/info/69f2b0758d8d624381aa2349?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[IP R&D Lab Technologist Co-op/Intern](https://jobright.ai/jobs/info/69f2b06becbc8c2f7320bf42?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Apr 29 |
-| ↳ | **[IT Network Software/AI Development - Co-op/Intern](https://jobright.ai/jobs/info/69f2b0668feca91f149264ec?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[Tools and Automation SW Dev Co-op/Intern](https://jobright.ai/jobs/info/69f2b0668feca91f149264eb?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
+| ↳ | **[IT Network Software/AI Development - Co-op/Intern](https://jobright.ai/jobs/info/69f2b0668feca91f149264ec?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[Software Design Co-op/Intern](https://jobright.ai/jobs/info/69f2b0658feca91f149264de?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b0648feca91f149264d6?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b062ab4ec4779fffa6ec?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Apr 29 |
@@ -101,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/69f295b18d8d624381aa1aae?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | Apr 29 |
 | **[AV](https://www.avinc.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69f293b5f154d768fbaa7e63?utm_campaign=1079&utm_source=git)** | Sunrise, FL | On Site | Apr 29 |
 | **[Gelber Group LLC](http://www.gelbergroup.com/)** | **[Software Engineer Internship (Technical Operations Team) - Summer 2026](https://jobright.ai/jobs/info/69f2930becbc8c2f7320b541?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
+| **[nLIGHT DEFENSE Systems, Inc.](http://www.nlight.net/products/directed-energy-lasers/)** | **[IT Software Engineering Intern](https://jobright.ai/jobs/info/69f2ec5c8feca91f14928d57?utm_campaign=1079&utm_source=git)** | Camas, WA | On Site | Apr 29 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Intern – Website Maintenance and Innovation](https://jobright.ai/jobs/info/69f28bf38d8d624381aa1855?utm_campaign=1079&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | On Site | Apr 29 |
 | **[Moon](https://moon.tech)** | **[Software Engineering Intern, Backend & API](https://jobright.ai/jobs/info/69f28bcbab4ec4779fff9bce?utm_campaign=1079&utm_source=git)** | Glendale, CA | On Site | Apr 29 |
 | **[Amazon](https://amazon.com)** | **[Front-End Engineer Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/69f28bbfecbc8c2f7320b30e?utm_campaign=1079&utm_source=git)** | Seattle, Washington, USA | On Site | Apr 29 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Software Developer Intern - Structural](https://jobright.ai/jobs/info/69bb8db706c1ba00c54e2129?utm_campaign=1079&utm_source=git)** | Miami, FL | On Site | Apr 29 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Hardware](https://jobright.ai/jobs/info/697841d539f7f96cc6d09310?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 29 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Developer Technology Intern, High-Performance Databases - Summer 2026](https://jobright.ai/jobs/info/69dc8cdaf748bc5d08a5b2ae?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Apr 29 |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Implementation Assurance Testing Intern (4 Months)](https://jobright.ai/jobs/info/69f2460eab4ec4779fff8554?utm_campaign=1079&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 29 |
-| **[Cantaloupe Inc](http://www.cantaloupe.com)** | **[Junior Software Engineer Intern](https://jobright.ai/jobs/info/69f2460bab4ec4779fff8553?utm_campaign=1079&utm_source=git)** | Atlanta, GA, US | Hybrid | Apr 29 |
-| **[SambaSafety](http://www.sambasafety.com)** | **[Summer Internship- Engineering](https://jobright.ai/jobs/info/69f245f28feca91f149240c9?utm_campaign=1079&utm_source=git)** | US | On Site | Apr 29 |
-| **[Reyco Granning Suspensions](http://www.reycogranning.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f245f28feca91f149240d1?utm_campaign=1079&utm_source=git)** | Woodridge, IL, 60517, United States | On Site | Apr 29 |
-| **[Impulse Space](https://www.impulsespace.com)** | **[Software Engineering Intern, Avionics Design Team](https://jobright.ai/jobs/info/69f245f0825a315d7ca3ba7a?utm_campaign=1079&utm_source=git)** | Redondo Beach | On Site | Apr 29 |
-| **[Walter P Moore](http://www.walterpmoore.com)** | **[Software Developer Intern - Structural](https://jobright.ai/jobs/info/69bb8b3d5697383741419ba1?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Apr 29 |
-| ↳ | **[Software Developer Intern - Structural](https://jobright.ai/jobs/info/69d8771ef4ea471a51fe5ec9?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Apr 29 |
-| ↳ | **[Software Developer Intern - Structural](https://jobright.ai/jobs/info/69bb8b585697383741419c66?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
