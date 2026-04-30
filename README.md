@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Street](https://www.statestreet.com/)** | **[Cloud QA Engineer and Performance Intern - CRD- July- Dec](https://jobright.ai/jobs/info/69f2a03e825a315d7ca3dab4?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Apr 29 |
+| ↳ | **[Cloud QA Engineer and Performance Intern - CRD- July- Dec](https://jobright.ai/jobs/info/69f29dd8f154d768fbaa8148?utm_campaign=1079&utm_source=git)** | Burlington Massachusetts, US | On Site | Apr 29 |
+| **[Persona AI](https://personainc.ai/)** | **[Teleoperation Software Engineering Internship](https://jobright.ai/jobs/info/69aa30c99ca4e908ec658234?utm_campaign=1079&utm_source=git)** | Greater Houston | On Site | Apr 29 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Software Application Engineering Intern (Year Round)](https://jobright.ai/jobs/info/69f297688feca91f14925cf1?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | Apr 29 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/69a2d62f359fe034b1ce31e6?utm_campaign=1079&utm_source=git)** | Bethlehem, PA | On Site | Apr 29 |
 | **[Cadent](http://www.cadent.tv)** | **[QA Engineer Intern](https://jobright.ai/jobs/info/69f2972cf154d768fbaa7fba?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Apr 29 |
@@ -140,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69ea5dea3aa0c479643af3f7?utm_campaign=1079&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 29 |
 | **[Fiserv](http://www.fiserv.com)** | **[Technology - Summer Intern](https://jobright.ai/jobs/info/69f231b7f154d768fbaa5b23?utm_campaign=1079&utm_source=git)** | Alpharetta, Georgia, United States of America | On Site | Apr 29 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/69f231b1f154d768fbaa5af9?utm_campaign=1079&utm_source=git)** | Hillsboro, Oregon, US | Hybrid | Apr 29 |
-| ↳ | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/69f231b1f154d768fbaa5af8?utm_campaign=1079&utm_source=git)** | RTP, North Carolina, US | Hybrid | Apr 29 |
 | ↳ | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/69f231b1f154d768fbaa5af7?utm_campaign=1079&utm_source=git)** | New York, New York, US | Hybrid | Apr 29 |
+| ↳ | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/69f231b1f154d768fbaa5af8?utm_campaign=1079&utm_source=git)** | RTP, North Carolina, US | Hybrid | Apr 29 |
 | ↳ | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/69f231ae8d8d624381a9f907?utm_campaign=1079&utm_source=git)** | Austin, Texas, US | Hybrid | Apr 29 |
 | ↳ | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/69f231ae8d8d624381a9f90e?utm_campaign=1079&utm_source=git)** | Seattle, Washington, US | Hybrid | Apr 29 |
 | ↳ | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/69f231ae8d8d624381a9f906?utm_campaign=1079&utm_source=git)** | Atlanta, Georgia, US | Hybrid | Apr 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/69f231a3825a315d7ca3b296?utm_campaign=1079&utm_source=git)** | Maynard, Massachusetts, US | Hybrid | Apr 29 |
 | ↳ | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/69f2318b8feca91f1492373d?utm_campaign=1079&utm_source=git)** | Dallas, Texas, US | Hybrid | Apr 29 |
 | ↳ | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/69f2318a8feca91f14923735?utm_campaign=1079&utm_source=git)** | Milpitas, California, US | Hybrid | Apr 29 |
-| ↳ | **[Software Engineer Backend/Platform Systems I (Intern) – United States](https://jobright.ai/jobs/info/69f2318a8feca91f14923738?utm_campaign=1079&utm_source=git)** | San Jose, California, US | Hybrid | Apr 29 |
-| **[Fiserv](http://www.fiserv.com)** | **[Technology - Summer Intern](https://jobright.ai/jobs/info/69f2305decbc8c2f7320918c?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | Apr 29 |
-| **[AdTheorent](http://www.adtheorent.com)** | **[Backend Engineer Intern](https://jobright.ai/jobs/info/69f225fc8feca91f14923537?utm_campaign=1079&utm_source=git)** | New York, NY, US | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
