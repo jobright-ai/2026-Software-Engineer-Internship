@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATI](https://www.atimaterials.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f493419a63986de75762bc?utm_campaign=1079&utm_source=git)** | Washington, PA | On Site | May 01 |
+| ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/69d209e20b098b7a670868d1?utm_campaign=1079&utm_source=git)** | Rochester, PA | On Site | May 01 |
 | **[Jaros, Baum & Bolles (JB&B)](http://jbb.com)** | **[Software Engineering  Intern](https://jobright.ai/jobs/info/69bc6b2745e08b3dc1f91865?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Motion](https://www.motion.com)** | **[Customer Software Development Intern](https://jobright.ai/jobs/info/69d0bc71cfdc6132f943ef42?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | May 01 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Full-Stack Software Engineering Intern – Commercialized Web Applications](https://jobright.ai/jobs/info/69d85e3b738f2f099e89c14d?utm_campaign=1079&utm_source=git)** | Beachwood, OH | On Site | May 01 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(General Hire) Software Engineer Intern (TikTok Eng-Short Video) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698470ac0f6f7e7a2cdecdb2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 01 |
 | **[Trumid](https://www.trumid.com)** | **[Delivery Management Intern](https://jobright.ai/jobs/info/69de87beaba61f1417315871?utm_campaign=1079&utm_source=git)** | New York City | On Site | May 01 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Software Engineer, Intern (Summer 2027)](https://jobright.ai/jobs/info/69cd81facdb525785fb89792?utm_campaign=1079&utm_source=git)** | Chicago | On Site | May 01 |
-| **[GenPark](https://genpark.ai)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/69f47d8bdb88714bcdfad7fa?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | May 01 |
 | **[rf IDEAS, Inc](http://www.rfideas.com)** | **[Test Software Engineer Intern – Robotics & Test Automation](https://jobright.ai/jobs/info/69f4569f1f90bd6ae23d44db?utm_campaign=1079&utm_source=git)** | Schaumburg, IL | Hybrid | May 01 |
 | **[Chartbeat](http://chartbeat.com)** | **[QA Engineering Internship](https://jobright.ai/jobs/info/69c6ceeae565c26a70022df1?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Drupal Developer Intern](https://jobright.ai/jobs/info/69eb400d0a6e095553045e9c?utm_campaign=1079&utm_source=git)** | Paramus, NJ | On Site | Apr 30 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SW Engineering Intern](https://jobright.ai/jobs/info/69f2edd7ab4ec4779fffdb71?utm_campaign=1079&utm_source=git)** | US-MN-Bloomington | On Site | Apr 29 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/69f2ec428d8d624381aa48a7?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Apr 29 |
 | **[Iowa State University Research Park](http://www.isupark.org)** | **[Product Testing Intern](https://jobright.ai/jobs/info/69f42a42461b9b613a625da1?utm_campaign=1079&utm_source=git)** | Leader, Saskatchewan, Canada | On Site | Apr 29 |
-| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Software Development Intern - GeoCoding](https://jobright.ai/jobs/info/69f3257c1f90bd6ae23cdc5a?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Software Development Intern - Client and Partner Integration](https://jobright.ai/jobs/info/69f324cb6942c746fa6901ac?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
+| ↳ | **[Software Development Intern - Consumer Interactions](https://jobright.ai/jobs/info/69f32537343eef4fb0a99435?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | ↳ | **[Software Development Intern - Business Platform](https://jobright.ai/jobs/info/69f3257a1f90bd6ae23cdc52?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | ↳ | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/69f32523461b9b613a61ef74?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | ↳ | **[Software Development Intern - Route Optimization](https://jobright.ai/jobs/info/69f3251658b23a2329da31b8?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
-| ↳ | **[Software Development Intern - Warehouse Productivity](https://jobright.ai/jobs/info/69f32523461b9b613a61ef75?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
-| ↳ | **[Software Development Intern - Consumer Interactions](https://jobright.ai/jobs/info/69f32537343eef4fb0a99435?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
