@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jolera](https://www.jolera.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69f40e40343eef4fb0a9fb2a?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Apr 30 |
+| **[Gen](https://www.gendigital.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69f406bf1f90bd6ae23d3507?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Apr 30 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Developer Technology Intern, High-Performance Databases - Fall 2026](https://jobright.ai/jobs/info/69f4052b1f90bd6ae23d33f3?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Apr 30 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Embedded Software Intern](https://jobright.ai/jobs/info/69f404ab58b23a2329da9399?utm_campaign=1079&utm_source=git)** | Everett, WA | On Site | Apr 30 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Developer Technology Intern, High-Performance Databases - Fall 2026](https://jobright.ai/jobs/info/69f4048558b23a2329da9329?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Apr 30 |
@@ -122,8 +124,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/69d639d5e63cea7a8b668224?utm_campaign=1079&utm_source=git)** | Greater Houston | Remote | Apr 30 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69cc78db366bb95ba54ef9e5?utm_campaign=1079&utm_source=git)** | Madison, AL | Remote | Apr 30 |
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/69cc7c99cfdc6132f940c864?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Remote | Apr 30 |
-| ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/69cc79778130af1ac83389c6?utm_campaign=1079&utm_source=git)** | Hampton, VA | Remote | Apr 30 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/69d640c6706f771673ba9f8e?utm_campaign=1079&utm_source=git)** | Greater Houston | Remote | Apr 30 |
+| ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/69cc79778130af1ac83389c6?utm_campaign=1079&utm_source=git)** | Hampton, VA | Remote | Apr 30 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/69eabed37820c036924ef594?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | Hybrid | Apr 30 |
 | **[Octave](https://www.octave.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69ccac3ccfdc6132f94120e9?utm_campaign=1079&utm_source=git)** | Madison, AL | Remote | Apr 30 |
 | **[SkipQ](http://www.skiptq.com)** | **[Internship-Full Stack Engineer](https://jobright.ai/jobs/info/69f32f7ac78b9e4518953947?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 30 |
@@ -136,13 +138,13 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/69f2ec428d8d624381aa48a7?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO | On Site | Apr 29 |
 | **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/69f2e9ec825a315d7ca4131a?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Software Development Intern - Client and Partner Integration](https://jobright.ai/jobs/info/69f324cb6942c746fa6901ac?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
-| ↳ | **[Software Development Intern - GeoCoding](https://jobright.ai/jobs/info/69f3257c1f90bd6ae23cdc5a?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
-| ↳ | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/69f32523461b9b613a61ef74?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
-| ↳ | **[Software Development Intern - Business Platform](https://jobright.ai/jobs/info/69f3257a1f90bd6ae23cdc52?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
-| ↳ | **[Software Development Intern - Warehouse Productivity](https://jobright.ai/jobs/info/69f32523461b9b613a61ef75?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
+| ↳ | **[Software Development Intern - Mobile Application](https://jobright.ai/jobs/info/69f3257a1f90bd6ae23cdc54?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | ↳ | **[Software Development Intern - Route Optimization](https://jobright.ai/jobs/info/69f3251658b23a2329da31b8?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | ↳ | **[Software Development Intern - Consumer Interactions](https://jobright.ai/jobs/info/69f32537343eef4fb0a99435?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
-| ↳ | **[Software Development Intern - Mobile Application](https://jobright.ai/jobs/info/69f3257a1f90bd6ae23cdc54?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
+| ↳ | **[Software Development Intern - GeoCoding](https://jobright.ai/jobs/info/69f3257c1f90bd6ae23cdc5a?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
+| ↳ | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/69f32523461b9b613a61ef74?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
+| ↳ | **[Software Development Intern - Warehouse Productivity](https://jobright.ai/jobs/info/69f32523461b9b613a61ef75?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
+| ↳ | **[Software Development Intern - Business Platform](https://jobright.ai/jobs/info/69f3257a1f90bd6ae23cdc52?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | ↳ | **[R&D Solution Builder Intern](https://jobright.ai/jobs/info/69f3251658b23a2329da31ba?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | ↳ | **[Software Developer in Test Intern](https://jobright.ai/jobs/info/69f3257a1f90bd6ae23cdc51?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | ↳ | **[Embedded Software Development Intern](https://jobright.ai/jobs/info/69f34ad1343eef4fb0a99dac?utm_campaign=1079&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I](https://jobright.ai/jobs/info/69f2cc50ecbc8c2f7320da10?utm_campaign=1079&utm_source=git)** | Temple, TX | On Site | Apr 29 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Engineering Integration Associate Internship](https://jobright.ai/jobs/info/69f2ca408feca91f14927f00?utm_campaign=1079&utm_source=git)** | Lake Mary, FL | On Site | Apr 29 |
 | **[Nokia](http://www.nokia.com)** | **[Tools and Automation SW Dev Co-op/Intern](https://jobright.ai/jobs/info/69f302e4825a315d7ca41943?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
-| ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/69f302e4ecbc8c2f7320f81c?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[Software Tester – Co-op/Intern](https://jobright.ai/jobs/info/69f302e1ecbc8c2f7320f803?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
-| ↳ | **[SW Tools Development Co-op/Intern](https://jobright.ai/jobs/info/69f30c1534c4af7a79ab8b5d?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
-| ↳ | **[Software Design Co-op/Intern](https://jobright.ai/jobs/info/69f30bd8ab4ec4779fffe569?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
+| ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/69f302e4ecbc8c2f7320f81c?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
