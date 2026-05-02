@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Novalytics](www.novalytics.ca)** | **[Full-Stack Intern](https://jobright.ai/jobs/info/69f5988ca3d34b4f76f55a6c?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 01 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Geographic Information Systems, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f59fa181706a5bd2166c78?utm_campaign=1079&utm_source=git)** | Jamaica, NY | On Site | May 01 |
 | **[Pindrop](http://pindrop.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/69f57c8ca3d34b4f76f55717?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Remote | May 01 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Enterprise Architecture Enablement](https://jobright.ai/jobs/info/69f57c670b36ff03547524fa?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | Hybrid | May 01 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Application Development](https://jobright.ai/jobs/info/69f5699112f2811ab5a647f5?utm_campaign=1079&utm_source=git)** | Okemos, MI | Hybrid | May 01 |
@@ -152,7 +153,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/69f5444743a25828a8d18135?utm_campaign=1079&utm_source=git)** | Baltimore, MD | On Site | Apr 30 |
 | **[Cohere](https://cohere.com)** | **[Software Engineer Intern (Fall / Winter 2026)](https://jobright.ai/jobs/info/69f51e2fdb88714bcdfb2257?utm_campaign=1079&utm_source=git)** | Canada | Remote | Apr 30 |
 | **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Engineer - Web & AI](https://jobright.ai/jobs/info/69f3eb876942c746fa6960e2?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | On Site | Apr 30 |
-| **[HP](http://www.hp.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69f3e3cc1f90bd6ae23d296d?utm_campaign=1079&utm_source=git)** | Fort Collins, CO | Hybrid | Apr 30 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69f3df74343eef4fb0a9ea91?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | On Site | Apr 30 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/69f3dcecc78b9e45189585fc?utm_campaign=1079&utm_source=git)** | Costa Mesa, CA | On Site | Apr 30 |
 | ↳ | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/69f3dc8c1f90bd6ae23d2497?utm_campaign=1079&utm_source=git)** | Costa Mesa, California, United States | On Site | Apr 30 |
