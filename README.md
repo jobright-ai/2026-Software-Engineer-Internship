@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novalytics](www.novalytics.ca)** | **[Full-Stack Intern](https://jobright.ai/jobs/info/69f5988ca3d34b4f76f55a6c?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 01 |
 | **[Pindrop](http://pindrop.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/69f57c8ca3d34b4f76f55717?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Remote | May 01 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Enterprise Architecture Enablement](https://jobright.ai/jobs/info/69f57c670b36ff03547524fa?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | Hybrid | May 01 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Application Development](https://jobright.ai/jobs/info/69f5699112f2811ab5a647f5?utm_campaign=1079&utm_source=git)** | Okemos, MI | Hybrid | May 01 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Tech](https://jobright.ai/jobs/info/69f5115843a25828a8d16b75?utm_campaign=1079&utm_source=git)** | New York, NY | Austin, TX | King of Prussia, PA | On Site | May 01 |
 | **[Michigan Milk Producers Association](http://mimilk.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69f5101da3d34b4f76f5367f?utm_campaign=1079&utm_source=git)** | Remus, MI | On Site | May 01 |
 | **[Ameritas](http://www.ameritas.com)** | **[IT Architecture Intern](https://jobright.ai/jobs/info/69f506a7db88714bcdfb1a02?utm_campaign=1079&utm_source=git)** | Lincoln, NE, 68510-2234, United States | Hybrid | May 01 |
-| **[Fearless](http://fearless.tech)** | **[Software Engineer Intern, Rails & Localization](https://jobright.ai/jobs/info/69f5060343a25828a8d1674f?utm_campaign=1079&utm_source=git)** | Baltimore, MD, USA | On Site | May 01 |
-| ↳ | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/69f5060343a25828a8d16755?utm_campaign=1079&utm_source=git)** | Baltimore, MD, USA | On Site | May 01 |
+| **[Fearless](http://fearless.tech)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/69f5060343a25828a8d16755?utm_campaign=1079&utm_source=git)** | Baltimore, MD, USA | On Site | May 01 |
+| ↳ | **[Software Engineer Intern, Rails & Localization](https://jobright.ai/jobs/info/69f5060343a25828a8d1674f?utm_campaign=1079&utm_source=git)** | Baltimore, MD, USA | On Site | May 01 |
 | **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d82b53869c7e25d8594366?utm_campaign=1079&utm_source=git)** | Greater Boston | On Site | May 01 |
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op Fall 2026 - Software Developer - 8 Months](https://jobright.ai/jobs/info/69f51dd3db88714bcdfb2167?utm_campaign=1079&utm_source=git)** | Cole Harbour, Nova Scotia, Canada | Hybrid | May 01 |
 | ↳ | **[Co-op Fall 2026 - Software Developer - 8 Months](https://jobright.ai/jobs/info/69f51d2081706a5bd2164dff?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Anduril Industries](https://www.anduril.com)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/69f3dcecc78b9e45189585fc?utm_campaign=1079&utm_source=git)** | Costa Mesa, CA | On Site | Apr 30 |
 | ↳ | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/69f3dc8c1f90bd6ae23d2497?utm_campaign=1079&utm_source=git)** | Costa Mesa, California, United States | On Site | Apr 30 |
 | **[Mundoro Capital Inc.](http://www.mundoro.com)** | **[AI Agent Developer \- Internship](https://jobright.ai/jobs/info/69f3d916c78b9e4518958235?utm_campaign=1079&utm_source=git)** | Remote job | Remote | Apr 30 |
-| **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Engineer  - Web & AI](https://jobright.ai/jobs/info/69f3d8be343eef4fb0a9e6c5?utm_campaign=1079&utm_source=git)** | Markham, 19 Allstate Parkway, CA | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
