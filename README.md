@@ -140,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[rf IDEAS, Inc](http://www.rfideas.com)** | **[Test Software Engineer Intern – Robotics & Test Automation](https://jobright.ai/jobs/info/69f4569f1f90bd6ae23d44db?utm_campaign=1079&utm_source=git)** | Schaumburg, IL | Hybrid | May 01 |
 | **[Chartbeat](http://chartbeat.com)** | **[QA Engineering Internship](https://jobright.ai/jobs/info/69c6ceeae565c26a70022df1?utm_campaign=1079&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Drupal Developer Intern](https://jobright.ai/jobs/info/69eb400d0a6e095553045e9c?utm_campaign=1079&utm_source=git)** | Paramus, NJ | On Site | Apr 30 |
+| **[Primetals Technologies](https://primetals.com)** | **[Engineering Integration Associate Internship](https://jobright.ai/jobs/info/69f58c1f12f2811ab5a64fd0?utm_campaign=1079&utm_source=git)** | Lake Mary, FL | On Site | Apr 30 |
 | **[Jolera](https://www.jolera.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69f40e40343eef4fb0a9fb2a?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | Apr 30 |
 | **[Gen](https://www.gendigital.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69f406bf1f90bd6ae23d3507?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | Apr 30 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Developer Technology Intern, High-Performance Databases - Fall 2026](https://jobright.ai/jobs/info/69f4052b1f90bd6ae23d33f3?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | Apr 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/69f3dc8c1f90bd6ae23d2497?utm_campaign=1079&utm_source=git)** | Costa Mesa, California, United States | On Site | Apr 30 |
 | **[Mundoro Capital Inc.](http://www.mundoro.com)** | **[AI Agent Developer \- Internship](https://jobright.ai/jobs/info/69f3d916c78b9e4518958235?utm_campaign=1079&utm_source=git)** | Remote job | Remote | Apr 30 |
 | **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Engineer  - Web & AI](https://jobright.ai/jobs/info/69f3d8be343eef4fb0a9e6c5?utm_campaign=1079&utm_source=git)** | Markham, 19 Allstate Parkway, CA | On Site | Apr 30 |
-| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern- Application Software Development](https://jobright.ai/jobs/info/69f3d1926942c746fa694e91?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
