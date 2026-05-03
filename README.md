@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deepiri](https://deepiri.com)** | **[IT Intern (Open Source)](https://jobright.ai/jobs/info/69f695980b36ff0354755e16?utm_campaign=1079&utm_source=git)** | United States | Remote | May 02 |
 | **[GenPark](https://genpark.ai)** | **[Frontend Development Intern](https://jobright.ai/jobs/info/69f68d8ab1fc847fc1ae3e7d?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | May 02 |
 | **[Origence](https://origence.com/)** | **[Implementations Enablement Intern](https://jobright.ai/jobs/info/69f67f40db88714bcdfb693c?utm_campaign=1079&utm_source=git)** | Ontario, CA | On Site | May 02 |
 | **[Acorns](https://www.acorns.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a2a5540da45516f16c060b?utm_campaign=1079&utm_source=git)** | United States | Remote | May 02 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Software Engineering - Financial Systems](https://jobright.ai/jobs/info/69f647410b36ff03547549d3?utm_campaign=1079&utm_source=git)** | Indiana, United States | Remote | May 02 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/68cbb7f7ba798c1a501d4532?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ | On Site | May 02 |
-| **[Cytrence Technologies, Inc.](https://www.cytrence.com)** | **[Summer Intern - Embedded System(Boston., MA)](https://jobright.ai/jobs/info/69f64599582f810f9c8c891d?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | May 02 |
 | **[World Vision Canada](https://www.worldvision.ca)** | **[Intern, Employee-Centric Delivery](https://jobright.ai/jobs/info/69bdb5f84828227293fffe98?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 02 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Software Development Intern - Digital Grid Management - Summer 2026](https://jobright.ai/jobs/info/69826e14348f733a5c354502?utm_campaign=1079&utm_source=git)** | Twin Cities Area | Hybrid | May 02 |
 | **[Fiserv](http://www.fiserv.com)** | **[Technology - Summer Intern](https://jobright.ai/jobs/info/69f64180db88714bcdfb5c7e?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | May 02 |
@@ -131,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Artelia](http://www.arteliagroup.com/en/home)** | **[Stagiaire en infrastructures urbaines - Surveillance](https://jobright.ai/jobs/info/69f51dcb43a25828a8d17092?utm_campaign=1079&utm_source=git)** | Laval, Quebec, Canada | On Site | May 01 |
 | **[State Street](https://www.statestreet.com/)** | **[Business Architecture & Agentic Automation, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69f4f4baa3d34b4f76f52b0a?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | May 01 |
 | **[Longevity Holdings, Inc.](https://longevity.inc/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69f4f2e80b36ff035474fe0c?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | Hybrid | May 01 |
+| **[DocuWare](https://start.docuware.com)** | **[Software Engineer Intern (Working Student)](https://jobright.ai/jobs/info/69f69a8bb1fc847fc1ae40e2?utm_campaign=1079&utm_source=git)** | Beacon / USA | Hybrid | May 01 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e8e71858811370cb128e60?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | May 01 |
 | **[Kimball Midwest](https://www.kimballmidwest.com)** | **[IT Architect Intern](https://jobright.ai/jobs/info/69d10186366bb95ba552412e?utm_campaign=1079&utm_source=git)** | Columbus, OH | On Site | May 01 |
 | **[Credo](http://www.credosemi.com)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/69a8eb072580d3183f01139e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/692e7f5a4c474121999d9dde?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 01 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Fall 2026 (Canada)](https://jobright.ai/jobs/info/69d7efaef4ea471a51fe28de?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 01 |
 | **[Tektronix](http://www.tek.com)** | **[Software Engineering Intern (MECOP) – 2026](https://jobright.ai/jobs/info/69a8fc7b7ac93962b708e580?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | May 01 |
-| **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - Embedded Software Development Engineer - UWB RADAR](https://jobright.ai/jobs/info/69d80a38b67cec4f9b09a152?utm_campaign=1079&utm_source=git)** | Shanghai, VA | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
