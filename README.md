@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[GenPark](https://genpark.ai)** | **[Web Development Intern](https://jobright.ai/jobs/info/69f78335a3d34b4f76f5b980?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | May 03 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Web Applications/Communications Intern (Year-Round)](https://jobright.ai/jobs/info/696922cf1703f05405aafdff?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | May 03 |
+| **[BNSF Railway](http://www.bnsf.com/)** | **[Sr/Staff Software Engineer (UX Design) (Remote - US)](https://jobright.ai/jobs/info/69c4ae0733eecf31079513db?utm_campaign=1079&utm_source=git)** | United States | Remote | May 03 |
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/69b62bbc3b74eb1e2c83e201?utm_campaign=1079&utm_source=git)** | Zelienople, PA | On Site | May 03 |
 | ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68db0c2ae9b48513789b172a?utm_campaign=1079&utm_source=git)** | Latrobe, PA | On Site | May 03 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[IT System Software Intern](https://jobright.ai/jobs/info/699e9af781476f6176b7e51e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATI](https://www.forging.com)** | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/68f493419a63986de75762bc?utm_campaign=1079&utm_source=git)** | Washington, PA | On Site | May 01 |
 | ↳ | **[Quality Assurance Internship - Summer 2026](https://jobright.ai/jobs/info/69d209e20b098b7a670868d1?utm_campaign=1079&utm_source=git)** | Rochester, PA | On Site | May 01 |
 | **[Jaros, Baum & Bolles (JB&B)](http://jbb.com)** | **[Software Engineering  Intern](https://jobright.ai/jobs/info/69bc6b2745e08b3dc1f91865?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 01 |
-| **[Fortra](https://www.fortra.com)** | **[Software Development Intern - IBMi](https://jobright.ai/jobs/info/69d82a99b861c42857c491d2?utm_campaign=1079&utm_source=git)** | United States | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
