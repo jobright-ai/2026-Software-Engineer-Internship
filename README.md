@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Linguabridge](www.thelinguabridge.com)** | **[Remote Student Intern](https://jobright.ai/jobs/info/69f912f8b1fc847fc1aea898?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | May 04 |
+| **[By Light Professional IT Services](http://www.bylight.com)** | **[AI Intern](https://jobright.ai/jobs/info/69f912b10b36ff035475cec1?utm_campaign=1079&utm_source=git)** | Hanover, MD, US | On Site | May 04 |
+| ↳ | **[AI Intern](https://jobright.ai/jobs/info/69f9124da3d34b4f76f5fdf3?utm_campaign=1079&utm_source=git)** | US-MD-Hanover | On Site | May 04 |
+| **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[2026 Summer Corporate Intern - Information Technology](https://jobright.ai/jobs/info/69f907d80b36ff035475c96f?utm_campaign=1079&utm_source=git)** | Peoria, Illinois, US | On Site | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Embedded Developer Intern, Security/ Quality & Automation (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f9017f81706a5bd216fdb1?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | ↳ | **[Solutions Engineering Intern, Channel (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/69f9016d582f810f9c8cfbd0?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | **[Mark43](http://mark43.com)** | **[Mobile Engineer Intern](https://jobright.ai/jobs/info/69e66f6e3aa0c479643941e6?utm_campaign=1079&utm_source=git)** | Boston | On Site | May 04 |
@@ -72,11 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Thorlabs](http://www.thorlabs.com)** | **[Summer 2026 Information Technology Internship](https://jobright.ai/jobs/info/69f8e494b1fc847fc1ae8ef3?utm_campaign=1079&utm_source=git)** | Jessup, Maryland, United States | On Site | May 04 |
 | **[Arc'teryx Equipment](http://arcteryx.com)** | **[Application Engineer Co-op Student](https://jobright.ai/jobs/info/69f8e434582f810f9c8ce71c?utm_campaign=1079&utm_source=git)** | North Vancouver, British Columbia, Canada | Hybrid | May 04 |
 | **[London Computer Systems](https://www.lcs.com/)** | **[Software Developer Co-op/Intern](https://jobright.ai/jobs/info/69f8dd1ca3d34b4f76f5e056?utm_campaign=1079&utm_source=git)** | Cincinnati, OH, US | On Site | May 04 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[.NET Developer Intern](https://jobright.ai/jobs/info/69f8d93ba3d34b4f76f5deda?utm_campaign=1079&utm_source=git)** | Nottingham, MD, US | On Site | May 04 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[Intern, Non-Engr - Junior](https://jobright.ai/jobs/info/69f8d91ab1fc847fc1ae8bd7?utm_campaign=1079&utm_source=git)** | North Charleston, SC, US | On Site | May 04 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[.NET Developer Intern](https://jobright.ai/jobs/info/69f8d907b1fc847fc1ae8b95?utm_campaign=1079&utm_source=git)** | US-MD-Nottingham | On Site | May 04 |
-| **[Scientific Research Corporation](http://www.scires.com)** | **[Intern, Non-Engr - Junior](https://jobright.ai/jobs/info/69f8d8f5db88714bcdfbba81?utm_campaign=1079&utm_source=git)** | US-SC-North Charleston | On Site | May 04 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[.NET Developer Intern](https://jobright.ai/jobs/info/69f8d8e3db88714bcdfbba45?utm_campaign=1079&utm_source=git)** | Onsite | On Site | May 04 |
+| ↳ | **[Intern, Non-Engr - Junior](https://jobright.ai/jobs/info/69f8d8f5db88714bcdfbba81?utm_campaign=1079&utm_source=git)** | US-SC-North Charleston | On Site | May 04 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/69f8cd3adb88714bcdfbb8a0?utm_campaign=1079&utm_source=git)** | Hamilton, ON, CA | On Site | May 04 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[AWS Tech intern, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/691795e6bcdbf3560c9c9224?utm_campaign=1079&utm_source=git)** | Greater São Paulo Area | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Software Developer – 4 months Internship/Coop (Fall 2026) ](https://jobright.ai/jobs/info/69f8c8e0582f810f9c8ce2db?utm_campaign=1079&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gemini](https://gemini.com)** | **[Software Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/69f52b0312f2811ab5a6396b?utm_campaign=1079&utm_source=git)** | New York, New York | Hybrid | May 01 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineering Intern - (Summer 2026)  (Onsite)](https://jobright.ai/jobs/info/69f52a73a3d34b4f76f54122?utm_campaign=1079&utm_source=git)** | West Valley City, UT | On Site | May 01 |
 | **[Tinder](http://www.tinder.com)** | **[Android Engineer Intern](https://jobright.ai/jobs/info/69f52a3512f2811ab5a63763?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | May 01 |
-| ↳ | **[Android Engineer Intern](https://jobright.ai/jobs/info/69f5298781706a5bd216514d?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
