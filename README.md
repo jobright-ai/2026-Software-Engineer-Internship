@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Web development intern](https://jobright.ai/jobs/info/69f7dd7d81706a5bd216c5dd?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 03 |
+| **[Soaring](https://soaringtech.ai/)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69f7f670582f810f9c8cc738?utm_campaign=1079&utm_source=git)** | Orange, CA | On Site | May 03 |
 | **[Journify Learning](https://www.journify-learning.com/)** | **[GTM Engineering Intern (AI & Automation)](https://jobright.ai/jobs/info/69f7d07eb1fc847fc1ae684b?utm_campaign=1079&utm_source=git)** | United States | Remote | May 03 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/69d72fed48f0c8161d2fda0e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 03 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Integration Development Intern](https://jobright.ai/jobs/info/69b03545dfaeda6ff599a891?utm_campaign=1079&utm_source=git)** | Salisbury, MD | On Site | May 03 |
@@ -117,7 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Airlines Reporting Corporation (ARC)](https://www.arccorp.com)** | **[Software Quality Engineer Intern](https://jobright.ai/jobs/info/69f533f812f2811ab5a63cca?utm_campaign=1079&utm_source=git)** | Arlington, VA | Hybrid | May 01 |
 | **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Tech](https://jobright.ai/jobs/info/69f533cea3d34b4f76f54467?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 01 |
 | ↳ | **[2026 Summer Intern - Tech](https://jobright.ai/jobs/info/69f533a0db88714bcdfb2b01?utm_campaign=1079&utm_source=git)** | King of Prussia, PA | On Site | May 01 |
-| ↳ | **[2026 Summer Intern - Tech](https://jobright.ai/jobs/info/69f52d9ba3d34b4f76f54195?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 01 |
+| **[Thales Cybersecurity Products](https://cpl.thalesgroup.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69f7f632b1fc847fc1ae6b01?utm_campaign=1079&utm_source=git)** | Plantation, US | Hybrid | May 01 |
+| **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Tech](https://jobright.ai/jobs/info/69f52d9ba3d34b4f76f54195?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Gemini](https://gemini.com)** | **[Software Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/69f52b0312f2811ab5a6396b?utm_campaign=1079&utm_source=git)** | New York, New York | Hybrid | May 01 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Software Engineering Intern - (Summer 2026)  (Onsite)](https://jobright.ai/jobs/info/69f52a73a3d34b4f76f54122?utm_campaign=1079&utm_source=git)** | West Valley City, UT | On Site | May 01 |
 | **[Fiserv](http://www.fiserv.com)** | **[Technology - Summer Intern](https://jobright.ai/jobs/info/69f52a3912f2811ab5a6378c?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | May 01 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Vestwell](http://vestwell.com)** | **[2026 Summer Intern - Tech](https://jobright.ai/jobs/info/69f5115843a25828a8d16b75?utm_campaign=1079&utm_source=git)** | New York, NY | Austin, TX | King of Prussia, PA | On Site | May 01 |
 | **[Michigan Milk Producers Association](http://mimilk.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69f5101da3d34b4f76f5367f?utm_campaign=1079&utm_source=git)** | Remus, MI | On Site | May 01 |
 | **[Ameritas](http://www.ameritas.com)** | **[IT Architecture Intern](https://jobright.ai/jobs/info/69f506a7db88714bcdfb1a02?utm_campaign=1079&utm_source=git)** | Lincoln, NE, 68510-2234, United States | Hybrid | May 01 |
-| **[Fearless](http://fearless.tech)** | **[Software Engineer Intern, Rails & Localization](https://jobright.ai/jobs/info/69f5060343a25828a8d1674f?utm_campaign=1079&utm_source=git)** | Baltimore, MD, USA | On Site | May 01 |
-| ↳ | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/69f5060343a25828a8d16755?utm_campaign=1079&utm_source=git)** | Baltimore, MD, USA | On Site | May 01 |
+| **[Fearless](http://fearless.tech)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/69f5060343a25828a8d16755?utm_campaign=1079&utm_source=git)** | Baltimore, MD, USA | On Site | May 01 |
+| ↳ | **[Software Engineer Intern, Rails & Localization](https://jobright.ai/jobs/info/69f5060343a25828a8d1674f?utm_campaign=1079&utm_source=git)** | Baltimore, MD, USA | On Site | May 01 |
 | **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69d82b53869c7e25d8594366?utm_campaign=1079&utm_source=git)** | Greater Boston | On Site | May 01 |
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op Fall 2026 - Software Developer - 8 Months](https://jobright.ai/jobs/info/69f51dd3db88714bcdfb2167?utm_campaign=1079&utm_source=git)** | Cole Harbour, Nova Scotia, Canada | Hybrid | May 01 |
 | ↳ | **[Co-op Fall 2026 - Software Developer - 8 Months](https://jobright.ai/jobs/info/69f51d2081706a5bd2164dff?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/69c5af99e565c26a700139ac?utm_campaign=1079&utm_source=git)** | Southfield, MI | On Site | May 01 |
 | **[Concentra](http://www.concentra.com)** | **[Concentra Corporate Summer Intern - Application Development](https://jobright.ai/jobs/info/69f4fbb943a25828a8d15fce?utm_campaign=1079&utm_source=git)** | Addison, TX | On Site | May 01 |
 | **[PENTAX Medical Americas](https://www.pentaxmedical.com/pentax/service/usa)** | **[Research and Development Intern](https://jobright.ai/jobs/info/69f4cd7b43a25828a8d14f67?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | May 01 |
-| **[Snorkel AI](https://www.snorkel.ai/)** | **[Software Engineer — Summer Intern](https://jobright.ai/jobs/info/69f4ea6112f2811ab5a61c97?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
