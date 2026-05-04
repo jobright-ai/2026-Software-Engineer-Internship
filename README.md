@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PROJXON](www.projxon.com)** | **[Web Developer Intern](https://jobright.ai/jobs/info/69f8e824a3d34b4f76f5e918?utm_campaign=1079&utm_source=git)** | United States | Remote | May 04 |
+| **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69f8ec85b1fc847fc1ae9765?utm_campaign=1079&utm_source=git)** | San Jose, California | Hybrid | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Integrations Engineering Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f8e6f9db88714bcdfbc128?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Formal Verification Intern - Fall 2026](https://jobright.ai/jobs/info/69f8e5b881706a5bd216ea27?utm_campaign=1079&utm_source=git)** | US, TX, Austin, US | On Site | May 04 |
 | ↳ | **[Formal Verification Intern - Fall 2026](https://jobright.ai/jobs/info/69f8e5b8582f810f9c8ce973?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara, US | On Site | May 04 |
