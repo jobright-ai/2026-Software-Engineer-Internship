@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Cloud Engineer Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f842d2582f810f9c8cd2f5?utm_campaign=1079&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
+| **[Trumid](https://www.trumid.com)** | **[Delivery Management Intern](https://jobright.ai/jobs/info/69de87beaba61f1417315871?utm_campaign=1079&utm_source=git)** | New York City | On Site | May 03 |
 | **[BMO](http://www.bmo.com)** | **[Software Developer, Fall 2026 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/69f834d30b36ff03547593a5?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/69f812ae582f810f9c8ccb6b?utm_campaign=1079&utm_source=git)** | United States | Remote | May 03 |
 | **[Journify Learning](https://www.journify-learning.com/)** | **[GTM Engineering Intern (AI & Automation)](https://jobright.ai/jobs/info/69f7d07eb1fc847fc1ae684b?utm_campaign=1079&utm_source=git)** | United States | Remote | May 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SPS Commerce](http://spscommerce.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69f4d569a3d34b4f76f5223b?utm_campaign=1079&utm_source=git)** | British Columbia Remote, CA | Remote | May 01 |
 | **[Snorkel AI](https://www.snorkel.ai/)** | **[Software Engineer —  Summer Intern](https://jobright.ai/jobs/info/69f4d525a3d34b4f76f52103?utm_campaign=1079&utm_source=git)** | Redwood City, CA (Hybrid) | Hybrid | May 01 |
 | **[State Street](https://www.statestreet.com/)** | **[Business Architecture & Agentic Automation, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69f4d50adb88714bcdfb05f4?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, US | On Site | May 01 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[IT Quality Assurance Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/69f4d4570b36ff035474f34d?utm_campaign=1079&utm_source=git)** | Parsippany, NJ, US, 07054-2172 | On Site | May 01 |
-| **[Magna International](http://www.magna.com/)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/69c5af99e565c26a700139ac?utm_campaign=1079&utm_source=git)** | Southfield, MI | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
