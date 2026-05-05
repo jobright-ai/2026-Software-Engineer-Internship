@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Capital Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977014e52f3c27ec64310b7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 05 |
+| **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern, IT Software Engineering](https://jobright.ai/jobs/info/69dd34355356a60f40fecfe6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern(Live Service) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bcddad45e08b3dc1f9c536?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 05 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69f963dfa3d34b4f76f61314?utm_campaign=1079&utm_source=git)** | US AR Rogers Office, US | Hybrid | May 04 |
 | **[United Imaging Intelligence](https://www.uii-ai.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69f963c80b36ff035475e17b?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | May 04 |
@@ -86,10 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Solutions Engineering Intern, Channel (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/69f9016d582f810f9c8cfbd0?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | **[Mark43](http://mark43.com)** | **[Mobile Engineer Intern](https://jobright.ai/jobs/info/69e66f6e3aa0c479643941e6?utm_campaign=1079&utm_source=git)** | Boston | On Site | May 04 |
 | **[Ardor IT Solutions](https://www.ardoritsolutions.com)** | **[Summer Intern - IT Solutions Developer](https://jobright.ai/jobs/info/69f901300b36ff035475c7b8?utm_campaign=1079&utm_source=git)** | Charlotte, NC | On Site | May 04 |
-| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69f8f7fdb1fc847fc1aea00b?utm_campaign=1079&utm_source=git)** | Columbia, Columbia, SC, US | On Site | May 04 |
 | **[Uber](http://www.uber.com)** | **[2026 Fall Software Engineering Internship, US](https://jobright.ai/jobs/info/69f8f788a3d34b4f76f5f45e?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | On Site | May 04 |
 | ↳ | **[2026 Fall Software Engineering Internship, US](https://jobright.ai/jobs/info/69f8f743b1fc847fc1ae9f82?utm_campaign=1079&utm_source=git)** | US-CA-San Francisco | On Site | May 04 |
-| **[Nutanix](http://www.nutanix.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69f8ec85b1fc847fc1ae9765?utm_campaign=1079&utm_source=git)** | San Jose, California | Hybrid | May 04 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Solutions Architect Intern](https://jobright.ai/jobs/info/69f393fa1f90bd6ae23d0ca5?utm_campaign=1079&utm_source=git)** | Rancho Cordova, CA | Hybrid | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Integrations Engineering Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f8e6f9db88714bcdfbc128?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Formal Verification Intern - Fall 2026](https://jobright.ai/jobs/info/69f8e5b881706a5bd216ea27?utm_campaign=1079&utm_source=git)** | US, TX, Austin, US | On Site | May 04 |
