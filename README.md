@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Draper](https://www.draper.com)** | **[Embedded Quality & Fielded Systems Intern](https://jobright.ai/jobs/info/69f92e15b1fc847fc1aeb644?utm_campaign=1079&utm_source=git)** | Cambridge, MA, US | On Site | May 04 |
+| **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69f92bd4b1fc847fc1aeb5bb?utm_campaign=1079&utm_source=git)** | Washington - Pullman, US | On Site | May 04 |
+| **[Trideum Corporation](http://trideum.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69f92447582f810f9c8d0c46?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | May 04 |
+| **[Nokia](http://www.nokia.com)** | **[Test Developer Co-op/Intern](https://jobright.ai/jobs/info/69f922ad81706a5bd2170bd4?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | Hybrid | May 04 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Intern Software Engineer](https://jobright.ai/jobs/info/69f9229ca3d34b4f76f6070a?utm_campaign=1079&utm_source=git)** | United States-Florida-Melbourne, US | On Site | May 04 |
+| **[Envista Holdings Corporation](http://www.envistaco.com/)** | **[R&D Computer Scientist Intern](https://jobright.ai/jobs/info/69f9228081706a5bd2170bc1?utm_campaign=1079&utm_source=git)** | United States of America,  California,  Brea, US | On Site | May 04 |
 | **[Spruce InfoTech Inc.](http://spruceinfotech.com/)** | **[Software Engineer](https://jobright.ai/jobs/info/69f921a1db88714bcdfbdf43?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 04 |
 | **[ECS (Equus Compute Solutions)](http://equuscs.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69f91c170b36ff035475d509?utm_campaign=1079&utm_source=git)** | City of Industry, CA | On Site | May 04 |
 | **[The Linguabridge](www.thelinguabridge.com)** | **[Remote Student Intern](https://jobright.ai/jobs/info/69f912f8b1fc847fc1aea898?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | May 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SES Satellites](http://www.ses.com)** | **[Intern Aviation Software Engineering](https://jobright.ai/jobs/info/69f55aa2db88714bcdfb3554?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[SAP Taulia](https://taulia.com/)** | **[Forward Deployed Engineering (FDE) Intern](https://jobright.ai/jobs/info/69f55191db88714bcdfb3385?utm_campaign=1079&utm_source=git)** | United States | Remote | May 01 |
 | **[MITRE](http://www.mitre.org)** | **[Software Engineering Graduate Intern](https://jobright.ai/jobs/info/69f54ad6a3d34b4f76f54987?utm_campaign=1079&utm_source=git)** | McLean, VA | On Site | May 01 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Intern – Web Interface Software Engineer (2026)](https://jobright.ai/jobs/info/69f54463db88714bcdfb312e?utm_campaign=1079&utm_source=git)** | Los Angeles, CA, US | On Site | May 01 |
-| **[Cohere](https://cohere.com)** | **[Software Engineer Intern (Fall / Winter 2026)](https://jobright.ai/jobs/info/69f5442643a25828a8d1810f?utm_campaign=1079&utm_source=git)** | Canada | Remote | May 01 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Enterprise Architecture Enablement](https://jobright.ai/jobs/info/69f53d1ea3d34b4f76f54830?utm_campaign=1079&utm_source=git)** | Alpharetta, GA, US, 30009 | Hybrid | May 01 |
-| **[Cohere](https://cohere.com)** | **[Software Engineer Intern (Fall / Winter 2026)](https://jobright.ai/jobs/info/69f53c8fa3d34b4f76f5474d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 01 |
-| **[MITRE](http://www.mitre.org)** | **[Software Engineering Graduate Intern](https://jobright.ai/jobs/info/69e2e160be46fa3a4ef594c3?utm_campaign=1079&utm_source=git)** | Bedford, MA | On Site | May 01 |
-| **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Salesforce Development Intern](https://jobright.ai/jobs/info/69c1aaee75f7ff1cd80ff9fe?utm_campaign=1079&utm_source=git)** | United States | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
