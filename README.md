@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics](https://www.gd.com)** | **[Intern Engineer - (Co-Op - May 2026 Start)](https://jobright.ai/jobs/info/69f947aa81706a5bd21713d7?utm_campaign=1079&utm_source=git)** | Ft. Wayne, IN, US | Hybrid | May 04 |
+| ↳ | **[Intern Engineer - (Co-Op - May 2026 Start)](https://jobright.ai/jobs/info/69f947a7582f810f9c8d1249?utm_campaign=1079&utm_source=git)** | US-IN-Ft. Wayne | Hybrid | May 04 |
+| ↳ | **[Intern Engineer - (Co-Op - May 2026 Start)](https://jobright.ai/jobs/info/69f9479fb1fc847fc1aeba08?utm_campaign=1079&utm_source=git)** | Ft. Wayne, IN, US | Hybrid | May 04 |
+| ↳ | **[Intern Engineer - (Co-Op - May 2026 Start)](https://jobright.ai/jobs/info/69f9479adb88714bcdfbe778?utm_campaign=1079&utm_source=git)** | US-IN-Ft. Wayne | Hybrid | May 04 |
+| **[Vetra Technologies](https://www.vetratechnologies.com)** | **[Software Engineering Intern — Vetra Technologies / Summer 2026](https://jobright.ai/jobs/info/69f9449281706a5bd21713bc?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | May 04 |
 | **[Draper](https://www.draper.com)** | **[Embedded Quality & Fielded Systems Intern](https://jobright.ai/jobs/info/69f92e15b1fc847fc1aeb644?utm_campaign=1079&utm_source=git)** | Cambridge, MA, US | On Site | May 04 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69f92bd4b1fc847fc1aeb5bb?utm_campaign=1079&utm_source=git)** | Washington - Pullman, US | On Site | May 04 |
 | **[Trideum Corporation](http://trideum.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69f92447582f810f9c8d0c46?utm_campaign=1079&utm_source=git)** | Huntsville, AL | On Site | May 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69f5ebbb12f2811ab5a663ce?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | May 02 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Geographic Information Systems, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f59fa181706a5bd2166c78?utm_campaign=1079&utm_source=git)** | Jamaica, NY | On Site | May 01 |
 | **[Pindrop](http://pindrop.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/69f57c8ca3d34b4f76f55717?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Remote | May 01 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Enterprise Architecture Enablement](https://jobright.ai/jobs/info/69f57c670b36ff03547524fa?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | Hybrid | May 01 |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Application Development](https://jobright.ai/jobs/info/69f5699112f2811ab5a647f5?utm_campaign=1079&utm_source=git)** | Okemos, MI | Hybrid | May 01 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Integration Tools (Fall 2026)](https://jobright.ai/jobs/info/69f565cc0b36ff0354751c86?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 01 |
-| **[SES Satellites](http://www.ses.com)** | **[Intern Aviation Software Engineering](https://jobright.ai/jobs/info/69f55aa2db88714bcdfb3554?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | May 01 |
-| **[SAP Taulia](https://taulia.com/)** | **[Forward Deployed Engineering (FDE) Intern](https://jobright.ai/jobs/info/69f55191db88714bcdfb3385?utm_campaign=1079&utm_source=git)** | United States | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
