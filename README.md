@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SPS Commerce](http://spscommerce.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69f963dfa3d34b4f76f61314?utm_campaign=1079&utm_source=git)** | US AR Rogers Office, US | Hybrid | May 04 |
+| **[United Imaging Intelligence](https://www.uii-ai.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69f963c80b36ff035475e17b?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | May 04 |
 | **[General Dynamics](https://www.gd.com)** | **[Intern Engineer - (Co-Op - May 2026 Start)](https://jobright.ai/jobs/info/69f947aa81706a5bd21713d7?utm_campaign=1079&utm_source=git)** | Ft. Wayne, IN, US | Hybrid | May 04 |
 | ↳ | **[Intern Engineer - (Co-Op - May 2026 Start)](https://jobright.ai/jobs/info/69f947a7582f810f9c8d1249?utm_campaign=1079&utm_source=git)** | US-IN-Ft. Wayne | Hybrid | May 04 |
 | ↳ | **[Intern Engineer - (Co-Op - May 2026 Start)](https://jobright.ai/jobs/info/69f9479fb1fc847fc1aeba08?utm_campaign=1079&utm_source=git)** | Ft. Wayne, IN, US | Hybrid | May 04 |
 | ↳ | **[Intern Engineer - (Co-Op - May 2026 Start)](https://jobright.ai/jobs/info/69f9479adb88714bcdfbe778?utm_campaign=1079&utm_source=git)** | US-IN-Ft. Wayne | Hybrid | May 04 |
+| **[Compa](http://www.compa.ai)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/69f95d78b1fc847fc1aebbad?utm_campaign=1079&utm_source=git)** | Denver Office | On Site | May 04 |
 | **[Draper](https://www.draper.com)** | **[Embedded Quality & Fielded Systems Intern](https://jobright.ai/jobs/info/69f92e15b1fc847fc1aeb644?utm_campaign=1079&utm_source=git)** | Cambridge, MA, US | On Site | May 04 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/69f92bd4b1fc847fc1aeb5bb?utm_campaign=1079&utm_source=git)** | Washington - Pullman, US | On Site | May 04 |
 | **[WindBorne Systems](https://windbornesystems.com)** | **[Firmware Intern](https://jobright.ai/jobs/info/69eff14e58811370cb149e64?utm_campaign=1079&utm_source=git)** | Redwood City, CA | On Site | May 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Frontend Software Engineer Intern (Ads Measurement Signal and Privacy) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696850701703f05405a9fecd?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 02 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[RESEARCH AND DEVELOPMENT INTERN (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/699fb943d643757b0e453f42?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | May 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern (TikTok-Privacy Innovation Lab-GPU Systems & Model Optimization) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69857545348f733a5c39dfa5?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 02 |
-| **[NetApp](http://netapp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69f5ebbb12f2811ab5a663ce?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | May 02 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Geographic Information Systems, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f59fa181706a5bd2166c78?utm_campaign=1079&utm_source=git)** | Jamaica, NY | On Site | May 01 |
-| **[Pindrop](http://pindrop.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/69f57c8ca3d34b4f76f55717?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
