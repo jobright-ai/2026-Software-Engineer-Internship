@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foundation Building Materials](http://www.fbmsales.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69fa7f8e0b36ff0354762a58?utm_campaign=1079&utm_source=git)** | US-CA-Santa Ana | On Site | May 05 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/69fa7f86582f810f9c8d62ef?utm_campaign=1079&utm_source=git)** | Santa Ana, CA, US | On Site | May 05 |
+| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69fa7f03a3d34b4f76f65d69?utm_campaign=1079&utm_source=git)** | Boulder, CO, United States | On Site | May 05 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Software Analyst / Developer, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fa76260b36ff0354762970?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[ACE Hardware](http://www.acehardware.af)** | **[IT Associate Software Engineer 2026 Summer Internship (Full Time/Paid/12 weeks)](https://jobright.ai/jobs/info/69fa7055b1fc847fc1af03d2?utm_campaign=1079&utm_source=git)** | IL - Oak Brook, US | On Site | May 05 |
 | **[Boston Dynamics](http://bostondynamics.com)** | **[Software Intern, General Software - Warehouse Robotics, Stretch Team](https://jobright.ai/jobs/info/69fa7040db88714bcdfc30fd?utm_campaign=1079&utm_source=git)** | Waltham Office (POST), US | On Site | May 05 |
 | **[Diligent](http://diligent.com)** | **[Software Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/69fa6f64a3d34b4f76f6586c?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 05 |
-| **[Parrot Finance](https://www.parrotfinance.io/)** | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/69fa6951582f810f9c8d5b2c?utm_campaign=1079&utm_source=git)** | United States | Remote | May 05 |
 | **[Al Warren Oil](https://www.alwarrenoil.com)** | **[Software Developer - Summer Internship 2026](https://jobright.ai/jobs/info/69fa68d3db88714bcdfc2b2b?utm_campaign=1079&utm_source=git)** | Bensenville, IL | On Site | May 05 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/69fa5fb10b36ff03547620c9?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | May 05 |
 | **[State Street](https://www.statestreet.com/)** | **[Application Developer, Fulltime Internship (July - Dec 2026)](https://jobright.ai/jobs/info/69fa45c081706a5bd2174b69?utm_campaign=1079&utm_source=git)** | Quincy, Massachusetts, US | On Site | May 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Frontend Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696adf2bdb26b618950e3a8a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 04 |
 | **[ETS-Lindgren](http://www.ets-lindgren.com/)** | **[Web/SharePoint Developer Intern](https://jobright.ai/jobs/info/69e1ae4e40a62c1fa93b98ec?utm_campaign=1079&utm_source=git)** | Cedar Park, TX | On Site | May 04 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Cloud Engineer Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69f842d2582f810f9c8cd2f5?utm_campaign=1079&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
-| **[Trumid](https://www.trumid.com)** | **[Delivery Management Intern](https://jobright.ai/jobs/info/69de87beaba61f1417315871?utm_campaign=1079&utm_source=git)** | New York City | On Site | May 03 |
-| **[BMO](http://www.bmo.com)** | **[Software Developer, Fall 2026 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/69f834d30b36ff03547593a5?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
-| **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Software Developer (Fall 2026)](https://jobright.ai/jobs/info/69f9206bb1fc847fc1aeb111?utm_campaign=1079&utm_source=git)** | Toronto, Ontario | Hybrid | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
