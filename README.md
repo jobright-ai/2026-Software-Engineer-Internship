@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magnet Forensics](http://magnetforensics.com)** | **[Software Developer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbefc39b9a66c0c55c87?utm_campaign=1079&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 06 |
+| ↳ | **[Software Developer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbef3802c7621fd8ecf4?utm_campaign=1079&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 06 |
+| ↳ | **[Software Developer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbeec39b9a66c0c55c84?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 06 |
+| ↳ | **[Software Developer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbeec39b9a66c0c55c82?utm_campaign=1079&utm_source=git)** | Ontario, Canada | Hybrid | May 06 |
+| ↳ | **[Software Developer Engineer in Test Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbd62f9f6b7cf69105c5?utm_campaign=1079&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 06 |
 | **[Pyka](https://www.flypyka.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69fbefde2f9f6b7cf690fe23?utm_campaign=1079&utm_source=git)** | Alameda, CA | On Site | May 06 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://jobright.ai/jobs/info/69fbef8dc39b9a66c0c55597?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | May 06 |
 | **[Pyka](https://www.flypyka.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69fbe92538179b6f1ae7b818?utm_campaign=1079&utm_source=git)** | Alameda HQ | On Site | May 06 |
@@ -65,8 +70,9 @@ For a complete list, click the following sortable link below:
 | **[Cartesian](http://cartesian.systems)** | **[Software Engineering Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/69fbef7bc39b9a66c0c55542?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | May 06 |
 | ↳ | **[Mobile Engineering Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/69fbef3d3802c7621fd8e4e2?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | May 06 |
 | **[Spruce InfoTech Inc.](http://spruceinfotech.com/)** | **[Software Engineer](https://jobright.ai/jobs/info/69fbf72b3802c7621fd8eaa0?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 06 |
+| **[Kinective](https://www.kinective.io)** | **[Software Development Intern](https://jobright.ai/jobs/info/69fc05813160b250eb1bb112?utm_campaign=1079&utm_source=git)** | Gilbert,AZ,US | Hybrid | May 06 |
 | **[Accutrol, LLC](https://www.accutrolllc.com)** | **[Intern Engineering](https://jobright.ai/jobs/info/69fbef833160b250eb1ba7ca?utm_campaign=1079&utm_source=git)** | Danbury, CT | On Site | May 06 |
-| **[GenPark](https://genpark.ai)** | **[Full stack developer intern](https://jobright.ai/jobs/info/69fbf9193802c7621fd8ebea?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | May 06 |
+| **[Egotechworld](https://egotechworld.com/)** | **[Web Developer Intern](https://jobright.ai/jobs/info/69fbfd663802c7621fd8eda8?utm_campaign=1079&utm_source=git)** | Mobile, AL | Remote | May 06 |
 | **[Avathon](https://avathon.com)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6980f912abff4c399a9fc5f9?utm_campaign=1079&utm_source=git)** | Pleasanton, California, United States | On Site | May 06 |
 | **[Syntiant Corp.](https://www.syntiant.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/69fbf068a5949019c55b1d4b?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | May 06 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69fbee2976c60e7b70af06c6?utm_campaign=1079&utm_source=git)** | Brooklyn, NY | On Site | May 06 |
@@ -75,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[HealthEdge](http://www.healthedge.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/69fbdb1438179b6f1ae7b348?utm_campaign=1079&utm_source=git)** | US-Remote | Remote | May 06 |
 | ↳ | **[Software Engineer Internship](https://jobright.ai/jobs/info/69fbdaf818b94b2515be522a?utm_campaign=1079&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 06 |
 | **[ATS Corporation](http://www.atsautomation.com)** | **[Engineering Coordinator Co-op](https://jobright.ai/jobs/info/69fbddf638179b6f1ae7b5df?utm_campaign=1079&utm_source=git)** | Cambridge, Ontario, Canada | On Site | May 06 |
-| **[PulseMedica](https://www.pulsemedica.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69fbeab1c39b9a66c0c53eb2?utm_campaign=1079&utm_source=git)** | Edmonton, Alberta, Canada | On Site | May 06 |
-| ↳ | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/69fbeb1a76c60e7b70aef77f?utm_campaign=1079&utm_source=git)** | Edmonton, Alberta, Canada | On Site | May 06 |
+| **[PulseMedica](https://www.pulsemedica.com)** | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/69fbeb1a76c60e7b70aef77f?utm_campaign=1079&utm_source=git)** | Edmonton, Alberta, Canada | On Site | May 06 |
+| ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/69fbeab1c39b9a66c0c53eb2?utm_campaign=1079&utm_source=git)** | Edmonton, Alberta, Canada | On Site | May 06 |
 | **[WIKA Group](http://wika.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69f3d11058b23a2329da807f?utm_campaign=1079&utm_source=git)** | San Marcos, TX | On Site | May 06 |
 | **[Integral Ad Science](http://www.integralads.com)** | **[DevEx Platform Intern](https://jobright.ai/jobs/info/69fbfb89a5949019c55b241d?utm_campaign=1079&utm_source=git)** | US - Remote, NY, US | Remote | May 06 |
 | **[Replit](https://replit.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69fba14286d5cd46527d75e2?utm_campaign=1079&utm_source=git)** | Foster City, CA | On Site | May 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Firmware / Software Engineering Intern](https://jobright.ai/jobs/info/69fb3d8f86d5cd46527d42e6?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | May 05 |
 | **[Quanta Ventures Fund](https://www.quantaventures.ai)** | **[Software Engineer Intern - Help us Build our A.I. First School](https://jobright.ai/jobs/info/69facc8bd21cf86d1e3cce57?utm_campaign=1079&utm_source=git)** | Greater Tampa Bay Area | Hybrid | May 05 |
 | **[Diligent](http://diligent.com)** | **[Software Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/69fb3e0b38179b6f1ae77085?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 05 |
-| **[Triumph](https://triumpharcade.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69fb3dbd86d5cd46527d4348?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 05 |
-| **[Uniti Group Inc.](http://uniti.com)** | **[Student Intern- Business Advancement](https://jobright.ai/jobs/info/69fb48b6ffa73664aeafe1ee?utm_campaign=1079&utm_source=git)** | Little Rock, AR | On Site | May 05 |
-| **[Trihydro Corporation](https://www.trihydro.com)** | **[Digital Innovation Intern](https://jobright.ai/jobs/info/69fa8cefa3d34b4f76f66260?utm_campaign=1079&utm_source=git)** | Laramie, WY US (Primary) | On Site | May 05 |
-| **[Pindrop](http://pindrop.com)** | **[Cloud Engineer Intern](https://jobright.ai/jobs/info/69e7fba558811370cb11fa79?utm_campaign=1079&utm_source=git)** | US - Remote | Remote | May 05 |
-| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Summer IT Intern](https://jobright.ai/jobs/info/69f296e3ecbc8c2f7320b71f?utm_campaign=1079&utm_source=git)** | Lubbock, TX | On Site | May 05 |
-| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69fb341fe156000841157b15?utm_campaign=1079&utm_source=git)** | Boulder, CO | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
