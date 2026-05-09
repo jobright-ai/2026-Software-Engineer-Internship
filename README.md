@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hermeus](http://www.hermeus.com)** | **[Software Engineering Intern (HIL) - Fall 2026](https://jobright.ai/jobs/info/69e28891be46fa3a4ef579a8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | May 09 |
+| **[Hermeus](http://www.hermeus.com)** | **[Software Engineering Intern (Modeling & Simulation) - Fall 2026](https://jobright.ai/jobs/info/69e29653fcfcbd43860a3947?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
+| ↳ | **[Flight Software Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69ff4f95fa1aa73213d8ba44?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | May 09 |
+| ↳ | **[Software Engineering Intern (HIL) - Fall 2026](https://jobright.ai/jobs/info/69e28891be46fa3a4ef579a8?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | May 09 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Test Engineer Intern, Advanced Rail Technology](https://jobright.ai/jobs/info/69ff2c0ac4b08448a0b16cb8?utm_campaign=1079&utm_source=git)** | Southlake | On Site | May 09 |
 | ↳ | **[Test Engineer Intern, Advanced Rail Technology](https://jobright.ai/jobs/info/69ff2c02c4b08448a0b16cb5?utm_campaign=1079&utm_source=git)** | Leased Office - Southlake, TX - 477 | On Site | May 09 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Summer IT Intern](https://jobright.ai/jobs/info/69ff2bf9a0eddc08c2397a5d?utm_campaign=1079&utm_source=git)** | Lubbock | On Site | May 09 |
@@ -109,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[EnergyHub](http://www.energyhub.com)** | **[Engineering Intern - EV](https://jobright.ai/jobs/info/69fe28dd6bcf315dc8f54f86?utm_campaign=1079&utm_source=git)** | Brooklyn, New York | On Site | May 08 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Memory and Personalization (Fall)](https://jobright.ai/jobs/info/69e2540abe46fa3a4ef56e51?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | May 08 |
 | **[Disruptive Edge](http://www.disruptiveedge.com/)** | **[Forward Deployed Engineer Intern](https://jobright.ai/jobs/info/69fe28a16bcf315dc8f54f25?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 08 |
-| **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69feb2581161630dd3b01962?utm_campaign=1079&utm_source=git)** | Maynard, Massachusetts, US | Hybrid | May 08 |
-| ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69feb2581161630dd3b01961?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, US | Hybrid | May 08 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69feb2581161630dd3b01961?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, US | Hybrid | May 08 |
+| ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69feb2581161630dd3b01962?utm_campaign=1079&utm_source=git)** | Maynard, Massachusetts, US | Hybrid | May 08 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69fe2046f363bc4dc339bb47?utm_campaign=1079&utm_source=git)** | Milwaukee-Wisconsin-United States of America, US | On Site | May 08 |
 | **[Southwest Solutions Group](http://www.southwestsolutions.com)** | **[2026 Summer Intern - Front-End Developer](https://jobright.ai/jobs/info/69dfbc284920452a85dcf1fd?utm_campaign=1079&utm_source=git)** | Lewisville, TX | On Site | May 08 |
 | **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69e17139acc736112f5c3c31?utm_campaign=1079&utm_source=git)** | Newport News, VA | On Site | May 08 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Software Engineer Intern - NetSuite](https://jobright.ai/jobs/info/69fe89f352e2b44f558b244a?utm_campaign=1079&utm_source=git)** | United States | Remote | May 07 |
 | **[Varick Agents](https://varickagents.com/)** | **[Summer Engineering Intern](https://jobright.ai/jobs/info/69fd30476b788e7e7a5c5765?utm_campaign=1079&utm_source=git)** | SF | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[AI Full Stack Engineering (Intern)](https://jobright.ai/jobs/info/69fd2fabb113035a9f8eed2f?utm_campaign=1079&utm_source=git)** | Houston, TX, US | Hybrid | May 07 |
-| **[Snowflake](https://www.snowflake.com)** | **[Software Engineer Intern (Database Engineering) - Fall 2026](https://jobright.ai/jobs/info/69fe318bad691a11f34ec43e?utm_campaign=1079&utm_source=git)** | US-CA-Menlo Park | On Site | May 07 |
-| ↳ | **[Software Engineer Intern (Security) - Fall 2026](https://jobright.ai/jobs/info/69fe317652e2b44f558af120?utm_campaign=1079&utm_source=git)** | US-CA-Menlo Park | On Site | May 07 |
-| ↳ | **[Software Engineer Intern (Infrastructure Automation) - Fall 2026](https://jobright.ai/jobs/info/69fe31317714cd50b90fece5?utm_campaign=1079&utm_source=git)** | US-CA-Menlo Park | On Site | May 07 |
+| **[Snowflake](https://www.snowflake.com)** | **[Software Engineer Intern (Infrastructure Automation) - Fall 2026](https://jobright.ai/jobs/info/69fe31317714cd50b90fece5?utm_campaign=1079&utm_source=git)** | US-CA-Menlo Park | On Site | May 07 |
+| ↳ | **[Software Engineer Intern (Database Engineering) - Fall 2026](https://jobright.ai/jobs/info/69fe318bad691a11f34ec43e?utm_campaign=1079&utm_source=git)** | US-CA-Menlo Park | On Site | May 07 |
 | ↳ | **[Software Engineer Intern (Core Engineering) - Fall 2026](https://jobright.ai/jobs/info/69fe316a4b9bbf21744af05f?utm_campaign=1079&utm_source=git)** | US-CA-Menlo Park | On Site | May 07 |
-| **[Nuclear Promise X](https://www.npxinnovation.ca)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69fe6444f363bc4dc339e62c?utm_campaign=1079&utm_source=git)** | Canada | Remote | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
