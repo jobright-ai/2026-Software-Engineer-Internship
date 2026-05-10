@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Full Stack Engineer Intern](https://jobright.ai/jobs/info/6a000525a0eddc08c239aea1?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | May 09 |
+| **[GPTZero](https://gptzero.me)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/692f3bd0ef4b48533d143884?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Software Engineering Internship](https://jobright.ai/jobs/info/69ffed17a0eddc08c239a988?utm_campaign=1079&utm_source=git)** | United States | Remote | May 09 |
 | **[Chartbeat](http://chartbeat.com)** | **[Frontend Engineering Internship](https://jobright.ai/jobs/info/69ce7d2d398fb071abf85716?utm_campaign=1079&utm_source=git)** | United States | Remote | May 09 |
 | **[Trumid](https://www.trumid.com)** | **[Delivery Management Intern](https://jobright.ai/jobs/info/69de87beaba61f1417315871?utm_campaign=1079&utm_source=git)** | New York City | On Site | May 09 |
@@ -102,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Fulcrum GT](https://fulcrum-gt.com/)** | **[Startup Lab 2026: Engineering Associate](https://jobright.ai/jobs/info/69a7729f2672cb0acb4be924?utm_campaign=1079&utm_source=git)** | Schaumburg, IL | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Software Development Seasonal Intern](https://jobright.ai/jobs/info/69fe658d4b9bbf21744b141a?utm_campaign=1079&utm_source=git)** | DE, US | Hybrid | May 08 |
 | **[Snowflake](https://www.snowflake.com)** | **[Software Engineer Intern (Infrastructure Automation) - Fall 2026](https://jobright.ai/jobs/info/69fe5431f363bc4dc339de5a?utm_campaign=1079&utm_source=git)** | Menlo Park, California, United States | On Site | May 08 |
-| ↳ | **[Software Engineer Intern (Infrastructure Automation) - Fall 2026](https://jobright.ai/jobs/info/69fe5430f363bc4dc339de58?utm_campaign=1079&utm_source=git)** | Bellevue, Washington, United States | On Site | May 08 |
 | ↳ | **[Software Engineer Intern (Core Engineering) - Fall 2026](https://jobright.ai/jobs/info/69fe5430ad691a11f34ed243?utm_campaign=1079&utm_source=git)** | Menlo Park, California, United States | On Site | May 08 |
+| ↳ | **[Software Engineer Intern (Infrastructure Automation) - Fall 2026](https://jobright.ai/jobs/info/69fe5430f363bc4dc339de58?utm_campaign=1079&utm_source=git)** | Bellevue, Washington, United States | On Site | May 08 |
 | ↳ | **[Software Engineer Intern (Core Engineering) - Fall 2026](https://jobright.ai/jobs/info/69fe542fad691a11f34ed242?utm_campaign=1079&utm_source=git)** | Bellevue, Washington, United States | On Site | May 08 |
 | **[Flex](https://flex.com)** | **[Software Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69fe4fa64b9bbf21744b09d4?utm_campaign=1079&utm_source=git)** | USA, MI, Farmington Hills, US | On Site | May 08 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Software Development Seasonal Intern](https://jobright.ai/jobs/info/69fe4c6bad691a11f34ed140?utm_campaign=1079&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | May 08 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[EnergyHub](http://www.energyhub.com)** | **[Engineering Intern - EV](https://jobright.ai/jobs/info/69fe28dd6bcf315dc8f54f86?utm_campaign=1079&utm_source=git)** | Brooklyn, New York | On Site | May 08 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2026 Intern, Memory and Personalization (Fall)](https://jobright.ai/jobs/info/69e2540abe46fa3a4ef56e51?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | May 08 |
 | **[Disruptive Edge](http://www.disruptiveedge.com/)** | **[Forward Deployed Engineer Intern](https://jobright.ai/jobs/info/69fe28a16bcf315dc8f54f25?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 08 |
-| **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69feb2581161630dd3b01962?utm_campaign=1079&utm_source=git)** | Maynard, Massachusetts, US | Hybrid | May 08 |
-| ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69feb2581161630dd3b01961?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, US | Hybrid | May 08 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69feb2581161630dd3b01961?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, US | Hybrid | May 08 |
+| ↳ | **[Software Engineer Full Stack & Application Development I (Intern) – United States](https://jobright.ai/jobs/info/69feb2581161630dd3b01962?utm_campaign=1079&utm_source=git)** | Maynard, Massachusetts, US | Hybrid | May 08 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69fe2046f363bc4dc339bb47?utm_campaign=1079&utm_source=git)** | Milwaukee-Wisconsin-United States of America, US | On Site | May 08 |
 | **[Southwest Solutions Group](http://www.southwestsolutions.com)** | **[2026 Summer Intern - Front-End Developer](https://jobright.ai/jobs/info/69dfbc284920452a85dcf1fd?utm_campaign=1079&utm_source=git)** | Lewisville, TX | On Site | May 08 |
 | **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[Software Developer Intern](https://jobright.ai/jobs/info/69e17139acc736112f5c3c31?utm_campaign=1079&utm_source=git)** | Newport News, VA | On Site | May 08 |
@@ -146,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Back End Developer Intern 2026](https://jobright.ai/jobs/info/69ebeef258811370cb13d905?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | May 08 |
 | **[SAP Taulia](https://taulia.com/)** | **[Forward Deployed Engineering (FDE) Intern](https://jobright.ai/jobs/info/69f55191db88714bcdfb3385?utm_campaign=1079&utm_source=git)** | United States | Remote | May 08 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[UICC Engineering Intern](https://jobright.ai/jobs/info/69c551ac1818a24cd84b3d2a?utm_campaign=1079&utm_source=git)** | Dulles, VA | Hybrid | May 08 |
-| **[AMD](http://www.amd.com)** | **[Short Term 2026 Software Engineering Intern/Co-Op](https://jobright.ai/jobs/info/69febd5a1161630dd3b04575?utm_campaign=1079&utm_source=git)** | MARKHAM, ON, CA | Hybrid | May 08 |
-| ↳ | **[Short Term 2026 Firmware Engineering Intern/Co-Op](https://jobright.ai/jobs/info/69febd5a1161630dd3b04572?utm_campaign=1079&utm_source=git)** | MARKHAM, ON, CA | Hybrid | May 08 |
+| **[AMD](http://www.amd.com)** | **[Short Term 2026 Firmware Engineering Intern/Co-Op](https://jobright.ai/jobs/info/69febd5a1161630dd3b04572?utm_campaign=1079&utm_source=git)** | MARKHAM, ON, CA | Hybrid | May 08 |
+| ↳ | **[Short Term 2026 Software Engineering Intern/Co-Op](https://jobright.ai/jobs/info/69febd5a1161630dd3b04575?utm_campaign=1079&utm_source=git)** | MARKHAM, ON, CA | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer Engineering Intern](https://jobright.ai/jobs/info/69fdd660ad691a11f34ea990?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | On Site | May 08 |
 | **[PsiQuantum](https://www.psiquantum.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69c4221733eecf3107943d98?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Quality and Efficiency Technology) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69fdc22c6bcf315dc8f52a63?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[True Anomaly](https://www.trueanomaly.space)** | **[Front End Software Engineer Intern](https://jobright.ai/jobs/info/69fda5d6ad691a11f34ea431?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69fd9f25ad691a11f34ea106?utm_campaign=1079&utm_source=git)** | Gilbert, AZ, US | Hybrid | May 08 |
 | **[Scowtt](https://www.scowtt.com)** | **[Intern - Full Stack Software Engineering](https://jobright.ai/jobs/info/69c1dc6075f7ff1cd8103919?utm_campaign=1079&utm_source=git)** | Seattle | Hybrid | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Software Engineer, Simulation (Summer Intern)](https://jobright.ai/jobs/info/69fd81b04b9bbf21744ab47a?utm_campaign=1079&utm_source=git)** | San Jose, CA, US | On Site | May 07 |
-| **[DiDi](https://www.didiglobal.com)** | **[Software Engineer, Simulation (Summer Intern)](https://jobright.ai/jobs/info/69fd66fcad691a11f34e9697?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
