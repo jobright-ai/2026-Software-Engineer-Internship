@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DocuWare](https://start.docuware.com)** | **[Software Engineer Intern (Working Student)](https://jobright.ai/jobs/info/6a01cb2afa1aa73213d94543?utm_campaign=1079&utm_source=git)** | USA | Hybrid | May 11 |
 | **[True Anomaly](https://www.trueanomaly.space)** | **[Full Stack Software Engineer Intern](https://jobright.ai/jobs/info/6a01ae32df52f1450d8444fb?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | May 11 |
 | **[DiligenceVault](http://www.diligencevault.com)** | **[Software Engineer (Backend) Intern](https://jobright.ai/jobs/info/6a0190603053db70a117114f?utm_campaign=1079&utm_source=git)** | United States | Remote | May 11 |
 | **[UST](https://www.ust.com)** | **[SAP BTP & AI Intern](https://jobright.ai/jobs/info/6a017d923053db70a1170fd9?utm_campaign=1079&utm_source=git)** | California | Remote | May 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698dbc9d0f6f7e7a2ce9b9cc?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | May 08 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69feb2091161630dd3b017d0?utm_campaign=1079&utm_source=git)** | San Jose, California, US | On Site | May 08 |
 | **[Weights & Biases](https://www.wandb.ai)** | **[Senior Software Engineer, Mobile (iOS)- Weights & Biases](https://jobright.ai/jobs/info/69c5c93de565c26a700155a1?utm_campaign=1079&utm_source=git)** | Livingston, NJ | Hybrid | May 08 |
+| **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/69dda5154d3bec4144b4d0bd?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
