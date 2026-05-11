@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate IT Internship - Application Development (NC)](https://jobright.ai/jobs/info/6a01e832238f143e8352f123?utm_campaign=1079&utm_source=git)** | Charlotte, NC, US | Hybrid | May 11 |
+| **[DocuWare](https://start.docuware.com)** | **[Software Engineer Intern (Working Student)](https://jobright.ai/jobs/info/6a01e7e7fa1aa73213d95527?utm_campaign=1079&utm_source=git)** | USA | Hybrid | May 11 |
+| **[Montgomery Investment Technology, Inc.](http://www.fintools.com/)** | **[Computer Programming Internship Spring 2026](https://jobright.ai/jobs/info/6a01e61c3053db70a117309b?utm_campaign=1079&utm_source=git)** | Cinnaminson, NJ | On Site | May 11 |
+| **[Rilla](https://www.rilla.com)** | **[Software Engineer Intern - 2027 Graduates](https://jobright.ai/jobs/info/68ce17e6e23def7af55c2054?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[True Anomaly](https://www.trueanomaly.space)** | **[Full Stack Software Engineer Intern](https://jobright.ai/jobs/info/6a01ae32df52f1450d8444fb?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | May 11 |
 | **[DiligenceVault](http://www.diligencevault.com)** | **[Software Engineer (Backend) Intern](https://jobright.ai/jobs/info/6a0190603053db70a117114f?utm_campaign=1079&utm_source=git)** | United States | Remote | May 11 |
 | **[UST](https://www.ust.com)** | **[SAP BTP & AI Intern](https://jobright.ai/jobs/info/6a017d923053db70a1170fd9?utm_campaign=1079&utm_source=git)** | California | Remote | May 10 |
@@ -71,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Drupal Developer Intern](https://jobright.ai/jobs/info/69eb400d0a6e095553045e9c?utm_campaign=1079&utm_source=git)** | Paramus, NJ | On Site | May 10 |
 | **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern)](https://jobright.ai/jobs/info/69d7e58bb67cec4f9b09915a?utm_campaign=1079&utm_source=git)** | Chicago | On Site | May 10 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Infrastructure Software Engineer II (Remote - US)](https://jobright.ai/jobs/info/698e5c21f64d441a16508f48?utm_campaign=1079&utm_source=git)** | United States | Remote | May 10 |
+| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Information Systems](https://jobright.ai/jobs/info/69bda545b1060245628292aa?utm_campaign=1079&utm_source=git)** | Port Washington, NY | On Site | May 10 |
 | **[Scowtt](https://www.scowtt.com)** | **[Intern - Full Stack Software Engineering](https://jobright.ai/jobs/info/69c1dc6075f7ff1cd8103919?utm_campaign=1079&utm_source=git)** | Seattle | Hybrid | May 10 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Quality Management Department (Winnipeg Office)](https://jobright.ai/jobs/info/69c6f42aaa3c2c1995e13de4?utm_campaign=1079&utm_source=git)** | Manitoba, Canada | Hybrid | May 10 |
 | **[Mark43](http://mark43.com)** | **[Mobile Engineer Intern](https://jobright.ai/jobs/info/69e66f6e3aa0c479643941e6?utm_campaign=1079&utm_source=git)** | Boston | On Site | May 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Weights & Biases](https://www.wandb.ai)** | **[Senior Software Engineer, Mobile (iOS)- Weights & Biases](https://jobright.ai/jobs/info/69c5c93d1b5ad02887379a43?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 08 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698daa1678b4502f12a46455?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | May 08 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69fe0689f363bc4dc339b12b?utm_campaign=1079&utm_source=git)** | RTP, North Carolina, US | On Site | May 08 |
-| **[AtriCure, Inc.](http://atricure.com)** | **[Engineering Co-op - Summer & Fall 2026](https://jobright.ai/jobs/info/6981564b7f40342e15da58a8?utm_campaign=1079&utm_source=git)** | Minnetonka, MN | On Site | May 08 |
-| **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698dbc9d0f6f7e7a2ce9b9cc?utm_campaign=1079&utm_source=git)** | Jersey City, NJ | On Site | May 08 |
-| **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/69feb2091161630dd3b017d0?utm_campaign=1079&utm_source=git)** | San Jose, California, US | On Site | May 08 |
-| **[Weights & Biases](https://www.wandb.ai)** | **[Senior Software Engineer, Mobile (iOS)- Weights & Biases](https://jobright.ai/jobs/info/69c5c93de565c26a700155a1?utm_campaign=1079&utm_source=git)** | Livingston, NJ | Hybrid | May 08 |
-| **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/69dda5154d3bec4144b4d0bd?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
