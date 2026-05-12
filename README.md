@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Philo Homes](https://philo.homes/)** | **[Software Engineer Intern (iOS App Development)_English Chinese Bilingual](https://jobright.ai/jobs/info/6a0286916c07461fe16fbe51?utm_campaign=1079&utm_source=git)** | New York, United States | Remote | May 11 |
+| **[Beacon Boxx](http://www.beaconboxx.com)** | **[Technical Intern – iOS Developer](https://jobright.ai/jobs/info/6a027f91c2ffb31f4536d805?utm_campaign=1079&utm_source=git)** | The Woodlands, TX | Remote | May 11 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Software Developer Intern- Summer 2026](https://jobright.ai/jobs/info/6a026437fa1aa73213d99fa5?utm_campaign=1079&utm_source=git)** | 1 Penn Plaza, New York, NY, 10119, US | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Software Engineering Internship](https://jobright.ai/jobs/info/6a02617e238f143e83533bd7?utm_campaign=1079&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 11 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern - Information Technology - HYBRID](https://jobright.ai/jobs/info/6a025ea1238f143e83533b51?utm_campaign=1079&utm_source=git)** | Phoenix, AZ, United States | Hybrid | May 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Deltek](http://www.deltek.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/69ff2bbca0eddc08c2397a43?utm_campaign=1079&utm_source=git)** | US-Herndon-VA, US-Herndon-VA (Hybrid) | Hybrid | May 09 |
 | ↳ | **[Intern, Software Engineering](https://jobright.ai/jobs/info/69ff2bb4c2ffb31f4535d938?utm_campaign=1079&utm_source=git)** | US (Remote) | Remote | May 09 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Software Engineering Intern (On-Site)](https://jobright.ai/jobs/info/69ff29eec4b08448a0b16c3c?utm_campaign=1079&utm_source=git)** | Rome New York | On Site | May 09 |
-| ↳ | **[Software Engineering Intern II, Summer 2026](https://jobright.ai/jobs/info/69ff29a5fa1aa73213d8a9c2?utm_campaign=1079&utm_source=git)** | Arlington Virginia | On Site | May 09 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (IT App Dev - Grad)](https://jobright.ai/jobs/info/69ff237fc2ffb31f4535d6ac?utm_campaign=1079&utm_source=git)** | MANHATTAN | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
