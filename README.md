@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moog Inc.](http://www.moog.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/6a039040bc4184089f233c56?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | May 12 |
+| **[GIA (Gemological Institute of America)](https://www.gia.edu)** | **[Solutions Analyst Intern](https://jobright.ai/jobs/info/6a038f836c07461fe17056c7?utm_campaign=1079&utm_source=git)** | Las Vegas, NV, US | On Site | May 12 |
+| **[Scowtt](https://www.scowtt.com)** | **[Intern - Full Stack Software Engineering](https://jobright.ai/jobs/info/69c1dc6075f7ff1cd8103919?utm_campaign=1079&utm_source=git)** | Seattle | Hybrid | May 12 |
+| **[Hayden AI](http://www.hayden.ai)** | **[Intern, Software Engineer - Quality Assurance](https://jobright.ai/jobs/info/6a038e28bc4184089f233945?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 12 |
+| **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/6a038e28bc4184089f23393e?utm_campaign=1079&utm_source=git)** | Fort Worth, TX | On Site | May 12 |
+| **[Alto](https://www.altotrain.ca)** | **[Intern, SAP](https://jobright.ai/jobs/info/6a038910bc4184089f2333f2?utm_campaign=1079&utm_source=git)** | Montreal | Hybrid | May 12 |
+| **[AutoNation](http://autonation.com/)** | **[Java Development Intern](https://jobright.ai/jobs/info/6a0384fb22395b6dc6d9556e?utm_campaign=1079&utm_source=git)** | White Plains, New York, United States of America | On Site | May 12 |
 | **[SOTI](http://www.soti.net/)** | **[Software Developer in Test Intern (September 2026 12 Months)](https://jobright.ai/jobs/info/6a037eb1f3d6cc51d63771a6?utm_campaign=1079&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | May 12 |
 | **[BlueLinx Corporation](http://bluelinxco.com/)** | **[Information Technology - Application Software Engineer Intern](https://jobright.ai/jobs/info/6a037872bc4184089f232c56?utm_campaign=1079&utm_source=git)** | 1950 Spectrum Cir, Marietta, GA 30067, USA | On Site | May 12 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Cloud/Hosting Infrastructure Internship  ](https://jobright.ai/jobs/info/6a0377076c07461fe17042f0?utm_campaign=1079&utm_source=git)** | USA VA Falls Church, US | Hybrid | May 12 |
 | **[FAMU National Alumni Association](http://famunaa.org)** | **[Cloud SRE Intern](https://jobright.ai/jobs/info/6a036fa0bc4184089f232402?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | May 12 |
 | **[Sartorius](http://sartorius.com)** | **[Software Engineer Intern - Onsite - Fremont, CA](https://jobright.ai/jobs/info/6a036e63f3d6cc51d6376550?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | May 12 |
 | **[PCB Piezotronics, Inc.](http://www.pcb.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a036e3d6c07461fe1703aa2?utm_campaign=1079&utm_source=git)** | Provo, UT | On Site | May 12 |
@@ -68,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Technology Research Associate, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a035c247c753c287f6e657a?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
 | **[Cosm](https://www.cosm.com)** | **[Video Software Engineering Intern](https://jobright.ai/jobs/info/69cb380a8fc6090c5d455bc6?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT | Hybrid | May 12 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[AI Application Engineer for Quantum Development Intern (Masters/PhD - Santa Clara, CA)](https://jobright.ai/jobs/info/6a035a27bc4184089f231a94?utm_campaign=1079&utm_source=git)** | Santa Clara,CA, US | On Site | May 12 |
-| **[MidFirst Bank](https://www.midfirst.com)** | **[CT Summer Intern](https://jobright.ai/jobs/info/6a038026f3d6cc51d63774be?utm_campaign=1079&utm_source=git)** | Oklahoma City, OK | On Site | May 12 |
 | **[Temposonics](https://www.mtssensors.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a03421df3d6cc51d6375077?utm_campaign=1079&utm_source=git)** | Provo, UT, Provo, UT, US | On Site | May 12 |
 | **[407 ETR](https://407etr.com)** | **[Cloud Engineering Intern](https://jobright.ai/jobs/info/69e6a4ef7820c036924d1b0a?utm_campaign=1079&utm_source=git)** | Woodbridge, Ontario, Canada | On Site | May 12 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Information Technology (Fall 2026)](https://jobright.ai/jobs/info/68b406d0bc187f64e1be2e4b?utm_campaign=1079&utm_source=git)** | San Antonio, TX | On Site | May 12 |
@@ -114,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Docusign](http://www.docusign.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a024a173053db70a117683a?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | Hybrid | May 11 |
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/6a0249cadf52f1450d849724?utm_campaign=1079&utm_source=git)** | US-CA-San Francisco | Hybrid | May 11 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Service Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a030c7522395b6dc6d909fe?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 11 |
-| **[Flatiron School](http://flatironschool.com)** | **[Software Developer Work-Study Program (No Tech Experience Required) - Bletchley Fellowship](https://jobright.ai/jobs/info/6a031134bc4184089f22ed5b?utm_campaign=1079&utm_source=git)** | United States | Remote | May 11 |
 | **[Triangulum Venture Labs](http://www.triangulumlabs.com)** | **[Software Engineer](https://jobright.ai/jobs/info/6a024771c4b08448a0b24e39?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | May 11 |
 | **[Nokia](http://www.nokia.com)** | **[Web Developer – Co-op/Intern](https://jobright.ai/jobs/info/6a030bde22395b6dc6d90642?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | May 11 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Embedded Software Developer, Network/Payload Software Intern (Fall 2026)](https://jobright.ai/jobs/info/6a030bd022395b6dc6d90605?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | May 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Payments Engineering Intern](https://jobright.ai/jobs/info/6a02f766bc4184089f22d89a?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
 | ↳ | **[Software Engineering Intern - Product (Full-Stack)](https://jobright.ai/jobs/info/6a02f74ded6a637463f4afe4?utm_campaign=1079&utm_source=git)** | Canada | Remote | May 11 |
 | ↳ | **[Software Engineering Intern - Product (Full-Stack)](https://jobright.ai/jobs/info/6a02f75dbc4184089f22d86e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
-| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate IT Internship - Investment Systems (PA)](https://jobright.ai/jobs/info/6a0201dc238f143e8352fc00?utm_campaign=1079&utm_source=git)** | Malvern, PA, US | Hybrid | May 11 |
-| ↳ | **[College to Corporate Internship - Application Development (PA)](https://jobright.ai/jobs/info/6a0201d3c4b08448a0b22118?utm_campaign=1079&utm_source=git)** | Malvern, PA, US | Hybrid | May 11 |
-| **[Super.com](https://www.super.com)** | **[Software Engineering Intern, Data](https://jobright.ai/jobs/info/6a02f5217c753c287f6e2055?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
-| **[Kwest Group](https://kwestgroup.com/)** | **[IT Development Intern](https://jobright.ai/jobs/info/6a02ff687c753c287f6e2369?utm_campaign=1079&utm_source=git)** | Perrysburg, OH | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
