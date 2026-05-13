@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Varda Space Industries](http://varda.com)** | **[Applications Engineering Internship - Fall 2026](https://jobright.ai/jobs/info/6a03d6c27c753c287f6eaa94?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | May 12 |
+| **[PayCloud Innovations](http://www.paycloudinnovations.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a03d59822395b6dc6d98339?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | May 12 |
+| **[Savvas Learning Company](https://www.savvas.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a03d58222395b6dc6d982d9?utm_campaign=1079&utm_source=git)** | Chandler, AZ | Hybrid | May 12 |
+| **[IMDEX](https://imdexlimited.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a03cbd122395b6dc6d980e5?utm_campaign=1079&utm_source=git)** | San Luis Obispo,CA,US | On Site | May 12 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Software Developer Intern (4 months - full time)](https://jobright.ai/jobs/info/6a03c73c8ecfd93cd9c11a77?utm_campaign=1079&utm_source=git)** | 3740 W Market Center Dr, Bluffdale, UT, 84065, US | Hybrid | May 12 |
 | **[Nextpower](https://nextpower.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a03be2122395b6dc6d9795c?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | May 12 |
 | **[pSemi, A Murata Company](http://www.psemi.com)** | **[Intern, Software Development & Automation - Summer 2026](https://jobright.ai/jobs/info/6a03b5fef3d6cc51d63795ad?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | May 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SES Satellites](http://www.ses.com)** | **[Intern Java Engineer](https://jobright.ai/jobs/info/6a0303babc4184089f22e1ef?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | May 11 |
 | **[Avanade](http://www.avanade.com)** | **[Infrastructure/Cloud Engineer](https://jobright.ai/jobs/info/69a2cd0ab600907a96293a05?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | May 11 |
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op Fall 2026 - Embedded Software Developer, Rapid Prototypes - 4 Month](https://jobright.ai/jobs/info/6a030b317c753c287f6e2f77?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 11 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Fall 2026, 12 months)](https://jobright.ai/jobs/info/6a02251dfa1aa73213d96f46?utm_campaign=1079&utm_source=git)** | Toronto, CA | Hybrid | May 11 |
-| ↳ | **[Software Analyst Intern (Fall 2026, 4 months)](https://jobright.ai/jobs/info/6a0225133053db70a1174be9?utm_campaign=1079&utm_source=git)** | Toronto, CA | Hybrid | May 11 |
-| **[Optura.AI](https://www.optura.ai/)** | **[Platform Engineer Intern](https://jobright.ai/jobs/info/6a0224ffc2ffb31f45369f7b?utm_campaign=1079&utm_source=git)** | United States | Remote | May 11 |
-| **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69914b0d0f6f7e7a2ced8d20?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
