@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UTHealth Houston](https://www.uth.edu/stroke-institute/)** | **[Internship or Seasonal Role in Programming and Information Technology](https://jobright.ai/jobs/info/6a03db567c753c287f6eab3d?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | May 12 |
 | **[Varda Space Industries](http://varda.com)** | **[Applications Engineering Internship - Fall 2026](https://jobright.ai/jobs/info/6a03d6c27c753c287f6eaa94?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | May 12 |
 | **[PayCloud Innovations](http://www.paycloudinnovations.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a03d59822395b6dc6d98339?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | May 12 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a03d58222395b6dc6d982d9?utm_campaign=1079&utm_source=git)** | Chandler, AZ | Hybrid | May 12 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[GIA (Gemological Institute of America)](https://www.gia.edu)** | **[Solutions Analyst Intern](https://jobright.ai/jobs/info/6a03ac2422395b6dc6d97127?utm_campaign=1079&utm_source=git)** | Las Vegas, NV | On Site | May 12 |
 | **[Nextracker Inc.](https://www.linkedin.com/company/3807153)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a03abd67c753c287f6e9690?utm_campaign=1079&utm_source=git)** | Fremont, North Bldg, California - USA, US | On Site | May 12 |
 | **[Varda Space Industries](http://varda.com)** | **[Applications Engineering Internship - Fall 2026](https://jobright.ai/jobs/info/6a03aa8722395b6dc6d96fa5?utm_campaign=1079&utm_source=git)** | El Segundo, California, United States | On Site | May 12 |
-| **[Babyscripts](http://babyscripts.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a03a8f38ecfd93cd9c10a33?utm_campaign=1079&utm_source=git)** | United States | Remote | May 12 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Embedded Software Engineer, Body Controls Firmware (Fall 2026)](https://jobright.ai/jobs/info/6a03a8d48ecfd93cd9c1098d?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 12 |
 | **[UTHealth Houston](https://www.uth.edu/stroke-institute/)** | **[Internship or Seasonal Role in Programming and Information Technology](https://jobright.ai/jobs/info/6a0397127c753c287f6e8d11?utm_campaign=1079&utm_source=git)** | Texas Medical Center-Houston, Texas, United States | On Site | May 12 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a039414f3d6cc51d6378414?utm_campaign=1079&utm_source=git)** | Phoenix, AZ, USA | Hybrid | May 12 |
