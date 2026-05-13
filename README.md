@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MeshyAI](https://www.meshy.ai/)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/6a040f8222395b6dc6d99c6b?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | May 12 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Software Developer Intern (4 months - full time)](https://jobright.ai/jobs/info/6a03f0fbbc4184089f236ef0?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | May 12 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Software Developer Intern (4 months - full time)](https://jobright.ai/jobs/info/6a03ee6022395b6dc6d98be8?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | May 12 |
 | **[UTHealth Houston](https://www.uth.edu/stroke-institute/)** | **[Internship or Seasonal Role in Programming and Information Technology](https://jobright.ai/jobs/info/6a03db567c753c287f6eab3d?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | May 12 |
@@ -129,13 +130,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, Software Engineer Intern](https://jobright.ai/jobs/info/6a032e106c07461fe17013dd?utm_campaign=1079&utm_source=git)** | Fayetteville, NC | On Site | May 11 |
 | **[Raytheon](http://www.bbn.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a02cb5922395b6dc6d8e7c0?utm_campaign=1079&utm_source=git)** | cedar rapids, Iowa, United States of America | On Site | May 11 |
 | **[Elevate Robotics Inc](https://www.elevaterobotics.ai/)** | **[Software Engineer – Intern Summer 2026](https://jobright.ai/jobs/info/69ced0b754f00230c6d035f9?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 11 |
+| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Summer IT Intern](https://jobright.ai/jobs/info/6a040f6ef811a04369607364?utm_campaign=1079&utm_source=git)** | Lubbock, TX | On Site | May 11 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year-Round - PNT Resilience, Hybrid](https://jobright.ai/jobs/info/6a02ff2622395b6dc6d8fa57?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | Hybrid | May 11 |
 | **[Intrepid Control Systems](https://www.intrepidcs.com/)** | **[Application Engineer Intern](https://jobright.ai/jobs/info/6a02b4d47c753c287f6dfd5e?utm_campaign=1079&utm_source=git)** | Troy,MI,US | On Site | May 11 |
 | **[Formlabs](http://www.formlabs.com)** | **[Operations & Supply Chain Software Intern (Summer 2026)](https://jobright.ai/jobs/info/6a02ae6ff3d6cc51d636f6cf?utm_campaign=1079&utm_source=git)** | Somerville, MA | On Site | May 11 |
+| **[MITRE](http://www.mitre.org)** | **[Software Engineering Graduate Intern](https://jobright.ai/jobs/info/6a040f707c753c287f6ec0df?utm_campaign=1079&utm_source=git)** | Bedford, MA | On Site | May 11 |
 | **[Mirra](https://mirra.guide)** | **[Software Engineering Intern - Build the Future of Behavioural Longevity](https://jobright.ai/jobs/info/6a029bd4f3d6cc51d636f20d?utm_campaign=1079&utm_source=git)** | United States | Remote | May 11 |
 | **[RedCoin Capital | 紅幣資本](https://redcoincapital.com/)** | **[Product Engineer Intern — Crypto & AI Infrastructure](https://jobright.ai/jobs/info/6a0290d4f3d6cc51d636ef72?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | May 11 |
 | **[Beacon Boxx](http://www.beaconboxx.com)** | **[Technical Intern – iOS Developer](https://jobright.ai/jobs/info/6a027f91c2ffb31f4536d805?utm_campaign=1079&utm_source=git)** | The Woodlands, TX | Remote | May 11 |
+| **[Tandem](https://tandem.space/)** | **[Summer 2026 Eng Intern](https://jobright.ai/jobs/info/6a04102ef3d6cc51d637be86?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 11 |
 | **[Abundant](https://www.abundantleader.com/)** | **[SWE Intern](https://jobright.ai/jobs/info/6a03c5b36c07461fe1707466?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | May 11 |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Fall 2026, 4 months)](https://jobright.ai/jobs/info/6a040ae1f3d6cc51d637b944?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
+| ↳ | **[Software Analyst Intern (Fall 2026, 12 months)](https://jobright.ai/jobs/info/6a040ae0f3d6cc51d637b93e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Software Developer Intern- Summer 2026](https://jobright.ai/jobs/info/6a026437fa1aa73213d99fa5?utm_campaign=1079&utm_source=git)** | 1 Penn Plaza, New York, NY, 10119, US | On Site | May 11 |
 | **[NAVWAR](https://www.navwar.navy.mil/)** | **[STUDENT INTERN (COMPUTER SCIENTIST)](https://jobright.ai/jobs/info/6a032b57bc4184089f22f86c?utm_campaign=1079&utm_source=git)** | Town Center, MD | On Site | May 11 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern - Information Technology - HYBRID](https://jobright.ai/jobs/info/6a025ea1238f143e83533b51?utm_campaign=1079&utm_source=git)** | Phoenix, AZ, United States | Hybrid | May 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Embedded Software Developer, Network/Payload Software Intern (Fall 2026)](https://jobright.ai/jobs/info/6a0243613053db70a11765d4?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | May 11 |
 | **[SOTI](http://www.soti.net/)** | **[Performance Engineer Intern (September 2026 12 months)](https://jobright.ai/jobs/info/6a023a70df52f1450d848ba6?utm_campaign=1079&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | May 11 |
 | **[Binary App Developers](https://binaryappdevelopers.com/)** | **[Internship: Full-Stack Developer](https://jobright.ai/jobs/info/6a023984df52f1450d8488e2?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | Remote | May 11 |
-| **[Apex - Satellite Platforms](https://www.apexspace.com)** | **[Software Engineering Internship, Embedded Systems (Summer 2026)](https://jobright.ai/jobs/info/6a030be76c07461fe16ffdbc?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
-| **[Moog Inc.](http://www.moog.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/6a030baa22395b6dc6d9058c?utm_campaign=1079&utm_source=git)** | Buffalo, NY | On Site | May 11 |
-| **[LMI](http://www.lmi.org)** | **[Full Stack Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a02313ec4b08448a0b23e2c?utm_campaign=1079&utm_source=git)** | Tysons, VA, US | On Site | May 11 |
-| ↳ | **[Full Stack Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a0230c4c2ffb31f4536ac77?utm_campaign=1079&utm_source=git)** | US-VA-Tysons | On Site | May 11 |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Information Systems](https://jobright.ai/jobs/info/697e02aace48107c054243a1?utm_campaign=1079&utm_source=git)** | Port Washington, NY | On Site | May 11 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[AWS Developer Intern (Hybrid)](https://jobright.ai/jobs/info/6a030bac6c07461fe16ffcb0?utm_campaign=1079&utm_source=git)** | Greater Cleveland | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
