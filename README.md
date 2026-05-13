@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[P2S](http://p2seng.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a0453ba6c07461fe170b4b8?utm_campaign=1079&utm_source=git)** | Long Beach, CA | On Site | May 13 |
 | **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/6a043c7a6c07461fe170af3e?utm_campaign=1079&utm_source=git)** | United States | Remote | May 13 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Design Verification Engineer, Intern](https://jobright.ai/jobs/info/69d7f194f4ea471a51fe2a16?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 13 |
 | **[MeshyAI](https://www.meshy.ai/)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/6a040f8222395b6dc6d99c6b?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | May 12 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Tandem](https://tandem.space/)** | **[Summer 2026 Eng Intern](https://jobright.ai/jobs/info/6a04102ef3d6cc51d637be86?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 11 |
 | **[Docusign](http://www.docusign.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a0413b66c07461fe1709704?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 11 |
 | **[Abundant](https://www.abundantleader.com/)** | **[SWE Intern](https://jobright.ai/jobs/info/6a03c5b36c07461fe1707466?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | May 11 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Fall 2026, 4 months)](https://jobright.ai/jobs/info/6a040ae1f3d6cc51d637b944?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
-| ↳ | **[Software Analyst Intern (Fall 2026, 12 months)](https://jobright.ai/jobs/info/6a040ae0f3d6cc51d637b93e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Fall 2026, 12 months)](https://jobright.ai/jobs/info/6a040ae0f3d6cc51d637b93e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
+| ↳ | **[Software Analyst Intern (Fall 2026, 4 months)](https://jobright.ai/jobs/info/6a040ae1f3d6cc51d637b944?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Software Developer Intern- Summer 2026](https://jobright.ai/jobs/info/6a026437fa1aa73213d99fa5?utm_campaign=1079&utm_source=git)** | 1 Penn Plaza, New York, NY, 10119, US | On Site | May 11 |
 | **[NAVWAR](https://www.navwar.navy.mil/)** | **[STUDENT INTERN (COMPUTER SCIENTIST)](https://jobright.ai/jobs/info/6a032b57bc4184089f22f86c?utm_campaign=1079&utm_source=git)** | Town Center, MD | On Site | May 11 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern - Information Technology - HYBRID](https://jobright.ai/jobs/info/6a025ea1238f143e83533b51?utm_campaign=1079&utm_source=git)** | Phoenix, AZ, United States | Hybrid | May 11 |
 | **[We Insure](https://weinsuregroup.com/)** | **[SWE Intern (Trading)](https://jobright.ai/jobs/info/6a02591d238f143e83533749?utm_campaign=1079&utm_source=git)** | Austin, TX, US | Hybrid | May 11 |
 | **[Qualitest](http://www.qualitestgroup.com/)** | **[Digital Engineering CoE Intern](https://jobright.ai/jobs/info/6a023ea4c4b08448a0b248c3?utm_campaign=1079&utm_source=git)** | California, United States | Remote | May 11 |
 | **[SOTI](http://www.soti.net/)** | **[Software Developer Intern - SOTI XSight (September 2026 12 Months)](https://jobright.ai/jobs/info/6a024de6c2ffb31f4536beed?utm_campaign=1079&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | May 11 |
-| **[Docusign](http://www.docusign.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a024a173053db70a117683a?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
