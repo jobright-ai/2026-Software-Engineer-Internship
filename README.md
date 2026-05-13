@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Software Developer Intern (4 months - full time)](https://jobright.ai/jobs/info/6a03ee6022395b6dc6d98be8?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | May 12 |
 | **[UTHealth Houston](https://www.uth.edu/stroke-institute/)** | **[Internship or Seasonal Role in Programming and Information Technology](https://jobright.ai/jobs/info/6a03db567c753c287f6eab3d?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | May 12 |
 | **[Varda Space Industries](http://varda.com)** | **[Applications Engineering Internship - Fall 2026](https://jobright.ai/jobs/info/6a03d6c27c753c287f6eaa94?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | May 12 |
+| **[Alto](https://www.altotrain.ca)** | **[Intern, SAP](https://jobright.ai/jobs/info/6a03fb5e22395b6dc6d995d7?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
 | **[PayCloud Innovations](http://www.paycloudinnovations.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a03d59822395b6dc6d98339?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | May 12 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a03d58222395b6dc6d982d9?utm_campaign=1079&utm_source=git)** | Chandler, AZ | Hybrid | May 12 |
 | **[IMDEX](https://imdexlimited.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a03cbd122395b6dc6d980e5?utm_campaign=1079&utm_source=git)** | San Luis Obispo,CA,US | On Site | May 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Full Stack Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a0230c4c2ffb31f4536ac77?utm_campaign=1079&utm_source=git)** | US-VA-Tysons | On Site | May 11 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Information Systems](https://jobright.ai/jobs/info/697e02aace48107c054243a1?utm_campaign=1079&utm_source=git)** | Port Washington, NY | On Site | May 11 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[AWS Developer Intern (Hybrid)](https://jobright.ai/jobs/info/6a030bac6c07461fe16ffcb0?utm_campaign=1079&utm_source=git)** | Greater Cleveland | Hybrid | May 11 |
-| **[SES Satellites](http://www.ses.com)** | **[Intern Java Engineer](https://jobright.ai/jobs/info/6a0303babc4184089f22e1ef?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
