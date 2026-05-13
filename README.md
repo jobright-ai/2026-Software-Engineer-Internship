@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Siemens](https://www.siemens.com)** | **[Full Stack Cloud for Payment Applications Internship](https://jobright.ai/jobs/info/6a041a17f811a043696081af?utm_campaign=1079&utm_source=git)** | Princeton, NJ | On Site | May 12 |
 | **[MeshyAI](https://www.meshy.ai/)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/6a040f8222395b6dc6d99c6b?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | May 12 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Software Developer Intern (4 months - full time)](https://jobright.ai/jobs/info/6a03f0fbbc4184089f236ef0?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | May 12 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Software Developer Intern (4 months - full time)](https://jobright.ai/jobs/info/6a03ee6022395b6dc6d98be8?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | May 12 |
@@ -132,6 +131,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, Software Engineer Intern](https://jobright.ai/jobs/info/6a032e106c07461fe17013dd?utm_campaign=1079&utm_source=git)** | Fayetteville, NC | On Site | May 11 |
 | **[Raytheon](http://www.bbn.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a02cb5922395b6dc6d8e7c0?utm_campaign=1079&utm_source=git)** | cedar rapids, Iowa, United States of America | On Site | May 11 |
 | **[Elevate Robotics Inc](https://www.elevaterobotics.ai/)** | **[Software Engineer – Intern Summer 2026](https://jobright.ai/jobs/info/69ced0b754f00230c6d035f9?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 11 |
+| **[NAVWAR](https://www.navwar.navy.mil/)** | **[STUDENT INTERN (COMPUTER SCIENTIST)](https://jobright.ai/jobs/info/6a042035f811a0436960856c?utm_campaign=1079&utm_source=git)** | Town Center, MD | On Site | May 11 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year-Round - PNT Resilience, Hybrid](https://jobright.ai/jobs/info/6a02ff2622395b6dc6d8fa57?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | Hybrid | May 11 |
 | **[Intrepid Control Systems](https://www.intrepidcs.com/)** | **[Application Engineer Intern](https://jobright.ai/jobs/info/6a02b4d47c753c287f6dfd5e?utm_campaign=1079&utm_source=git)** | Troy,MI,US | On Site | May 11 |
 | **[Formlabs](http://www.formlabs.com)** | **[Operations & Supply Chain Software Intern (Summer 2026)](https://jobright.ai/jobs/info/6a02ae6ff3d6cc51d636f6cf?utm_campaign=1079&utm_source=git)** | Somerville, MA | On Site | May 11 |
