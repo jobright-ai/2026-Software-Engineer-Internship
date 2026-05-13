@@ -117,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[KLA](https://www.kla.com)** | **[Software Intern (IOT)](https://jobright.ai/jobs/info/69e746d4e0cd471b2f12aa26?utm_campaign=1079&utm_source=git)** | Milpitas, CA | On Site | May 12 |
 | **[Eagle 3D Streaming](https://eagle3dstreaming.com)** | **[JOB DESCRIPTION UNREAL ENGINE SOFTWARE DEVELOPER](https://jobright.ai/jobs/info/6a033915ed6a637463f4db05?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | May 12 |
 | ↳ | **[NODE JS PROGRAMMER](https://jobright.ai/jobs/info/6a033915ed6a637463f4db03?utm_campaign=1079&utm_source=git)** | Texas, United States | Remote | May 12 |
+| **[ABB](https://global.abb/group/en)** | **[Cloud and Edge Solutions Intern- Summer 2026](https://jobright.ai/jobs/info/6993ea53e0bddb6acac231d1?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | May 12 |
 | **[Shield AI](http://www.shield.ai)** | **[Embedded Software Engineering Intern - 2026 Summer Intern (Boston, MA)](https://jobright.ai/jobs/info/69e86ba60a6e0955530336da?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | May 12 |
 | **[Title Resources Group](https://trguw.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0301537c753c287f6e2698?utm_campaign=1079&utm_source=git)** | US | On Site | May 12 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (Video Data Compression and Application) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68cd2c64e23def7af55b679a?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | May 12 |
@@ -147,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Tandem](https://tandem.space/)** | **[Summer 2026 Eng Intern](https://jobright.ai/jobs/info/6a04102ef3d6cc51d637be86?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 11 |
 | **[Docusign](http://www.docusign.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a0413b66c07461fe1709704?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 11 |
 | **[Abundant](https://www.abundantleader.com/)** | **[SWE Intern](https://jobright.ai/jobs/info/6a03c5b36c07461fe1707466?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | May 11 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Fall 2026, 12 months)](https://jobright.ai/jobs/info/6a040ae0f3d6cc51d637b93e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
-| ↳ | **[Software Analyst Intern (Fall 2026, 4 months)](https://jobright.ai/jobs/info/6a040ae1f3d6cc51d637b944?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Fall 2026, 4 months)](https://jobright.ai/jobs/info/6a040ae1f3d6cc51d637b944?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
+| ↳ | **[Software Analyst Intern (Fall 2026, 12 months)](https://jobright.ai/jobs/info/6a040ae0f3d6cc51d637b93e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Software Developer Intern- Summer 2026](https://jobright.ai/jobs/info/6a026437fa1aa73213d99fa5?utm_campaign=1079&utm_source=git)** | 1 Penn Plaza, New York, NY, 10119, US | On Site | May 11 |
 | **[NAVWAR](https://www.navwar.navy.mil/)** | **[STUDENT INTERN (COMPUTER SCIENTIST)](https://jobright.ai/jobs/info/6a032b57bc4184089f22f86c?utm_campaign=1079&utm_source=git)** | Town Center, MD | On Site | May 11 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern - Information Technology - HYBRID](https://jobright.ai/jobs/info/6a025ea1238f143e83533b51?utm_campaign=1079&utm_source=git)** | Phoenix, AZ, United States | Hybrid | May 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Qualitest](http://www.qualitestgroup.com/)** | **[Digital Engineering CoE Intern](https://jobright.ai/jobs/info/6a023ea4c4b08448a0b248c3?utm_campaign=1079&utm_source=git)** | California, United States | Remote | May 11 |
 | **[SOTI](http://www.soti.net/)** | **[Software Developer Intern - SOTI XSight (September 2026 12 Months)](https://jobright.ai/jobs/info/6a024de6c2ffb31f4536beed?utm_campaign=1079&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | May 11 |
 | **[Docusign](http://www.docusign.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a024a173053db70a117683a?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | Hybrid | May 11 |
-| ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/6a0249cadf52f1450d849724?utm_campaign=1079&utm_source=git)** | US-CA-San Francisco | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
