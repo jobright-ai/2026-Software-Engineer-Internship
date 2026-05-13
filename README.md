@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/6a043c7a6c07461fe170af3e?utm_campaign=1079&utm_source=git)** | United States | Remote | May 13 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Design Verification Engineer, Intern](https://jobright.ai/jobs/info/69d7f194f4ea471a51fe2a16?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 13 |
 | **[MeshyAI](https://www.meshy.ai/)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/6a040f8222395b6dc6d99c6b?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Hybrid | May 12 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Software Developer Intern (4 months - full time)](https://jobright.ai/jobs/info/6a03f0fbbc4184089f236ef0?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | May 12 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Software Developer Intern (4 months - full time)](https://jobright.ai/jobs/info/6a03ee6022395b6dc6d98be8?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | May 12 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[SOTI](http://www.soti.net/)** | **[Software Developer in Test Intern (September 2026 12 Months)](https://jobright.ai/jobs/info/6a037eb1f3d6cc51d63771a6?utm_campaign=1079&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | May 12 |
 | **[BlueLinx Corporation](http://bluelinxco.com/)** | **[Information Technology - Application Software Engineer Intern](https://jobright.ai/jobs/info/6a037872bc4184089f232c56?utm_campaign=1079&utm_source=git)** | 1950 Spectrum Cir, Marietta, GA 30067, USA | On Site | May 12 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Post-Bachelor's Student Intern](https://jobright.ai/jobs/info/69b008bb0b2db6275c033e55?utm_campaign=1079&utm_source=git)** | Los Alamos, NM | On Site | May 12 |
-| **[FAMU National Alumni Association](http://famunaa.org)** | **[Cloud SRE Intern](https://jobright.ai/jobs/info/6a036fa0bc4184089f232402?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | May 12 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Cloud/Hosting Infrastructure Internship  ](https://jobright.ai/jobs/info/6a03924c6c07461fe170593e?utm_campaign=1079&utm_source=git)** | USA VA Falls Church, US | Hybrid | May 12 |
 | **[Sartorius](http://sartorius.com)** | **[Software Engineer Intern - Onsite - Fremont, CA](https://jobright.ai/jobs/info/6a036e63f3d6cc51d6376550?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | May 12 |
 | **[PCB Piezotronics, Inc.](http://www.pcb.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a036e3d6c07461fe1703aa2?utm_campaign=1079&utm_source=git)** | Provo, UT | On Site | May 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Qualitest](http://www.qualitestgroup.com/)** | **[Digital Engineering CoE Intern](https://jobright.ai/jobs/info/6a023ea4c4b08448a0b248c3?utm_campaign=1079&utm_source=git)** | California, United States | Remote | May 11 |
 | **[SOTI](http://www.soti.net/)** | **[Software Developer Intern - SOTI XSight (September 2026 12 Months)](https://jobright.ai/jobs/info/6a024de6c2ffb31f4536beed?utm_campaign=1079&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | May 11 |
 | **[Docusign](http://www.docusign.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a024a173053db70a117683a?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | Hybrid | May 11 |
-| ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/6a0249cadf52f1450d849724?utm_campaign=1079&utm_source=git)** | US-CA-San Francisco | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
