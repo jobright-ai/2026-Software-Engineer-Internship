@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MaintainX](https://www.getmaintainx.com)** | **[Web Production Intern](https://jobright.ai/jobs/info/6a0489b9f3d6cc51d6380216?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | May 13 |
+| **[Naïve](https://usenaive.ai/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a04888af811a0436960bd33?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 13 |
+| **[People Inc.](https://www.people.inc/)** | **[Summer Intern, QA Engineering](https://jobright.ai/jobs/info/69cc7b4c8130af1ac8338ae9?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Software Engineer Student](https://jobright.ai/jobs/info/6a047d916c07461fe170cd0a?utm_campaign=1079&utm_source=git)** | IL | Hybrid | May 13 |
 | **[Canon USA](https://www.usa.canon.com)** | **[Software Intern](https://jobright.ai/jobs/info/69cb459ba8c1822476e258c1?utm_campaign=1079&utm_source=git)** | Irvine, CA | Hybrid | May 13 |
 | **[GenPark](https://genpark.ai)** | **[Full Stack Developer Intern](https://jobright.ai/jobs/info/6a047a9e6c07461fe170cc40?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | May 13 |
 | **[Lila Sciences](https://www.lila.ai)** | **[Intern, Security & Cloud Engineering](https://jobright.ai/jobs/info/69e77e58e0cd471b2f12bec0?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | May 13 |
-| **[Vivacity Tech PBC](https://vivacitytech.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a0475b06c07461fe170ca12?utm_campaign=1079&utm_source=git)** | Greenville, SC | Remote | May 13 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Intern (Technical Intern / Junior Process Documentation and Quality Assurance Analyst)](https://jobright.ai/jobs/info/6a0471486c07461fe170c80e?utm_campaign=1079&utm_source=git)** | Morton Grove, Illinois, United States | On Site | May 13 |
+| **[Capital One](http://www.capitalone.com)** | **[Intern, Full Stack Software Engineer - Team Tachyon One - Fall 2026](https://jobright.ai/jobs/info/69f21c8bab4ec4779fff756f?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
 | **[P2S](http://p2seng.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a0453ba6c07461fe170b4b8?utm_campaign=1079&utm_source=git)** | Long Beach, CA | On Site | May 13 |
 | **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/6a043c7a6c07461fe170af3e?utm_campaign=1079&utm_source=git)** | United States | Remote | May 13 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Design Verification Engineer, Intern](https://jobright.ai/jobs/info/69d7f194f4ea471a51fe2a16?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tandem](https://tandem.space/)** | **[Summer 2026 Eng Intern](https://jobright.ai/jobs/info/6a04102ef3d6cc51d637be86?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 11 |
 | **[Docusign](http://www.docusign.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a0413b66c07461fe1709704?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 11 |
 | **[Abundant](https://www.abundantleader.com/)** | **[SWE Intern](https://jobright.ai/jobs/info/6a03c5b36c07461fe1707466?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | May 11 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Fall 2026, 4 months)](https://jobright.ai/jobs/info/6a040ae1f3d6cc51d637b944?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
-| ↳ | **[Software Analyst Intern (Fall 2026, 12 months)](https://jobright.ai/jobs/info/6a040ae0f3d6cc51d637b93e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Software Developer Intern- Summer 2026](https://jobright.ai/jobs/info/6a026437fa1aa73213d99fa5?utm_campaign=1079&utm_source=git)** | 1 Penn Plaza, New York, NY, 10119, US | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
