@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Product engineering intern](https://jobright.ai/jobs/info/6a04bfad6c07461fe1710278?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Intern - Embedded Software, System, and Test Engineer - 2026](https://jobright.ai/jobs/info/6a04bf63bc4184089f23e428?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | May 13 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[AI Application Engineer for Quantum Development Intern (Masters/PhD - Santa Clara, CA)](https://jobright.ai/jobs/info/6a04bf52f811a0436960e0b6?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 13 |
+| **[Round 2 NYC](r2nyc.online)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a04ba0af3d6cc51d63820b0?utm_campaign=1079&utm_source=git)** | New York, NY | Remote | May 13 |
 | **[Alpha Omega](http://www.alphaomegaintegration.com/)** | **[Software Engineering & AI Automation Intern](https://jobright.ai/jobs/info/69e8fc164b0fa35a7076a8ae?utm_campaign=1079&utm_source=git)** | Vienna, VA | On Site | May 13 |
 | **[Northland Power Inc.](https://www.northlandpower.com/)** | **[Enterprise Business Application Intern](https://jobright.ai/jobs/info/6a04b0576c07461fe170fcf5?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Intern (Technical Intern / Junior Process Documentation and Quality Assurance Analyst)](https://jobright.ai/jobs/info/6a04b056f3d6cc51d6381de0?utm_campaign=1079&utm_source=git)** | Morton Grove, IL | On Site | May 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Backend Development Engineer Intern (Infrastructure Platform Delivery) - 2026 Fall (BS/MS)](https://jobright.ai/jobs/info/6a02e7f37c753c287f6e1bba?utm_campaign=1079&utm_source=git)** | San Jose, California, United States of America | On Site | May 12 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Software Developer Intern](https://jobright.ai/jobs/info/6a032dcd22395b6dc6d91c27?utm_campaign=1079&utm_source=git)** | Fayetteville, NC | On Site | May 11 |
 | ↳ | **[University, Software Engineer Intern](https://jobright.ai/jobs/info/6a032e106c07461fe17013dd?utm_campaign=1079&utm_source=git)** | Fayetteville, NC | On Site | May 11 |
-| **[Raytheon](http://www.bbn.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a02cb5922395b6dc6d8e7c0?utm_campaign=1079&utm_source=git)** | cedar rapids, Iowa, United States of America | On Site | May 11 |
-| **[Elevate Robotics Inc](https://www.elevaterobotics.ai/)** | **[Software Engineer – Intern Summer 2026](https://jobright.ai/jobs/info/69ced0b754f00230c6d035f9?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 11 |
-| **[NAVWAR](https://www.navwar.navy.mil/)** | **[STUDENT INTERN (COMPUTER SCIENTIST)](https://jobright.ai/jobs/info/6a042035f811a0436960856c?utm_campaign=1079&utm_source=git)** | Town Center, MD | On Site | May 11 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year-Round - PNT Resilience, Hybrid](https://jobright.ai/jobs/info/6a02ff2622395b6dc6d8fa57?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
