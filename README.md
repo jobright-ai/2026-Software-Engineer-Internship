@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Enterprise Architecture, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/6a0507854373b07358a397fd?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 13 |
+| **[Game Plan Tech](https://gameplan.tech)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0503a1bc4184089f2420a7?utm_campaign=1079&utm_source=git)** | Reston, VA | On Site | May 13 |
+| **[ITASCA International Inc.](https://www.itascainternational.com/)** | **[Intern Web Developer (May-December) - Minneapolis, Minnesota, USA](https://jobright.ai/jobs/info/6a0500c2f3d6cc51d6385cf4?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | May 13 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Software Engineer- Backend Intern (Fall 2026)](https://jobright.ai/jobs/info/6a04f96c6c07461fe17125f4?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 13 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Test Intern (Fall)](https://jobright.ai/jobs/info/6a04f6bdbc4184089f24121c?utm_campaign=1079&utm_source=git)** | Sunnyvale, California, USA | On Site | May 13 |
-| **[Elevated Web Design](https://www.elevatedwebdesign.com/)** | **[Founding Intern - Job Search App](https://jobright.ai/jobs/info/6a04f4e94373b07358a3863c?utm_campaign=1079&utm_source=git)** | United States | Remote | May 13 |
-| **[Todd](https://toddagriscience.com)** | **[Frontend Developer Intern (Summer)](https://jobright.ai/jobs/info/6a04f46e7c753c287f6f4fcd?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | May 13 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Software Developer Intern](https://jobright.ai/jobs/info/6a04f2b5bc4184089f240f00?utm_campaign=1079&utm_source=git)** | Fayetteville, NC | Remote | May 13 |
 | **[Eulerity](https://www.eulerity.com)** | **[Backend Developer Summer Intern](https://jobright.ai/jobs/info/69c4391fd5a1016e98db512e?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Hybrid | May 13 |
 | **[DeepHealth](https://deep.health)** | **[Software Developer -  INTERN](https://jobright.ai/jobs/info/6a04e9a4bc4184089f2409fc?utm_campaign=1079&utm_source=git)** | Seattle, US | On Site | May 13 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Software Developer Intern](https://jobright.ai/jobs/info/6a04e2926c07461fe17118b3?utm_campaign=1079&utm_source=git)** | Fayetteville, NC | On Site | May 13 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Software Development Seasonal Intern](https://jobright.ai/jobs/info/6a04e21e6c07461fe17117d8?utm_campaign=1079&utm_source=git)** | Wilmington, DE | On Site | May 13 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[IT Architecture / Research Internship 2026](https://jobright.ai/jobs/info/6a04d7e5bc4184089f23fd96?utm_campaign=1079&utm_source=git)** | Davidson, NC | On Site | May 13 |
-| **[Interact Health PRO](https://interacthealthpro.com)** | **[AI FULL STACK APP DEVELOPER INTERN](https://jobright.ai/jobs/info/6a04d7de6c07461fe1711122?utm_campaign=1079&utm_source=git)** | Ontario, Canada | Remote | May 13 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Software Developer, Developer Framework](https://jobright.ai/jobs/info/6a04d6544373b07358a373c1?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 13 |
 | **[By Light Professional IT Services](http://www.bylight.com)** | **[AI Intern](https://jobright.ai/jobs/info/6a04d5e26c07461fe1711015?utm_campaign=1079&utm_source=git)** | Hanover, MD | On Site | May 13 |
 | **[Miraphoto](https://miraphoto.webflow.io)** | **[Software Engineer Intern - Backend](https://jobright.ai/jobs/info/6a04d38a7c753c287f6f3e42?utm_campaign=1079&utm_source=git)** | United States | Remote | May 13 |
