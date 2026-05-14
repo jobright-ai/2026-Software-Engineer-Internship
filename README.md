@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RightOn Education](https://www.rightoneducation.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a05176922395b6dc6da3ca8?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | May 13 |
+| **[V2X Inc](https://gov2x.com)** | **[2026 Software Engineering Intern](https://jobright.ai/jobs/info/69eae16916b2612c2a117c48?utm_campaign=1079&utm_source=git)** | Indianapolis, IN | On Site | May 13 |
+| **[Anritsu](https://www.anritsu.com)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/6a051ee86c07461fe17140f1?utm_campaign=1079&utm_source=git)** | Morgan Hill, California, United States | On Site | May 13 |
 | **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Fall 26)](https://jobright.ai/jobs/info/6a051548f3d6cc51d638664a?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | May 13 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Enterprise Architecture, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/6a0507854373b07358a397fd?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Game Plan Tech](https://gameplan.tech)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0503a1bc4184089f2420a7?utm_campaign=1079&utm_source=git)** | Reston, VA | On Site | May 13 |
@@ -70,14 +71,12 @@ For a complete list, click the following sortable link below:
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Software Engineer- Backend Intern (Fall 2026)](https://jobright.ai/jobs/info/6a04e2a16c07461fe17118bb?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 13 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, Software Developer Intern](https://jobright.ai/jobs/info/6a04e2926c07461fe17118b3?utm_campaign=1079&utm_source=git)** | Fayetteville, NC | On Site | May 13 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Software Development Seasonal Intern](https://jobright.ai/jobs/info/6a04e21e6c07461fe17117d8?utm_campaign=1079&utm_source=git)** | Wilmington, DE | On Site | May 13 |
-| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[IT Architecture / Research Internship 2026](https://jobright.ai/jobs/info/6a04d7e5bc4184089f23fd96?utm_campaign=1079&utm_source=git)** | Davidson, NC | On Site | May 13 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Software Developer, Developer Framework](https://jobright.ai/jobs/info/6a04d6544373b07358a373c1?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 13 |
 | **[By Light Professional IT Services](http://www.bylight.com)** | **[AI Intern](https://jobright.ai/jobs/info/6a04d5e26c07461fe1711015?utm_campaign=1079&utm_source=git)** | Hanover, MD | On Site | May 13 |
 | **[Miraphoto](https://miraphoto.webflow.io)** | **[Software Engineer Intern - Backend](https://jobright.ai/jobs/info/6a04d38a7c753c287f6f3e42?utm_campaign=1079&utm_source=git)** | United States | Remote | May 13 |
-| **[Cinnamon Entertainment Group LLC](https://www.cinnamonentertainment.com)** | **[Backend Database Engineer Non Paid Intern (Academic Credit Only)](https://jobright.ai/jobs/info/6a04cff4bc4184089f23f133?utm_campaign=1079&utm_source=git)** | United States | Remote | May 13 |
 | **[Intapp](http://www.intapp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a04cd5a22395b6dc6da0efd?utm_campaign=1079&utm_source=git)** | Charlotte, NC, US | Hybrid | May 13 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Software Developer, Developer Framework](https://jobright.ai/jobs/info/6a04cbe34373b07358a36e21?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 13 |
-| ↳ | **[Co-op/Intern Software Developer, Developer Framework](https://jobright.ai/jobs/info/6a04cbe34373b07358a36e20?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 13 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Software Developer, Developer Framework](https://jobright.ai/jobs/info/6a04cbe34373b07358a36e20?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 13 |
+| ↳ | **[Co-op/Intern Software Developer, Developer Framework](https://jobright.ai/jobs/info/6a04cbe34373b07358a36e21?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 13 |
 | **[Unwrap](https://www.unwrap.ai/)** | **[Full Stack Engineer Intern](https://jobright.ai/jobs/info/6a04c89b4373b07358a36b70?utm_campaign=1079&utm_source=git)** | Goleta, CA | On Site | May 13 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[AI Application Engineer for Quantum Development Intern (Masters/PhD - Santa Clara, CA)](https://jobright.ai/jobs/info/6a04bf52f811a0436960e0b6?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 13 |
 | **[Alpha Omega](http://www.alphaomegaintegration.com/)** | **[Software Engineering & AI Automation Intern](https://jobright.ai/jobs/info/69e8fc164b0fa35a7076a8ae?utm_campaign=1079&utm_source=git)** | Vienna, VA | On Site | May 13 |
@@ -115,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[UTHealth Houston](https://www.uth.edu/stroke-institute/)** | **[Internship or Seasonal Role in Programming and Information Technology](https://jobright.ai/jobs/info/6a03db567c753c287f6eab3d?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | May 12 |
 | **[Varda Space Industries](http://varda.com)** | **[Applications Engineering Internship - Fall 2026](https://jobright.ai/jobs/info/6a03d6c27c753c287f6eaa94?utm_campaign=1079&utm_source=git)** | El Segundo, CA | On Site | May 12 |
 | **[Alto](https://www.altotrain.ca)** | **[Intern, SAP](https://jobright.ai/jobs/info/6a03fb5e22395b6dc6d995d7?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
-| **[PayCloud Innovations](http://www.paycloudinnovations.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a03d59822395b6dc6d98339?utm_campaign=1079&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | May 12 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a03d58222395b6dc6d982d9?utm_campaign=1079&utm_source=git)** | Chandler, AZ | Hybrid | May 12 |
 | **[IMDEX](https://imdexlimited.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a03cbd122395b6dc6d980e5?utm_campaign=1079&utm_source=git)** | San Luis Obispo,CA,US | On Site | May 12 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Software Developer Intern (4 months - full time)](https://jobright.ai/jobs/info/6a03c73c8ecfd93cd9c11a77?utm_campaign=1079&utm_source=git)** | 3740 W Market Center Dr, Bluffdale, UT, 84065, US | Hybrid | May 12 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-op - Information Technology (Fall 2026)](https://jobright.ai/jobs/info/69d5f993366bb95ba554a63b?utm_campaign=1079&utm_source=git)** | Findlay, OH | On Site | May 12 |
 | **[IPConfigure Inc.](http://www.ipconfigure.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a036fb2bc4184089f232452?utm_campaign=1079&utm_source=git)** | Norfolk, VA | On Site | May 12 |
 | **[BMO](http://www.bmo.com)** | **[Technology Research Associate, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a033ecdbc4184089f230928?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
+| **[Chartbeat](http://chartbeat.com)** | **[Frontend Engineering Internship](https://jobright.ai/jobs/info/69ce7d2d398fb071abf85716?utm_campaign=1079&utm_source=git)** | United States | Remote | May 12 |
+| **[PCB Piezotronics, Inc.](http://www.pcb.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a03396522395b6dc6d925b5?utm_campaign=1079&utm_source=git)** | Provo, UT, Provo, UT, US | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
