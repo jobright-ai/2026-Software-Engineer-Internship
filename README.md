@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RightOn Education](https://www.rightoneducation.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a05176922395b6dc6da3ca8?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | May 13 |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Developer Intern (Fall 26)](https://jobright.ai/jobs/info/6a051548f3d6cc51d638664a?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | May 13 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Enterprise Architecture, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/6a0507854373b07358a397fd?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Game Plan Tech](https://gameplan.tech)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0503a1bc4184089f2420a7?utm_campaign=1079&utm_source=git)** | Reston, VA | On Site | May 13 |
 | **[ITASCA International Inc.](https://www.itascainternational.com/)** | **[Intern Web Developer (May-December) - Minneapolis, Minnesota, USA](https://jobright.ai/jobs/info/6a0500c2f3d6cc51d6385cf4?utm_campaign=1079&utm_source=git)** | Minneapolis, MN | On Site | May 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-op - Information Technology (Fall 2026)](https://jobright.ai/jobs/info/69d5f993366bb95ba554a63b?utm_campaign=1079&utm_source=git)** | Findlay, OH | On Site | May 12 |
 | **[IPConfigure Inc.](http://www.ipconfigure.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a036fb2bc4184089f232452?utm_campaign=1079&utm_source=git)** | Norfolk, VA | On Site | May 12 |
 | **[BMO](http://www.bmo.com)** | **[Technology Research Associate, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a033ecdbc4184089f230928?utm_campaign=1079&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
-| **[Chartbeat](http://chartbeat.com)** | **[Frontend Engineering Internship](https://jobright.ai/jobs/info/69ce7d2d398fb071abf85716?utm_campaign=1079&utm_source=git)** | United States | Remote | May 12 |
-| **[PCB Piezotronics, Inc.](http://www.pcb.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a03396522395b6dc6d925b5?utm_campaign=1079&utm_source=git)** | Provo, UT, Provo, UT, US | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
