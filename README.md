@@ -145,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Software Developer, Core Algorithms](https://jobright.ai/jobs/info/6a05fde27c753c287f6fde17?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 14 |
 | **[Lovibond® - US & Canada](http://www.tintometer.ch/)** | **[Software Quality Assurance Intern](https://jobright.ai/jobs/info/6a05fcd27c753c287f6fdd23?utm_campaign=1079&utm_source=git)** | Loveland, CO | On Site | May 14 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Associate Member Engineering Staff - Software (Internship)](https://jobright.ai/jobs/info/6a05f67d7c753c287f6fd80b?utm_campaign=1079&utm_source=git)** | USA-NJ-Camden-1 Federal St | On Site | May 14 |
-| **[NetApp](http://netapp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a05ebd67c753c287f6fce3b?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | May 14 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69b06047dfaeda6ff59a1f0c?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | May 14 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Fall 2026, 8 months)](https://jobright.ai/jobs/info/6a05e6cf7c753c287f6fcc52?utm_campaign=1079&utm_source=git)** | Toronto, CA | Hybrid | May 14 |
 | **[Motion](https://www.motion.com)** | **[Web Developer Intern](https://jobright.ai/jobs/info/69c8be8983ea553769feb978?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | May 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[LiveRamp](http://www.liveramp.com)** | **[Intern, Software Development Engineer in Test](https://jobright.ai/jobs/info/69e821020a6e09555302e73b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 14 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Test Intern (Fall)](https://jobright.ai/jobs/info/6a05c886bc4184089f247817?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | May 14 |
 | **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Spring 2027)](https://jobright.ai/jobs/info/69e98e1e0a6e09555303cd23?utm_campaign=1079&utm_source=git)** | Greater Phoenix Area | On Site | May 14 |
+| **[State Street](https://www.statestreet.com/)** | **[Business Architecture & Agentic Automation, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69f4f4baa3d34b4f76f52b0a?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
