@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AV](https://www.avinc.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a064dda6c07461fe171f0e3?utm_campaign=1079&utm_source=git)** | Huntsville, AL | Hybrid | May 14 |
+| **[Netic](https://www.netic.ai)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/696f78113ed06875134a61f5?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 14 |
+| **[AV](https://www.avinc.com/)** | **[Software Engineering Intern – Hyper-RF Division](https://jobright.ai/jobs/info/6a0651cf6c07461fe171f3c4?utm_campaign=1079&utm_source=git)** | Germantown, MD | On Site | May 14 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a064dda6c07461fe171f0e3?utm_campaign=1079&utm_source=git)** | Huntsville, AL | Hybrid | May 14 |
 | **[Alarm.com](http://www.alarm.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a064c00bc4184089f24e18b?utm_campaign=1079&utm_source=git)** | Tysons, Virginia | On Site | May 14 |
 | **[GIA (Gemological Institute of America)](https://www.gia.edu)** | **[Solutions Analyst Intern](https://jobright.ai/jobs/info/6a0649d6f3d6cc51d6391d1c?utm_campaign=1079&utm_source=git)** | Las Vegas, NV | On Site | May 14 |
 | **[LangPal](www.lang-pal.com)** | **[iOS Mobile App Developer Intern (Swift)](https://jobright.ai/jobs/info/6a0648fff3d6cc51d6391b70?utm_campaign=1079&utm_source=git)** | United States | Remote | May 14 |
@@ -79,9 +81,12 @@ For a complete list, click the following sortable link below:
 | **[SureScan Corporation](https://www.surescaneds.com)** | **[Intern - Computer Science](https://jobright.ai/jobs/info/6a0637d0a88ea73abf7f955e?utm_campaign=1079&utm_source=git)** | SureScan Corp, Binghamton NY, Binghamton, NY, US | On Site | May 14 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Application Engineer Intern](https://jobright.ai/jobs/info/6a0636816c07461fe171de18?utm_campaign=1079&utm_source=git)** | Foster City, CA | Hybrid | May 14 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a06366cbc4184089f24cf42?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 14 |
+| **[Zus Health](https://zushealth.com)** | **[Data Acquisition Software Engineering Co-op](https://jobright.ai/jobs/info/69fbdabdd21cf86d1e3d54a1?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | May 14 |
+| **[Cresta](https://www.cresta.com)** | **[AI Quality Assurance Intern](https://jobright.ai/jobs/info/6a065810a88ea73abf7faf97?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Solution Advisory](https://jobright.ai/jobs/info/69cda242cfdc6132f941dc55?utm_campaign=1079&utm_source=git)** | Alpharetta, GA | On Site | May 14 |
 | **[Draper](https://www.draper.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0631bc320bff2205ea9b1c?utm_campaign=1079&utm_source=git)** | Cambridge, MA | Hybrid | May 14 |
 | **[Sulzer](http://www.sulzer.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a062f76f3d6cc51d63907ac?utm_campaign=1079&utm_source=git)** | Portland, OR | On Site | May 14 |
+| **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a065283bc4184089f24e6eb?utm_campaign=1079&utm_source=git)** | East Farmingdale, NY | On Site | May 14 |
 | **[CORMAC](https://www.cormac-corp.com/)** | **[Entry Level Software Engineer Intern](https://jobright.ai/jobs/info/6a062de1a88ea73abf7f896c?utm_campaign=1079&utm_source=git)** | United States | Remote | May 14 |
 | **[Rocky Mountain Steel Mills](https://www.rockymountainsteelmills.com/)** | **[Application Developer Intern](https://jobright.ai/jobs/info/6a062dbea88ea73abf7f8877?utm_campaign=1079&utm_source=git)** | Pueblo, CO | On Site | May 14 |
 | **[Jabil](https://www.jabil.com)** | **[Programmer Analyst Intern](https://jobright.ai/jobs/info/6a062d3c6c07461fe171d14a?utm_campaign=1079&utm_source=git)** | Tampa, FL, US | On Site | May 14 |
@@ -146,15 +151,10 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a05a149bc4184089f2462ff?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 14 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Frontend Software Developer Intern - Fall 2026](https://jobright.ai/jobs/info/6a05a11cbc4184089f2462c1?utm_campaign=1079&utm_source=git)** | Apex, NC | Hybrid | May 14 |
 | **[Aulick Industries](https://aulick.com/)** | **[Software Engineering Intern - COHORT Platform](https://jobright.ai/jobs/info/6a0586bfa88ea73abf7f1b2d?utm_campaign=1079&utm_source=git)** | Scottsbluff, NE, US | On Site | May 14 |
-| **[BCI](https://www.bci.ca/)** | **[Enterprise Solutions, Software Engineer Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577896c07461fe1716943?utm_campaign=1079&utm_source=git)** | Vancouver, BC, CA | Hybrid | May 14 |
-| ↳ | **[Enterprise Solutions, Software Engineer Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577896c07461fe1716944?utm_campaign=1079&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| **[BCI](https://www.bci.ca/)** | **[Enterprise Solutions, Software Engineer Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577896c07461fe1716944?utm_campaign=1079&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| ↳ | **[Enterprise Solutions, Software Engineer Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577896c07461fe1716943?utm_campaign=1079&utm_source=git)** | Vancouver, BC, CA | Hybrid | May 14 |
 | ↳ | **[Digital Workplace Technical Analyst Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577887c753c287f6f9822?utm_campaign=1079&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | ↳ | **[Enterprise Architecture Business Analyst Co-op/Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a0577837c753c287f6f981c?utm_campaign=1079&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[2026 - Technology Intern Lead ( Part Time Temporary Position)](https://jobright.ai/jobs/info/6a056dae7c753c287f6f92e6?utm_campaign=1079&utm_source=git)** | Information Management Services - Grandview, Missouri | On Site | May 13 |
 | **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern)](https://jobright.ai/jobs/info/69d7e58bb67cec4f9b09915a?utm_campaign=1079&utm_source=git)** | Chicago | On Site | May 13 |
-| **[LMI](http://www.lmi.org)** | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a0558bcfbf3d169d3c5e1ac?utm_campaign=1079&utm_source=git)** | US-DC-Washington, DC | On Site | May 13 |
-| ↳ | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a0558bcfbf3d169d3c5e1ab?utm_campaign=1079&utm_source=git)** | Tysons, VA, US | On Site | May 13 |
-| ↳ | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a0558bcfbf3d169d3c5e1ae?utm_campaign=1079&utm_source=git)** | Washington, DC, DC, US | On Site | May 13 |
-| ↳ | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a0558bcfbf3d169d3c5e1ad?utm_campaign=1079&utm_source=git)** | US-VA-Tysons | On Site | May 13 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Embedded Systems Software Engineer, AI Platforms (Fall 2026)](https://jobright.ai/jobs/info/6a0536927c753c287f6f7b5c?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
