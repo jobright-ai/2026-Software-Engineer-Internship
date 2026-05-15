@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PENTAX Medical Americas](https://www.pentaxmedical.com/pentax/service/usa)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a06c2fa33c2ed3770bc93a8?utm_campaign=1079&utm_source=git)** | Montvale, NJ | On Site | May 14 |
+| **[GenPark](https://genpark.ai)** | **[Web development intern](https://jobright.ai/jobs/info/6a06bebdb897ee41d28305b0?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | May 14 |
 | **[Power Integrations](https://www.power.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6a0699d4a88ea73abf7fcc6e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 14 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Developer, Clients, Front End Technologies](https://jobright.ai/jobs/info/6a0692bda88ea73abf7fcb50?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 14 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[QA Internship - Summer/Fall 2026](https://jobright.ai/jobs/info/6a0689747c753c287f70408d?utm_campaign=1079&utm_source=git)** | Clearwater, FL | On Site | May 14 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/6a062131a88ea73abf7f7911?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | May 14 |
 | **[Intapp](http://www.intapp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0620f6320bff2205ea8855?utm_campaign=1079&utm_source=git)** | Charlotte, NC | Hybrid | May 14 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Post-Master's Student Intern](https://jobright.ai/jobs/info/69b0afb90b2db6275c05140e?utm_campaign=1079&utm_source=git)** | Los Alamos, NM | On Site | May 14 |
-| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Full-Stack Developer (September 2026)](https://jobright.ai/jobs/info/6a062060a88ea73abf7f7878?utm_campaign=1079&utm_source=git)** | Toronto - Bay St, CA | Hybrid | May 14 |
-| ↳ | **[Co-op or Intern, Full-Stack Developer (September 2026)](https://jobright.ai/jobs/info/6a062060a88ea73abf7f7876?utm_campaign=1079&utm_source=git)** | Oakville, CA | Hybrid | May 14 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Full-Stack Developer (September 2026)](https://jobright.ai/jobs/info/6a062060a88ea73abf7f7876?utm_campaign=1079&utm_source=git)** | Oakville, CA | Hybrid | May 14 |
+| ↳ | **[Co-op or Intern, Full-Stack Developer (September 2026)](https://jobright.ai/jobs/info/6a062060a88ea73abf7f7878?utm_campaign=1079&utm_source=git)** | Toronto - Bay St, CA | Hybrid | May 14 |
 | ↳ | **[Co-op or Intern, Full-Stack Developer (September 2026)](https://jobright.ai/jobs/info/6a06205ea88ea73abf7f7873?utm_campaign=1079&utm_source=git)** | Ottawa - Kent St, CA | Hybrid | May 14 |
 | **[Thales Cybersecurity Products](https://cpl.thalesgroup.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a061cfd7c753c287f6ff54c?utm_campaign=1079&utm_source=git)** | Plantation, US | Hybrid | May 14 |
 | **[Draper](https://www.draper.com)** | **[Embedded Quality & Fielded Systems Intern](https://jobright.ai/jobs/info/6a064939a88ea73abf7fa086?utm_campaign=1079&utm_source=git)** | Cambridge, MA | On Site | May 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LiveRamp](http://www.liveramp.com)** | **[Intern, Software Development Engineer in Test](https://jobright.ai/jobs/info/69e821020a6e09555302e73b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 14 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Test Intern (Fall)](https://jobright.ai/jobs/info/6a05c886bc4184089f247817?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | May 14 |
 | **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Spring 2027)](https://jobright.ai/jobs/info/69e98e1e0a6e09555303cd23?utm_campaign=1079&utm_source=git)** | Greater Phoenix Area | On Site | May 14 |
-| **[State Street](https://www.statestreet.com/)** | **[Business Architecture & Agentic Automation, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69f4f4baa3d34b4f76f52b0a?utm_campaign=1079&utm_source=git)** | Boston, MA | On Site | May 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977e9c452f3c27ec64415c6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
