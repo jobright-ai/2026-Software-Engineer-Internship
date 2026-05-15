@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Full stack developer intern](https://jobright.ai/jobs/info/6a0681476c07461fe1720c6b?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 14 |
+| **[Todd](https://toddagriscience.com)** | **[iOS App Engineer Intern (Fall '26)](https://jobright.ai/jobs/info/6a067e0f6c07461fe1720b41?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | May 14 |
 | **[NuAxis Innovations](http://www.nuaxis.com)** | **[Intern – SEG Prototyping](https://jobright.ai/jobs/info/6a0674fa6c07461fe172096f?utm_campaign=1079&utm_source=git)** | Richmond, VA | On Site | May 14 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Year at Palantir - Forward Deployed Software Engineer, Internship - USG](https://jobright.ai/jobs/info/6a06719e6c07461fe172085a?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 14 |
 | ↳ | **[Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobright.ai/jobs/info/6a066ef6bc4184089f24fa20?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 14 |
@@ -97,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a065283bc4184089f24e6eb?utm_campaign=1079&utm_source=git)** | East Farmingdale, NY | On Site | May 14 |
 | **[CORMAC](https://www.cormac-corp.com/)** | **[Entry Level Software Engineer Intern](https://jobright.ai/jobs/info/6a062de1a88ea73abf7f896c?utm_campaign=1079&utm_source=git)** | United States | Remote | May 14 |
 | **[Rocky Mountain Steel Mills](https://www.rockymountainsteelmills.com/)** | **[Application Developer Intern](https://jobright.ai/jobs/info/6a062dbea88ea73abf7f8877?utm_campaign=1079&utm_source=git)** | Pueblo, CO | On Site | May 14 |
-| **[Jabil](https://www.jabil.com)** | **[Programmer Analyst Intern](https://jobright.ai/jobs/info/6a062d3c6c07461fe171d14a?utm_campaign=1079&utm_source=git)** | Tampa, FL, US | On Site | May 14 |
-| ↳ | **[Programmer Analyst Intern](https://jobright.ai/jobs/info/6a062d3c6c07461fe171d149?utm_campaign=1079&utm_source=git)** | St. Petersburg, FL, US | On Site | May 14 |
+| **[Jabil](https://www.jabil.com)** | **[Programmer Analyst Intern](https://jobright.ai/jobs/info/6a062d3c6c07461fe171d149?utm_campaign=1079&utm_source=git)** | St. Petersburg, FL, US | On Site | May 14 |
+| ↳ | **[Programmer Analyst Intern](https://jobright.ai/jobs/info/6a062d3c6c07461fe171d14a?utm_campaign=1079&utm_source=git)** | Tampa, FL, US | On Site | May 14 |
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op Fall 2026 - Embedded Software Developer / Modeler - 4 Months](https://jobright.ai/jobs/info/6a06446c320bff2205eaa94a?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 14 |
 | **[Commerce](http://commerce.com/)** | **[Intern, Software Engineering - Typescript / Full Stack](https://jobright.ai/jobs/info/6a062439a88ea73abf7f81fa?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | May 14 |
 | **[Thales](http://www.thalesgroup.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0623186c07461fe171cc53?utm_campaign=1079&utm_source=git)** | Plantation,FL,33324,USA | Hybrid | May 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977e9c452f3c27ec64415c6?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 14 |
 | **[Snowflake](https://www.snowflake.com)** | **[Software Engineer Intern (Infrastructure Automation) - Fall 2026](https://jobright.ai/jobs/info/6a05ade07c753c287f6fa902?utm_campaign=1079&utm_source=git)** | Bellevue, Washington, United States | On Site | May 14 |
 | ↳ | **[Software Engineer Intern (Infrastructure Automation) - Fall 2026](https://jobright.ai/jobs/info/6a05ade07c753c287f6fa903?utm_campaign=1079&utm_source=git)** | Menlo Park, California, United States | On Site | May 14 |
-| **[Murphy USA](https://www.murphyusa.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a02dd0e7c753c287f6e16ce?utm_campaign=1079&utm_source=git)** | El Dorado, AR | On Site | May 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a05a149bc4184089f2462ff?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
