@@ -77,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, BCI Applications](https://jobright.ai/jobs/info/6a07ae24939a5f01db952d9c?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | May 15 |
 | ↳ | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/6a07adeea203b1052e43dc2b?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | May 15 |
 | ↳ | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/6a07add46186f4685988204c?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | May 15 |
-| **[Naval Intelligence Activity](www.NIA.navy.mil)** | **[STUDENT INTERN (COMPUTER SCIENTIST).](https://jobright.ai/jobs/info/6a07ab8e6186f46859881fb3?utm_campaign=1079&utm_source=git)** | Town Center, MD | On Site | May 15 |
+| **[Naval Intelligence Activity](www.NIA.navy.mil)** | **[STUDENT INTERN (COMPUTER SCIENTIST).](https://jobright.ai/jobs/info/6a07ab8e6186f46859881fae?utm_campaign=1079&utm_source=git)** | Town Center, MD | On Site | May 15 |
 | **[Neuralink](https://www.neuralink.com)** | **[Firmware Engineer Intern, Robotics and Surgery Engineering](https://jobright.ai/jobs/info/6a07ab368f3e371eb61798ed?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | May 15 |
 | **[Cadence](https://www.cadence.com)** | **[Software Intern](https://jobright.ai/jobs/info/6a07a654403fc339507e6f77?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 15 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern - Software Engineer](https://jobright.ai/jobs/info/6a07a2283b54ed42d74d0a06?utm_campaign=1079&utm_source=git)** | Carmel, IN | Hybrid | May 15 |
