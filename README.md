@@ -109,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfe6bc8e722e7b1b54da?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 16 |
 | **[Calspan](http://www.calspan.com)** | **[Software Engineer - Calspan JETS 2026 Internship](https://jobright.ai/jobs/info/6a0850e98f3e371eb617f6b4?utm_campaign=1079&utm_source=git)** | US-MN-St. Paul | On Site | May 16 |
 | ↳ | **[Software Engineer - Calspan JETS 2026 Internship](https://jobright.ai/jobs/info/6a0850e68f3e371eb617f6a8?utm_campaign=1079&utm_source=git)** | St. Paul, MN, US | On Site | May 16 |
-| ↳ | **[Software Engineer - Calspan JETS 2026 Internship](https://jobright.ai/jobs/info/6a0850e5403fc339507ecf83?utm_campaign=1079&utm_source=git)** | St. Paul, MN, US | On Site | May 16 |
 | ↳ | **[Software Engineer - Calspan JETS 2026 Internship](https://jobright.ai/jobs/info/6a0850e5403fc339507ecf82?utm_campaign=1079&utm_source=git)** | US-MN-St. Paul | On Site | May 16 |
+| ↳ | **[Software Engineer - Calspan JETS 2026 Internship](https://jobright.ai/jobs/info/6a0850e5403fc339507ecf83?utm_campaign=1079&utm_source=git)** | St. Paul, MN, US | On Site | May 16 |
 | **[LMI](http://www.lmi.org)** | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a085059939a5f01db95862a?utm_campaign=1079&utm_source=git)** | Tysons, VA, US | On Site | May 16 |
 | ↳ | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a0558bcfbf3d169d3c5e1ae?utm_campaign=1079&utm_source=git)** | Washington, DC, DC, US | On Site | May 16 |
 | ↳ | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a085058939a5f01db958627?utm_campaign=1079&utm_source=git)** | US-VA-Tysons | On Site | May 16 |
@@ -130,8 +130,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern - Applications, Infotainment & Mobile - Summer 2026](https://jobright.ai/jobs/info/6a084e146186f468598870ab?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, US | On Site | May 16 |
 | ↳ | **[Software Engineering Intern - Applications, Infotainment & Mobile - Summer 2026](https://jobright.ai/jobs/info/6a084e136186f468598870a9?utm_campaign=1079&utm_source=git)** | US-CA-Palo Alto | On Site | May 16 |
 | ↳ | **[Software Engineering Intern, Connected Systems - Summer 2026](https://jobright.ai/jobs/info/6a084e106186f46859887092?utm_campaign=1079&utm_source=git)** | Irvine, CA, US | On Site | May 16 |
-| ↳ | **[Software Engineering Intern, Connected Systems - Summer 2026](https://jobright.ai/jobs/info/6a084e0f6186f46859887080?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, US | On Site | May 16 |
 | ↳ | **[Software Engineering Intern, Connected Systems - Summer 2026](https://jobright.ai/jobs/info/6a084e0f6186f46859887084?utm_campaign=1079&utm_source=git)** | US-CA-Palo Alto | On Site | May 16 |
+| ↳ | **[Software Engineering Intern, Connected Systems - Summer 2026](https://jobright.ai/jobs/info/6a084e0f6186f46859887080?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, US | On Site | May 16 |
 | ↳ | **[Software Engineering Intern, Connected Systems - Summer 2026](https://jobright.ai/jobs/info/6a084e0c6186f46859887076?utm_campaign=1079&utm_source=git)** | US-CA-Irvine | On Site | May 16 |
 | **[Foundation Building Materials](http://www.fbmsales.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a084d886186f46859886f81?utm_campaign=1079&utm_source=git)** | Santa Ana, CA, US | On Site | May 16 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a084d886186f46859886f80?utm_campaign=1079&utm_source=git)** | US-CA-Santa Ana | On Site | May 16 |
