@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AssetMark](http://www.assetmark.com)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/6a0b4b69a235d749afa83ba6?utm_campaign=1079&utm_source=git)** | Charlotte, NC, US | Hybrid | May 18 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Accounting Engineering [Newtown Square]](https://jobright.ai/jobs/info/6a0b44d4963f7a67d95cdd15?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | On Site | May 18 |
+| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699959b281476f6176b201b7?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | May 18 |
 | **[Blank Slate Technologies](https://www.blankslatetech.co/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a0b3e6c538d03366dc831a4?utm_campaign=1079&utm_source=git)** | Manhattan, NY | Hybrid | May 18 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/6a0b3d100411d7417a1ae81f?utm_campaign=1079&utm_source=git)** | San Jose, California, US | On Site | May 18 |
 | ↳ | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/6a0b3d0f0411d7417a1ae81d?utm_campaign=1079&utm_source=git)** | RTP, North Carolina, US | On Site | May 18 |
-| **[KRAFZEN](krafzeninc.com)** | **[Full Stack Developer Internship (Unpaid)](https://jobright.ai/jobs/info/6a0b3cb8a235d749afa82fb4?utm_campaign=1079&utm_source=git)** | Canada | Remote | May 18 |
 | **[Commercial Vehicle Group, Inc.](http://cvgrp.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/6a0b3c6b538d03366dc82fe1?utm_campaign=1079&utm_source=git)** | Remote - USA, US | Remote | May 18 |
 | **[Loenbro](http://loenbro.com)** | **[IT Transformation Intern](https://jobright.ai/jobs/info/6a0b3a16a235d749afa829df?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | May 18 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Software Developer (Intern)](https://jobright.ai/jobs/info/6a0b1f650411d7417a1ad4a4?utm_campaign=1079&utm_source=git)** | USA NY Albany, US | Hybrid | May 18 |
@@ -79,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Information Technology Architect](https://jobright.ai/jobs/info/6a0ad0e7d92dfa4df9b51f69?utm_campaign=1079&utm_source=git)** | Tempe, AZ, US | Hybrid | May 18 |
 | **[Shop Online New York](https://www.topofny.com)** | **[Python Developer](https://jobright.ai/jobs/info/6a0aafbb6186f468598921c7?utm_campaign=1079&utm_source=git)** | United States | Remote | May 17 |
 | **[SB Energy](https://sbenergy.com)** | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a0a9f078f3e371eb6189bb7?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | May 17 |
+| **[University of Florida](https://www.ufl.edu)** | **[Web Developer, Student Assistant](https://jobright.ai/jobs/info/6a0b4262963f7a67d95cdac6?utm_campaign=1079&utm_source=git)** | Gainesville, FL | On Site | May 17 |
 | **[ByteDance](http://bytedance.com)** | **[Backend Development Engineer Intern (Infrastructure Platform Delivery) - 2026 Fall (BS/MS)](https://jobright.ai/jobs/info/6a0a0bcf8f3e371eb6186e7f?utm_campaign=1079&utm_source=git)** | San Jose, California, United States of America | On Site | May 17 |
 | **[SiFive](https://www.sifive.com)** | **[Platform Technologies Language Design Intern](https://jobright.ai/jobs/info/6a0a092c3b54ed42d74de653?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 17 |
 | ↳ | **[Platform Technologies Language Design Intern](https://jobright.ai/jobs/info/6a0a0922939a5f01db960b3d?utm_campaign=1079&utm_source=git)** | Berkeley, CA | On Site | May 17 |
@@ -120,22 +123,22 @@ For a complete list, click the following sortable link below:
 | **[Docusign](http://www.docusign.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a0869d8a203b1052e4445f1?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | Hybrid | May 16 |
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/6a0869d7a203b1052e4445f0?utm_campaign=1079&utm_source=git)** | US-CA-San Francisco | Hybrid | May 16 |
 | **[Naval Intelligence Activity](www.NIA.navy.mil)** | **[STUDENT INTERN (COMPUTER SCIENTIST).](https://jobright.ai/jobs/info/6a085a773b54ed42d74d71ea?utm_campaign=1079&utm_source=git)** | Town Center, MD | On Site | May 16 |
-| **[General Dynamics](https://www.gd.com)** | **[SW Engineer Intern](https://jobright.ai/jobs/info/6a0851b26186f46859887bf1?utm_campaign=1079&utm_source=git)** | US-PA-Pittsburgh | Hybrid | May 16 |
-| ↳ | **[SW Engineer Intern](https://jobright.ai/jobs/info/6a0851b26186f46859887bf2?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA, US | Hybrid | May 16 |
+| **[General Dynamics](https://www.gd.com)** | **[SW Engineer Intern](https://jobright.ai/jobs/info/6a0851b26186f46859887bf2?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA, US | Hybrid | May 16 |
+| ↳ | **[SW Engineer Intern](https://jobright.ai/jobs/info/6a0851b26186f46859887bf1?utm_campaign=1079&utm_source=git)** | US-PA-Pittsburgh | Hybrid | May 16 |
 | ↳ | **[SW Engineering Intern](https://jobright.ai/jobs/info/6a085172939a5f01db958925?utm_campaign=1079&utm_source=git)** | Bloomington, MN, US | On Site | May 16 |
 | ↳ | **[Software Engineer - Intern](https://jobright.ai/jobs/info/6a01f53fc2ffb31f45368b97?utm_campaign=1079&utm_source=git)** | US-IN-Ft. Wayne | On Site | May 16 |
-| ↳ | **[Software Engineer - Intern](https://jobright.ai/jobs/info/6a08516e403fc339507ed227?utm_campaign=1079&utm_source=git)** | Ft. Wayne, IN, US | On Site | May 16 |
 | ↳ | **[Intern Engineer - (Co-Op - May 2026 Start)](https://jobright.ai/jobs/info/6a08516e8f3e371eb617f91d?utm_campaign=1079&utm_source=git)** | US-IN-Ft. Wayne | Hybrid | May 16 |
+| ↳ | **[Software Engineer - Intern](https://jobright.ai/jobs/info/6a08516e403fc339507ed227?utm_campaign=1079&utm_source=git)** | Ft. Wayne, IN, US | On Site | May 16 |
 | ↳ | **[Intern Engineer - (Co-Op - May 2026 Start)](https://jobright.ai/jobs/info/6a08516b8f3e371eb617f90e?utm_campaign=1079&utm_source=git)** | Ft. Wayne, IN, US | Hybrid | May 16 |
 | ↳ | **[Intern Engineer - (Co-Op - May 2026 Start)](https://jobright.ai/jobs/info/6a085169a203b1052e4439b9?utm_campaign=1079&utm_source=git)** | US-IN-Ft. Wayne | Hybrid | May 16 |
 | **[CalAmp](http://www.calamp.com)** | **[Intern, Engineer Firmware - Carlsbad, CA (Summer 2026)](https://jobright.ai/jobs/info/6a085137a203b1052e4438ea?utm_campaign=1079&utm_source=git)** | US-CA-Carlsbad | On Site | May 16 |
 | ↳ | **[Intern, Engineer Firmware - Carlsbad, CA (Summer 2026)](https://jobright.ai/jobs/info/6a085136a203b1052e4438e7?utm_campaign=1079&utm_source=git)** | Carlsbad, CA, US | On Site | May 16 |
-| **[The Bancorp](http://www.thebancorp.com)** | **[Engineering Intern, Embedded Finance](https://jobright.ai/jobs/info/6a085135939a5f01db958844?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, US | On Site | May 16 |
-| ↳ | **[Engineering Intern, Embedded Finance](https://jobright.ai/jobs/info/6a085135939a5f01db958843?utm_campaign=1079&utm_source=git)** | US-SD-Sioux Falls | On Site | May 16 |
+| **[The Bancorp](http://www.thebancorp.com)** | **[Engineering Intern, Embedded Finance](https://jobright.ai/jobs/info/6a085135939a5f01db958843?utm_campaign=1079&utm_source=git)** | US-SD-Sioux Falls | On Site | May 16 |
+| ↳ | **[Engineering Intern, Embedded Finance](https://jobright.ai/jobs/info/6a085135939a5f01db958844?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, US | On Site | May 16 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Developer, Clients, Front End Technologies](https://jobright.ai/jobs/info/6a085129403fc339507ed08f?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d0848354f00230c6d12ecc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 16 |
-| **[Calspan](http://www.calspan.com)** | **[Software Engineering- Automotive 2026 Internship](https://jobright.ai/jobs/info/6a0850f1939a5f01db958751?utm_campaign=1079&utm_source=git)** | US-NY-Buffalo | On Site | May 16 |
-| ↳ | **[Software Engineering- Automotive 2026 Internship](https://jobright.ai/jobs/info/6a0850f1939a5f01db95874e?utm_campaign=1079&utm_source=git)** | Buffalo, NY, US | On Site | May 16 |
+| **[Calspan](http://www.calspan.com)** | **[Software Engineering- Automotive 2026 Internship](https://jobright.ai/jobs/info/6a0850f1939a5f01db95874e?utm_campaign=1079&utm_source=git)** | Buffalo, NY, US | On Site | May 16 |
+| ↳ | **[Software Engineering- Automotive 2026 Internship](https://jobright.ai/jobs/info/6a0850f1939a5f01db958751?utm_campaign=1079&utm_source=git)** | US-NY-Buffalo | On Site | May 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfe6bc8e722e7b1b54da?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 16 |
 | **[Calspan](http://www.calspan.com)** | **[Software Engineer - Calspan JETS 2026 Internship](https://jobright.ai/jobs/info/6a0850e98f3e371eb617f6b4?utm_campaign=1079&utm_source=git)** | US-MN-St. Paul | On Site | May 16 |
 | ↳ | **[Software Engineer - Calspan JETS 2026 Internship](https://jobright.ai/jobs/info/6a0850e68f3e371eb617f6a8?utm_campaign=1079&utm_source=git)** | St. Paul, MN, US | On Site | May 16 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0850218f3e371eb617f4a5?utm_campaign=1079&utm_source=git)** | US-VA-Fairfax | Hybrid | May 16 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[IT Internship](https://jobright.ai/jobs/info/6a084f866186f468598875e6?utm_campaign=1079&utm_source=git)** | Butler, IN, US | On Site | May 16 |
 | ↳ | **[IT Internship](https://jobright.ai/jobs/info/6a084f866186f468598875e5?utm_campaign=1079&utm_source=git)** | US-IN-Butler | On Site | May 16 |
-| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[Software Intern](https://jobright.ai/jobs/info/6a084edca203b1052e443244?utm_campaign=1079&utm_source=git)** | Irvine, CA, US | Hybrid | May 16 |
-| ↳ | **[Software Intern](https://jobright.ai/jobs/info/6a084edca203b1052e443247?utm_campaign=1079&utm_source=git)** | US-CA-Irvine | Hybrid | May 16 |
-| **[ServiceLink](https://www.svclnk.com)** | **[Full Stack Developer Intern, Information Technology](https://jobright.ai/jobs/info/6a084e51939a5f01db957f8f?utm_campaign=1079&utm_source=git)** | US-TX-Plano | Hybrid | May 16 |
-| ↳ | **[Full Stack Developer Intern, Information Technology](https://jobright.ai/jobs/info/6a084e51939a5f01db957f91?utm_campaign=1079&utm_source=git)** | Plano, TX, US | Hybrid | May 16 |
-| **[Rivian](http://www.rivian.com)** | **[Software Engineering Intern - Applications, Infotainment & Mobile - Summer 2026](https://jobright.ai/jobs/info/6a084e156186f468598870b2?utm_campaign=1079&utm_source=git)** | US-CA-Irvine | On Site | May 16 |
-| ↳ | **[Software Engineering Intern - Applications, Infotainment & Mobile - Summer 2026](https://jobright.ai/jobs/info/6a084e146186f468598870ac?utm_campaign=1079&utm_source=git)** | Irvine, CA, US | On Site | May 16 |
+| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[Software Intern](https://jobright.ai/jobs/info/6a084edca203b1052e443247?utm_campaign=1079&utm_source=git)** | US-CA-Irvine | Hybrid | May 16 |
+| ↳ | **[Software Intern](https://jobright.ai/jobs/info/6a084edca203b1052e443244?utm_campaign=1079&utm_source=git)** | Irvine, CA, US | Hybrid | May 16 |
+| **[ServiceLink](https://www.svclnk.com)** | **[Full Stack Developer Intern, Information Technology](https://jobright.ai/jobs/info/6a084e51939a5f01db957f91?utm_campaign=1079&utm_source=git)** | Plano, TX, US | Hybrid | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
