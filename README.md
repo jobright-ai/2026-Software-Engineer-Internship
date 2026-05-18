@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HypeOn](https://hypeon.ai/)** | **[Founding Engineer](https://jobright.ai/jobs/info/6a0b8586538d03366dc865c4?utm_campaign=1079&utm_source=git)** | United States | Remote | May 18 |
+| **[Bosch](http://www.bosch.com)** | **[MLIPs Multi-Fidelity Intern](https://jobright.ai/jobs/info/6a0b81614d93203636871d1b?utm_campaign=1079&utm_source=git)** | 65 Grove St suite 201, Watertown, MA 02472, USA | Remote | May 18 |
+| **[Nash](https://www.nash.ai/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a0b7cfa22d0d34036c8ceba?utm_campaign=1079&utm_source=git)** | United States | Remote | May 18 |
 | **[Altom Transport](http://altomtransport.com)** | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/6a0b74360411d7417a1b10ae?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | May 18 |
-| ↳ | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/6a0b73d7a235d749afa8569f?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | May 18 |
-| ↳ | **[Summer 2026 Software Development Intern](https://jobright.ai/jobs/info/6a0b721a4d93203636870fd7?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | May 18 |
-| **[Mclaurin Aerospace](https://mclaurin.aero)** | **[Flight Software Research Intern - Pendulum Project](https://jobright.ai/jobs/info/6a0b719e538d03366dc855e7?utm_campaign=1079&utm_source=git)** | Knoxville, TN | On Site | May 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Application Engineer)](https://jobright.ai/jobs/info/6a0b7182963f7a67d95cfc17?utm_campaign=1079&utm_source=git)** | Pensacola, FL | On Site | May 18 |
 | ↳ | **[Intern - Year Round (Application Engineer)](https://jobright.ai/jobs/info/6a0b713b963f7a67d95cfb55?utm_campaign=1079&utm_source=git)** | Vienna, VA | On Site | May 18 |
 | **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b65c94d93203636870935?utm_campaign=1079&utm_source=git)** | Greater Phoenix Area | On Site | May 18 |
@@ -69,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/6a062131a88ea73abf7f7911?utm_campaign=1079&utm_source=git)** | Lincoln, NE | On Site | May 18 |
 | **[Nash](https://www.nash.ai/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a0b58fa4d9320363687001f?utm_campaign=1079&utm_source=git)** | San Francisco | Hybrid | May 18 |
 | ↳ | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a0b582ca235d749afa843e3?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 18 |
-| **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b5681538d03366dc8429c?utm_campaign=1079&utm_source=git)** | AZ Phoenix (ASM America Inc.) | On Site | May 18 |
-| ↳ | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b5681538d03366dc8429d?utm_campaign=1079&utm_source=git)** | US > Arizona > Phoenix | On Site | May 18 |
+| **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b5681538d03366dc8429d?utm_campaign=1079&utm_source=git)** | US > Arizona > Phoenix | On Site | May 18 |
+| ↳ | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b5681538d03366dc8429c?utm_campaign=1079&utm_source=git)** | AZ Phoenix (ASM America Inc.) | On Site | May 18 |
 | **[AssetMark](http://www.assetmark.com)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/6a0b4b69a235d749afa83ba6?utm_campaign=1079&utm_source=git)** | Charlotte, NC, US | Hybrid | May 18 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Accounting Engineering [Newtown Square]](https://jobright.ai/jobs/info/6a0b44d4963f7a67d95cdd15?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | On Site | May 18 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699959b281476f6176b201b7?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | May 18 |
@@ -132,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Docusign](http://www.docusign.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a0869d8a203b1052e4445f1?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | Hybrid | May 16 |
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/6a0869d7a203b1052e4445f0?utm_campaign=1079&utm_source=git)** | US-CA-San Francisco | Hybrid | May 16 |
 | **[Naval Intelligence Activity](www.NIA.navy.mil)** | **[STUDENT INTERN (COMPUTER SCIENTIST).](https://jobright.ai/jobs/info/6a085a773b54ed42d74d71ea?utm_campaign=1079&utm_source=git)** | Town Center, MD | On Site | May 16 |
-| **[General Dynamics](https://www.gd.com)** | **[SW Engineer Intern](https://jobright.ai/jobs/info/6a0851b26186f46859887bf2?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA, US | Hybrid | May 16 |
-| ↳ | **[SW Engineer Intern](https://jobright.ai/jobs/info/6a0851b26186f46859887bf1?utm_campaign=1079&utm_source=git)** | US-PA-Pittsburgh | Hybrid | May 16 |
+| **[General Dynamics](https://www.gd.com)** | **[SW Engineer Intern](https://jobright.ai/jobs/info/6a0851b26186f46859887bf1?utm_campaign=1079&utm_source=git)** | US-PA-Pittsburgh | Hybrid | May 16 |
+| ↳ | **[SW Engineer Intern](https://jobright.ai/jobs/info/6a0851b26186f46859887bf2?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA, US | Hybrid | May 16 |
 | ↳ | **[SW Engineering Intern](https://jobright.ai/jobs/info/6a085172939a5f01db958925?utm_campaign=1079&utm_source=git)** | Bloomington, MN, US | On Site | May 16 |
 | ↳ | **[Software Engineer - Intern](https://jobright.ai/jobs/info/6a01f53fc2ffb31f45368b97?utm_campaign=1079&utm_source=git)** | US-IN-Ft. Wayne | On Site | May 16 |
 | ↳ | **[Software Engineer - Intern](https://jobright.ai/jobs/info/6a08516e403fc339507ed227?utm_campaign=1079&utm_source=git)** | Ft. Wayne, IN, US | On Site | May 16 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer - Calspan JETS 2026 Internship](https://jobright.ai/jobs/info/6a0850e5403fc339507ecf82?utm_campaign=1079&utm_source=git)** | US-MN-St. Paul | On Site | May 16 |
 | **[LMI](http://www.lmi.org)** | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a085059939a5f01db95862a?utm_campaign=1079&utm_source=git)** | Tysons, VA, US | On Site | May 16 |
 | ↳ | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a0558bcfbf3d169d3c5e1ae?utm_campaign=1079&utm_source=git)** | Washington, DC, DC, US | On Site | May 16 |
-| ↳ | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a085058939a5f01db958627?utm_campaign=1079&utm_source=git)** | US-VA-Tysons | On Site | May 16 |
 | ↳ | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a085058939a5f01db958618?utm_campaign=1079&utm_source=git)** | US-DC-Washington, DC | On Site | May 16 |
+| ↳ | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a085058939a5f01db958627?utm_campaign=1079&utm_source=git)** | US-VA-Tysons | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
