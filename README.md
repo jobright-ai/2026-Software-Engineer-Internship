@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Synopsys Inc](http://www.synopsys.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a0ae5ac538d03366dc80438?utm_campaign=1079&utm_source=git)** | Canonsburg, PA | Hybrid | May 18 |
 | **[Rackspace Technology](https://www.rackspace.com)** | **[Intern I - IN](https://jobright.ai/jobs/info/6a0ad6c1a203b1052e44f270?utm_campaign=1079&utm_source=git)** | IND-Work from Home-Remote, IN | Remote | May 18 |
 | **[Legacy.com](https://www.legacy.com/)** | **[IT Intern – Software Engineer](https://jobright.ai/jobs/info/6a0ad3b2ef3b13362e7d6c92?utm_campaign=1079&utm_source=git)** | UNAVAILABLE, Remote Location, US | Remote | May 18 |
 | ↳ | **[IT Intern – Software Engineer](https://jobright.ai/jobs/info/6a0ad3b0ef3b13362e7d6c8e?utm_campaign=1079&utm_source=git)** | Madison, WI, US | Remote | May 18 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Intern, Embedded Finance](https://jobright.ai/jobs/info/6a085135939a5f01db958844?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, US | On Site | May 16 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Developer, Clients, Front End Technologies](https://jobright.ai/jobs/info/6a085129403fc339507ed08f?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d0848354f00230c6d12ecc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 16 |
-| **[Calspan](http://www.calspan.com)** | **[Software Engineering- Automotive 2026 Internship](https://jobright.ai/jobs/info/6a0850f1939a5f01db958751?utm_campaign=1079&utm_source=git)** | US-NY-Buffalo | On Site | May 16 |
-| ↳ | **[Software Engineering- Automotive 2026 Internship](https://jobright.ai/jobs/info/6a0850f1939a5f01db95874e?utm_campaign=1079&utm_source=git)** | Buffalo, NY, US | On Site | May 16 |
+| **[Calspan](http://www.calspan.com)** | **[Software Engineering- Automotive 2026 Internship](https://jobright.ai/jobs/info/6a0850f1939a5f01db95874e?utm_campaign=1079&utm_source=git)** | Buffalo, NY, US | On Site | May 16 |
+| ↳ | **[Software Engineering- Automotive 2026 Internship](https://jobright.ai/jobs/info/6a0850f1939a5f01db958751?utm_campaign=1079&utm_source=git)** | US-NY-Buffalo | On Site | May 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfe6bc8e722e7b1b54da?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 16 |
 | **[Calspan](http://www.calspan.com)** | **[Software Engineer - Calspan JETS 2026 Internship](https://jobright.ai/jobs/info/6a0850e98f3e371eb617f6b4?utm_campaign=1079&utm_source=git)** | US-MN-St. Paul | On Site | May 16 |
 | ↳ | **[Software Engineer - Calspan JETS 2026 Internship](https://jobright.ai/jobs/info/6a0850e68f3e371eb617f6a8?utm_campaign=1079&utm_source=git)** | St. Paul, MN, US | On Site | May 16 |
@@ -141,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0850218f3e371eb617f4a5?utm_campaign=1079&utm_source=git)** | US-VA-Fairfax | Hybrid | May 16 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[IT Internship](https://jobright.ai/jobs/info/6a084f866186f468598875e6?utm_campaign=1079&utm_source=git)** | Butler, IN, US | On Site | May 16 |
 | ↳ | **[IT Internship](https://jobright.ai/jobs/info/6a084f866186f468598875e5?utm_campaign=1079&utm_source=git)** | US-IN-Butler | On Site | May 16 |
-| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[Software Intern](https://jobright.ai/jobs/info/6a084edca203b1052e443244?utm_campaign=1079&utm_source=git)** | Irvine, CA, US | Hybrid | May 16 |
-| ↳ | **[Software Intern](https://jobright.ai/jobs/info/6a084edca203b1052e443247?utm_campaign=1079&utm_source=git)** | US-CA-Irvine | Hybrid | May 16 |
+| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[Software Intern](https://jobright.ai/jobs/info/6a084edca203b1052e443247?utm_campaign=1079&utm_source=git)** | US-CA-Irvine | Hybrid | May 16 |
+| ↳ | **[Software Intern](https://jobright.ai/jobs/info/6a084edca203b1052e443244?utm_campaign=1079&utm_source=git)** | Irvine, CA, US | Hybrid | May 16 |
 | **[ServiceLink](https://www.svclnk.com)** | **[Full Stack Developer Intern, Information Technology](https://jobright.ai/jobs/info/6a084e51939a5f01db957f8f?utm_campaign=1079&utm_source=git)** | US-TX-Plano | Hybrid | May 16 |
 | ↳ | **[Full Stack Developer Intern, Information Technology](https://jobright.ai/jobs/info/6a084e51939a5f01db957f91?utm_campaign=1079&utm_source=git)** | Plano, TX, US | Hybrid | May 16 |
 | **[Rivian](http://www.rivian.com)** | **[Software Engineering Intern - Applications, Infotainment & Mobile - Summer 2026](https://jobright.ai/jobs/info/6a084e156186f468598870b2?utm_campaign=1079&utm_source=git)** | US-CA-Irvine | On Site | May 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Foundation Building Materials](http://www.fbmsales.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a084d886186f46859886f81?utm_campaign=1079&utm_source=git)** | Santa Ana, CA, US | On Site | May 16 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a084d886186f46859886f80?utm_campaign=1079&utm_source=git)** | US-CA-Santa Ana | On Site | May 16 |
 | **[WebFX](https://www.webfx.com)** | **[Web Developer Internship](https://jobright.ai/jobs/info/6880c9ca16ea5743a373314a?utm_campaign=1079&utm_source=git)** | Harrisburg, PA | On Site | May 16 |
-| **[Trimble Inc.](https://www.trimble.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69ebfc1b58811370cb13e0d1?utm_campaign=1079&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
