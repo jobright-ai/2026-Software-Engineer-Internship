@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Albany International Corp.](http://www.albint.com/)** | **[IT Intern-Corporate](https://jobright.ai/jobs/info/69f07cce825a315d7ca32107?utm_campaign=1079&utm_source=git)** | Portsmouth, NH | On Site | May 19 |
+| **[Treinetic](https://treinetic.com)** | **[Intern - QA](https://jobright.ai/jobs/info/6a0c52400411d7417a1b7359?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 19 |
 | **[SarvM.AI](https://sarvm.ai)** | **[Full stack Developer Intern/ New Fresher (NodeJS / Angular) immediate Joiner Remote (Remote)](https://jobright.ai/jobs/info/6a0c41980411d7417a1b6cb4?utm_campaign=1079&utm_source=git)** | United States | Remote | May 19 |
 | **[Hermeus](http://www.hermeus.com)** | **[Software Engineering Intern (HMI) - Fall 2026](https://jobright.ai/jobs/info/6a0c3973963f7a67d95d559f?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | May 19 |
 | **[Nash](https://www.nash.ai/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a0c0cd4538d03366dc8a4e7?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 19 |
@@ -75,9 +77,9 @@ For a complete list, click the following sortable link below:
 | **[El Pollo Loco, Inc.](http://www.elpolloloco.com/)** | **[INTERN IT - SOFTWARE ENGINEERING](https://jobright.ai/jobs/info/6a0bb83f22d0d34036c8f44d?utm_campaign=1079&utm_source=git)** | 575 Anton Blvd, Costa Mesa, CA 92626, USA | On Site | May 18 |
 | **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0badc94d932036368735aa?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | May 18 |
 | **[Quadric](https://quadric.ai)** | **[Design Verification Intern](https://jobright.ai/jobs/info/6a0babab538d03366dc87c81?utm_campaign=1079&utm_source=git)** | Burlingame, CA | On Site | May 18 |
-| **[Cresta](https://www.cresta.com)** | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2130?utm_campaign=1079&utm_source=git)** | Canada - ON (Remote) | Remote | May 18 |
+| **[Cresta](https://www.cresta.com)** | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2131?utm_campaign=1079&utm_source=git)** | Canada - BC (Remote) | Remote | May 18 |
+| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2130?utm_campaign=1079&utm_source=git)** | Canada - ON (Remote) | Remote | May 18 |
 | ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2132?utm_campaign=1079&utm_source=git)** | Toronto, Canada (Hybrid) | Hybrid | May 18 |
-| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2131?utm_campaign=1079&utm_source=git)** | Canada - BC (Remote) | Remote | May 18 |
 | ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2133?utm_campaign=1079&utm_source=git)** | US (Remote) | Remote | May 18 |
 | ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2134?utm_campaign=1079&utm_source=git)** | Canada - AB (Remote) | Remote | May 18 |
 | **[PlusAI](http://plus.ai)** | **[Machine Learning Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6a0baa8022d0d34036c8ea5d?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 18 |
@@ -109,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[AssetMark](http://www.assetmark.com)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/6a0b4b69a235d749afa83ba6?utm_campaign=1079&utm_source=git)** | Charlotte, NC, US | Hybrid | May 18 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Accounting Engineering [Newtown Square]](https://jobright.ai/jobs/info/6a0b44d4963f7a67d95cdd15?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | On Site | May 18 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699959b281476f6176b201b7?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | May 18 |
-| **[Blank Slate Technologies](https://www.blankslatetech.co/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a0b3e6c538d03366dc831a4?utm_campaign=1079&utm_source=git)** | Manhattan, NY | Hybrid | May 18 |
+| **[Blank Slate](https://www.blankslatetech.co/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a0b3e6c538d03366dc831a4?utm_campaign=1079&utm_source=git)** | Manhattan, NY | Hybrid | May 18 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/6a0b3d100411d7417a1ae81f?utm_campaign=1079&utm_source=git)** | San Jose, California, US | On Site | May 18 |
 | ↳ | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/6a0b3d0f0411d7417a1ae81d?utm_campaign=1079&utm_source=git)** | RTP, North Carolina, US | On Site | May 18 |
 | **[Commercial Vehicle Group, Inc.](http://cvgrp.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/6a0b3c6b538d03366dc82fe1?utm_campaign=1079&utm_source=git)** | Remote - USA, US | Remote | May 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Smith](http://www.smithweb.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6998abb681476f6176b11f36?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | May 16 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/69e8c24a0a6e095553036455?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | May 16 |
 | **[Onto Innovation](http://www.ontoinnovation.com)** | **[Software QA Engineer Internship](https://jobright.ai/jobs/info/6a086eba403fc339507ee18b?utm_campaign=1079&utm_source=git)** | Bloomington, MN | On Site | May 16 |
-| **[L.E.K. Consulting](http://www.lek.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/69ebc9e44b0fa35a7077ecea?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | May 16 |
-| ↳ | **[IT Summer Intern](https://jobright.ai/jobs/info/69ebc3147820c036924f6ba1?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
