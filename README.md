@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nash](https://www.nash.ai/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a0c0cd4538d03366dc8a4e7?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 19 |
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/6a0bf82d963f7a67d95d42af?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 18 |
 | **[El Pollo Loco, Inc.](http://www.elpolloloco.com/)** | **[INTERN IT - SOFTWARE ENGINEERING](https://jobright.ai/jobs/info/6a0bf82aa235d749afa89987?utm_campaign=1079&utm_source=git)** | Costa Mesa, CA | On Site | May 18 |
 | **[Dorsia](https://www.dorsia.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699cc8ff81476f6176b55a92?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 18 |
@@ -72,11 +73,11 @@ For a complete list, click the following sortable link below:
 | **[El Pollo Loco, Inc.](http://www.elpolloloco.com/)** | **[INTERN IT - SOFTWARE ENGINEERING](https://jobright.ai/jobs/info/6a0bb83f22d0d34036c8f44d?utm_campaign=1079&utm_source=git)** | 575 Anton Blvd, Costa Mesa, CA 92626, USA | On Site | May 18 |
 | **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0badc94d932036368735aa?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | May 18 |
 | **[Quadric](https://quadric.ai)** | **[Design Verification Intern](https://jobright.ai/jobs/info/6a0babab538d03366dc87c81?utm_campaign=1079&utm_source=git)** | Burlingame, CA | On Site | May 18 |
-| **[Cresta](https://www.cresta.com)** | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2131?utm_campaign=1079&utm_source=git)** | Canada - BC (Remote) | Remote | May 18 |
-| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2132?utm_campaign=1079&utm_source=git)** | Toronto, Canada (Hybrid) | Hybrid | May 18 |
-| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2134?utm_campaign=1079&utm_source=git)** | Canada - AB (Remote) | Remote | May 18 |
+| **[Cresta](https://www.cresta.com)** | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2133?utm_campaign=1079&utm_source=git)** | US (Remote) | Remote | May 18 |
+| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2131?utm_campaign=1079&utm_source=git)** | Canada - BC (Remote) | Remote | May 18 |
 | ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2130?utm_campaign=1079&utm_source=git)** | Canada - ON (Remote) | Remote | May 18 |
-| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2133?utm_campaign=1079&utm_source=git)** | US (Remote) | Remote | May 18 |
+| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2134?utm_campaign=1079&utm_source=git)** | Canada - AB (Remote) | Remote | May 18 |
+| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2132?utm_campaign=1079&utm_source=git)** | Toronto, Canada (Hybrid) | Hybrid | May 18 |
 | **[PlusAI](http://plus.ai)** | **[Machine Learning Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6a0baa8022d0d34036c8ea5d?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 18 |
 | **[SoloPulse](https://www.solopulseco.com/)** | **[Software Engineer Intern/Co-Op - Spring/Summer 2026](https://jobright.ai/jobs/info/6a0baa1c0411d7417a1b3263?utm_campaign=1079&utm_source=git)** | Peachtree Corners, GA | Hybrid | May 18 |
 | **[Verkada](https://www.verkada.com)** | **[Frontend Software Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a06ed4b38dbee7915cf7bc1?utm_campaign=1079&utm_source=git)** | San Mateo, CA United States | On Site | May 18 |
@@ -121,7 +122,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern – Software Engineer](https://jobright.ai/jobs/info/6a0ad3adef3b13362e7d6c8c?utm_campaign=1079&utm_source=git)** | US-WI-Madison | Remote | May 18 |
 | ↳ | **[IT Intern – Software Engineer](https://jobright.ai/jobs/info/6a0ad3abef3b13362e7d6c88?utm_campaign=1079&utm_source=git)** | US-Remote Location | Remote | May 18 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Information Technology Architect](https://jobright.ai/jobs/info/6a0ad0e7d92dfa4df9b51f69?utm_campaign=1079&utm_source=git)** | Tempe, AZ, US | Hybrid | May 18 |
-| **[Spoonified](www.spoonified.me)** | **[Android Wear OS Developer Intern (Project-Based)](https://jobright.ai/jobs/info/6a0bf7854d93203636875382?utm_campaign=1079&utm_source=git)** | DFW Metroplex | On Site | May 17 |
 | **[SB Energy](https://sbenergy.com)** | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a0a9f078f3e371eb6189bb7?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | May 17 |
 | **[University of Florida](https://www.ufl.edu)** | **[Web Developer, Student Assistant](https://jobright.ai/jobs/info/6a0b4262963f7a67d95cdac6?utm_campaign=1079&utm_source=git)** | Gainesville, FL | On Site | May 17 |
 | **[ByteDance](http://bytedance.com)** | **[Backend Development Engineer Intern (Infrastructure Platform Delivery) - 2026 Fall (BS/MS)](https://jobright.ai/jobs/info/6a0a0bcf8f3e371eb6186e7f?utm_campaign=1079&utm_source=git)** | San Jose, California, United States of America | On Site | May 17 |
