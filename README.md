@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Student Researcher(Multimedia Streaming) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a0c6ddda235d749afa8c894?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | May 19 |
+| ↳ | **[Software Engineer Project Intern (AI Infrastructure) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a0c6d6c0411d7417a1b8727?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | **[First Quality](http://firstquality.com/)** | **[Intern-Digital Transformation](https://jobright.ai/jobs/info/6a0c63744d93203636877e3a?utm_campaign=1079&utm_source=git)** | US PA McElhattan, US | On Site | May 19 |
 | **[Notion](https://www.notion.com)** | **[Software Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/69d4704fe63cea7a8b659890?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 19 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69f02c01ecbc8c2f731feddf?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 19 |
@@ -82,10 +84,10 @@ For a complete list, click the following sortable link below:
 | **[El Pollo Loco, Inc.](http://www.elpolloloco.com/)** | **[INTERN IT - SOFTWARE ENGINEERING](https://jobright.ai/jobs/info/6a0bb83f22d0d34036c8f44d?utm_campaign=1079&utm_source=git)** | 575 Anton Blvd, Costa Mesa, CA 92626, USA | On Site | May 18 |
 | **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0badc94d932036368735aa?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | May 18 |
 | **[Quadric](https://quadric.ai)** | **[Design Verification Intern](https://jobright.ai/jobs/info/6a0babab538d03366dc87c81?utm_campaign=1079&utm_source=git)** | Burlingame, CA | On Site | May 18 |
-| **[Cresta](https://www.cresta.com)** | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2132?utm_campaign=1079&utm_source=git)** | Toronto, Canada (Hybrid) | Hybrid | May 18 |
-| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2130?utm_campaign=1079&utm_source=git)** | Canada - ON (Remote) | Remote | May 18 |
-| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2133?utm_campaign=1079&utm_source=git)** | US (Remote) | Remote | May 18 |
+| **[Cresta](https://www.cresta.com)** | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2130?utm_campaign=1079&utm_source=git)** | Canada - ON (Remote) | Remote | May 18 |
 | ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2134?utm_campaign=1079&utm_source=git)** | Canada - AB (Remote) | Remote | May 18 |
+| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2132?utm_campaign=1079&utm_source=git)** | Toronto, Canada (Hybrid) | Hybrid | May 18 |
+| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2133?utm_campaign=1079&utm_source=git)** | US (Remote) | Remote | May 18 |
 | ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2131?utm_campaign=1079&utm_source=git)** | Canada - BC (Remote) | Remote | May 18 |
 | **[PlusAI](http://plus.ai)** | **[Machine Learning Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6a0baa8022d0d34036c8ea5d?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 18 |
 | **[SoloPulse](https://www.solopulseco.com/)** | **[Software Engineer Intern/Co-Op - Spring/Summer 2026](https://jobright.ai/jobs/info/6a0baa1c0411d7417a1b3263?utm_campaign=1079&utm_source=git)** | Peachtree Corners, GA | Hybrid | May 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citrus Oncology](https://citrusoncology.com)** | **[Quality Assurance Automation Intern](https://jobright.ai/jobs/info/6a0896fd6186f468598893d0?utm_campaign=1079&utm_source=git)** | United States | Remote | May 16 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/69ec63be4b0fa35a70782331?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | May 16 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Software Engineering Intern, JAX - Fall 2026](https://jobright.ai/jobs/info/69ec115e58811370cb13e717?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 16 |
-| **[Etched](https://www.etched.com)** | **[Platform Intern - ME](https://jobright.ai/jobs/info/69b4401f569738374138e3d4?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 16 |
-| **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/691d48937481340785ed6034?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
