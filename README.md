@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cresta](https://www.cresta.com)** | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bd7704d932036368746dd?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 18 |
+| **[PlusAI](http://plus.ai)** | **[Machine Learning Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6a0bd040538d03366dc88e17?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 18 |
+| **[Nash](https://www.nash.ai/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a0bcfc94d9320363687438a?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 18 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[UI Engineer Intern](https://jobright.ai/jobs/info/6a0bcabf0411d7417a1b4277?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | May 18 |
 | **[Symmetry Systems](https://www.symmetry-systems.com)** | **[Full Stack Software Engineer - 2026 Summer Intern](https://jobright.ai/jobs/info/6941cf6d50bbaf7650539951?utm_campaign=1079&utm_source=git)** | United States | Remote | May 18 |
 | **[StarSling (YC X25)](https://starsling.dev)** | **[Software Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0bc28c22d0d34036c8f6f9?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | May 18 |
@@ -66,10 +69,10 @@ For a complete list, click the following sortable link below:
 | **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0badc94d932036368735aa?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | May 18 |
 | **[Quadric](https://quadric.ai)** | **[Design Verification Intern](https://jobright.ai/jobs/info/6a0babab538d03366dc87c81?utm_campaign=1079&utm_source=git)** | Burlingame, CA | On Site | May 18 |
 | **[Cresta](https://www.cresta.com)** | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2130?utm_campaign=1079&utm_source=git)** | Canada - ON (Remote) | Remote | May 18 |
-| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2134?utm_campaign=1079&utm_source=git)** | Canada - AB (Remote) | Remote | May 18 |
+| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2131?utm_campaign=1079&utm_source=git)** | Canada - BC (Remote) | Remote | May 18 |
 | ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2133?utm_campaign=1079&utm_source=git)** | US (Remote) | Remote | May 18 |
 | ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2132?utm_campaign=1079&utm_source=git)** | Toronto, Canada (Hybrid) | Hybrid | May 18 |
-| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2131?utm_campaign=1079&utm_source=git)** | Canada - BC (Remote) | Remote | May 18 |
+| ↳ | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2134?utm_campaign=1079&utm_source=git)** | Canada - AB (Remote) | Remote | May 18 |
 | **[PlusAI](http://plus.ai)** | **[Machine Learning Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6a0baa8022d0d34036c8ea5d?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 18 |
 | **[SoloPulse](https://www.solopulseco.com/)** | **[Software Engineer Intern/Co-Op - Spring/Summer 2026](https://jobright.ai/jobs/info/6a0baa1c0411d7417a1b3263?utm_campaign=1079&utm_source=git)** | Peachtree Corners, GA | Hybrid | May 18 |
 | **[Verkada](https://www.verkada.com)** | **[Frontend Software Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a06ed4b38dbee7915cf7bc1?utm_campaign=1079&utm_source=git)** | San Mateo, CA United States | On Site | May 18 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Application Engineer)](https://jobright.ai/jobs/info/6a0b5a84963f7a67d95ced13?utm_campaign=1079&utm_source=git)** | Pensacola, FL, United States | On Site | May 18 |
 | **[Nash](https://www.nash.ai/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a0b58fa4d9320363687001f?utm_campaign=1079&utm_source=git)** | San Francisco | Hybrid | May 18 |
 | ↳ | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a0b582ca235d749afa843e3?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | May 18 |
-| **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b5681538d03366dc8429c?utm_campaign=1079&utm_source=git)** | AZ Phoenix (ASM America Inc.) | On Site | May 18 |
-| ↳ | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b5681538d03366dc8429d?utm_campaign=1079&utm_source=git)** | US > Arizona > Phoenix | On Site | May 18 |
+| **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b5681538d03366dc8429d?utm_campaign=1079&utm_source=git)** | US > Arizona > Phoenix | On Site | May 18 |
+| ↳ | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0b5681538d03366dc8429c?utm_campaign=1079&utm_source=git)** | AZ Phoenix (ASM America Inc.) | On Site | May 18 |
 | **[AssetMark](http://www.assetmark.com)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/6a0b4b69a235d749afa83ba6?utm_campaign=1079&utm_source=git)** | Charlotte, NC, US | Hybrid | May 18 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Accounting Engineering [Newtown Square]](https://jobright.ai/jobs/info/6a0b44d4963f7a67d95cdd15?utm_campaign=1079&utm_source=git)** | Newtown Square, PA | On Site | May 18 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/699959b281476f6176b201b7?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | May 18 |
@@ -105,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/6a0b3d100411d7417a1ae81f?utm_campaign=1079&utm_source=git)** | San Jose, California, US | On Site | May 18 |
 | ↳ | **[Software Engineer I (Intern) - United States](https://jobright.ai/jobs/info/6a0b3d0f0411d7417a1ae81d?utm_campaign=1079&utm_source=git)** | RTP, North Carolina, US | On Site | May 18 |
 | **[Commercial Vehicle Group, Inc.](http://cvgrp.com)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/6a0b3c6b538d03366dc82fe1?utm_campaign=1079&utm_source=git)** | Remote - USA, US | Remote | May 18 |
-| **[TikTok USDS Joint Venture](https://usdsjv.tiktok.com/)** | **[Software Engineer Graduate Intern (Security & Privacy, USDS) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a0b89a222d0d34036c8d864?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 18 |
 | **[Loenbro](http://loenbro.com)** | **[IT Transformation Intern](https://jobright.ai/jobs/info/6a0b3a16a235d749afa829df?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | May 18 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Information Technology Architect](https://jobright.ai/jobs/info/6a0b118a538d03366dc8149d?utm_campaign=1079&utm_source=git)** | Tempe, AZ | Hybrid | May 18 |
 | **[Dexmate](https://www.dexmate.ai/vega)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/6a02702fc4b08448a0b263ee?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 18 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Summer Intern](https://jobright.ai/jobs/info/69ebc3147820c036924f6ba1?utm_campaign=1079&utm_source=git)** | Boston, MA | Hybrid | May 16 |
 | **[CalAmp](http://www.calamp.com)** | **[Intern, Engineer Software - Carlsbad, CA (Summer 2026)](https://jobright.ai/jobs/info/6a086c693b54ed42d74d7a7b?utm_campaign=1079&utm_source=git)** | Carlsbad, CA, US | Hybrid | May 16 |
 | ↳ | **[Intern, Engineer Software - Carlsbad, CA (Summer 2026)](https://jobright.ai/jobs/info/6a086c683b54ed42d74d7a6c?utm_campaign=1079&utm_source=git)** | US-CA-Carlsbad | Hybrid | May 16 |
-| **[NANA Worley](http://nanaworleyparsons.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Information Technology (IT) Intern Paid Internship](https://jobright.ai/jobs/info/6a086a3ea203b1052e44463c?utm_campaign=1079&utm_source=git)** | US-AK-Anchorage | On Site | May 16 |
-| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Information Technology (IT) Intern Paid Internship](https://jobright.ai/jobs/info/6a086a3ea203b1052e44463d?utm_campaign=1079&utm_source=git)** | Anchorage | On Site | May 16 |
+| **[NANA Worley](http://nanaworleyparsons.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Information Technology (IT) Intern Paid Internship](https://jobright.ai/jobs/info/6a086a3ea203b1052e44463d?utm_campaign=1079&utm_source=git)** | Anchorage | On Site | May 16 |
+| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Information Technology (IT) Intern Paid Internship](https://jobright.ai/jobs/info/6a086a3ea203b1052e44463c?utm_campaign=1079&utm_source=git)** | US-AK-Anchorage | On Site | May 16 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Information Technology (IT) Intern Paid Internship](https://jobright.ai/jobs/info/6a086a3da203b1052e444631?utm_campaign=1079&utm_source=git)** | Anchorage , AK, US | On Site | May 16 |
-| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6940d7e749a7695fbd065e45?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | May 16 |
-| **[Docusign](http://www.docusign.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a0869d8a203b1052e4445f1?utm_campaign=1079&utm_source=git)** | San Francisco, CA, US | Hybrid | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
