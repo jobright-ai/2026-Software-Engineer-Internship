@@ -77,14 +77,14 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern Information Technology - GIS](https://jobright.ai/jobs/info/6a0d00ae0411d7417a1be9c8?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | May 19 |
 | **[IDEXX](http://www.idexx.com)** | **[IT Enterprise Architecture, AI and Software Internship](https://jobright.ai/jobs/info/6a0d0061a235d749afa92a5e?utm_campaign=1079&utm_source=git)** | Westbrook, ME | On Site | May 19 |
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a0d003522d0d34036c9acd7?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | May 19 |
-| **[Etched](https://www.etched.com)** | **[PD Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd7b0411d7417a1be6f9?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
+| **[Etched](https://www.etched.com)** | **[DV Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd7b538d03366dc932d3?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
+| ↳ | **[PD Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd7b0411d7417a1be6f9?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[GTM Intern - Fall 2026](https://jobright.ai/jobs/info/6a0cfd7b963f7a67d95dda54?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
-| ↳ | **[DV Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd7b538d03366dc932d3?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[ChipSim Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd7a538d03366dc932d0?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[GTM Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd79538d03366dc932ce?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
+| ↳ | **[Firmware Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd780411d7417a1be6f7?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[PD Intern - Fall 2026](https://jobright.ai/jobs/info/6a0cfd784d9320363687e0b6?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[GTM Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd78a235d749afa927d9?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
-| ↳ | **[Firmware Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd780411d7417a1be6f7?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[PD Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd77a235d749afa927d5?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - SCM & AI Innovation](https://jobright.ai/jobs/info/6a0ceee2963f7a67d95dd2fa?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[Orange Trail](https://www.orangetrail.io)** | **[Software Engineer Internship (Remote)](https://jobright.ai/jobs/info/6a0ced100411d7417a1bdf3d?utm_campaign=1079&utm_source=git)** | United States | Remote | May 19 |
@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0caad34d9320363687a9f4?utm_campaign=1079&utm_source=git)** | Atlanta, US | On Site | May 19 |
 | **[IDEXX](http://www.idexx.com)** | **[IT Enterprise Architecture, AI and Software Internship](https://jobright.ai/jobs/info/6a0ca53c538d03366dc8f541?utm_campaign=1079&utm_source=git)** | Westbrook, ME | On Site | May 19 |
 | **[CAE](http://www.cae.com)** | **[C-DS-900 Junior Software Developer Intern-EN](https://jobright.ai/jobs/info/6a0c9e5e4d9320363687a203?utm_campaign=1079&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | May 19 |
-| **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op Fall 2026 - Firmware Development and Test - 12-Months](https://jobright.ai/jobs/info/6a0c9e4c538d03366dc8f35a?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 19 |
-| ↳ | **[Co-op Fall 2026 – Software Development and Test – 12 months](https://jobright.ai/jobs/info/6a0c9e4c538d03366dc8f367?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 19 |
+| **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op Fall 2026 – Software Development and Test – 12 months](https://jobright.ai/jobs/info/6a0c9e4c538d03366dc8f367?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 19 |
+| ↳ | **[Co-op Fall 2026 - Firmware Development and Test - 12-Months](https://jobright.ai/jobs/info/6a0c9e4c538d03366dc8f35a?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 19 |
 | **[IDEXX Livestock Diagnostics](https://www.idexx.com/en/livestock/)** | **[IT Enterprise Architecture, AI and Software Internship](https://jobright.ai/jobs/info/6a0c9ae4a235d749afa8e742?utm_campaign=1079&utm_source=git)** | Westbrook, ME, US | On Site | May 19 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Intern (Technical-IT) - 17512](https://jobright.ai/jobs/info/6a0c9480a235d749afa8e296?utm_campaign=1079&utm_source=git)** | Sunnyvale, California | On Site | May 19 |
 | **[Baker Distributing Company](https://www.bakerdist.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0c8eee0411d7417a1b9e4d?utm_campaign=1079&utm_source=git)** | Jacksonville, FL, 32258, United States | On Site | May 19 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Summer Intern- Salesforce Developer](https://jobright.ai/jobs/info/6a0ca299a235d749afa8ea43?utm_campaign=1079&utm_source=git)** | Newport News, VA | On Site | May 18 |
 | **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0badc94d932036368735aa?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | May 18 |
 | **[Quadric](https://quadric.ai)** | **[Design Verification Intern](https://jobright.ai/jobs/info/6a0babab538d03366dc87c81?utm_campaign=1079&utm_source=git)** | Burlingame, CA | On Site | May 18 |
-| **[Cresta](https://www.cresta.com)** | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2131?utm_campaign=1079&utm_source=git)** | Canada - BC (Remote) | Remote | May 18 |
+| **[Cresta](https://www.cresta.com)** | **[Forward Deployed Engineering Intern (AI Agent)](https://jobright.ai/jobs/info/6a0bab62963f7a67d95d2132?utm_campaign=1079&utm_source=git)** | Toronto, Canada (Hybrid) | Hybrid | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
