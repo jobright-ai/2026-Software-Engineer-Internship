@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oracle](https://www.oracle.com/)** | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a2947fea1610bcab499?utm_campaign=1079&utm_source=git)** | United States | Remote | May 20 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/6a0ea2b312f8b43cf3978b0f?utm_campaign=1079&utm_source=git)** | Nashville, TN | On Site | May 20 |
+| **[XPENG](https://www.xiaopeng.com)** | **[Agentic Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6a0e9fd009ecfd704b3ea45c?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 20 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/6a0e9e2e47fea1610bcab56c?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | May 20 |
+| **[Coupang](https://m.coupang.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a0e9db280bf0430c762ddf9?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | May 20 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/6a0e9da0c152ac7824487b5b?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 20 |
+| ↳ | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a2947fea1610bcab499?utm_campaign=1079&utm_source=git)** | United States | Remote | May 20 |
 | ↳ | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a0e80bf0430c762dd94?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 20 |
 | ↳ | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/6a0e997a83d714428981a251?utm_campaign=1079&utm_source=git)** | United States | Remote | May 20 |
-| **[XPENG](https://www.xiaopeng.com)** | **[Agentic Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6a0e960083d714428981a1ce?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 20 |
 | **[GenPark](https://genpark.ai)** | **[Front end developer intern](https://jobright.ai/jobs/info/6a0e901c47fea1610bcab095?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | May 20 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2026 - TEMT Suite Intern](https://jobright.ai/jobs/info/6a0e87eec152ac78244873dd?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | May 20 |
 | **[Communications & Power Industries (CPI)](https://www.cpii.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0e754012f8b43cf3977b42?utm_campaign=1079&utm_source=git)** | State College, PA | On Site | May 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spoonified](www.spoonified.me)** | **[Android Wear OS Developer Intern (Project-Based)](https://jobright.ai/jobs/info/6a0e619147fea1610bca9d59?utm_campaign=1079&utm_source=git)** | DFW Metroplex | On Site | May 19 |
 | **[ByteDance](http://bytedance.com)** | **[Test Software Engineer Intern (Intelligent Creation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a0d0dbe4d9320363687ea51?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[Test Software Engineer Intern (Intelligent Creation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a0d0397963f7a67d95ddeee?utm_campaign=1079&utm_source=git)** | San Jose, California, United States of America | On Site | May 19 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern Information Technology - GIS](https://jobright.ai/jobs/info/6a0d00ae0411d7417a1be9c8?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | May 19 |
-| **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a0d003522d0d34036c9acd7?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | May 19 |
-| **[Etched](https://www.etched.com)** | **[GTM Intern - Fall 2026](https://jobright.ai/jobs/info/6a0cfd7b963f7a67d95dda54?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
-| ↳ | **[PD Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd7b0411d7417a1be6f9?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
