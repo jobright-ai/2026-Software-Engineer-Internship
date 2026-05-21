@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RightOn Education](https://www.rightoneducation.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a0eee2483d714428981c01c?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | Hybrid | May 21 |
+| **[Synopsys Inc](http://www.synopsys.com)** | **[Finance IT Systems Internship](https://jobright.ai/jobs/info/6a0eea5112f8b43cf397a397?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | May 21 |
+| **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Payment Network) - Global Payment - 2026 Summer(BS/MS)](https://jobright.ai/jobs/info/69fb87dd18b94b2515be2f2e?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | May 21 |
+| ↳ | **[Research Intern (Video Data Compression and Application)  - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a0ee18812f8b43cf397a199?utm_campaign=1079&utm_source=git)** | San Diego, California, United States of America | On Site | May 21 |
 | **[Truvant](https://www.truvant.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a0edc3e619335383fb27c35?utm_campaign=1079&utm_source=git)** | Haslet, TX | On Site | May 21 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Raytheon Intern - Software Engineering - Westford, MA (Onsite)](https://jobright.ai/jobs/info/6a0edb9a12f8b43cf3979fcd?utm_campaign=1079&utm_source=git)** | Westford, MA | On Site | May 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Development Engineer in Test Intern (Global E-Commerce) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a0ed69383d714428981b78b?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | May 21 |
@@ -85,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Nextracker Inc.](https://www.linkedin.com/company/3807153)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/6a0e3fa880bf0430c762b35f?utm_campaign=1079&utm_source=git)** | Fremont, North Bldg, California - USA, US | On Site | May 20 |
 | **[Careers at Truvant USA](http://truvant.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a0e3c7147fea1610bca8803?utm_campaign=1079&utm_source=git)** | Haslet,TX,US | On Site | May 20 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Infrastructure Engineer Co-op (Fall 2026 or Spring 2027)](https://jobright.ai/jobs/info/6a0e342a83d7144289816f84?utm_campaign=1079&utm_source=git)** | Pittsfield, MA | Hybrid | May 20 |
-| **[Metron](https://ww1.watersignal.com)** | **[Metron Internship](https://jobright.ai/jobs/info/6a0e31a4beb4d73cb622ff11?utm_campaign=1079&utm_source=git)** | HQ - Reston, VA | On Site | May 20 |
-| ↳ | **[Metron Internship](https://jobright.ai/jobs/info/6a0e31a4beb4d73cb622ff12?utm_campaign=1079&utm_source=git)** | Reston, VA | On Site | May 20 |
+| **[Metron](https://ww1.watersignal.com)** | **[Metron Internship](https://jobright.ai/jobs/info/6a0e31a4beb4d73cb622ff12?utm_campaign=1079&utm_source=git)** | Reston, VA | On Site | May 20 |
+| ↳ | **[Metron Internship](https://jobright.ai/jobs/info/6a0e31a4beb4d73cb622ff11?utm_campaign=1079&utm_source=git)** | HQ - Reston, VA | On Site | May 20 |
 | **[Tencent](https://www.tencent.com/)** | **[Game Research & Development Intern, Engine Research](https://jobright.ai/jobs/info/6a0e2e9b09ecfd704b3e6a6e?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | May 20 |
 | **[Globus Medical](http://www.globusmedical.com)** | **[Intern](https://jobright.ai/jobs/info/6a0e2da2beb4d73cb622fd61?utm_campaign=1079&utm_source=git)** | King of Prussia, PA | On Site | May 20 |
 | **[Pony.ai](https://www.pony.ai)** | **[Software Engineer Intern - Generalist](https://jobright.ai/jobs/info/6a0e2a4f09ecfd704b3e68e8?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | May 20 |
@@ -110,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[TheGuarantors](https://www.theguarantors.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0df04347fea1610bca552e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[City Utilities of Springfield](https://www.cityutilities.net)** | **[IT Development Intern](https://jobright.ai/jobs/info/6a0dee1a09ecfd704b3e41ea?utm_campaign=1079&utm_source=git)** | Springfield, MO, US | On Site | May 20 |
 | **[CBIZ](http://www.cbiz.com)** | **[Digital Assets & Blockchain Intern / Fall 2026](https://jobright.ai/jobs/info/6a0de9a909ecfd704b3e4038?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 20 |
-| **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Summer Intern- Salesforce Developer](https://jobright.ai/jobs/info/6a0de5c5beb4d73cb622cd68?utm_campaign=1079&utm_source=git)** | Newport News, Virginia, United States | On Site | May 20 |
 | **[London Computer Systems](https://www.lcs.com/)** | **[Software Developer Co-op/Intern](https://jobright.ai/jobs/info/6a0de32947fea1610bca4d2e?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | May 20 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[IT Assets Software & Mobile, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f141a28feca91f1491f650?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Mobile Developer](https://jobright.ai/jobs/info/6a0de2e147fea1610bca4cac?utm_campaign=1079&utm_source=git)** | Naperville, IL | Hybrid | May 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Inference Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d18404d9320363687eca2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[Firmware Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d163122d0d34036c9b5fb?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[PD Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d15d4538d03366dc93e6d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
-| ↳ | **[PD Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d159b963f7a67d95de537?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobright.ai/jobs/info/6a066ef6bc4184089f24fa20?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 19 |
-| **[Etched](https://www.etched.com)** | **[DV Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d10c44d9320363687eb08?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
