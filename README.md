@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Communications & Power Industries (CPI)](https://www.cpii.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0e754012f8b43cf3977b42?utm_campaign=1079&utm_source=git)** | State College, PA | On Site | May 20 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Full Stack Intern](https://jobright.ai/jobs/info/6a0e6e2ac152ac7824486997?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | Remote | May 20 |
 | **[Ampirical](http://ampirical.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0e681009ecfd704b3e8b92?utm_campaign=1079&utm_source=git)** | Covington, LA | On Site | May 20 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Python Research Intern](https://jobright.ai/jobs/info/6a0e54ec47fea1610bca97cc?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | May 20 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Etched](https://www.etched.com)** | **[Infrastructure Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d184c4d9320363687ece2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[GTM Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d184a963f7a67d95de681?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[GTM Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d18454d9320363687ecc2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
-| ↳ | **[Infrastructure Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d18404d9320363687ecac?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[Inference Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d18404d9320363687eca2?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
+| ↳ | **[Infrastructure Intern - Fall 2026](https://jobright.ai/jobs/info/6a0d18404d9320363687ecac?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[Firmware Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d163122d0d34036c9b5fb?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[PD Intern - Spring 2027](https://jobright.ai/jobs/info/6a0d15d4538d03366dc93e6d?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | ↳ | **[PD Intern - Summer 2027](https://jobright.ai/jobs/info/6a0d159b963f7a67d95de537?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 19 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Test Software Engineer Intern (Intelligent Creation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a0d0397963f7a67d95ddeee?utm_campaign=1079&utm_source=git)** | San Jose, California, United States of America | On Site | May 19 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern Information Technology - GIS](https://jobright.ai/jobs/info/6a0d00ae0411d7417a1be9c8?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | May 19 |
 | **[Ciena](http://www.ciena.com)** | **[Verification Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a0d003522d0d34036c9acd7?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | May 19 |
-| **[Etched](https://www.etched.com)** | **[DV Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd7b538d03366dc932d3?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
+| **[Etched](https://www.etched.com)** | **[PD Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd7b0411d7417a1be6f9?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[GTM Intern - Fall 2026](https://jobright.ai/jobs/info/6a0cfd7b963f7a67d95dda54?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
-| ↳ | **[PD Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd7b0411d7417a1be6f9?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
+| ↳ | **[DV Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd7b538d03366dc932d3?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[ChipSim Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd7a538d03366dc932d0?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[GTM Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd79538d03366dc932ce?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
-| ↳ | **[Firmware Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd780411d7417a1be6f7?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[PD Intern - Fall 2026](https://jobright.ai/jobs/info/6a0cfd784d9320363687e0b6?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
+| ↳ | **[Firmware Intern - Summer 2027](https://jobright.ai/jobs/info/6a0cfd780411d7417a1be6f7?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
 | ↳ | **[GTM Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd78a235d749afa927d9?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
-| ↳ | **[PD Intern - Spring 2027](https://jobright.ai/jobs/info/6a0cfd77a235d749afa927d5?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
