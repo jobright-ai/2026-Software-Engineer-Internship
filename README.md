@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Autonomous Driving Applications Research Intern](https://jobright.ai/jobs/info/6a107a8c83d7144289826775?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 22 |
 | **[Motion](https://www.motion.com)** | **[Cloud Developer Intern](https://jobright.ai/jobs/info/69cb011a8fc6090c5d453a2f?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | May 22 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[K12 Zone Engineering Intern](https://jobright.ai/jobs/info/6a107148619335383fb328ea?utm_campaign=1079&utm_source=git)** | US Nationwide - Remote, US | Remote | May 22 |
 | **[ACI Worldwide](https://www.aciworldwide.com)** | **[Intern Software Engineering](https://jobright.ai/jobs/info/699ce44fe0bddb6acacbea48?utm_campaign=1079&utm_source=git)** | Omaha, NE | On Site | May 22 |
 | **[Hermeus](http://www.hermeus.com)** | **[Software Engineering Intern (HIL) - Fall 2026](https://jobright.ai/jobs/info/6a1067449fdbf21f36cae47a?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | May 22 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[.NET Application Developer Intern](https://jobright.ai/jobs/info/69d6cc06366bb95ba554fef5?utm_campaign=1079&utm_source=git)** | Greensboro, NC | On Site | May 22 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Quality Assurance/Testing Engineer Intern](https://jobright.ai/jobs/info/6a1052e283d71442898256c4?utm_campaign=1079&utm_source=git)** | Remote, United States | Remote | May 22 |
-| **[Tech Guides Blog](https://techguides.blog)** | **[Web Development Intern](https://jobright.ai/jobs/info/6a1051b1619335383fb31b46?utm_campaign=1079&utm_source=git)** | Delaware, United States | Remote | May 22 |
 | **[Motion](https://www.motion.com)** | **[Customer Software Development Intern](https://jobright.ai/jobs/info/69d0bc71cfdc6132f943ef42?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | May 22 |
 | ↳ | **[Web Developer Intern](https://jobright.ai/jobs/info/69d5ff13e63cea7a8b6670f0?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | May 22 |
 | **[Tektronix](http://www.tek.com)** | **[Software Engineering Intern (MECOP) – 2026](https://jobright.ai/jobs/info/69a8fc7b7ac93962b708e580?utm_campaign=1079&utm_source=git)** | Beaverton, OR | On Site | May 22 |
@@ -129,19 +129,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a0f6596619335383fb2bd4e?utm_campaign=1079&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | May 21 |
 | ↳ | **[Technology Intern](https://jobright.ai/jobs/info/6a06fe20152f493123c4b912?utm_campaign=1079&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | May 21 |
 | ↳ | **[Technology Intern](https://jobright.ai/jobs/info/6a06fe20152f493123c4b913?utm_campaign=1079&utm_source=git)** | Columbia, MD | Hybrid | May 21 |
-| **[Tenstorrent](http://tenstorrent.com)** | **[Acceleration Kernel Developer Intern](https://jobright.ai/jobs/info/6a07130424dcb03739f205f7?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | May 21 |
-| ↳ | **[Acceleration Kernel Developer Intern](https://jobright.ai/jobs/info/6a07130524dcb03739f20601?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 21 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Acceleration Kernel Developer Intern](https://jobright.ai/jobs/info/6a07130524dcb03739f20601?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 21 |
+| ↳ | **[Acceleration Kernel Developer Intern](https://jobright.ai/jobs/info/6a07130424dcb03739f205f7?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | May 21 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0f6347619335383fb2bc98?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 21 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0f62a980bf0430c76332fa?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 21 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0f6266619335383fb2bbf6?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | May 21 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Hardware](https://jobright.ai/jobs/info/69fc7893938a651755f94357?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | May 21 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Post-Bachelor's Intern](https://jobright.ai/jobs/info/69820fa8c3101f1400c3ba73?utm_campaign=1079&utm_source=git)** | Los Alamos, NM | Hybrid | May 21 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Platforms Intern](https://jobright.ai/jobs/info/6a0f5a3183d714428981ed4b?utm_campaign=1079&utm_source=git)** | St. Louis, MO, US | Remote | May 21 |
-| ↳ | **[Platforms Intern](https://jobright.ai/jobs/info/6a0f5a3183d714428981ed4c?utm_campaign=1079&utm_source=git)** | US-MO-St. Louis | Remote | May 21 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Platforms Intern](https://jobright.ai/jobs/info/6a0f5a3183d714428981ed4c?utm_campaign=1079&utm_source=git)** | US-MO-St. Louis | Remote | May 21 |
+| ↳ | **[Platforms Intern](https://jobright.ai/jobs/info/6a0f5a3183d714428981ed4b?utm_campaign=1079&utm_source=git)** | St. Louis, MO, US | Remote | May 21 |
 | **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a0f54489f654b3359ce47db?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 21 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Software Intern Fall 2026](https://jobright.ai/jobs/info/6a0f53fa72b52f7225f3cc54?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | On Site | May 21 |
-| **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a0f53f272b52f7225f3cc3e?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | May 21 |
-| ↳ | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/6a0f53f272b52f7225f3cc3a?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 21 |
+| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/6a0f53f272b52f7225f3cc3a?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 21 |
+| ↳ | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a0f53f272b52f7225f3cc3e?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | May 21 |
 | **[SOMFY Projects](https://www.somfy.co.uk/smart-sustainable-developments)** | **[Junior Web Developer- Internship](https://jobright.ai/jobs/info/6a0f53eb80bf0430c7632abd?utm_campaign=1079&utm_source=git)** | Dayton, MT | On Site | May 21 |
 | **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a0f53b880bf0430c7632a5c?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 21 |
 | ↳ | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/6a0f4ed372b52f7225f3ca1d?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | May 21 |
