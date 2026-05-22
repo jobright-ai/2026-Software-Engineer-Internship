@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Verkada](https://www.verkada.com)** | **[Frontend Software Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a06ed4b38dbee7915cf7bc1?utm_campaign=1079&utm_source=git)** | San Mateo, CA United States | On Site | May 22 |
 | **[CF Industries](http://www.cfindustries.com/)** | **[IT Internship](https://jobright.ai/jobs/info/6a10c9ce619335383fb34b7d?utm_campaign=1079&utm_source=git)** | Northbrook,Il, US | On Site | May 22 |
 | **[Perimeter Medical Imaging AI](http://www.perimetermed.com/)** | **[Engineering Intern (Clinical Workflow, Computer Vision & AI Prototyping)](https://jobright.ai/jobs/info/6a10c69969bd827926af0694?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 22 |
 | **[Oigetit Real-Time AI Intelligence Platform](https://oigetit.ai/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a10bf5083d714428982832c?utm_campaign=1079&utm_source=git)** | United States | Remote | May 22 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[PhD Software Engineering Intern, Decision Intelligence - Fall 2026](https://jobright.ai/jobs/info/6a10b89569bd827926af00c2?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara, US | On Site | May 22 |
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Test Automation & Lighting - Vancouver, BC (Fall/Spring Co-Op)](https://jobright.ai/jobs/info/6a10b718619335383fb343e3?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia | On Site | May 22 |
 | ↳ | **[Software Engineering Intern - Systems Engineering - Vancouver BC (Fall/Spring Co-Op)](https://jobright.ai/jobs/info/6a10b7129f654b3359ced7b3?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia | On Site | May 22 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Founding AI Engineer Internship — Frontend Focus](https://jobright.ai/jobs/info/6a10b4ad9f654b3359ced732?utm_campaign=1079&utm_source=git)** | United States | Remote | May 22 |
 | **[State Street](https://www.statestreet.com/)** | **[Cloud QA Engineer and Performance Intern - CRD- July- Dec](https://jobright.ai/jobs/info/6a10a94c69bd827926aefcf7?utm_campaign=1079&utm_source=git)** | Burlington Massachusetts, US | On Site | May 22 |
 | **[SAS](http://www.sas.com)** | **[Software Engineer in Test Intern](https://jobright.ai/jobs/info/6a10a7b183d7144289827b69?utm_campaign=1079&utm_source=git)** | US-MN-Bloomington | On Site | May 22 |
 | ↳ | **[Software Engineer in Test Intern](https://jobright.ai/jobs/info/6a10a7b183d7144289827b68?utm_campaign=1079&utm_source=git)** | Minnesota | Hybrid | May 22 |
@@ -103,7 +103,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/6a102e1f9f654b3359cea02a?utm_campaign=1079&utm_source=git)** | Reston, VA | On Site | May 22 |
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/6a102de312f8b43cf3983565?utm_campaign=1079&utm_source=git)** | United States | Remote | May 22 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Trading System Engineering Internship: Summer 2027](https://jobright.ai/jobs/info/69f3d11158b23a2329da8088?utm_campaign=1079&utm_source=git)** | Bala-Cynwyd, PA | On Site | May 22 |
-| **[Kinective](https://www.kinective.io)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a10195912f8b43cf3982f72?utm_campaign=1079&utm_source=git)** | Gilbert, AZ | Hybrid | May 22 |
 | **[Jack Henry](http://www.jackhenry.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6a10172d12f8b43cf3982e83?utm_campaign=1079&utm_source=git)** | Allen, TX | On Site | May 22 |
 | **[Gemini](https://gemini.com)** | **[Software Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a10101212f8b43cf3982b61?utm_campaign=1079&utm_source=git)** | Gemini North America | On Site | May 22 |
 | ↳ | **[Software Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/69f52b0312f2811ab5a6396b?utm_campaign=1079&utm_source=git)** | New York, New York | On Site | May 22 |
@@ -145,16 +144,17 @@ For a complete list, click the following sortable link below:
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, BCI Applications](https://jobright.ai/jobs/info/6a0f6cec619335383fb2c41a?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | May 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Platforms Intern](https://jobright.ai/jobs/info/6a0f6ae472b52f7225f3dc70?utm_campaign=1079&utm_source=git)** | St Louis, MO | Remote | May 21 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, BCI Applications](https://jobright.ai/jobs/info/6a0f6ab883d714428981fee0?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 21 |
-| **[MicroAire Surgical Instruments](http://www.microaire.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a0f687672b52f7225f3da95?utm_campaign=1079&utm_source=git)** | Charlottesville, VA | On Site | May 21 |
-| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/6a0f686612f8b43cf397eca6?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 21 |
+| ↳ | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/6a0f686612f8b43cf397eca6?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 21 |
 | ↳ | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/6a0f67e7619335383fb2c08c?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | May 21 |
 | **[LiveRamp](http://www.liveramp.com)** | **[Intern, Software Engineer - Pixel Serving](https://jobright.ai/jobs/info/6a0f67a483d714428981fbd3?utm_campaign=1079&utm_source=git)** | New York, US | On Site | May 21 |
 | **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Intern](https://jobright.ai/jobs/info/6a0f6598619335383fb2bd51?utm_campaign=1079&utm_source=git)** | Columbia, MD | Hybrid | May 21 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a0f6596619335383fb2bd4e?utm_campaign=1079&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | May 21 |
 | ↳ | **[Technology Intern](https://jobright.ai/jobs/info/6a06fe20152f493123c4b912?utm_campaign=1079&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | May 21 |
 | ↳ | **[Technology Intern](https://jobright.ai/jobs/info/6a06fe20152f493123c4b913?utm_campaign=1079&utm_source=git)** | Columbia, MD | Hybrid | May 21 |
-| **[Tenstorrent](http://tenstorrent.com)** | **[Acceleration Kernel Developer Intern](https://jobright.ai/jobs/info/6a07130424dcb03739f205f7?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | May 21 |
-| ↳ | **[Acceleration Kernel Developer Intern](https://jobright.ai/jobs/info/6a07130524dcb03739f20601?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 21 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Acceleration Kernel Developer Intern](https://jobright.ai/jobs/info/6a07130524dcb03739f20601?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 21 |
+| ↳ | **[Acceleration Kernel Developer Intern](https://jobright.ai/jobs/info/6a07130424dcb03739f205f7?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | May 21 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0f6347619335383fb2bc98?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 21 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0f62a980bf0430c76332fa?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 21 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0f6266619335383fb2bbf6?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | May 21 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - AI Hardware](https://jobright.ai/jobs/info/69fc7893938a651755f94357?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
