@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Software Engineer (Intern-Volunteer)](https://jobright.ai/jobs/info/6a111294619335383fb3686c?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | May 22 |
+| **[Brevium](https://brevium.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1129b083d714428982abe0?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | May 22 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1129b083d714428982abdf?utm_campaign=1079&utm_source=git)** | Brevium American Fork | On Site | May 22 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[K12 Zone Engineering Intern](https://jobright.ai/jobs/info/6a1103b3619335383fb361e9?utm_campaign=1079&utm_source=git)** | United States | Remote | May 22 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Fall 2026 Co - Op - Software Developer (AI & Test Data Analysis)](https://jobright.ai/jobs/info/6a111bea69bd827926af281e?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 22 |
 | **[Prism Engineering](https://www.prismengineering.com/)** | **[Full-stack Developer - Intern Fall 2026 (PUMA Utility Monitoring, Inc., Prism's Sister Company)](https://jobright.ai/jobs/info/6a10f91c12f8b43cf398878a?utm_campaign=1079&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fiserv](http://www.fiserv.com)** | **[Technology - Summer Intern](https://jobright.ai/jobs/info/6a0f7bc712f8b43cf397fa5c?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 21 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Software Developer Intern](https://jobright.ai/jobs/info/6a0f789c9f654b3359ce62ce?utm_campaign=1079&utm_source=git)** | Fremont, California, US | On Site | May 21 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Trading System Engineering Internship: Summer 2027](https://jobright.ai/jobs/info/6a0f724d72b52f7225f3df6a?utm_campaign=1079&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | May 21 |
-| **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Intern - Business Technology & Optimization](https://jobright.ai/jobs/info/6a0f6ee49f654b3359ce5bc1?utm_campaign=1079&utm_source=git)** | Sanford Office, 750 Monroe Road, Sanford, Florida, United States of America | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
