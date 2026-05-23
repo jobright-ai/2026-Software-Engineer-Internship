@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Software Developer - Commerce Cloud](https://jobright.ai/jobs/info/6a1162fd9fdbf21f36cb3b51?utm_campaign=1079&utm_source=git)** | Erlanger, Kentucky | On Site | May 23 |
+| **[SiFive](https://www.sifive.com)** | **[Intern - Design Verification Infrastructure Engineer - Platform](https://jobright.ai/jobs/info/6a1160569fdbf21f36cb3a93?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States, US | On Site | May 23 |
+| ↳ | **[Intern - Design Verification Infrastructure Engineer - Platform](https://jobright.ai/jobs/info/6a1160569fdbf21f36cb3a92?utm_campaign=1079&utm_source=git)** | Berkeley, California, United States, US | On Site | May 23 |
+| ↳ | **[Intern - Design Verification Infrastructure Engineer - Platform](https://jobright.ai/jobs/info/6a1160559fdbf21f36cb3a91?utm_campaign=1079&utm_source=git)** | Santa Clara, California, United States, US | On Site | May 23 |
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/6a1149b912f8b43cf3989f99?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 22 |
-| **[SB Energy](https://sbenergy.com)** | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a1143ae9f654b3359cf07cd?utm_campaign=1079&utm_source=git)** | HQ - Redwood City | Hybrid | May 22 |
-| ↳ | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a1143ae9f654b3359cf07ce?utm_campaign=1079&utm_source=git)** | San Diego Office | Hybrid | May 22 |
+| **[SB Energy](https://sbenergy.com)** | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a1143ae9f654b3359cf07ce?utm_campaign=1079&utm_source=git)** | San Diego Office | Hybrid | May 22 |
+| ↳ | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a1143ae9f654b3359cf07cd?utm_campaign=1079&utm_source=git)** | HQ - Redwood City | Hybrid | May 22 |
 | ↳ | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a1143ae9f654b3359cf07cf?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | May 22 |
 | ↳ | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a1143ad9f654b3359cf07cc?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | May 22 |
 | **[Brevium](https://brevium.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1129b083d714428982abe0?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | May 22 |
@@ -80,16 +84,16 @@ For a complete list, click the following sortable link below:
 | **[EnergyHub](http://www.energyhub.com)** | **[Engineering Intern - EV](https://jobright.ai/jobs/info/6a10b93e9fdbf21f36cb0496?utm_campaign=1079&utm_source=git)** | Brooklyn, New York | On Site | May 22 |
 | ↳ | **[Engineering Intern - EV](https://jobright.ai/jobs/info/6a10b93c9fdbf21f36cb0495?utm_campaign=1079&utm_source=git)** | Brooklyn, NY | On Site | May 22 |
 | **[NVIDIA](https://www.nvidia.com)** | **[PhD Software Engineering Intern, Decision Intelligence - Fall 2026](https://jobright.ai/jobs/info/6a10b89569bd827926af00c2?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara, US | On Site | May 22 |
+| **[PlusAI](http://plus.ai)** | **[Software Engineer Intern - Runtime, Robotics](https://jobright.ai/jobs/info/6a10f28983d7144289829445?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 22 |
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Test Automation & Lighting - Vancouver, BC (Fall/Spring Co-Op)](https://jobright.ai/jobs/info/6a10b718619335383fb343e3?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia | On Site | May 22 |
 | ↳ | **[Software Engineering Intern - Systems Engineering - Vancouver BC (Fall/Spring Co-Op)](https://jobright.ai/jobs/info/6a10b7129f654b3359ced7b3?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia | On Site | May 22 |
 | **[PlusAI](http://plus.ai)** | **[Software Engineer Intern - Robotics](https://jobright.ai/jobs/info/6a10f1e812f8b43cf3988294?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 22 |
-| ↳ | **[Software Engineer Intern- Runtime, Robotics](https://jobright.ai/jobs/info/6a10f28983d7144289829445?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 22 |
 | **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Embedded Software Engineer (Summer 2026)](https://jobright.ai/jobs/info/6a10ee899f654b3359cee9a1?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 22 |
 | **[RADcube](http://www.radcube.com/)** | **[Associate Software Developer Intern (AI and Cloud) - Local to Indiana](https://jobright.ai/jobs/info/6a10e9da12f8b43cf3987ea2?utm_campaign=1079&utm_source=git)** | Carmel, IN | On Site | May 22 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a110c4a83d714428982a102?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | May 22 |
 | **[State Street](https://www.statestreet.com/)** | **[Cloud QA Engineer and Performance Intern - CRD- July- Dec](https://jobright.ai/jobs/info/6a10a94c69bd827926aefcf7?utm_campaign=1079&utm_source=git)** | Burlington Massachusetts, US | On Site | May 22 |
-| **[SAS](http://www.sas.com)** | **[Software Engineer in Test Intern](https://jobright.ai/jobs/info/6a10a7b183d7144289827b69?utm_campaign=1079&utm_source=git)** | US-MN-Bloomington | On Site | May 22 |
-| ↳ | **[Software Engineer in Test Intern](https://jobright.ai/jobs/info/6a10a7b183d7144289827b68?utm_campaign=1079&utm_source=git)** | Minnesota | Hybrid | May 22 |
+| **[SAS](http://www.sas.com)** | **[Software Engineer in Test Intern](https://jobright.ai/jobs/info/6a10a7b183d7144289827b68?utm_campaign=1079&utm_source=git)** | Minnesota | Hybrid | May 22 |
+| ↳ | **[Software Engineer in Test Intern](https://jobright.ai/jobs/info/6a10a7b183d7144289827b69?utm_campaign=1079&utm_source=git)** | US-MN-Bloomington | On Site | May 22 |
 | ↳ | **[Software Engineer in Test Intern](https://jobright.ai/jobs/info/6a10a7ad83d7144289827b66?utm_campaign=1079&utm_source=git)** | Bloomington, MN, US | Hybrid | May 22 |
 | **[RADcube](http://www.radcube.com/)** | **[Associate Software Developer Intern (AI and Cloud) \- Local to Indiana](https://jobright.ai/jobs/info/6a1089569fdbf21f36caf313?utm_campaign=1079&utm_source=git)** | Carmel, Indiana, United States | On Site | May 22 |
 | **[Quadric](https://quadric.ai)** | **[AI Kernel Engineer Intern - Kernel Optimization](https://jobright.ai/jobs/info/6a109d1712f8b43cf398660e?utm_campaign=1079&utm_source=git)** | Burlingame, CA | On Site | May 22 |
@@ -142,6 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Ciena](http://www.ciena.com)** | **[Product Verification Engineer Intern (12 months)](https://jobright.ai/jobs/info/6a0fa0ae12f8b43cf3980a19?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 21 |
 | **[Leidos](https://www.leidos.com)** | **[Visualization Engineer Intern](https://jobright.ai/jobs/info/6a0fa01d83d7144289821c7f?utm_campaign=1079&utm_source=git)** | 6314 Remote/Teleworker US, US | Remote | May 21 |
 | ↳ | **[Visualization Engineer Intern](https://jobright.ai/jobs/info/6a0fa01283d7144289821c77?utm_campaign=1079&utm_source=git)** | Reston, VA, US | On Site | May 21 |
+| **[Reply](http://www.reply.com)** | **[iOS Developer Intern](https://jobright.ai/jobs/info/6a116cc4619335383fb37a28?utm_campaign=1079&utm_source=git)** | Detroit, MI, US | On Site | May 21 |
+| ↳ | **[Android Developer Intern](https://jobright.ai/jobs/info/6a116cd283d714428982b6a4?utm_campaign=1079&utm_source=git)** | Detroit, MI, US | On Site | May 21 |
 | **[ChargePoint](http://www.chargepoint.com)** | **[Software QA Engineering - Intern](https://jobright.ai/jobs/info/69dfec415913ad33981468b3?utm_campaign=1079&utm_source=git)** | Campbell, CA | On Site | May 21 |
 | **[Leidos](https://www.leidos.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0f8e179f654b3359ce6c81?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | May 21 |
 | **[Tarana Wireless](http://www.taranawireless.com)** | **[DSP Software Engineer, Intern Summer 2026](https://jobright.ai/jobs/info/6a0f8dc312f8b43cf3980399?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | May 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Demonware](http://www.demonware.net)** | **[2026 Fall Co-Ops - Software Development - Demonware (Vancouver)](https://jobright.ai/jobs/info/6a0fd5e772b52f7225f40abb?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 21 |
 | **[Neuralink](https://www.neuralink.com)** | **[Firmware Engineer Intern, Robotics and Surgery Engineering](https://jobright.ai/jobs/info/6a0f86f783d7144289821313?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | May 21 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Solutions Engineering intern](https://jobright.ai/jobs/info/6a0f836c9f654b3359ce6856?utm_campaign=1079&utm_source=git)** | Remote - United States | Remote | May 21 |
-| ↳ | **[Solutions Engineering intern](https://jobright.ai/jobs/info/6a0f83699f654b3359ce684f?utm_campaign=1079&utm_source=git)** | Brooklyn, NY | On Site | May 21 |
-| **[Reply](http://www.reply.com)** | **[Android Developer Intern](https://jobright.ai/jobs/info/6a0f832e83d7144289821133?utm_campaign=1079&utm_source=git)** | Detroit Area, Michigan | Hybrid | May 21 |
-| ↳ | **[iOS Developer Intern](https://jobright.ai/jobs/info/6a0f832d80bf0430c7634ae2?utm_campaign=1079&utm_source=git)** | Detroit Area, Michigan | Hybrid | May 21 |
-| **[Skydio](https://www.skydio.com)** | **[Middleware Software Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a0f82d280bf0430c7634a40?utm_campaign=1079&utm_source=git)** | US CA San Mateo | On Site | May 21 |
-| **[EnergyHub](http://www.energyhub.com)** | **[Solutions Engineering intern](https://jobright.ai/jobs/info/6a0f8005619335383fb2d484?utm_campaign=1079&utm_source=git)** | United States | Remote | May 21 |
-| **[Concept Reply US](https://www.reply.com/concept-reply/en/)** | **[Android Developer Intern](https://jobright.ai/jobs/info/6a0f7da612f8b43cf397faf2?utm_campaign=1079&utm_source=git)** | Detroit Metro | Hybrid | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
