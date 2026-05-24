@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - HR/Payroll Systems](https://jobright.ai/jobs/info/6a12ec2583d714428982f5d5?utm_campaign=1079&utm_source=git)** | Beverly Hills - AIR | On Site | May 24 |
-| ↳ | **[Engineering Intern - HR/Payroll Systems](https://jobright.ai/jobs/info/6a12ec2583d714428982f5d2?utm_campaign=1079&utm_source=git)** | Beverly Hills, California, United States | On Site | May 24 |
+| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306cc69bd827926af754f?utm_campaign=1079&utm_source=git)** | Austin | On Site | May 24 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306c869bd827926af7549?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | May 24 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306c869bd827926af754d?utm_campaign=1079&utm_source=git)** | South San Francisco - SSF | On Site | May 24 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306c469bd827926af7545?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | May 24 |
+| **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - HR/Payroll Systems](https://jobright.ai/jobs/info/6a12ec2583d714428982f5d2?utm_campaign=1079&utm_source=git)** | Beverly Hills, California, United States | On Site | May 24 |
+| ↳ | **[Engineering Intern - HR/Payroll Systems](https://jobright.ai/jobs/info/6a12ec2583d714428982f5d5?utm_campaign=1079&utm_source=git)** | Beverly Hills - AIR | On Site | May 24 |
 | **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/6a12de3a83d714428982f41d?utm_campaign=1079&utm_source=git)** | United States | Remote | May 24 |
 | **[General Dynamics](https://www.gd.com)** | **[Intern Engineer - (Co-Op - May 2026 Start)](https://jobright.ai/jobs/info/6a12dd3269bd827926af6cb4?utm_campaign=1079&utm_source=git)** | US-IN-Ft. Wayne | Hybrid | May 24 |
 | ↳ | **[Intern Engineer - (Co-Op - May 2026 Start)](https://jobright.ai/jobs/info/6a12dd3069bd827926af6cb2?utm_campaign=1079&utm_source=git)** | Ft. Wayne, IN, US | Hybrid | May 24 |
@@ -93,8 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a1143ae9f654b3359cf07cd?utm_campaign=1079&utm_source=git)** | HQ - Redwood City | Hybrid | May 22 |
 | ↳ | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a1143ae9f654b3359cf07ce?utm_campaign=1079&utm_source=git)** | San Diego Office | Hybrid | May 22 |
 | ↳ | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a1143ad9f654b3359cf07cc?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | May 22 |
-| **[Brevium](https://brevium.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1129b083d714428982abdf?utm_campaign=1079&utm_source=git)** | Brevium American Fork | On Site | May 22 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1129b083d714428982abe0?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | May 22 |
+| **[Brevium](https://brevium.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1129b083d714428982abe0?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | May 22 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1129b083d714428982abdf?utm_campaign=1079&utm_source=git)** | Brevium American Fork | On Site | May 22 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[K12 Zone Engineering Intern](https://jobright.ai/jobs/info/6a1103b3619335383fb361e9?utm_campaign=1079&utm_source=git)** | United States | Remote | May 22 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Fall 2026 Co - Op - Software Developer (AI & Test Data Analysis)](https://jobright.ai/jobs/info/6a111bea69bd827926af281e?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 22 |
 | **[Prism Engineering Limited](https://www.prismengineering.com/)** | **[Full-stack Developer - Intern Fall 2026 (PUMA Utility Monitoring, Inc., Prism's Sister Company)](https://jobright.ai/jobs/info/6a10f91c12f8b43cf398878a?utm_campaign=1079&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | May 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/6a102de312f8b43cf3983565?utm_campaign=1079&utm_source=git)** | United States | Remote | May 22 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Trading System Engineering Internship: Summer 2027](https://jobright.ai/jobs/info/69f3d11158b23a2329da8088?utm_campaign=1079&utm_source=git)** | Bala-Cynwyd, PA | On Site | May 22 |
 | **[Jack Henry](http://www.jackhenry.com)** | **[Software Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6a10172d12f8b43cf3982e83?utm_campaign=1079&utm_source=git)** | Allen, TX | On Site | May 22 |
-| **[Gemini](https://gemini.com)** | **[Software Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a10101212f8b43cf3982b61?utm_campaign=1079&utm_source=git)** | Gemini North America | On Site | May 22 |
-| ↳ | **[Software Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/69f52b0312f2811ab5a6396b?utm_campaign=1079&utm_source=git)** | New York, New York | On Site | May 22 |
-| **[Hermeus](http://www.hermeus.com)** | **[Software Engineering Intern (Modeling & Simulation) - Fall 2026](https://jobright.ai/jobs/info/69e29d133ce36005badbee9b?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | May 21 |
-| **[Gitar](https://gitar.ai)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0fdb1d83d7144289823211?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
