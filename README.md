@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PacePal](https://pace-pal.com)** | **[iOS Developer intern](https://jobright.ai/jobs/info/6a13e3ad83d7144289832810?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Remote | May 24 |
+| **[Respan](https://respan.ai)** | **[Software Engineering Intern, Frontend](https://jobright.ai/jobs/info/6a142908dc845f4be5bd1727?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | May 25 |
+| **[TikTok](https://www.tiktok.com)** | **[Frontend Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696adf2bdb26b618950e3a8a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 25 |
+| ↳ | **[Frontend Engineer Project Intern (TikTok Multimedia Arch) - 2026 (BS/MS)](https://jobright.ai/jobs/info/6969db971703f05405abeb38?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 25 |
 | **[Zetheta Algorithms Private Limited](https://www.zetheta.com)** | **[Software Engineer](https://jobright.ai/jobs/info/6a13e0f09fdbf21f36cbabca?utm_campaign=1079&utm_source=git)** | United States | Remote | May 24 |
 | **[Corvid Consulting](https://corviduk.com)** | **[Intern - Software Developer / Software Engineer (Remote)](https://jobright.ai/jobs/info/6a13b9ec619335383fb3db8d?utm_campaign=1079&utm_source=git)** | United States | Remote | May 24 |
 | **[Applied Visions, Inc.](https://www.avi.com/)** | **[Software Engineer - Internship](https://jobright.ai/jobs/info/6a13b0b012f8b43cf398fa12?utm_campaign=1079&utm_source=git)** | Northport, New York | On Site | May 24 |
@@ -124,11 +126,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Design Verification Infrastructure Engineer - Platform](https://jobright.ai/jobs/info/6a1160569fdbf21f36cb3a92?utm_campaign=1079&utm_source=git)** | Berkeley, California, United States, US | On Site | May 23 |
 | ↳ | **[Intern - Design Verification Infrastructure Engineer - Platform](https://jobright.ai/jobs/info/6a1160559fdbf21f36cb3a91?utm_campaign=1079&utm_source=git)** | Santa Clara, California, United States, US | On Site | May 23 |
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Software Developer Internship](https://jobright.ai/jobs/info/6a1149b912f8b43cf3989f99?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 22 |
-| **[SB Energy](https://sbenergy.com)** | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a1143ae9f654b3359cf07cd?utm_campaign=1079&utm_source=git)** | HQ - Redwood City | Hybrid | May 22 |
+| **[SB Energy](https://sbenergy.com)** | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a1143ae9f654b3359cf07cf?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | May 22 |
 | ↳ | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a1143ae9f654b3359cf07ce?utm_campaign=1079&utm_source=git)** | San Diego Office | Hybrid | May 22 |
-| ↳ | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a1143ae9f654b3359cf07cf?utm_campaign=1079&utm_source=git)** | Redwood City, CA | Hybrid | May 22 |
+| ↳ | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a1143ae9f654b3359cf07cd?utm_campaign=1079&utm_source=git)** | HQ - Redwood City | Hybrid | May 22 |
 | ↳ | **[Finance Digital Transformation Intern](https://jobright.ai/jobs/info/6a1143ad9f654b3359cf07cc?utm_campaign=1079&utm_source=git)** | San Diego, CA | Hybrid | May 22 |
-| **[NVIDIA AI](http://nvda.ws/2nfcPK3)** | **[PhD Software Engineering Intern, Decision Intelligence - Fall 2026](https://jobright.ai/jobs/info/6a13f58a12f8b43cf3991380?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 22 |
+| **[NVIDIA AI](https://developer.nvidia.com/blog/)** | **[PhD Software Engineering Intern, Decision Intelligence - Fall 2026](https://jobright.ai/jobs/info/6a13f58a12f8b43cf3991380?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 22 |
 | **[Brevium](https://brevium.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1129b083d714428982abe0?utm_campaign=1079&utm_source=git)** | American Fork, UT | On Site | May 22 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1129b083d714428982abdf?utm_campaign=1079&utm_source=git)** | Brevium American Fork | On Site | May 22 |
 | **[UFCU](http://www.ufcu.org)** | **[Intern - Application Developer (Web)](https://jobright.ai/jobs/info/6a13fc8c58ee291d8052e64f?utm_campaign=1079&utm_source=git)** | Austin, TX | Hybrid | May 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PlusAI](http://plus.ai)** | **[Software Engineer Intern - Robotics](https://jobright.ai/jobs/info/6a10f1e812f8b43cf3988294?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 22 |
 | **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Embedded Software Engineer (Summer 2026)](https://jobright.ai/jobs/info/6a10ee899f654b3359cee9a1?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 22 |
 | **[RADcube](http://www.radcube.com/)** | **[Associate Software Developer Intern (AI and Cloud) - Local to Indiana](https://jobright.ai/jobs/info/6a10e9da12f8b43cf3987ea2?utm_campaign=1079&utm_source=git)** | Carmel, IN | On Site | May 22 |
-| **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a110c4a83d714428982a102?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | May 22 |
-| **[State Street](https://www.statestreet.com/)** | **[Cloud QA Engineer and Performance Intern - CRD- July- Dec](https://jobright.ai/jobs/info/6a10a94c69bd827926aefcf7?utm_campaign=1079&utm_source=git)** | Burlington Massachusetts, US | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
