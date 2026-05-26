@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[iHerb](http://www.iherb.com)** | **[Software Development Engineer - Intern](https://jobright.ai/jobs/info/6a15f308a429fd279da93d21?utm_campaign=1079&utm_source=git)** | United States | Remote | May 26 |
+| **[INVI MindHealth](https://www.invimh.com)** | **[Technology Intern](https://jobright.ai/jobs/info/6a15eb91dc845f4be5bda58c?utm_campaign=1079&utm_source=git)** | United States | Remote | May 26 |
+| **[Exum Instruments](https://www.exuminstruments.com/)** | **[Software Engineering Co-op/Intern](https://jobright.ai/jobs/info/6a15e9aa0073182bd92ae183?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | On Site | May 26 |
+| **[BAE Systems](http://www.baesystems.com)** | **[Quality Assurance Intern 2026](https://jobright.ai/jobs/info/6a15e7c7554b0e12c05872d1?utm_campaign=1079&utm_source=git)** | Aiken South Carolina | On Site | May 26 |
+| **[ATPCO](http://www.atpco.net)** | **[Cloud Engineer Intern — Flexible Remote Fall Internship (Part-Time & Designed Around Your School Schedule)](https://jobright.ai/jobs/info/6a15e5bddc845f4be5bda2b9?utm_campaign=1079&utm_source=git)** | Herndon, VA | Remote | May 26 |
 | **[Avathon](https://avathon.com)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a15e3a5a429fd279da9326d?utm_campaign=1079&utm_source=git)** | Pleasanton, California, United States | On Site | May 26 |
 | ↳ | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a15e3a0a429fd279da9325f?utm_campaign=1079&utm_source=git)** | Pleasanton, CA (HQ) | On Site | May 26 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[AI Full-Stack Engineer Internship — Frontend-Oriented, Claude/Codex](https://jobright.ai/jobs/info/6a15db56554b0e12c05867d2?utm_campaign=1079&utm_source=git)** | United States | Remote | May 26 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Formal Verification Intern - Fall 2026](https://jobright.ai/jobs/info/69faed53e156000841154e4d?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 26 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[QA FW Intern](https://jobright.ai/jobs/info/6a15cacb128680351d96474c?utm_campaign=1079&utm_source=git)** | New Haven, CT | On Site | May 26 |
 | **[Wahed](https://www.wahed.com)** | **[QA Intern](https://jobright.ai/jobs/info/6a15c83e554b0e12c0585e1c?utm_campaign=1079&utm_source=git)** | United States | Remote | May 26 |
@@ -125,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[TeamWorx Security](https://teamworxsecurity.com)** | **[DoD SkillBridge: Software Developer or Engineer](https://jobright.ai/jobs/info/691f3edca49a885af9a2d504?utm_campaign=1079&utm_source=git)** | Columbia, MD | Hybrid | May 24 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Software Development Intern - Digital Grid Management - Summer 2026](https://jobright.ai/jobs/info/69826e14348f733a5c354502?utm_campaign=1079&utm_source=git)** | Twin Cities Area | Hybrid | May 24 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306cc69bd827926af754f?utm_campaign=1079&utm_source=git)** | Austin | On Site | May 24 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306c869bd827926af7549?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | May 24 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306c869bd827926af754d?utm_campaign=1079&utm_source=git)** | South San Francisco - SSF | On Site | May 24 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306c869bd827926af7549?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | May 24 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306c469bd827926af7545?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | May 24 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Digital Services Engineering Intern (NCS) - BCIT](https://jobright.ai/jobs/info/69d988e4738f2f099e8a25ca?utm_campaign=1079&utm_source=git)** | Baltimore, MD | On Site | May 24 |
 | **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - HR/Payroll Systems](https://jobright.ai/jobs/info/6a12ec2583d714428982f5d5?utm_campaign=1079&utm_source=git)** | Beverly Hills - AIR | On Site | May 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cohere](https://cohere.com)** | **[Software Engineer Intern (Fall / Winter 2026)](https://jobright.ai/jobs/info/69f5442643a25828a8d1810f?utm_campaign=1079&utm_source=git)** | Canada | Remote | May 23 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69e8e71858811370cb128e60?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | May 23 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Software Engineering Internship, 2026](https://jobright.ai/jobs/info/6a11d1169f654b3359cf1e23?utm_campaign=1079&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 23 |
-| **[Rocket Lab](https://rocketlabcorp.com)** | **[Integration & Test Intern Fall 2026](https://jobright.ai/jobs/info/6a11d0f769bd827926af49ed?utm_campaign=1079&utm_source=git)** | Long Beach, CA | On Site | May 23 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Geographic Information Systems, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f59fa181706a5bd2166c78?utm_campaign=1079&utm_source=git)** | Jamaica, NY | On Site | May 23 |
-| **[Cohere](https://cohere.com)** | **[Software Engineer Intern (Fall / Winter 2026)](https://jobright.ai/jobs/info/69f53c8fa3d34b4f76f5474d?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | May 23 |
-| **[Fortra](https://www.fortra.com)** | **[Software Development Intern - IBMi](https://jobright.ai/jobs/info/6a1102389f654b3359cef4d5?utm_campaign=1079&utm_source=git)** | United States | Remote | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
