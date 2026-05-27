@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pulchritude® Studios](http://pulchritudefashion.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a172cd55b0a497d52109229?utm_campaign=1079&utm_source=git)** | Hanover, NH | Remote | May 27 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Software Engineering Intern](https://jobright.ai/jobs/info/6a17297ad6a04f21602e3a2d?utm_campaign=1079&utm_source=git)** | IL - Chicago, 350 N. Orleans St 1300N, US | On Site | May 27 |
 | **[Vantage West Credit Union](https://vantagewest.org/)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/6a1722755b0a497d52108b79?utm_campaign=1079&utm_source=git)** | Tucson, Arizona, United States | On Site | May 27 |
 | **[J.D. Irving, Limited](https://www.jdirving.com)** | **[Microsoft Software Developer Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a172237f45c6530ce9a93c2?utm_campaign=1079&utm_source=git)** | Saint John, New Brunswick, Canada | On Site | May 27 |
 | **[Info-Tech Research Group](https://www.infotech.com/)** | **[Co-op Software Developer - Fall 2026 (September - December) - Canada, Ontario (REMOTE)](https://jobright.ai/jobs/info/6a171e261430333075ccd80f?utm_campaign=1079&utm_source=git)** | Canada | Remote | May 27 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op Software Developer - Fall 2026 (September - December) - Canada, Ontario (REMOTE)](https://jobright.ai/jobs/info/6a171e211430333075ccd804?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 27 |
 | **[SAP](https://www.sap.com)** | **[SAP SuccessFactors iXp Intern - AI Software Engineer (SUMMER 2026)](https://jobright.ai/jobs/info/6a171bdd1430333075ccd645?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | May 27 |
 | **[Sony](https://www.sony.com)** | **[Intern, Advanced Computer Graphics Research](https://jobright.ai/jobs/info/6a068fc0320bff2205ead766?utm_campaign=1079&utm_source=git)** | Culver City, CA | On Site | May 27 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Frontend-Focused Full-Stack AI Engineer Internship — Claude Code / Codex](https://jobright.ai/jobs/info/6a1719661430333075ccd17d?utm_campaign=1079&utm_source=git)** | United States | Remote | May 27 |
 | **[Magna International](http://www.magna.com/)** | **[Intern  - Tools Engineering](https://jobright.ai/jobs/info/6a1718f3d6a04f21602e2c32?utm_campaign=1079&utm_source=git)** | Southfield, Michigan, US | On Site | May 27 |
 | ↳ | **[Intern  - Tools Engineering](https://jobright.ai/jobs/info/6a1718f2d6a04f21602e2c2f?utm_campaign=1079&utm_source=git)** | Auburn Hills, Michigan, US | On Site | May 27 |
 | **[KION Group](http://www.kiongroup.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718acb091c7417c4fa8e6?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 27 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee7128680351d96688b?utm_campaign=1079&utm_source=git)** | Oakville | Hybrid | May 26 |
 | ↳ | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee5128680351d966882?utm_campaign=1079&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 26 |
 | **[Leidos](https://www.leidos.com)** | **[Software Intern](https://jobright.ai/jobs/info/6a15fee40073182bd92aee70?utm_campaign=1079&utm_source=git)** | San Diego, CA, US | On Site | May 26 |
-| **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee3128680351d96687b?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 26 |
-| ↳ | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee3128680351d96687d?utm_campaign=1079&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 26 |
+| **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee3128680351d96687d?utm_campaign=1079&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 26 |
+| ↳ | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee3128680351d96687b?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 26 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[R&D Engineer Intern](https://jobright.ai/jobs/info/6a0f385083d714428981db6c?utm_campaign=1079&utm_source=git)** | University Park, PA | Hybrid | May 26 |
 | **[iHerb](http://www.iherb.com)** | **[Software Development Engineer - Intern](https://jobright.ai/jobs/info/6a15f308a429fd279da93d21?utm_campaign=1079&utm_source=git)** | United States | Remote | May 26 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Quality Assurance Intern 2026](https://jobright.ai/jobs/info/6a15e7c7554b0e12c05872d1?utm_campaign=1079&utm_source=git)** | Aiken South Carolina | On Site | May 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Test Developer Co-op/Intern](https://jobright.ai/jobs/info/69fad9b2e156000841153aca?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | May 26 |
 | **[Compa](http://www.compa.ai)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/69faf7b687a4820e6da84064?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | May 26 |
 | **[Gen](https://www.gendigital.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69faf451d21cf86d1e3ce344?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | May 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology - Ads Creative AI) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69aa4cf92ebd316bece20c2b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
