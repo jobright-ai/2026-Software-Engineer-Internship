@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Base Power Company](https://www.basepowercompany.com)** | **[Quantitative Developer Intern](https://jobright.ai/jobs/info/6a16380b128680351d968f36?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 26 |
-| ↳ | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/6a1637f7554b0e12c058a5cd?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 26 |
+| **[Pixelogic Media](https://www.pixelogicmedia.com/)** | **[Intern, Applications Developer](https://jobright.ai/jobs/info/6a1643ac0073182bd92b1c23?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | May 26 |
+| ↳ | **[Intern, Applications Developer](https://jobright.ai/jobs/info/6a1642e5554b0e12c058acd6?utm_campaign=1079&utm_source=git)** | Burbank, California, United States | On Site | May 26 |
+| **[Base Power Company](https://www.basepowercompany.com)** | **[Quantitative Developer Intern](https://jobright.ai/jobs/info/6a1642940073182bd92b1b88?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 26 |
+| **[Reidy.AI](https://reidy.ai/)** | **[Software QA Engineer Intern - Remote or In-Person](https://jobright.ai/jobs/info/6a163a4d0073182bd92b18d0?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | May 26 |
+| **[Harris Computer](http://www.harriscomputer.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a163a22554b0e12c058a8d6?utm_campaign=1079&utm_source=git)** | Idaho, United States | On Site | May 26 |
+| **[Base Power Company](https://www.basepowercompany.com)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/6a1637f7554b0e12c058a5cd?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 26 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a1637efa429fd279da96c31?utm_campaign=1079&utm_source=git)** | Idaho, United States, US | On Site | May 26 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a1634c0554b0e12c058a10d?utm_campaign=1079&utm_source=git)** | Idaho, United States, US | On Site | May 26 |
 | **[GenPark](https://genpark.ai)** | **[Full Stack Intern](https://jobright.ai/jobs/info/6a162e861935fa61b3c6f744?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 26 |
-| **[Katch Data](https://katch-media.com/)** | **[Summer Coding Intern](https://jobright.ai/jobs/info/6a162511554b0e12c0589bf3?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | May 26 |
 | **[Arlo Technologies, Inc.](https://www.arlo.com)** | **[Software Engineer Intern - Generalist](https://jobright.ai/jobs/info/6a1622041935fa61b3c6f290?utm_campaign=1079&utm_source=git)** | Milpitas, CA | Hybrid | May 26 |
+| **[Base Power Company](https://www.basepowercompany.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a163a95554b0e12c058a97c?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 26 |
 | **[MaintainX](https://www.getmaintainx.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a161a171935fa61b3c6e8e8?utm_campaign=1079&utm_source=git)** | Canada | Remote | May 26 |
 | ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/6a161a151935fa61b3c6e8e6?utm_campaign=1079&utm_source=git)** | Montreal, Quebec | Hybrid | May 26 |
 | **[SAIC](http://www.saic.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/6a1613af128680351d9677b9?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO, United States | On Site | May 26 |
@@ -77,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee7128680351d96688b?utm_campaign=1079&utm_source=git)** | Oakville | Hybrid | May 26 |
 | ↳ | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee5128680351d966882?utm_campaign=1079&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 26 |
 | **[Leidos](https://www.leidos.com)** | **[Software Intern](https://jobright.ai/jobs/info/6a15fee40073182bd92aee70?utm_campaign=1079&utm_source=git)** | San Diego, CA, US | On Site | May 26 |
-| **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee3128680351d96687b?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 26 |
-| ↳ | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee3128680351d96687d?utm_campaign=1079&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 26 |
+| **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee3128680351d96687d?utm_campaign=1079&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 26 |
+| ↳ | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee3128680351d96687b?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 26 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[R&D Engineer Intern](https://jobright.ai/jobs/info/6a0f385083d714428981db6c?utm_campaign=1079&utm_source=git)** | University Park, PA | Hybrid | May 26 |
 | **[iHerb](http://www.iherb.com)** | **[Software Development Engineer - Intern](https://jobright.ai/jobs/info/6a15f308a429fd279da93d21?utm_campaign=1079&utm_source=git)** | United States | Remote | May 26 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Quality Assurance Intern 2026](https://jobright.ai/jobs/info/6a15e7c7554b0e12c05872d1?utm_campaign=1079&utm_source=git)** | Aiken South Carolina | On Site | May 26 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[TeamWorx Security](https://teamworxsecurity.com)** | **[DoD SkillBridge: Software Developer or Engineer](https://jobright.ai/jobs/info/691f3edca49a885af9a2d504?utm_campaign=1079&utm_source=git)** | Columbia, MD | Hybrid | May 24 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Software Development Intern - Digital Grid Management - Summer 2026](https://jobright.ai/jobs/info/69826e14348f733a5c354502?utm_campaign=1079&utm_source=git)** | Twin Cities Area | Hybrid | May 24 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306cc69bd827926af754f?utm_campaign=1079&utm_source=git)** | Austin | On Site | May 24 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306c869bd827926af7549?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | May 24 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306c869bd827926af754d?utm_campaign=1079&utm_source=git)** | South San Francisco - SSF | On Site | May 24 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306c869bd827926af7549?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | May 24 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306c469bd827926af7545?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | May 24 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Digital Services Engineering Intern (NCS) - BCIT](https://jobright.ai/jobs/info/69d988e4738f2f099e8a25ca?utm_campaign=1079&utm_source=git)** | Baltimore, MD | On Site | May 24 |
-| **[ALO](https://www.aloyoga.com/)** | **[Engineering Intern - HR/Payroll Systems](https://jobright.ai/jobs/info/6a12ec2583d714428982f5d5?utm_campaign=1079&utm_source=git)** | Beverly Hills - AIR | On Site | May 24 |
-| ↳ | **[Engineering Intern - HR/Payroll Systems](https://jobright.ai/jobs/info/6a12ec2583d714428982f5d2?utm_campaign=1079&utm_source=git)** | Beverly Hills, California, United States | On Site | May 24 |
-| **[Ramp](https://ramp.com)** | **[Software Engineer Internship, Android](https://jobright.ai/jobs/info/69bc74a245e08b3dc1f9335d?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 24 |
-| **[General Dynamics](https://www.gd.com)** | **[Intern Engineer - (Co-Op - May 2026 Start)](https://jobright.ai/jobs/info/6a12dd3269bd827926af6cb4?utm_campaign=1079&utm_source=git)** | US-IN-Ft. Wayne | Hybrid | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
