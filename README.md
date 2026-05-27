@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SAIC](http://www.saic.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a175fa95b0a497d5210bb00?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | On Site | May 27 |
+| **[The National Board for Certified Counselors](https://www.nbcc.org)** | **[Web Developer Intern](https://jobright.ai/jobs/info/6a1766cd1430333075cd0bb8?utm_campaign=1079&utm_source=git)** | Greensboro, NC | On Site | May 27 |
+| **[NetSPI](https://www.netspi.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1761b6b091c7417c4fe135?utm_campaign=1079&utm_source=git)** | Portland, OR | On Site | May 27 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern-Engineering (Software)](https://jobright.ai/jobs/info/6a175f02b091c7417c4fe009?utm_campaign=1079&utm_source=git)** | AZ - Chandler, US | On Site | May 27 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Software Performance at Scale Intern - Fall 2026](https://jobright.ai/jobs/info/6a175e9db091c7417c4fdfc1?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara, US | On Site | May 27 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Full-Stack AI Engineering Internship — Frontend + Claude Code](https://jobright.ai/jobs/info/6a175d43f45c6530ce9abfb8?utm_campaign=1079&utm_source=git)** | United States | Remote | May 27 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a1743e2b091c7417c4fcb44?utm_campaign=1079&utm_source=git)** | US-IL-Chicago | Hybrid | May 27 |
 | **[Al Warren Oil](https://www.alwarrenoil.com)** | **[Software Developer - Fall Internship 2026](https://jobright.ai/jobs/info/6a1743e09005d858e94f8002?utm_campaign=1079&utm_source=git)** | Bensenville, IL | On Site | May 27 |
 | **[Telos Corporation](https://www.telos.com)** | **[Intern](https://jobright.ai/jobs/info/6a173f7e1430333075ccf1c6?utm_campaign=1079&utm_source=git)** | Ashburn, VA | On Site | May 27 |
-| **[Cruze](https://cruzemaps.com/)** | **[AI Forward Deployed Engineer Intern](https://jobright.ai/jobs/info/6a173e189005d858e94f7c4f?utm_campaign=1079&utm_source=git)** | United States | Remote | May 27 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Fall 2026, 4/8/12 months)](https://jobright.ai/jobs/info/6a173c32d6a04f21602e4a9c?utm_campaign=1079&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | May 27 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - Tools Engineering](https://jobright.ai/jobs/info/6a173ab45b0a497d5210a166?utm_campaign=1079&utm_source=git)** | Southfield, MI | On Site | May 27 |
 | **[Dematic](http://www.dematic.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a173a5e9005d858e94f7a32?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | May 27 |
@@ -101,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718abb091c7417c4fa8e3?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States, US | On Site | May 27 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a9f45c6530ce9a8ae5?utm_campaign=1079&utm_source=git)** | Wauwatosa, WI, United States, US | On Site | May 27 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a7f45c6530ce9a8ada?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States, US | On Site | May 27 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a4b091c7417c4fa8d9?utm_campaign=1079&utm_source=git)** | Wauwatosa, WI, United States, US | On Site | May 27 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a4f45c6530ce9a8ad7?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 27 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a4b091c7417c4fa8d9?utm_campaign=1079&utm_source=git)** | Wauwatosa, WI, United States, US | On Site | May 27 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a3f45c6530ce9a8ad5?utm_campaign=1079&utm_source=git)** | Plano, TX, United States, US | On Site | May 27 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a2f45c6530ce9a8acc?utm_campaign=1079&utm_source=git)** | Henrietta, NY, United States, US | On Site | May 27 |
 | **[Barrett Solutions](barrettsolve.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a171586d6a04f21602e27ab?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | May 27 |
