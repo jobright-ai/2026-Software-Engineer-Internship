@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blackbird Labs](https://www.blackbird.xyz)** | **[Engineering Intern](https://jobright.ai/jobs/info/69fb2667e156000841156c1c?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | May 27 |
+| **[Scowtt](https://www.scowtt.com)** | **[Intern - Full Stack Software Engineering](https://jobright.ai/jobs/info/69c1f65e75f7ff1cd8105e7b?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | May 27 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://jobright.ai/jobs/info/69de92a536823d1b4258230a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 27 |
+| **[TikTok](https://www.tiktok.com)** | **[GPU/AI Application Platform Engineer Intern (Server Platform) - 2026 Fall (PhD)](https://jobright.ai/jobs/info/68ccb4d5128dc347fd92882c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 27 |
+| ↳ | **[Software Engineer Intern (Monetization Technology - Ads Creative) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69aa64d52ebd316bece2227b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 27 |
+| **[Reply](http://www.reply.com)** | **[Android Developer Intern](https://jobright.ai/jobs/info/6a0f832e83d7144289821133?utm_campaign=1079&utm_source=git)** | Detroit Area, Michigan | Hybrid | May 27 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Design Verification Engineer, Intern](https://jobright.ai/jobs/info/6a16c220202ae849ed8d4f6f?utm_campaign=1079&utm_source=git)** | Boston | Hybrid | May 27 |
+| ↳ | **[Design Verification Engineer, Intern](https://jobright.ai/jobs/info/6a16c218202ae849ed8d4f6c?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 27 |
 | **[Aechelon Technology Inc.](http://www.aechelon.com)** | **[Junior Software Engineer - Internship](https://jobright.ai/jobs/info/6a168d0c1b2f6918b0e32b7b?utm_campaign=1079&utm_source=git)** | Overland Park, KS | On Site | May 26 |
 | ↳ | **[Junior Software Engineer - Internship](https://jobright.ai/jobs/info/6a168d0b1b2f6918b0e32b76?utm_campaign=1079&utm_source=git)** | Overland Park, Kansas | On Site | May 26 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Year at Palantir - Forward Deployed Software Engineer, Internship - USG](https://jobright.ai/jobs/info/6a168ba2a429fd279da992f2?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 26 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Software Engineer](https://jobright.ai/jobs/info/69fad3ebd21cf86d1e3cd01c?utm_campaign=1079&utm_source=git)** | Johnston, RI | On Site | May 25 |
 | **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[Integration & Test Intern Fall 2026](https://jobright.ai/jobs/info/6a147df2128680351d95dc5f?utm_campaign=1079&utm_source=git)** | Long Beach, CA | On Site | May 25 |
 | ↳ | **[Software Intern Fall 2026](https://jobright.ai/jobs/info/6a147a83bc9bff375af01467?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | On Site | May 25 |
-| **[Dayforce](https://www.dayforce.com)** | **[Software Developer Intern (Platform & People Experience) 8 months – Fall 2026](https://jobright.ai/jobs/info/6a147a28c48b503aeffbf04e?utm_campaign=1079&utm_source=git)** | Canada | Remote | May 25 |
-| **[Shop Online New York](https://www.topofny.com)** | **[Flutter Developer Intern](https://jobright.ai/jobs/info/6a147751128680351d95db7e?utm_campaign=1079&utm_source=git)** | United States | Remote | May 25 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Agile Test Developer [Vancouver]](https://jobright.ai/jobs/info/6a14724fbc9bff375af012fc?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 25 |
-| **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Software Engineering - Fall 2026](https://jobright.ai/jobs/info/6a146653128680351d95d919?utm_campaign=1079&utm_source=git)** | Cedar Park, TX | On Site | May 25 |
-| **[Respan](https://respan.ai)** | **[Software Engineering Intern, Frontend](https://jobright.ai/jobs/info/6a142908dc845f4be5bd1727?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | On Site | May 25 |
-| **[TikTok](https://www.tiktok.com)** | **[Online Architecture Research Intern (TikTok-Generalized Arch)- 2026 Start (PhD)](https://jobright.ai/jobs/info/69dcc528738f2f099e8b2e32?utm_campaign=1079&utm_source=git)** | Seattle, WA | Remote | May 25 |
-| ↳ | **[Frontend Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696adf2bdb26b618950e3a8a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 25 |
-| ↳ | **[Frontend Engineer Project Intern (TikTok Multimedia Arch) - 2026 (BS/MS)](https://jobright.ai/jobs/info/6969db971703f05405abeb38?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
