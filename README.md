@@ -57,9 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAIC](http://www.saic.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a175fa95b0a497d5210bb00?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | On Site | May 27 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern-Engineering (Software)](https://jobright.ai/jobs/info/6a175f02b091c7417c4fe009?utm_campaign=1079&utm_source=git)** | AZ - Chandler, US | On Site | May 27 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Software Performance at Scale Intern - Fall 2026](https://jobright.ai/jobs/info/6a175e9db091c7417c4fdfc1?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara, US | On Site | May 27 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Full-Stack AI Engineering Internship — Frontend + Claude Code](https://jobright.ai/jobs/info/6a175d43f45c6530ce9abfb8?utm_campaign=1079&utm_source=git)** | United States | Remote | May 27 |
+| **[The National Board for Certified Counselors](https://www.nbcc.org)** | **[Web Developer Intern](https://jobright.ai/jobs/info/6a175a3ff45c6530ce9abe57?utm_campaign=1079&utm_source=git)** | Greensboro, NC 27403-3660, USA | On Site | May 27 |
+| **[SAIC](http://www.saic.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/6a1759f99005d858e94f915c?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | May 27 |
+| **[NetSPI](https://www.netspi.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1759275b0a497d5210b776?utm_campaign=1079&utm_source=git)** | Portland, OR 97232, USA | On Site | May 27 |
+| **[Intel](http://www.intel.com)** | **[Design Verification Engineering Intern](https://jobright.ai/jobs/info/6a175374f45c6530ce9aba75?utm_campaign=1079&utm_source=git)** | Canada | Remote | May 27 |
+| **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Software Engineering](https://jobright.ai/jobs/info/6a174de01430333075ccf8d7?utm_campaign=1079&utm_source=git)** | CT Stamford HQ, US | Hybrid | May 27 |
+| ↳ | **[IT Intern - Software Engineering](https://jobright.ai/jobs/info/6a174dcf1430333075ccf8ca?utm_campaign=1079&utm_source=git)** | CT Southington, US | Hybrid | May 27 |
+| **[HERE Technologies](https://www.here.com)** | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a174d31b091c7417c4fcf18?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | May 27 |
 | **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[IT Intern, Digital Customer Experience](https://jobright.ai/jobs/info/6a174a809005d858e94f82e6?utm_campaign=1079&utm_source=git)** | Nashville, TN | On Site | May 27 |
 | **[Arizona Department of Economic Security](https://des.az.gov)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a174966d6a04f21602e5171?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
-| **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[Google Cloud Engineer Intern](https://jobright.ai/jobs/info/6a17463b9005d858e94f8112?utm_campaign=1079&utm_source=git)** | United States | Remote | May 27 |
 | **[Jolera](https://www.jolera.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a17461f5b0a497d5210a744?utm_campaign=1079&utm_source=git)** | Buffalo, New York | On Site | May 27 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Technical Intern - Summer 2026 (Puerto Rico)](https://jobright.ai/jobs/info/6a17458d1430333075ccf566?utm_campaign=1079&utm_source=git)** | PR-SAN JUAN, 411 CALLE SEGARRA, BECHARA INDUSTRIAL PARK, MARGINAL AVE. KENNEDY, US | Hybrid | May 27 |
 | **[HERE Technologies](https://www.here.com)** | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a1743e2b091c7417c4fcb45?utm_campaign=1079&utm_source=git)** | Chicago, IL, US | Hybrid | May 27 |
@@ -77,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1734359005d858e94f715b?utm_campaign=1079&utm_source=git)** | Wauwatosa, WI | On Site | May 27 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1733e5f45c6530ce9a9d43?utm_campaign=1079&utm_source=git)** | Plano, TX | On Site | May 27 |
 | **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Firmware Development Engineer Intern](https://jobright.ai/jobs/info/6a173358d6a04f21602e3e8c?utm_campaign=1079&utm_source=git)** | San Jose | On Site | May 27 |
-| **[Pulchritude® Studios](http://pulchritudefashion.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a172cd55b0a497d52109229?utm_campaign=1079&utm_source=git)** | Hanover, NH | Remote | May 27 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Software Engineering Intern](https://jobright.ai/jobs/info/6a17297ad6a04f21602e3a2d?utm_campaign=1079&utm_source=git)** | IL - Chicago, 350 N. Orleans St 1300N, US | On Site | May 27 |
 | **[Vantage West Credit Union](https://vantagewest.org/)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/6a1722755b0a497d52108b79?utm_campaign=1079&utm_source=git)** | Tucson, Arizona, United States | On Site | May 27 |
 | **[J.D. Irving, Limited](https://www.jdirving.com)** | **[Microsoft Software Developer Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a172237f45c6530ce9a93c2?utm_campaign=1079&utm_source=git)** | Saint John, New Brunswick, Canada | On Site | May 27 |
@@ -92,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718abb091c7417c4fa8e3?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States, US | On Site | May 27 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a9f45c6530ce9a8ae5?utm_campaign=1079&utm_source=git)** | Wauwatosa, WI, United States, US | On Site | May 27 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a7f45c6530ce9a8ada?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States, US | On Site | May 27 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a4f45c6530ce9a8ad7?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 27 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a4b091c7417c4fa8d9?utm_campaign=1079&utm_source=git)** | Wauwatosa, WI, United States, US | On Site | May 27 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a4f45c6530ce9a8ad7?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 27 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a3f45c6530ce9a8ad5?utm_campaign=1079&utm_source=git)** | Plano, TX, United States, US | On Site | May 27 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a2f45c6530ce9a8acc?utm_campaign=1079&utm_source=git)** | Henrietta, NY, United States, US | On Site | May 27 |
 | **[Barrett Solutions](barrettsolve.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a171586d6a04f21602e27ab?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | May 27 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MaintainX](https://www.getmaintainx.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a1603a30073182bd92af579?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 26 |
 | **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Software Development Engineer](https://jobright.ai/jobs/info/6a1082719fdbf21f36caefff?utm_campaign=1079&utm_source=git)** | Vancouver | Hybrid | May 26 |
 | **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee7128680351d96688b?utm_campaign=1079&utm_source=git)** | Oakville | Hybrid | May 26 |
-| ↳ | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee5128680351d966882?utm_campaign=1079&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 26 |
-| **[Leidos](https://www.leidos.com)** | **[Software Intern](https://jobright.ai/jobs/info/6a15fee40073182bd92aee70?utm_campaign=1079&utm_source=git)** | San Diego, CA, US | On Site | May 26 |
-| **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee3128680351d96687b?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 26 |
-| ↳ | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee3128680351d96687d?utm_campaign=1079&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 26 |
-| **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[R&D Engineer Intern](https://jobright.ai/jobs/info/6a0f385083d714428981db6c?utm_campaign=1079&utm_source=git)** | University Park, PA | Hybrid | May 26 |
-| **[iHerb](http://www.iherb.com)** | **[Software Development Engineer - Intern](https://jobright.ai/jobs/info/6a15f308a429fd279da93d21?utm_campaign=1079&utm_source=git)** | United States | Remote | May 26 |
-| **[BAE Systems](http://www.baesystems.com)** | **[Quality Assurance Intern 2026](https://jobright.ai/jobs/info/6a15e7c7554b0e12c05872d1?utm_campaign=1079&utm_source=git)** | Aiken South Carolina | On Site | May 26 |
-| **[ATPCO](http://www.atpco.net)** | **[Cloud Engineer Intern — Flexible Remote Fall Internship (Part-Time & Designed Around Your School Schedule)](https://jobright.ai/jobs/info/6a15e5bddc845f4be5bda2b9?utm_campaign=1079&utm_source=git)** | Herndon, VA | Remote | May 26 |
-| **[Avathon](https://avathon.com)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a15e3a5a429fd279da9326d?utm_campaign=1079&utm_source=git)** | Pleasanton, California, United States | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
