@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LangPal](www.lang-pal.com)** | **[Android App Developer Intern](https://jobright.ai/jobs/info/6a1658841935fa61b3c71064?utm_campaign=1079&utm_source=git)** | United States | Remote | May 26 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/6a1650fd1935fa61b3c70865?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 26 |
 | **[Elevated Web Design](https://www.elevatedwebdesign.com/)** | **[Software Engineering Internship (Next.js & Python)](https://jobright.ai/jobs/info/6a164a48128680351d969855?utm_campaign=1079&utm_source=git)** | United States | Remote | May 26 |
-| **[SUPPLIFLEX](https://suppliflex.tech)** | **[Frontend Software Engineer Intern](https://jobright.ai/jobs/info/6a1649cda429fd279da974cb?utm_campaign=1079&utm_source=git)** | United States | Remote | May 26 |
 | **[Pixelogic Media](https://www.pixelogicmedia.com/)** | **[Intern, Applications Developer](https://jobright.ai/jobs/info/6a1643ac0073182bd92b1c23?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | May 26 |
 | ↳ | **[Intern, Applications Developer](https://jobright.ai/jobs/info/6a1642e5554b0e12c058acd6?utm_campaign=1079&utm_source=git)** | Burbank, California, United States | On Site | May 26 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Quantitative Developer Intern](https://jobright.ai/jobs/info/6a1642940073182bd92b1b88?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 26 |
@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[GenPark](https://genpark.ai)** | **[Full Stack Intern](https://jobright.ai/jobs/info/6a162e861935fa61b3c6f744?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 26 |
 | **[Arlo Technologies, Inc.](https://www.arlo.com)** | **[Software Engineer Intern - Generalist](https://jobright.ai/jobs/info/6a1622041935fa61b3c6f290?utm_campaign=1079&utm_source=git)** | Milpitas, CA | Hybrid | May 26 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a163a95554b0e12c058a97c?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 26 |
+| **[Princeton Biopartners](https://www.princetonbiopartners.com)** | **[Part-Time AI Software Engineering Intern US (Full Stack) – Healthcare](https://jobright.ai/jobs/info/6a1655cda429fd279da97db3?utm_campaign=1079&utm_source=git)** | United States | Remote | May 26 |
 | **[MaintainX](https://www.getmaintainx.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a161a171935fa61b3c6e8e8?utm_campaign=1079&utm_source=git)** | Canada | Remote | May 26 |
 | ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/6a161a151935fa61b3c6e8e6?utm_campaign=1079&utm_source=git)** | Montreal, Quebec | Hybrid | May 26 |
 | **[SAIC](http://www.saic.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/6a1613af128680351d9677b9?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO, United States | On Site | May 26 |
@@ -106,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Medical Informatics Engineering](https://www.mieweb.com)** | **[Development Intern](https://jobright.ai/jobs/info/6a15a926554b0e12c05846e0?utm_campaign=1079&utm_source=git)** | Fort Wayne, Indiana, United States | On Site | May 26 |
 | ↳ | **[Development Intern](https://jobright.ai/jobs/info/6a15a90b554b0e12c05846d5?utm_campaign=1079&utm_source=git)** | Fort Wayne, Indiana | On Site | May 26 |
 | **[Vanderlande](https://www.vanderlande.com)** | **[Software Engineer - Intern](https://jobright.ai/jobs/info/6a15a84adc845f4be5bd75bb?utm_campaign=1079&utm_source=git)** | Marietta, GA USA, US | On Site | May 26 |
+| **[David Evans and Associates, Inc.](http://www.deainc.com)** | **[Internship: Water/Wastewater Infrastructure Engineering Intern - Bellevue](https://jobright.ai/jobs/info/69fae8fbd21cf86d1e3ce0fa?utm_campaign=1079&utm_source=git)** | Bellevue, WA | On Site | May 26 |
 | **[Nokia](http://www.nokia.com)** | **[Test Developer Co-op/Intern](https://jobright.ai/jobs/info/69fad9b2e156000841153aca?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | May 26 |
 | **[Compa](http://www.compa.ai)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/69faf7b687a4820e6da84064?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | May 26 |
 | **[Gen](https://www.gendigital.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69faf451d21cf86d1e3ce344?utm_campaign=1079&utm_source=git)** | Mountain View, CA | On Site | May 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BorgWarner](http://www.borgwarner.com)** | **[Web Applications/Communications Intern (Year-Round)](https://jobright.ai/jobs/info/696922cf1703f05405aafdff?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI | On Site | May 24 |
 | **[TeamWorx Security](https://teamworxsecurity.com)** | **[DoD SkillBridge: Software Developer or Engineer](https://jobright.ai/jobs/info/691f3edca49a885af9a2d504?utm_campaign=1079&utm_source=git)** | Columbia, MD | Hybrid | May 24 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Software Development Intern - Digital Grid Management - Summer 2026](https://jobright.ai/jobs/info/69826e14348f733a5c354502?utm_campaign=1079&utm_source=git)** | Twin Cities Area | Hybrid | May 24 |
-| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306cc69bd827926af754f?utm_campaign=1079&utm_source=git)** | Austin | On Site | May 24 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1306c869bd827926af7549?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
