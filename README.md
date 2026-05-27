@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adtran](http://www.adtran.com)** | **[Intern](https://jobright.ai/jobs/info/6a16e3cc5b0a497d521068fe?utm_campaign=1079&utm_source=git)** | Atlanta, GA, US | Hybrid | May 27 |
+| **[PrePass](https://www.prepass.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/69fa13be582f810f9c8d4058?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
+| **[Layup Parts](www.layupparts.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a16e03ad6a04f21602e0f69?utm_campaign=1079&utm_source=git)** | Huntington Beach | On Site | May 27 |
+| **[NextGen Federal Systems](https://www.nextgenfed.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69dda2cce34484770f19e0a4?utm_campaign=1079&utm_source=git)** | United States | Remote | May 27 |
 | **[Blackbird Labs](https://www.blackbird.xyz)** | **[Engineering Intern](https://jobright.ai/jobs/info/69fb2667e156000841156c1c?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | May 27 |
 | **[Scowtt](https://www.scowtt.com)** | **[Intern - Full Stack Software Engineering](https://jobright.ai/jobs/info/69c1f65e75f7ff1cd8105e7b?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | May 27 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://jobright.ai/jobs/info/69de92a536823d1b4258230a?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 27 |
@@ -76,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Rackner](https://www.rackner.com/)** | **[Computer Science Internship](https://jobright.ai/jobs/info/6a166e411b2f6918b0e31af2?utm_campaign=1079&utm_source=git)** | College Park, Maryland | On Site | May 26 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Infrastructure Engineer Co-op (Fall 2026 or Spring 2027)](https://jobright.ai/jobs/info/6a0e342a83d7144289816f84?utm_campaign=1079&utm_source=git)** | Pittsfield, MA | Hybrid | May 26 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/6a1650fd1935fa61b3c70865?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 26 |
-| **[Elevated Web Design](https://www.elevatedwebdesign.com/)** | **[Software Engineering Internship (Next.js & Python)](https://jobright.ai/jobs/info/6a164a48128680351d969855?utm_campaign=1079&utm_source=git)** | United States | Remote | May 26 |
 | **[Pixelogic Media](https://www.pixelogicmedia.com/)** | **[Intern, Applications Developer](https://jobright.ai/jobs/info/6a1643ac0073182bd92b1c23?utm_campaign=1079&utm_source=git)** | Burbank, CA | On Site | May 26 |
 | ↳ | **[Intern, Applications Developer](https://jobright.ai/jobs/info/6a1642e5554b0e12c058acd6?utm_campaign=1079&utm_source=git)** | Burbank, California, United States | On Site | May 26 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Quantitative Developer Intern](https://jobright.ai/jobs/info/6a1642940073182bd92b1b88?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 26 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a163a22554b0e12c058a8d6?utm_campaign=1079&utm_source=git)** | Idaho, United States | On Site | May 26 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a1637efa429fd279da96c31?utm_campaign=1079&utm_source=git)** | Idaho, United States, US | On Site | May 26 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a1634c0554b0e12c058a10d?utm_campaign=1079&utm_source=git)** | Idaho, United States, US | On Site | May 26 |
-| **[GenPark](https://genpark.ai)** | **[Full Stack Intern](https://jobright.ai/jobs/info/6a162e861935fa61b3c6f744?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 26 |
 | **[Arlo Technologies, Inc.](https://www.arlo.com)** | **[Software Engineer Intern - Generalist](https://jobright.ai/jobs/info/6a1622041935fa61b3c6f290?utm_campaign=1079&utm_source=git)** | Milpitas, CA | Hybrid | May 26 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a163a95554b0e12c058a97c?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 26 |
 | **[Princeton Biopartners](https://www.princetonbiopartners.com)** | **[Part-Time AI Software Engineering Intern US (Full Stack) – Healthcare](https://jobright.ai/jobs/info/6a1655cda429fd279da97db3?utm_campaign=1079&utm_source=git)** | United States | Remote | May 26 |
@@ -100,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee7128680351d96688b?utm_campaign=1079&utm_source=git)** | Oakville | Hybrid | May 26 |
 | ↳ | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee5128680351d966882?utm_campaign=1079&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 26 |
 | **[Leidos](https://www.leidos.com)** | **[Software Intern](https://jobright.ai/jobs/info/6a15fee40073182bd92aee70?utm_campaign=1079&utm_source=git)** | San Diego, CA, US | On Site | May 26 |
-| **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee3128680351d96687d?utm_campaign=1079&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 26 |
-| ↳ | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee3128680351d96687b?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 26 |
+| **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee3128680351d96687b?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 26 |
+| ↳ | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a15fee3128680351d96687d?utm_campaign=1079&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 26 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[R&D Engineer Intern](https://jobright.ai/jobs/info/6a0f385083d714428981db6c?utm_campaign=1079&utm_source=git)** | University Park, PA | Hybrid | May 26 |
 | **[iHerb](http://www.iherb.com)** | **[Software Development Engineer - Intern](https://jobright.ai/jobs/info/6a15f308a429fd279da93d21?utm_campaign=1079&utm_source=git)** | United States | Remote | May 26 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Quality Assurance Intern 2026](https://jobright.ai/jobs/info/6a15e7c7554b0e12c05872d1?utm_campaign=1079&utm_source=git)** | Aiken South Carolina | On Site | May 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[3D Graphics Engineer Intern (PICO Foundation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a14b423bc9bff375af01f4c?utm_campaign=1079&utm_source=git)** | San Jose, California, United States of America | On Site | May 25 |
 | **[Matrox Video](http://www.matrox.com/)** | **[Intern, OEM Applications Engineer (S-01-17) Winter 2026](https://jobright.ai/jobs/info/6a14b270bc9bff375af01ebb?utm_campaign=1079&utm_source=git)** | Dorval, Quebec, Canada | On Site | May 25 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Software Engineer](https://jobright.ai/jobs/info/69fad3ebd21cf86d1e3cd01c?utm_campaign=1079&utm_source=git)** | Johnston, RI | On Site | May 25 |
-| **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[Integration & Test Intern Fall 2026](https://jobright.ai/jobs/info/6a147df2128680351d95dc5f?utm_campaign=1079&utm_source=git)** | Long Beach, CA | On Site | May 25 |
-| ↳ | **[Software Intern Fall 2026](https://jobright.ai/jobs/info/6a147a83bc9bff375af01467?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
