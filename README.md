@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Information Technology Intern (Graduate Student)](https://jobright.ai/jobs/info/6a1783aa9005d858e94fa85a?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | May 27 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Software Performance at Scale Intern - Fall 2026](https://jobright.ai/jobs/info/6a17839d81fe455c705a980d?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 27 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern-Engineering (Software)](https://jobright.ai/jobs/info/6a1778265b0a497d5210cc6c?utm_campaign=1079&utm_source=git)** | Chandler, AZ | On Site | May 27 |
 | **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Firmware Development Engineer Intern](https://jobright.ai/jobs/info/6a1774121430333075cd16eb?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 27 |
 | **[PlusAI](http://plus.ai)** | **[Software Engineer Intern- Runtime, Robotics](https://jobright.ai/jobs/info/6a1081a3619335383fb32f3f?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 27 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Vantage West Credit Union](https://vantagewest.org/)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/6a17692a81fe455c705a8847?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | May 27 |
 | **[The National Board for Certified Counselors](https://www.nbcc.org)** | **[Web Developer Intern](https://jobright.ai/jobs/info/6a1766cd1430333075cd0bb8?utm_campaign=1079&utm_source=git)** | Greensboro, NC | On Site | May 27 |
 | **[NetSPI](https://www.netspi.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1761b6b091c7417c4fe135?utm_campaign=1079&utm_source=git)** | Portland, OR | On Site | May 27 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern-Engineering (Software)](https://jobright.ai/jobs/info/6a175f02b091c7417c4fe009?utm_campaign=1079&utm_source=git)** | AZ - Chandler, US | On Site | May 27 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Software Performance at Scale Intern - Fall 2026](https://jobright.ai/jobs/info/6a175e9db091c7417c4fdfc1?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara, US | On Site | May 27 |
 | **[The National Board for Certified Counselors](https://www.nbcc.org)** | **[Web Developer Intern](https://jobright.ai/jobs/info/6a175a3ff45c6530ce9abe57?utm_campaign=1079&utm_source=git)** | Greensboro, NC 27403-3660, USA | On Site | May 27 |
 | **[SAIC](http://www.saic.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/6a1759f99005d858e94f915c?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO | On Site | May 27 |
@@ -77,11 +78,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern - Software Engineering](https://jobright.ai/jobs/info/6a174dcf1430333075ccf8ca?utm_campaign=1079&utm_source=git)** | CT Southington, US | Hybrid | May 27 |
 | **[HERE Technologies](https://www.here.com)** | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a174d31b091c7417c4fcf18?utm_campaign=1079&utm_source=git)** | Chicago, IL | Hybrid | May 27 |
 | **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[IT Intern, Digital Customer Experience](https://jobright.ai/jobs/info/6a174a809005d858e94f82e6?utm_campaign=1079&utm_source=git)** | Nashville, TN | On Site | May 27 |
-| **[Arizona Department of Economic Security](https://des.az.gov)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a174966d6a04f21602e5171?utm_campaign=1079&utm_source=git)** | Phoenix, AZ | On Site | May 27 |
 | **[Jolera](https://www.jolera.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a17461f5b0a497d5210a744?utm_campaign=1079&utm_source=git)** | Buffalo, New York | On Site | May 27 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Technical Intern - Summer 2026 (Puerto Rico)](https://jobright.ai/jobs/info/6a17458d1430333075ccf566?utm_campaign=1079&utm_source=git)** | PR-SAN JUAN, 411 CALLE SEGARRA, BECHARA INDUSTRIAL PARK, MARGINAL AVE. KENNEDY, US | Hybrid | May 27 |
-| **[HERE Technologies](https://www.here.com)** | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a1743e2b091c7417c4fcb44?utm_campaign=1079&utm_source=git)** | US-IL-Chicago | Hybrid | May 27 |
-| ↳ | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a1743e2b091c7417c4fcb45?utm_campaign=1079&utm_source=git)** | Chicago, IL, US | Hybrid | May 27 |
+| **[HERE Technologies](https://www.here.com)** | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a1743e2b091c7417c4fcb45?utm_campaign=1079&utm_source=git)** | Chicago, IL, US | Hybrid | May 27 |
+| ↳ | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a1743e2b091c7417c4fcb44?utm_campaign=1079&utm_source=git)** | US-IL-Chicago | Hybrid | May 27 |
 | **[Al Warren Oil](https://www.alwarrenoil.com)** | **[Software Developer - Fall Internship 2026](https://jobright.ai/jobs/info/6a1743e09005d858e94f8002?utm_campaign=1079&utm_source=git)** | Bensenville, IL | On Site | May 27 |
 | **[Telos Corporation](https://www.telos.com)** | **[Intern](https://jobright.ai/jobs/info/6a173f7e1430333075ccf1c6?utm_campaign=1079&utm_source=git)** | Ashburn, VA | On Site | May 27 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Fall 2026, 4/8/12 months)](https://jobright.ai/jobs/info/6a173c32d6a04f21602e4a9c?utm_campaign=1079&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | May 27 |
@@ -115,7 +115,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a2f45c6530ce9a8acc?utm_campaign=1079&utm_source=git)** | Henrietta, NY, United States, US | On Site | May 27 |
 | **[Barrett Solutions](barrettsolve.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a171586d6a04f21602e27ab?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | On Site | May 27 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Software Analyst / Developer, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb506bffa73664aeafe81c?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 27 |
-| **[Hangin.TV](https://hangin.tv/)** | **[Software Engineering Intern, Paid](https://jobright.ai/jobs/info/6a170f4bd6a04f21602e25e4?utm_campaign=1079&utm_source=git)** | NYC Metro Area | Hybrid | May 27 |
 | **[Cavendish Farms](https://www.cavendishfarms.com)** | **[Microsoft Software Developer Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a170ab19005d858e94f5365?utm_campaign=1079&utm_source=git)** | Saint John, NB, Canada | On Site | May 27 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Fall 2026, 4/8/12 months)](https://jobright.ai/jobs/info/6a1707839005d858e94f51fc?utm_campaign=1079&utm_source=git)** | 3555 Gilmore Way Burnaby, BC V5G 0B3 | Hybrid | May 27 |
 | **[Motion](https://www.motion.com)** | **[Cloud SRE Intern](https://jobright.ai/jobs/info/69d5c6b3891d7b11cfd0570e?utm_campaign=1079&utm_source=git)** | Birmingham, AL | On Site | May 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Princeton Biopartners](https://www.princetonbiopartners.com)** | **[Part-Time AI Software Engineering Intern US (Full Stack) – Healthcare](https://jobright.ai/jobs/info/6a1655cda429fd279da97db3?utm_campaign=1079&utm_source=git)** | United States | Remote | May 26 |
 | **[MaintainX](https://www.getmaintainx.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a161a171935fa61b3c6e8e8?utm_campaign=1079&utm_source=git)** | Canada | Remote | May 26 |
 | ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/6a161a151935fa61b3c6e8e6?utm_campaign=1079&utm_source=git)** | Montreal, Quebec | Hybrid | May 26 |
+| **[SAIC](http://www.saic.com)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/6a1613af128680351d9677b9?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO, United States | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
