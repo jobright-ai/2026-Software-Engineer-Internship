@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Process Analytics Factory - PAFnow by Celonis](https://pafnow.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a17cf9ff45c6530ce9afd79?utm_campaign=1079&utm_source=git)** | Massachusetts, United States | Hybrid | May 27 |
+| **[LMI](http://www.lmi.org)** | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a17ce9481fe455c705abf6b?utm_campaign=1079&utm_source=git)** | US-VA-Tysons | On Site | May 27 |
+| ↳ | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a17ce9481fe455c705abf6c?utm_campaign=1079&utm_source=git)** | Tysons, VA, US | On Site | May 27 |
+| ↳ | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a17ce9381fe455c705abf69?utm_campaign=1079&utm_source=git)** | Washington, DC, DC, US | On Site | May 27 |
+| ↳ | **[Software Engineering Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a17ce9381fe455c705abf6a?utm_campaign=1079&utm_source=git)** | US-DC-Washington, DC | On Site | May 27 |
+| **[Cruze](https://cruzemaps.com/)** | **[AI Forward Deployed Engineer (FDE) Intern](https://jobright.ai/jobs/info/6a17cd001430333075cd4393?utm_campaign=1079&utm_source=git)** | United States | Remote | May 27 |
+| **[Ideal Image](https://www.idealimage.com)** | **[Intern - Software Test Engineer (Summer 2026)](https://jobright.ai/jobs/info/6a17ca3fda08264614c9066c?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 27 |
+| ↳ | **[Intern - Embedded Software Engineer (Summer 2026)](https://jobright.ai/jobs/info/6a17c9ee5b0a497d5210f574?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 27 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Frontend-Centered Full-Stack AI Engineer Internship](https://jobright.ai/jobs/info/6a17c8c71430333075cd418f?utm_campaign=1079&utm_source=git)** | United States | Remote | May 27 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year Round - International Safeguards & Engagements, Remote](https://jobright.ai/jobs/info/6a17c5ba81fe455c705abc4d?utm_campaign=1079&utm_source=git)** | Albuquerque, NM | Remote | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Linux Update Systems (Fall 2026)](https://jobright.ai/jobs/info/6a17b73eb091c7417c500eb4?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[AI Full-Stack Engineer Internship — Frontend Specialization](https://jobright.ai/jobs/info/6a17b609f45c6530ce9aefdc?utm_campaign=1079&utm_source=git)** | United States | Remote | May 27 |
 | **[Ideal Image](https://www.idealimage.com)** | **[Intern - Embedded Software Engineer (Summer 2026)](https://jobright.ai/jobs/info/6a17b3adb091c7417c500dd1?utm_campaign=1079&utm_source=git)** | US-NY-New York | On Site | May 27 |
 | **[Adstra](https://adstradata.com)** | **[Intern - Embedded Software Engineer (Summer 2026)](https://jobright.ai/jobs/info/6a17b3a5b091c7417c500dd0?utm_campaign=1079&utm_source=git)** | US-NY-New York | On Site | May 27 |
 | **[Ideal Image](https://www.idealimage.com)** | **[Intern - Embedded Software Engineer (Summer 2026)](https://jobright.ai/jobs/info/6a17b3a4b091c7417c500dce?utm_campaign=1079&utm_source=git)** | New York, NY, US | On Site | May 27 |
@@ -78,21 +87,20 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, Mobile Application Software Engineer, Energy Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a17aa991430333075cd31ee?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | ↳ | **[Internship, Fullstack Engineer, Build Infrastructure (Fall 2026)](https://jobright.ai/jobs/info/6a17a8061430333075cd2fa0?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | ↳ | **[Internship, Software Integration Engineer, Factory Firmware (Fall 2026)](https://jobright.ai/jobs/info/6a17a8059005d858e94fbc42?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
-| ↳ | **[Internship, Software Engineer, Update Systems (Fall 2026)](https://jobright.ai/jobs/info/6a17a802f45c6530ce9ae826?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | ↳ | **[Internship, Frontend Engineer, Applications Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a17a802f45c6530ce9ae827?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | May 27 |
+| ↳ | **[Internship, Software Engineer, Update Systems (Fall 2026)](https://jobright.ai/jobs/info/6a17a802f45c6530ce9ae826?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | ↳ | **[Internship, Fullstack Engineer, Infrastructure Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a17a7fdf45c6530ce9ae821?utm_campaign=1079&utm_source=git)** | Fremont, CA | On Site | May 27 |
 | ↳ | **[Internship, Content Integration Engineer, Vehicle Firmware (Fall 2026)](https://jobright.ai/jobs/info/6a17a7fa5b0a497d5210e396?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | ↳ | **[Internship, Embedded Software Engineer, Body Controls Firmware (Fall 2026)](https://jobright.ai/jobs/info/6a17a7f91430333075cd2f9b?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | ↳ | **[Internship, System Modeling & Infrastructure Engineer, Low Voltage Power (Fall 2026)](https://jobright.ai/jobs/info/6a17a7f35b0a497d5210e391?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
-| **[Todd](https://toddagriscience.com)** | **[Fullstack Developer Intern (Summer '26)](https://jobright.ai/jobs/info/6a17a74e1430333075cd2f39?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | May 27 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026)](https://jobright.ai/jobs/info/6a17a5ac1430333075cd2de7?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Validation Engineer, Vehicle Firmware (Fall 2026)](https://jobright.ai/jobs/info/6a17be851430333075cd3960?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | **[Phia](https://phia.com)** | **[Full Stack Engineer Intern](https://jobright.ai/jobs/info/6a17a1625b0a497d5210df87?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Embedded Systems Software Engineer, AI Platforms (Summer 2026)](https://jobright.ai/jobs/info/6a17bd3781fe455c705ab509?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | **[Prospect Equities®](http://ProspectEquities.com/)** | **[Backend / Frontend Developer Intern](https://jobright.ai/jobs/info/6a17a07b1430333075cd2b3a?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Service Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a179cc281fe455c705aa628?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
-| ↳ | **[Internship, Software Validation Engineer, Drive Systems: Embedded & Actuation (Fall 2026)](https://jobright.ai/jobs/info/6a179cc1f45c6530ce9ae27b?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | ↳ | **[Internship, Embedded Software Engineer, Firmware Platforms (Fall 2026)](https://jobright.ai/jobs/info/6a179cc15b0a497d5210de4e?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
+| ↳ | **[Internship, Software Validation Engineer, Drive Systems: Embedded & Actuation (Fall 2026)](https://jobright.ai/jobs/info/6a179cc1f45c6530ce9ae27b?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | ↳ | **[Internship, Software QA Engineer, Vehicle Software (Fall 2026)](https://jobright.ai/jobs/info/6a179cba5b0a497d5210de49?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | ↳ | **[Internship, Android Engineer, Mobile Software (Fall 2026)](https://jobright.ai/jobs/info/6a179cb59005d858e94fb6d3?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | ↳ | **[Internship, Software Engineer, Simulation Platform (Fall 2026)](https://jobright.ai/jobs/info/6a179cb11430333075cd2a5a?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
@@ -112,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[PlusAI](http://plus.ai)** | **[Software Engineer Intern- Runtime, Robotics](https://jobright.ai/jobs/info/6a1081a3619335383fb32f3f?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 27 |
 | **[NetApp](http://netapp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a176cb91430333075cd1085?utm_campaign=1079&utm_source=git)** | San Jose, CA, USA Office | On Site | May 27 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a176cb71430333075cd1080?utm_campaign=1079&utm_source=git)** | RTP, North Carolina, USA Office | On Site | May 27 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[UI Engineer - Internship](https://jobright.ai/jobs/info/6a176bbd81fe455c705a89b8?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | May 27 |
 | **[Vantage West Credit Union](https://vantagewest.org/)** | **[Intern, Software Engineer](https://jobright.ai/jobs/info/6a17692a81fe455c705a8847?utm_campaign=1079&utm_source=git)** | Tucson, AZ | Hybrid | May 27 |
 | **[The National Board for Certified Counselors](https://www.nbcc.org)** | **[Web Developer Intern](https://jobright.ai/jobs/info/6a1766cd1430333075cd0bb8?utm_campaign=1079&utm_source=git)** | Greensboro, NC | On Site | May 27 |
 | **[NetSPI](https://www.netspi.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a1761b6b091c7417c4fe135?utm_campaign=1079&utm_source=git)** | Portland, OR | On Site | May 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op Software Developer - Fall 2026 (September - December) - Canada, Ontario (REMOTE)](https://jobright.ai/jobs/info/6a171e211430333075ccd804?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 27 |
 | **[SAP](https://www.sap.com)** | **[SAP SuccessFactors iXp Intern - AI Software Engineer (SUMMER 2026)](https://jobright.ai/jobs/info/6a171bdd1430333075ccd645?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | Hybrid | May 27 |
 | **[Sony](https://www.sony.com)** | **[Intern, Advanced Computer Graphics Research](https://jobright.ai/jobs/info/6a068fc0320bff2205ead766?utm_campaign=1079&utm_source=git)** | Culver City, CA | On Site | May 27 |
-| **[Magna International](http://www.magna.com/)** | **[Intern  - Tools Engineering](https://jobright.ai/jobs/info/6a1718f3d6a04f21602e2c32?utm_campaign=1079&utm_source=git)** | Southfield, Michigan, US | On Site | May 27 |
-| ↳ | **[Intern  - Tools Engineering](https://jobright.ai/jobs/info/6a1718f2d6a04f21602e2c2f?utm_campaign=1079&utm_source=git)** | Auburn Hills, Michigan, US | On Site | May 27 |
-| **[KION Group](http://www.kiongroup.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718acb091c7417c4fa8e6?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 27 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718abb091c7417c4fa8e3?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States, US | On Site | May 27 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a9f45c6530ce9a8ae5?utm_campaign=1079&utm_source=git)** | Wauwatosa, WI, United States, US | On Site | May 27 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a7f45c6530ce9a8ada?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States, US | On Site | May 27 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1718a4f45c6530ce9a8ad7?utm_campaign=1079&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
