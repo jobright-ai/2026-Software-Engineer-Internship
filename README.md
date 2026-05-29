@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DC INFOTECH  CLOUD SOLUTIONS](https://dcinfotech.org.in/)** | **[Google Cloud Engineer Internship Program](https://jobright.ai/jobs/info/6a199c312b206f3955eaec5e?utm_campaign=1079&utm_source=git)** | United States | Remote | May 29 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Software Engineer (Intern)](https://jobright.ai/jobs/info/6a19949c2b206f3955eaeab0?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Hybrid | May 29 |
 | **[SOTI](http://www.soti.net/)** | **[Web Producer Intern (September 2026 12 Months)](https://jobright.ai/jobs/info/6a198fb6c2a87d6cd3df980a?utm_campaign=1079&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | May 29 |
 | **[RightOn Education](https://www.rightoneducation.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a19885a2b206f3955eae799?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | Hybrid | May 29 |
@@ -122,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Magnet Forensics](http://magnetforensics.com)** | **[Software Developer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbef3802c7621fd8ecf4?utm_campaign=1079&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 28 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://jobright.ai/jobs/info/69fbef8dc39b9a66c0c55597?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | May 28 |
 | **[Altom Transport](http://altomtransport.com)** | **[Fall Software Development Intern](https://jobright.ai/jobs/info/6a185ec817492d3a389b5582?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | May 28 |
-| **[HERE Technologies](https://www.here.com)** | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a185c5e17492d3a389b52a3?utm_campaign=1079&utm_source=git)** | Chicago, IL, US | Hybrid | May 28 |
-| ↳ | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a185c5e17492d3a389b529d?utm_campaign=1079&utm_source=git)** | US-IL-Chicago | Hybrid | May 28 |
+| **[HERE Technologies](https://www.here.com)** | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a185c5e17492d3a389b529d?utm_campaign=1079&utm_source=git)** | US-IL-Chicago | Hybrid | May 28 |
+| ↳ | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a185c5e17492d3a389b52a3?utm_campaign=1079&utm_source=git)** | Chicago, IL, US | Hybrid | May 28 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Software Development - C++](https://jobright.ai/jobs/info/6a185c49dbc80963f9342eb6?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 28 |
 | ↳ | **[Co-op/Intern Software Development - C++](https://jobright.ai/jobs/info/6a185c48dbc80963f9342eae?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 28 |
 | ↳ | **[Co-op/Intern Software Developer, Developer Framework](https://jobright.ai/jobs/info/6a185c40abc8f63abac7789b?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 28 |
@@ -143,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[TeleWorld Solutions](http://teleworldsolutions.com)** | **[Software Developer (Full Stack/Backend) Intern](https://jobright.ai/jobs/info/6a185ae017492d3a389b4d0a?utm_campaign=1079&utm_source=git)** | US-VA-Chantilly | On Site | May 28 |
 | ↳ | **[Software Developer (Full Stack/Backend) Intern](https://jobright.ai/jobs/info/6a185adc17492d3a389b4d04?utm_campaign=1079&utm_source=git)** | Chantilly, VA, US | On Site | May 28 |
 | **[VetsEZ](https://vetsez.com)** | **[Full Stack Developer Intern (Remote Opportunity)](https://jobright.ai/jobs/info/6a1858f96243320e8d162c56?utm_campaign=1079&utm_source=git)** | Miami, FL | Remote | May 28 |
+| **[Mathematica](http://www.mathematica.org)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a199aede24ef365258259e2?utm_campaign=1079&utm_source=git)** | Ann Arbor, MI | Hybrid | May 28 |
 | **[Replit](https://replit.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/69fba14286d5cd46527d75e2?utm_campaign=1079&utm_source=git)** | Foster City, CA | Hybrid | May 28 |
 | **[VetsEZ](https://vetsez.com)** | **[Full Stack Developer Intern (Remote Opportunity)](https://jobright.ai/jobs/info/6a185177dbc80963f93420b5?utm_campaign=1079&utm_source=git)** | Washington, DC | Remote | May 28 |
 | **[NetApp](http://netapp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a185142abc8f63abac76b70?utm_campaign=1079&utm_source=git)** | Morrisville, NC | Hybrid | May 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[Intern Fall 2026 Software Developer – Virtualization and SIL Integration](https://jobright.ai/jobs/info/6a184ee5dbc80963f9341e0f?utm_campaign=1079&utm_source=git)** | Markham, Ontario, Canada | Hybrid | May 28 |
 | **[PlusAI](http://plus.ai)** | **[Machine Learning Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6a184e2cdbc80963f9341cc5?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 28 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[AWS Developer Intern (Hybrid)](https://jobright.ai/jobs/info/6a184c086243320e8d16205d?utm_campaign=1079&utm_source=git)** | Support Center - Akron, OH, US | Hybrid | May 28 |
-| **[Magnet Forensics](http://magnetforensics.com)** | **[Software Developer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbeec39b9a66c0c55c84?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 28 |
-| **[Spiralytics, Inc. - Digital Marketing Agency](https://www.spiralytics.com)** | **[Quality Assurance/Project Management Intern](https://jobright.ai/jobs/info/6a184735abc8f63abac76225?utm_campaign=1079&utm_source=git)** | Honolulu County, HI | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
