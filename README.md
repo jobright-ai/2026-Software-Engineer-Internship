@@ -74,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Magnet Forensics](http://magnetforensics.com)** | **[Software Developer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbef3802c7621fd8ecf4?utm_campaign=1079&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 28 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://jobright.ai/jobs/info/69fbef8dc39b9a66c0c55597?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | May 28 |
 | **[Altom Transport](http://altomtransport.com)** | **[Fall Software Development Intern](https://jobright.ai/jobs/info/6a185ec817492d3a389b5582?utm_campaign=1079&utm_source=git)** | Hammond, IN | On Site | May 28 |
-| **[HERE Technologies](https://www.here.com)** | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a185c5e17492d3a389b52a3?utm_campaign=1079&utm_source=git)** | Chicago, IL, US | Hybrid | May 28 |
-| ↳ | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a185c5e17492d3a389b529d?utm_campaign=1079&utm_source=git)** | US-IL-Chicago | Hybrid | May 28 |
+| **[HERE Technologies](https://www.here.com)** | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a185c5e17492d3a389b529d?utm_campaign=1079&utm_source=git)** | US-IL-Chicago | Hybrid | May 28 |
+| ↳ | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a185c5e17492d3a389b52a3?utm_campaign=1079&utm_source=git)** | Chicago, IL, US | Hybrid | May 28 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Software Development - C++](https://jobright.ai/jobs/info/6a185c49dbc80963f9342eb6?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 28 |
 | ↳ | **[Co-op/Intern Software Development - C++](https://jobright.ai/jobs/info/6a185c48dbc80963f9342eae?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 28 |
 | ↳ | **[Co-op/Intern Software Developer, Developer Framework](https://jobright.ai/jobs/info/6a185c40abc8f63abac7789b?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 28 |
@@ -140,8 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mobile Development Engineer Intern](https://jobright.ai/jobs/info/6a17fab6c8110e28b75b1c07?utm_campaign=1079&utm_source=git)** | Remote General (Non-EU) | Remote | May 28 |
 | ↳ | **[Mobile Development Engineer Intern](https://jobright.ai/jobs/info/6a17fab5c8110e28b75b1c05?utm_campaign=1079&utm_source=git)** | APAC - Remote | Remote | May 28 |
 | ↳ | **[Test Development Engineer Intern](https://jobright.ai/jobs/info/6a17fab4ac2d34081458a93a?utm_campaign=1079&utm_source=git)** | APAC - Remote | Remote | May 28 |
-| ↳ | **[Java Development Engineer Intern](https://jobright.ai/jobs/info/6a17fab2ac2d34081458a939?utm_campaign=1079&utm_source=git)** | APAC - Remote | Remote | May 28 |
 | ↳ | **[Frontend Development Engineer Intern](https://jobright.ai/jobs/info/6a17fab2ac2d34081458a936?utm_campaign=1079&utm_source=git)** | APAC - Remote | Remote | May 28 |
+| ↳ | **[Java Development Engineer Intern](https://jobright.ai/jobs/info/6a17fab2ac2d34081458a939?utm_campaign=1079&utm_source=git)** | APAC - Remote | Remote | May 28 |
 | ↳ | **[Java Development Engineer Intern](https://jobright.ai/jobs/info/6a17fab1ac2d34081458a935?utm_campaign=1079&utm_source=git)** | Remote General (Non-EU) | Remote | May 28 |
 | **[Adstra](https://adstradata.com)** | **[Intern - Software Test Engineer (Summer 2026)](https://jobright.ai/jobs/info/6a18563654a441713ae82afd?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[NVIDIA AI](https://developer.nvidia.com/blog/)** | **[Software Performance at Scale Intern - Fall 2026](https://jobright.ai/jobs/info/6a17d7bf5b0a497d5210f9ae?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | May 27 |
