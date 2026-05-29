@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Service Engineering (Summer 2026)](https://jobright.ai/jobs/info/6a1a0837e24ef36525828ffc?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 29 |
+| **[Applied Technical Services, LLC](http://www.atslab.com)** | **[Summer Internship - Copilot Agent Developer](https://jobright.ai/jobs/info/6a1a0132e24ef36525828dce?utm_campaign=1079&utm_source=git)** | Marietta, GA | Hybrid | May 29 |
+| **[Exituity](www.exituity.com)** | **[Member of Technical Staff Intern](https://jobright.ai/jobs/info/6a19fe44c2a87d6cd3dfcbb5?utm_campaign=1079&utm_source=git)** | United States | Remote | May 29 |
 | **[Applied Technical Services, LLC](http://www.atslab.com)** | **[Summer Internship - Copilot Agent Developer (56708)](https://jobright.ai/jobs/info/6a19fc679111f771d1a09a03?utm_campaign=1079&utm_source=git)** | MARIETTA OFFICE - MARIETTA, GA 30062 | Hybrid | May 29 |
 | ↳ | **[Summer Internship - Copilot Agent Developer (56707)](https://jobright.ai/jobs/info/6a19fc55c2a87d6cd3dfcb3f?utm_campaign=1079&utm_source=git)** | MARIETTA OFFICE - MARIETTA, GA 30062 | Hybrid | May 29 |
 | **[ARCCA](https://arcca.com/)** | **[Summer Internship - Copilot Agent Developer](https://jobright.ai/jobs/info/6a19f31f2b206f3955eb194e?utm_campaign=1079&utm_source=git)** | Marietta, GA | Hybrid | May 29 |
 | **[Verkada](https://www.verkada.com)** | **[Frontend Software Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a06ed4b38dbee7915cf7bc1?utm_campaign=1079&utm_source=git)** | San Mateo, CA United States | On Site | May 29 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Claude Code Full-Stack AI Engineer Internship](https://jobright.ai/jobs/info/6a19f00dc2a87d6cd3dfc6a5?utm_campaign=1079&utm_source=git)** | United States | Remote | May 29 |
+| **[Quadric](https://quadric.ai)** | **[Software Engineer Intern - Compiler](https://jobright.ai/jobs/info/6a1a0cd0547e292ae1396568?utm_campaign=1079&utm_source=git)** | Burlingame, CA | On Site | May 29 |
 | **[Vasion](https://www.vasion.com/)** | **[Engineering Intern - Release Engineering](https://jobright.ai/jobs/info/6a19edc32b206f3955eb17ea?utm_campaign=1079&utm_source=git)** | St. George, Utah, United States | On Site | May 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Adoption Excellence Americas](https://jobright.ai/jobs/info/6a07e3376186f46859883b5a?utm_campaign=1079&utm_source=git)** | Chicago, IL, US, 60606 | Hybrid | May 29 |
 | **[Lyten](http://www.lyten.com)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/6a19dc90547e292ae13956fc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | May 29 |
@@ -72,15 +75,15 @@ For a complete list, click the following sortable link below:
 | **[Argmax, Inc.](https://www.takeargmax.com/)** | **[On-device AI Frameworks Engineer (Intern)](https://jobright.ai/jobs/info/6a19be522b206f3955eb04f6?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | May 29 |
 | ↳ | **[On-device AI Frameworks Engineer (Intern)](https://jobright.ai/jobs/info/6a19be4a2b206f3955eb04ee?utm_campaign=1079&utm_source=git)** | Palo Alto HQ | Hybrid | May 29 |
 | **[Mesh Optical Technologies](meshoptical.com)** | **[Associate Software Engineer (Intern / Co-Op)](https://jobright.ai/jobs/info/6a19bb93e24ef36525826f14?utm_campaign=1079&utm_source=git)** | Gardena, CA | On Site | May 29 |
-| **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d4f06f64d441a164f5fbf?utm_campaign=1079&utm_source=git)** | Arlington, Virginia, USA | On Site | May 29 |
+| **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d4455f64d441a164f496d?utm_campaign=1079&utm_source=git)** | New York, New York, USA | On Site | May 29 |
 | ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d432478b4502f12a3ddc6?utm_campaign=1079&utm_source=git)** | Jersey City, New Jersey, USA | On Site | May 29 |
-| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d46ce0f6f7e7a2ce91a07?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, USA | On Site | May 29 |
-| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/6a0334b56c07461fe170169f?utm_campaign=1079&utm_source=git)** | Denver, Colorado, USA | On Site | May 29 |
-| ↳ | **[Software Development Engineer Fall Intern - Military Veteran](https://jobright.ai/jobs/info/698d46c70f6f7e7a2ce919f7?utm_campaign=1079&utm_source=git)** | Santa Clara, California, USA | On Site | May 29 |
 | ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d46e90f6f7e7a2ce91a35?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | May 29 |
+| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d4f06f64d441a164f5fbf?utm_campaign=1079&utm_source=git)** | Arlington, Virginia, USA | On Site | May 29 |
+| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d46ce0f6f7e7a2ce91a07?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, USA | On Site | May 29 |
+| ↳ | **[Software Development Engineer Fall Intern - Military Veteran](https://jobright.ai/jobs/info/698d46c70f6f7e7a2ce919f7?utm_campaign=1079&utm_source=git)** | Santa Clara, California, USA | On Site | May 29 |
+| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/6a0334b56c07461fe170169f?utm_campaign=1079&utm_source=git)** | Denver, Colorado, USA | On Site | May 29 |
 | ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d4d5b78b4502f12a3f294?utm_campaign=1079&utm_source=git)** | Carle Place, New York, USA | On Site | May 29 |
 | ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/6a0334b46c07461fe170169e?utm_campaign=1079&utm_source=git)** | Brooklyn, New York, USA | On Site | May 29 |
-| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d4455f64d441a164f496d?utm_campaign=1079&utm_source=git)** | New York, New York, USA | On Site | May 29 |
 | **[Emagine IT, Inc.](http://eit2.com)** | **[SOFTWARE ENGINEERING INTERN](https://jobright.ai/jobs/info/6a19b6952b206f3955eafc83?utm_campaign=1079&utm_source=git)** | North Bethesda, MD, US | Remote | May 29 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Fall 2026 (US)](https://jobright.ai/jobs/info/6a0fad5383d7144289822170?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | May 29 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: User Interface Development](https://jobright.ai/jobs/info/69e457989b6eb37e26f7a66d?utm_campaign=1079&utm_source=git)** | Waltham, MA | Hybrid | May 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HERE Technologies](https://www.here.com)** | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a185c5e17492d3a389b529d?utm_campaign=1079&utm_source=git)** | US-IL-Chicago | Hybrid | May 28 |
 | ↳ | **[Business Solutions Architecture (BSA) Intern](https://jobright.ai/jobs/info/6a185c5e17492d3a389b52a3?utm_campaign=1079&utm_source=git)** | Chicago, IL, US | Hybrid | May 28 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Software Development - C++](https://jobright.ai/jobs/info/6a185c49dbc80963f9342eb6?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 28 |
-| ↳ | **[Co-op/Intern Software Development - C++](https://jobright.ai/jobs/info/6a185c48dbc80963f9342eae?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 28 |
-| ↳ | **[Co-op/Intern Software Developer, Developer Framework](https://jobright.ai/jobs/info/6a185c40abc8f63abac7789f?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | Hybrid | May 28 |
-| ↳ | **[Co-op/Intern Software Developer, Developer Framework](https://jobright.ai/jobs/info/6a185c40abc8f63abac7789b?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
