@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Swift iPhone Mobile (Non Paid Academic Credit Only) Developer Internship](https://jobright.ai/jobs/info/6a20f496902d19201c7b56e3?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 03 |
 | **[Bot Auto](https://bot.auto/)** | **[Intern, Software Engineer-Operation Platforms](https://jobright.ai/jobs/info/6a20dfb94bdf8a5a96bd3814?utm_campaign=1079&utm_source=git)** | Houston, TX | On Site | Jun 03 |
 | ↳ | **[Intern, Software Engineer-Operation Platforms](https://jobright.ai/jobs/info/6a20dfb84bdf8a5a96bd3813?utm_campaign=1079&utm_source=git)** | Houston Office | On Site | Jun 03 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Site Controller Software Engineer, Energy Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a20d68e338c01230511bb81?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jun 03 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Park My Ride, LLC](http://parkmyride.io)** | **[Mobile App Developer - Internship (React Native/Kotlin)](https://jobright.ai/jobs/info/6a20bea6c00e701fe836b66a?utm_campaign=1079&utm_source=git)** | SD Metro Area | Remote | Jun 03 |
 | **[Medpace](http://www.medpace.com)** | **[Software QA Test Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a20b240902d19201c7b4252?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Jun 03 |
 | **[Ciena](http://www.ciena.com)** | **[Embedded Software Engineer – Intern](https://jobright.ai/jobs/info/6a208ce5338c012305119f19?utm_campaign=1079&utm_source=git)** | Ottawa, CA | On Site | Jun 03 |
-| **[Magnite](https://www.magnite.com)** | **[Intern, Software Engineering - Adserver (NYC)](https://jobright.ai/jobs/info/6a20afd3902d19201c7b41c7?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jun 03 |
 | **[Isuzu North America](http://www.isuzu.com/)** | **[Autonomous Driving Intern](https://jobright.ai/jobs/info/6a207644338c0123051194b9?utm_campaign=1079&utm_source=git)** | Plymouth - Plymouth, MI 48170 | On Site | Jun 03 |
 | **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Engineer - Game Engine System](https://jobright.ai/jobs/info/6a2061014bdf8a5a96bd04a1?utm_campaign=1079&utm_source=git)** | Edmonton, 8215-112 Street Northwest, CA | On Site | Jun 03 |
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Applications - Fall/Spring Co-op](https://jobright.ai/jobs/info/6a20507b3a5f0145f4c138d8?utm_campaign=1079&utm_source=git)** | Toronto, Ontario | On Site | Jun 03 |
@@ -94,11 +94,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Developer Intern - Dewar (Hybrid)](https://jobright.ai/jobs/info/6a2055313a5f0145f4c13d12?utm_campaign=1079&utm_source=git)** | Quincy, MA | Hybrid | Jun 03 |
 | **[Eulerity](https://www.eulerity.com)** | **[Android Developer Intern](https://jobright.ai/jobs/info/6a20543f902d19201c7b17d4?utm_campaign=1079&utm_source=git)** | New York | Hybrid | Jun 03 |
 | ↳ | **[Android Developer Intern](https://jobright.ai/jobs/info/6a205436902d19201c7b17cf?utm_campaign=1079&utm_source=git)** | New York, New York | Hybrid | Jun 03 |
-| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Applications - Fall 2026](https://jobright.ai/jobs/info/6a205076ca8f0b365d7a0302?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Jun 03 |
-| ↳ | **[Software Engineering Intern, Applications - Fall 2026](https://jobright.ai/jobs/info/6a205077ca8f0b365d7a0304?utm_campaign=1079&utm_source=git)** | Irvine, California | On Site | Jun 03 |
+| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Applications - Fall 2026](https://jobright.ai/jobs/info/6a205077ca8f0b365d7a0304?utm_campaign=1079&utm_source=git)** | Irvine, California | On Site | Jun 03 |
+| ↳ | **[Software Engineering Intern, Applications - Fall 2026](https://jobright.ai/jobs/info/6a205076ca8f0b365d7a0302?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Jun 03 |
 | **[Eagle Eye Networks](https://www.een.com)** | **[Engineering Intern - Media and Events](https://jobright.ai/jobs/info/699ef0efce78e77b4fe4a862?utm_campaign=1079&utm_source=git)** | Rollingwood, TX | On Site | Jun 03 |
-| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Connected Systems - Fall 2026](https://jobright.ai/jobs/info/6a20506f3a5f0145f4c138d0?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Jun 03 |
-| ↳ | **[Software Engineering Intern, Connected Systems - Fall 2026](https://jobright.ai/jobs/info/6a20506f3a5f0145f4c138d1?utm_campaign=1079&utm_source=git)** | Irvine, California | On Site | Jun 03 |
+| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Connected Systems - Fall 2026](https://jobright.ai/jobs/info/6a20506f3a5f0145f4c138d1?utm_campaign=1079&utm_source=git)** | Irvine, California | On Site | Jun 03 |
+| ↳ | **[Software Engineering Intern, Connected Systems - Fall 2026](https://jobright.ai/jobs/info/6a20506f3a5f0145f4c138d0?utm_campaign=1079&utm_source=git)** | Palo Alto, California | On Site | Jun 03 |
 | ↳ | **[Software Engineering Intern, Connected Systems - Fall 2026](https://jobright.ai/jobs/info/6a204e533a5f0145f4c13825?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jun 03 |
 | ↳ | **[Software Engineering Intern, Applications - Fall 2026](https://jobright.ai/jobs/info/6a204e31338c01230511823f?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jun 03 |
 | ↳ | **[Software Engineering Intern, Applications - Fall 2026](https://jobright.ai/jobs/info/6a204e1bc00e701fe8368658?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jun 03 |
@@ -132,14 +132,13 @@ For a complete list, click the following sortable link below:
 | **[Magnite](https://www.magnite.com)** | **[Intern, Software Engineering - Demand Solutions (NYC)](https://jobright.ai/jobs/info/6a1f5f37dce5db1256d14a0c?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jun 02 |
 | ↳ | **[Intern, Software Engineering - Adserver (NYC)](https://jobright.ai/jobs/info/6a1f5f35dce5db1256d14a0b?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jun 02 |
 | **[d-Matrix](https://www.d-matrix.ai)** | **[Software Engineering Intern - Kernels](https://jobright.ai/jobs/info/699e6f92ce78e77b4fe3b2aa?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 02 |
-| **[Magnite](https://www.magnite.com)** | **[Intern, Software Engineering DV+ (Broomfield, CO)](https://jobright.ai/jobs/info/6a1f5ed4a507373dff6c057e?utm_campaign=1079&utm_source=git)** | Broomfield, CO | Hybrid | Jun 02 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://jobright.ai/jobs/info/69fbef8dc39b9a66c0c55597?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jun 02 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Fall 2026 (US)](https://jobright.ai/jobs/info/6a0fad5383d7144289822170?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jun 02 |
-| ↳ | **[Software Development Engineer – Amazon Leo (US)](https://jobright.ai/jobs/info/6a1e1e28b524ae49285aab61?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jun 02 |
 | ↳ | **[Front-End Engineer Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/69f35ed8c78b9e4518954740?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jun 02 |
+| ↳ | **[Software Development Engineer – Amazon Leo (US)](https://jobright.ai/jobs/info/6a1e1e28b524ae49285aab61?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jun 02 |
 | **[d-Matrix](https://www.d-matrix.ai)** | **[Runtime Engineering Intern](https://jobright.ai/jobs/info/6a1c94dd9111f771d1a1561a?utm_campaign=1079&utm_source=git)** | Santa Clara | Hybrid | Jun 02 |
 | ↳ | **[Runtime Engineering Intern](https://jobright.ai/jobs/info/697ec06cabff4c399a9d6308?utm_campaign=1079&utm_source=git)** | Santa Clara | Hybrid | Jun 02 |
-| ↳ | **[Software Engineering Intern - Kernels](https://jobright.ai/jobs/info/6a0b58be4d9320363686ff8f?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | Jun 02 |
+| ↳ | **[Software Engineering Intern - Kernels](https://jobright.ai/jobs/info/699e5a1481476f6176b75831?utm_campaign=1079&utm_source=git)** | Toronto | Hybrid | Jun 02 |
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Vehicle Controls - Fall/Spring Co-Op](https://jobright.ai/jobs/info/6a1f373309442629a6858690?utm_campaign=1079&utm_source=git)** | Toronto, Ontario | On Site | Jun 02 |
 | ↳ | **[Software Engineering Intern, Vehicle Controls - Fall/Spring Co-Op](https://jobright.ai/jobs/info/6a1f373609442629a6858692?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia | On Site | Jun 02 |
 | **[Discovery Capital](http://realequitymanagement.com)** | **[Web Development Intern](https://jobright.ai/jobs/info/6a1f5683c5277c00c64855e6?utm_campaign=1079&utm_source=git)** | Columbia, Missouri, United States | On Site | Jun 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern, Embedded Platforms - Fall 2026](https://jobright.ai/jobs/info/6a1f506c8049156781168d53?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jun 02 |
 | ↳ | **[Software Engineering Intern, Embedded Platforms - Fall 2026](https://jobright.ai/jobs/info/6a1f504ab61b2c65b37b13f2?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jun 02 |
 | ↳ | **[Software Engineering Intern, Vehicle Controls - Fall 2026](https://jobright.ai/jobs/info/6a1f4e48c5277c00c6485130?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jun 02 |
+| ↳ | **[Software Engineering Intern, Vehicle Controls - Fall 2026](https://jobright.ai/jobs/info/6a1f4d89c5277c00c64850df?utm_campaign=1079&utm_source=git)** | Irvine, CA | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
