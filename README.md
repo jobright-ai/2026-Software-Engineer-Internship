@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Intern, Memory and Personalization (Fall)](https://jobright.ai/jobs/info/6a2088f7338c012305119b3f?utm_campaign=1079&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | Jun 03 |
 | **[Al Warren Oil](https://www.alwarrenoil.com)** | **[Software Developer - Fall Internship 2026](https://jobright.ai/jobs/info/6a208718338c012305119a85?utm_campaign=1079&utm_source=git)** | Bensenville, IL | On Site | Jun 03 |
 | **[E-T-A Engineering Technology](http://e-t-a.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a207cef338c0123051197e6?utm_campaign=1079&utm_source=git)** | Mount Prospect, IL | On Site | Jun 03 |
-| **[Leidos](https://www.leidos.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a207c9d3a5f0145f4c14ddb?utm_campaign=1079&utm_source=git)** | 6314 Remote/Teleworker US, US | Remote | Jun 03 |
-| ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/6a207c9d3a5f0145f4c14ddc?utm_campaign=1079&utm_source=git)** | Orlando, FL, US | Hybrid | Jun 03 |
+| **[Leidos](https://www.leidos.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a207c9d3a5f0145f4c14ddc?utm_campaign=1079&utm_source=git)** | Orlando, FL, US | Hybrid | Jun 03 |
+| ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/6a207c9d3a5f0145f4c14ddb?utm_campaign=1079&utm_source=git)** | 6314 Remote/Teleworker US, US | Remote | Jun 03 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a206ef34bdf8a5a96bd0af8?utm_campaign=1079&utm_source=git)** | Menlo Park - 1035 | Hybrid | Jun 03 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a206eeb4bdf8a5a96bd0aed?utm_campaign=1079&utm_source=git)** | Menlo Park, CA | Hybrid | Jun 03 |
 | **[Stash](http://www.stash.com)** | **[Engineer Intern](https://jobright.ai/jobs/info/6a206cb74bdf8a5a96bd08a5?utm_campaign=1079&utm_source=git)** | New York | Hybrid | Jun 03 |
