@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Frontend Software Engineer Intern (Fall '26)](https://jobright.ai/jobs/info/6a25f0586624e500cad0febe?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jun 07 |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Engineer Intern (Summer '26)](https://jobright.ai/jobs/info/6a25fc0b757ade085b6b274a?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jun 07 |
 | **[Scyntic](https://www.scyntic.ai)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a25cea24239a435388827fa?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 07 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Software Development Intern - Fall 2026](https://jobright.ai/jobs/info/69ec0ab94b0fa35a707806c2?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN | Hybrid | Jun 07 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Full-Stack AI Engineer Intern  (Frontend & Product)](https://jobright.ai/jobs/info/6a25e1d514de9460dc848b0c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 07 |
@@ -75,9 +75,9 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Fall 2026, 8 months)](https://jobright.ai/jobs/info/6a06444b320bff2205eaa8a8?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 06 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Integration & Test Intern Fall 2026](https://jobright.ai/jobs/info/6a1f1c88b61b2c65b37af469?utm_campaign=1079&utm_source=git)** | Long Beach, CA | On Site | Jun 06 |
 | **[Onto Innovation](http://www.ontoinnovation.com)** | **[Software QA Engineer Internship](https://jobright.ai/jobs/info/6a086eba403fc339507ee18b?utm_campaign=1079&utm_source=git)** | Bloomington, MN | On Site | Jun 06 |
-| **[Vanco](http://www.vancopayments.com)** | **[QA Context Engineering Intern](https://jobright.ai/jobs/info/6a2417a314de9460dc846135?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 06 |
-| ↳ | **[QA Context Engineering Intern](https://jobright.ai/jobs/info/6a2417a314de9460dc846137?utm_campaign=1079&utm_source=git)** | Fully Remote | Remote | Jun 06 |
+| **[Vanco](http://www.vancopayments.com)** | **[QA Context Engineering Intern](https://jobright.ai/jobs/info/6a2417a314de9460dc846137?utm_campaign=1079&utm_source=git)** | Fully Remote | Remote | Jun 06 |
 | ↳ | **[QA Context Engineering Intern](https://jobright.ai/jobs/info/6a2417a314de9460dc846136?utm_campaign=1079&utm_source=git)** | USA | Remote | Jun 06 |
+| ↳ | **[QA Context Engineering Intern](https://jobright.ai/jobs/info/6a2417a314de9460dc846135?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 06 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Software Engineering Intern, Mapping Autonomous Vehicles - Fall 2026](https://jobright.ai/jobs/info/6a240e51757ade085b6afa5a?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara, US | On Site | Jun 06 |
 | **[Rippling](https://www.rippling.com)** | **[Full Stack Software Engineer Intern - Winter 2027](https://jobright.ai/jobs/info/6a240a9214de9460dc845faa?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jun 06 |
 | ↳ | **[Software Engineer Intern - Backend Focused - Winter 2027](https://jobright.ai/jobs/info/6a2407536624e500cad0d1ed?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jun 06 |
@@ -131,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[RSA Security](http://www.rsa.com)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/6a21fd024bdf8a5a96bd9c9a?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Jun 04 |
 | **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Intern](https://jobright.ai/jobs/info/6a21f6417c30cc2cc516ca8f?utm_campaign=1079&utm_source=git)** | Columbia, MD | Hybrid | Jun 04 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a21f6417c30cc2cc516ca90?utm_campaign=1079&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | Jun 04 |
-| **[Tenstorrent](http://tenstorrent.com)** | **[Acceleration Kernel Developer Intern](https://jobright.ai/jobs/info/6a21f62dca8f0b365d7aa139?utm_campaign=1079&utm_source=git)** | Santa Clara, California, United States | Hybrid | Jun 04 |
-| ↳ | **[Acceleration Kernel Developer Intern](https://jobright.ai/jobs/info/6a21f62dca8f0b365d7aa138?utm_campaign=1079&utm_source=git)** | Santa Clara | Hybrid | Jun 04 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Acceleration Kernel Developer Intern](https://jobright.ai/jobs/info/6a21f62dca8f0b365d7aa138?utm_campaign=1079&utm_source=git)** | Santa Clara | Hybrid | Jun 04 |
+| ↳ | **[Acceleration Kernel Developer Intern](https://jobright.ai/jobs/info/6a21f62dca8f0b365d7aa139?utm_campaign=1079&utm_source=git)** | Santa Clara, California, United States | Hybrid | Jun 04 |
 | **[DefenseStorm](https://www.defensestorm.com/)** | **[Software Engineer - Intern (Fall 2026)](https://jobright.ai/jobs/info/6a21e2217c30cc2cc516c0dd?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 04 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Fall 2026 Internships - IT Analyst](https://jobright.ai/jobs/info/6a21ddcdc00e701fe83716f3?utm_campaign=1079&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Jun 04 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Forward Deployed Software Engineer, Internship - US Government](https://jobright.ai/jobs/info/6a21db64902d19201c7ba676?utm_campaign=1079&utm_source=git)** | Honolulu, HI | On Site | Jun 04 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[American Thrombosis and Hemostasis Network (ATHN)](http://www.athn.org)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a2175b77c30cc2cc5168fee?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 04 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Intern - 16198](https://jobright.ai/jobs/info/6a215bebca8f0b365d7a5f44?utm_campaign=1079&utm_source=git)** | Canonsburg, Pennsylvania | Hybrid | Jun 04 |
 | **[ASM](https://www.asm.com)** | **[Software Engineering Intern (Spring 2027)](https://jobright.ai/jobs/info/69e98e1e0a6e09555303cd23?utm_campaign=1079&utm_source=git)** | Greater Phoenix Area | On Site | Jun 04 |
-| **[Progress Software](https://www.progress.com)** | **[IT Software Engineer Intern (Recent Graduate) – Salesforce & AI Solutions](https://jobright.ai/jobs/info/6a214f9a338c01230511db09?utm_campaign=1079&utm_source=git)** | Hybrid Remote, Burlington, Massachusetts | Hybrid | Jun 04 |
+| **[Progress Software](https://www.progress.com)** | **[IT Software Engineer Intern (Recent Graduate) – Salesforce & AI Solutions](https://jobright.ai/jobs/info/6a214f9a338c01230511db0a?utm_campaign=1079&utm_source=git)** | Raleigh, North Carolina | Hybrid | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
