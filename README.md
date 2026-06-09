@@ -57,21 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Full-Stack AI Engineer Internship (Frontend)](https://jobright.ai/jobs/info/6a283be51dbd8437bebc9b68?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 09 |
+| **[AltaML](https://www.altaml.com/)** | **[Associate Software Developer (Brilliant Harvest) (Fall 2026)](https://jobright.ai/jobs/info/6a285916fd37e62bb47a8825?utm_campaign=1079&utm_source=git)** | Edmonton | Hybrid | Jun 09 |
+| ↳ | **[Associate Software Developer (Brilliant Harvest) (Fall 2026)](https://jobright.ai/jobs/info/6a285916fd37e62bb47a8826?utm_campaign=1079&utm_source=git)** | Calgary | Hybrid | Jun 09 |
+| **[Siemens](https://www.siemens.com)** | **[Strategic Student Program: Software Engineering Intern (PES, Fall 2026)](https://jobright.ai/jobs/info/6a2857717061b51a3a5f50c2?utm_campaign=1079&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Cloud Software Intern, GeForce NOW - Fall 2026](https://jobright.ai/jobs/info/6a28570a883c0d3be6541499?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara, US | On Site | Jun 09 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Frontend Application Engineer)](https://jobright.ai/jobs/info/6a0b5a84963f7a67d95ced13?utm_campaign=1079&utm_source=git)** | Pensacola, FL, United States | On Site | Jun 09 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Full Stack AI Engineer Intern](https://jobright.ai/jobs/info/6a284a6540ac8e32932a07cd?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 09 |
+| **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a0badc94d932036368735aa?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jun 09 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Quality Assurance](https://jobright.ai/jobs/info/6a2849471dbd8437bebca2e8?utm_campaign=1079&utm_source=git)** | Lincoln, NE, US | On Site | Jun 09 |
+| **[iRhythm Technologies, Inc.](http://www.irhythmtech.com)** | **[Intern - Solutions Engineer](https://jobright.ai/jobs/info/6a281ffafd37e62bb47a6c55?utm_campaign=1079&utm_source=git)** | Orange County, CA, US | On Site | Jun 09 |
 | **[Advita Ortho](advita.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a272ef52056260dd6e85c96?utm_campaign=1079&utm_source=git)** | Gainesville, FL | On Site | Jun 09 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Full-Stack AI Engineer Intern](https://jobright.ai/jobs/info/6a283979fd37e62bb47a78db?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Muru Inc](http://www.murumed.com)** | **[Mobile Software Engineer Intern](https://jobright.ai/jobs/info/6a2839771dbd8437bebc99a3?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jun 09 |
 | **[Digy4](https://digy4.com)** | **[Full Stack Developer Intern – AI Solutions](https://jobright.ai/jobs/info/6a28368c883c0d3be6540541?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jun 09 |
 | **[Manhattan Associates](http://www.manh.com)** | **[R&D Internship Program - Summer 2026 - Campus](https://jobright.ai/jobs/info/6a282d6b1dbd8437bebc94e9?utm_campaign=1079&utm_source=git)** | Atlanta, GA, US | On Site | Jun 09 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Web Developer Intern](https://jobright.ai/jobs/info/6a282d4b40ac8e329329f8fa?utm_campaign=1079&utm_source=git)** | Milwaukee, WI | On Site | Jun 09 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer – Amazon Leo (US)](https://jobright.ai/jobs/info/6a0c765d538d03366dc8d8d8?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jun 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Frontend Application Engineer)](https://jobright.ai/jobs/info/6a1118289f654b3359cefeac?utm_campaign=1079&utm_source=git)** | Vienna, VA | On Site | Jun 09 |
-| ↳ | **[Intern - Year Round (Frontend Application Engineer)](https://jobright.ai/jobs/info/6a0b5a84963f7a67d95ced13?utm_campaign=1079&utm_source=git)** | Pensacola, FL, United States | On Site | Jun 09 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer – Amazon Leo (US)](https://jobright.ai/jobs/info/6a0c0ce0538d03366dc8a514?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jun 09 |
+| **[Nash](https://www.nash.ai/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a0c0cd4538d03366dc8a4e7?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jun 09 |
 | **[Muru Inc](http://www.murumed.com)** | **[Software Engineer Intern (Full-Stack Development Focus)](https://jobright.ai/jobs/info/6a2823a240ac8e329329f3db?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jun 09 |
 | **[Notion](https://www.notion.com)** | **[Software Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/69d4704fe63cea7a8b659890?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jun 09 |
 | **[Landmark Group](https://www.landmark-group.co.uk)** | **[QA Intern](https://jobright.ai/jobs/info/6a2820d9fd37e62bb47a6d39?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 09 |
-| **[iRhythm Technologies, Inc.](http://www.irhythmtech.com)** | **[Intern - Solutions Engineer](https://jobright.ai/jobs/info/6a281ffafd37e62bb47a6c55?utm_campaign=1079&utm_source=git)** | Orange County, CA, US | On Site | Jun 09 |
 | **[Nash](https://www.nash.ai/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a0b58fa4d9320363687001f?utm_campaign=1079&utm_source=git)** | San Francisco | Hybrid | Jun 09 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69efe46c16b2612c2a12c54a?utm_campaign=1079&utm_source=git)** | New York, NY, US | On Site | Jun 09 |
 | **[Munich Re](https://www.munichre.com)** | **[IT Transformation Analyst Intern Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2816d5fd37e62bb47a6865?utm_campaign=1079&utm_source=git)** | Princeton, NJ, US | On Site | Jun 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Volkswagen of America, Inc](https://www.vw.com/)** | **[Intern, ADAS/AD Software Engineering - AI Deployment](https://jobright.ai/jobs/info/6a2487a9dedf78312c7aebe1?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
 | **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[US 2026 Functional Testing Intern](https://jobright.ai/jobs/info/6a07a2133b54ed42d74d09a0?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Quantitative Equity Technology, Infrastructure Software Engineer](https://jobright.ai/jobs/info/69eb913f4b0fa35a7077c6cb?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 06 |
-| **[Rocket Lab](https://rocketlabcorp.com)** | **[Integration & Test Intern Fall 2026](https://jobright.ai/jobs/info/6a1f1c88b61b2c65b37af469?utm_campaign=1079&utm_source=git)** | Long Beach, CA | On Site | Jun 06 |
-| **[Onto Innovation](http://www.ontoinnovation.com)** | **[Software QA Engineer Internship](https://jobright.ai/jobs/info/6a086eba403fc339507ee18b?utm_campaign=1079&utm_source=git)** | Bloomington, MN | On Site | Jun 06 |
-| **[Vanco](http://www.vancopayments.com)** | **[QA Context Engineering Intern](https://jobright.ai/jobs/info/6a2417a314de9460dc846135?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 06 |
-| ↳ | **[QA Context Engineering Intern](https://jobright.ai/jobs/info/6a2417a314de9460dc846136?utm_campaign=1079&utm_source=git)** | USA | Remote | Jun 06 |
-| ↳ | **[QA Context Engineering Intern](https://jobright.ai/jobs/info/6a2417a314de9460dc846137?utm_campaign=1079&utm_source=git)** | Fully Remote | Remote | Jun 06 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Software Engineering Intern, Mapping Autonomous Vehicles - Fall 2026](https://jobright.ai/jobs/info/6a240e51757ade085b6afa5a?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara, US | On Site | Jun 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
