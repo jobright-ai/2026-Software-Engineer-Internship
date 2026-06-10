@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centerfield](http://www.centerfield.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a288e1a1dbd8437bebcbeb3?utm_campaign=1079&utm_source=git)** | Los Angeles, California | Hybrid | Jun 09 |
 | **[Egotechworld](https://egotechworld.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a28d828883c0d3be6544615?utm_campaign=1079&utm_source=git)** | Ukiah, CA | Remote | Jun 09 |
 | **[GenPark](https://genpark.ai)** | **[Full Stack Engineer Intern](https://jobright.ai/jobs/info/6a28d39ffd37e62bb47ab5f0?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jun 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Security Software Engineer Project Intern (Product Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a28d09dfd37e62bb47ab4cd?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jun 09 |
@@ -64,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[SpendMatch](https://www.spend-match.com)** | **[Software Engineer Internship (AI + Database)](https://jobright.ai/jobs/info/6a28c59c883c0d3be6543f4a?utm_campaign=1079&utm_source=git)** | Maryland, United States | Remote | Jun 09 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer (SkillBridge Intern) - 23875 Job Details / HII's Mission Technologies division](https://jobright.ai/jobs/info/6a28c1b340ac8e32932a3725?utm_campaign=1079&utm_source=git)** | Roanoke, VA, Virginia, United States | On Site | Jun 09 |
 | **[Taulia](http://www.taulia.com)** | **[Forward Deployed Engineering (FDE) Intern 1](https://jobright.ai/jobs/info/6a28bdbf883c0d3be6543d2f?utm_campaign=1079&utm_source=git)** | US | Remote | Jun 09 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Associate Software Developer](https://jobright.ai/jobs/info/6a286586883c0d3be6541b8d?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | On Site | Jun 09 |
-| ↳ | **[Intern Associate Software Developer](https://jobright.ai/jobs/info/6a286587883c0d3be6541b8f?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 09 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Associate Software Developer](https://jobright.ai/jobs/info/6a286587883c0d3be6541b8f?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 09 |
+| ↳ | **[Intern Associate Software Developer](https://jobright.ai/jobs/info/6a286586883c0d3be6541b8d?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | On Site | Jun 09 |
 | **[Zipline](https://www.zipline.com/)** | **[Enterprise Systems Software Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a28ab4240ac8e32932a3002?utm_campaign=1079&utm_source=git)** | South San Francisco, California, USA | On Site | Jun 09 |
 | **[1Password](https://1password.com)** | **[Developer Intern, Front-End Platform - Fall 2026](https://jobright.ai/jobs/info/6a28aa68883c0d3be6543765?utm_campaign=1079&utm_source=git)** | Remote (United States | Canada) | Remote | Jun 09 |
 | **[SAP Taulia](https://taulia.com/)** | **[Forward Deployed Engineering (FDE) Intern 1](https://jobright.ai/jobs/info/6a28a8172d6c332ee52e76d9?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 09 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a288f392d6c332ee52e6cfc?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 09 |
 | ↳ | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a288f382d6c332ee52e6cf8?utm_campaign=1079&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 09 |
 | ↳ | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a288f372d6c332ee52e6cf7?utm_campaign=1079&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 09 |
-| **[Centerfield](http://www.centerfield.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a288e1a1dbd8437bebcbeb3?utm_campaign=1079&utm_source=git)** | Los Angeles, California | Hybrid | Jun 09 |
 | **[Exactech](http://www.exac.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a2814c81dbd8437bebc8947?utm_campaign=1079&utm_source=git)** | Gainesville, FL | On Site | Jun 09 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Embedded Software Engineer, Optimus (Fall 2026)](https://jobright.ai/jobs/info/6a28897c40ac8e32932a237e?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jun 09 |
 | **[Teradyne](http://www.teradyne.com)** | **[Software Engineering Co-Op, Fall 2026,](https://jobright.ai/jobs/info/6a2897477061b51a3a5f6d01?utm_campaign=1079&utm_source=git)** | North Reading, MA | Hybrid | Jun 09 |
@@ -97,8 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a28684b1dbd8437bebcafb9?utm_campaign=1079&utm_source=git)** | Suwanee, GA | On Site | Jun 09 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Software Developer Quality Assurance](https://jobright.ai/jobs/info/6a28658640ac8e32932a1393?utm_campaign=1079&utm_source=git)** | NL-Remote | Remote | Jun 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Frontend Application Engineer)](https://jobright.ai/jobs/info/6a0b5a84963f7a67d95ced13?utm_campaign=1079&utm_source=git)** | Pensacola, FL, United States | On Site | Jun 09 |
-| **[AltaML](https://www.altaml.com/)** | **[Associate Software Developer (Brilliant Harvest) (Fall 2026)](https://jobright.ai/jobs/info/6a285916fd37e62bb47a8825?utm_campaign=1079&utm_source=git)** | Edmonton | Hybrid | Jun 09 |
-| ↳ | **[Associate Software Developer (Brilliant Harvest) (Fall 2026)](https://jobright.ai/jobs/info/6a285916fd37e62bb47a8826?utm_campaign=1079&utm_source=git)** | Calgary | Hybrid | Jun 09 |
+| **[AltaML](https://www.altaml.com/)** | **[Associate Software Developer (Brilliant Harvest) (Fall 2026)](https://jobright.ai/jobs/info/6a285916fd37e62bb47a8826?utm_campaign=1079&utm_source=git)** | Calgary | Hybrid | Jun 09 |
+| ↳ | **[Associate Software Developer (Brilliant Harvest) (Fall 2026)](https://jobright.ai/jobs/info/6a285916fd37e62bb47a8825?utm_campaign=1079&utm_source=git)** | Edmonton | Hybrid | Jun 09 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Cloud Software Intern, GeForce NOW - Fall 2026](https://jobright.ai/jobs/info/6a28570a883c0d3be6541499?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara, US | On Site | Jun 09 |
 | **[United Imaging Intelligence](https://www.uii-ai.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a287d65883c0d3be65426d7?utm_campaign=1079&utm_source=git)** | Greater Boston | On Site | Jun 09 |
 | **[iRhythm Technologies, Inc.](http://www.irhythmtech.com)** | **[Intern - Solutions Engineer](https://jobright.ai/jobs/info/6a281ffafd37e62bb47a6c55?utm_campaign=1079&utm_source=git)** | Orange County, CA, US | On Site | Jun 09 |
@@ -122,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Crest Industries](http://www.crestoperations.com/)** | **[CIS/CS Internship](https://jobright.ai/jobs/info/6a1f8ff5c5277c00c648729d?utm_campaign=1079&utm_source=git)** | Pineville, Louisiana | On Site | Jun 09 |
 | **[SoloPulse](https://www.solopulseco.com/)** | **[Software Engineer Intern/Co-Op - Spring/Summer 2026](https://jobright.ai/jobs/info/6a28075b7061b51a3a5f2e09?utm_campaign=1079&utm_source=git)** | Emeryville, CA | On Site | Jun 09 |
 | **[Podium](https://www.podium.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0ba516538d03366dc87963?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Jun 09 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0b8d5c963f7a67d95d101c?utm_campaign=1079&utm_source=git)** | Lehi | On Site | Jun 09 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1c784b6b135014dbc927fa?utm_campaign=1079&utm_source=git)** | Lehi, Utah | On Site | Jun 09 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1c784a6b135014dbc927f9?utm_campaign=1079&utm_source=git)** | Lehi | On Site | Jun 09 |
 | **[Aechelon Technology Inc.](http://www.aechelon.com)** | **[RTK - Junior Software Engineer - Internship](https://jobright.ai/jobs/info/6a27e72f2d6c332ee52e2cd7?utm_campaign=1079&utm_source=git)** | Farmer's Branch, Texas | On Site | Jun 09 |
 | **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a27e56b7061b51a3a5f27de?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Jun 09 |
 | ↳ | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a27e5697061b51a3a5f27dc?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jun 09 |
