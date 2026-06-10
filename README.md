@@ -71,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Backend Development Intern, Fall 2026](https://jobright.ai/jobs/info/6a296d5d0c4972328e7e3447?utm_campaign=1079&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Jun 10 |
 | **[EarnIn](https://www.earnin.com)** | **[Mobile Engineer Intern (iOS)](https://jobright.ai/jobs/info/6a06f9754a0a6a7e7d81d392?utm_campaign=1079&utm_source=git)** | Mountain View, US | Hybrid | Jun 10 |
 | ↳ | **[Mobile Engineer Intern (iOS)](https://jobright.ai/jobs/info/69d6853f48f0c8161d2f83f0?utm_campaign=1079&utm_source=git)** | Mountain View, US | Hybrid | Jun 10 |
-| ↳ | **[Mobile Engineer Intern (iOS)](https://jobright.ai/jobs/info/6a06f9644a0a6a7e7d81d35e?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Jun 10 |
 | ↳ | **[Mobile Engineer Intern (iOS)](https://jobright.ai/jobs/info/6a1bef22547e292ae139f86a?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Jun 10 |
+| ↳ | **[Mobile Engineer Intern (iOS)](https://jobright.ai/jobs/info/6a06f9644a0a6a7e7d81d35e?utm_campaign=1079&utm_source=git)** | Mountain View, CA | Hybrid | Jun 10 |
 | **[Coveo](http://www.coveo.com)** | **[Software Developer Intern (Professional Services team), Fall 2026](https://jobright.ai/jobs/info/6a295f362cde2824469bbb7e?utm_campaign=1079&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Jun 10 |
 | **[Nokia](http://www.nokia.com)** | **[Embedded C/C++ SW Developer Co-op/Intern](https://jobright.ai/jobs/info/6a1153b6619335383fb37706?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 10 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Design Verification Engineer, Intern](https://jobright.ai/jobs/info/6a2952ab1de59e0682a7e7a3?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Jun 10 |
@@ -87,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Aechelon Technology Inc.](http://www.aechelon.com)** | **[Junior Software Engineer - Internship](https://jobright.ai/jobs/info/6a291c647061b51a3a5f9a29?utm_campaign=1079&utm_source=git)** | Overland Park, KS | On Site | Jun 10 |
 | **[Voldebug Innovations PVT. LTD.](https://voldebug.in)** | **[Tech Intern](https://jobright.ai/jobs/info/6a2912502d6c332ee52e9a0e?utm_campaign=1079&utm_source=git)** | Urban agglomeration of Montreal, Quebec, Canada | On Site | Jun 10 |
 | **[NVIDIA AI](https://developer.nvidia.com/blog/)** | **[Cloud Distributed Systems Backend Intern, GeForce NOW - Fall 2026](https://jobright.ai/jobs/info/6a2907f62d6c332ee52e96bd?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 09 |
+| ↳ | **[Cloud Software Intern, GeForce NOW - Fall 2026](https://jobright.ai/jobs/info/6a297538d3ec8317fe13e12a?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 09 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Software Developer Intern (4 months - full time)](https://jobright.ai/jobs/info/6a29047efd37e62bb47ac6d8?utm_campaign=1079&utm_source=git)** | 3740 W Market Center Dr, Bluffdale, UT, 84065, US | Hybrid | Jun 09 |
 | **[NVIDIA AI](https://developer.nvidia.com/blog/)** | **[Agentic AI Solution Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a2954de495d985b99422cc5?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jun 09 |
 | **[1Password](https://1password.com)** | **[Developer Intern, Front-End Platform - Fall 2026](https://jobright.ai/jobs/info/6a296a27d3ec8317fe13dc7c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 09 |
@@ -145,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Crest Industries](http://www.crestoperations.com/)** | **[CIS/CS Internship](https://jobright.ai/jobs/info/6a1f8ff5c5277c00c648729d?utm_campaign=1079&utm_source=git)** | Pineville, Louisiana | On Site | Jun 09 |
 | **[SoloPulse](https://www.solopulseco.com/)** | **[Software Engineer Intern/Co-Op - Spring/Summer 2026](https://jobright.ai/jobs/info/6a28075b7061b51a3a5f2e09?utm_campaign=1079&utm_source=git)** | Emeryville, CA | On Site | Jun 09 |
 | **[Podium](https://www.podium.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0ba516538d03366dc87963?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Jun 09 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0b8d5c963f7a67d95d101c?utm_campaign=1079&utm_source=git)** | Lehi | On Site | Jun 09 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0b8d61963f7a67d95d1023?utm_campaign=1079&utm_source=git)** | Lehi, Utah | On Site | Jun 09 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1c784a6b135014dbc927f9?utm_campaign=1079&utm_source=git)** | Lehi | On Site | Jun 09 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1c784b6b135014dbc927fa?utm_campaign=1079&utm_source=git)** | Lehi, Utah | On Site | Jun 09 |
 | **[Aechelon Technology Inc.](http://www.aechelon.com)** | **[RTK - Junior Software Engineer - Internship](https://jobright.ai/jobs/info/6a27e72f2d6c332ee52e2cd7?utm_campaign=1079&utm_source=git)** | Farmer's Branch, Texas | On Site | Jun 09 |
 | **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a27e56b7061b51a3a5f27de?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Jun 09 |
 | ↳ | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a27e5697061b51a3a5f27dc?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jun 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA AI](https://developer.nvidia.com/blog/)** | **[Cloud Distributed Systems Backend Intern, GeForce NOW - Summer 2026](https://jobright.ai/jobs/info/6a27acce7061b51a3a5f1fd4?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 08 |
 | **[Truveta](https://www.truveta.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a275813ca77fd3096d26c45?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jun 08 |
 | **[SpaceNews](http://spacenews.com/)** | **[Intern – Space Software Engineering, National Security Space](https://jobright.ai/jobs/info/6a279a40883c0d3be653e0f2?utm_campaign=1079&utm_source=git)** | Chantilly, VA | On Site | Jun 08 |
-| **[TikTok](https://www.tiktok.com)** | **[Platform User Operations Project Intern (TikTok Platform Responsibility) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2786ab7061b51a3a5f15fc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
