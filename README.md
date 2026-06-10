@@ -57,16 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP Taulia](https://taulia.com/)** | **[Forward Deployed Engineering (FDE) Intern 1](https://jobright.ai/jobs/info/6a28a8172d6c332ee52e76d9?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 09 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Agentic AI Solution Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a28a736883c0d3be6543657?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jun 09 |
+| ↳ | **[Cloud Software Intern, GeForce NOW - Fall 2026](https://jobright.ai/jobs/info/6a28a7211dbd8437bebcc92f?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 09 |
+| ↳ | **[Agentic AI Solution Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a28a71f40ac8e32932a2ead?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 09 |
+| ↳ | **[Cloud Distributed Systems Backend Intern, GeForce NOW - Fall 2026](https://jobright.ai/jobs/info/6a28a6e940ac8e32932a2ea6?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 09 |
 | **[Zipline](https://www.zipline.com/)** | **[Enterprise Systems Software Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2899cf40ac8e32932a29f1?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Jun 09 |
 | **[Teradyne](http://www.teradyne.com)** | **[Software Engineering Co-Op, Fall 2026,](https://jobright.ai/jobs/info/6a2897477061b51a3a5f6d01?utm_campaign=1079&utm_source=git)** | North Reading, MA | Hybrid | Jun 09 |
 | **[Ericsson](https://www.ericsson.com)** | **[Baseband Developer Intern - AI Adoption](https://jobright.ai/jobs/info/6a2895cb2d6c332ee52e7024?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jun 09 |
-| **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Web Developer & UI/UX Design Intern](https://jobright.ai/jobs/info/6a289526883c0d3be6542ffe?utm_campaign=1079&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jun 09 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Firmware Engineer - Summer 2026](https://jobright.ai/jobs/info/6a2891c67061b51a3a5f6af9?utm_campaign=1079&utm_source=git)** | Fort Collins, CO | On Site | Jun 09 |
 | **[Geotab](http://www.geotab.com/)** | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a288f392d6c332ee52e6cfc?utm_campaign=1079&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 09 |
 | ↳ | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a288f382d6c332ee52e6cf8?utm_campaign=1079&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 09 |
 | ↳ | **[Software Developer Intern, MyGeotab (Fall/September 2026, 4-8 Months)](https://jobright.ai/jobs/info/6a288f372d6c332ee52e6cf7?utm_campaign=1079&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 09 |
 | **[Centerfield](http://www.centerfield.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a288e1a1dbd8437bebcbeb3?utm_campaign=1079&utm_source=git)** | Los Angeles, California | Hybrid | Jun 09 |
-| **[Routes Technologies](https://www.linkedin.com/company/105489329)** | **[Frontend Developer Intern (Summer/Fall 2026)](https://jobright.ai/jobs/info/6a288d2ffd37e62bb47a9ccc?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 09 |
+| **[Exactech](http://www.exac.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a2814c81dbd8437bebc8947?utm_campaign=1079&utm_source=git)** | Gainesville, FL | On Site | Jun 09 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Embedded Software Engineer, Optimus (Fall 2026)](https://jobright.ai/jobs/info/6a28897c40ac8e32932a237e?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jun 09 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Backend Database API Intern (Academic Credit Only) Summer/Fall 2026](https://jobright.ai/jobs/info/6a28850840ac8e32932a22b0?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Birdseye Security Solutions](https://birdseyesecurity.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a285e722d6c332ee52e583b?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jun 09 |
@@ -82,10 +86,10 @@ For a complete list, click the following sortable link below:
 | **[Mujin](https://www.mujin.co.jp)** | **[Software Integration Intern (Fall 2026)](https://jobright.ai/jobs/info/6a286882fd37e62bb47a8f13?utm_campaign=1079&utm_source=git)** | Suwanee, GA | On Site | Jun 09 |
 | ↳ | **[Software Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a28684b1dbd8437bebcafb9?utm_campaign=1079&utm_source=git)** | Suwanee, GA | On Site | Jun 09 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Associate Software Developer](https://jobright.ai/jobs/info/6a286587883c0d3be6541b8f?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | On Site | Jun 09 |
-| ↳ | **[Intern Associate Software Developer](https://jobright.ai/jobs/info/6a286586883c0d3be6541b8d?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | On Site | Jun 09 |
 | ↳ | **[Intern Software Developer Quality Assurance](https://jobright.ai/jobs/info/6a28658640ac8e32932a1393?utm_campaign=1079&utm_source=git)** | NL-Remote | Remote | Jun 09 |
-| **[AltaML](https://www.altaml.com/)** | **[Associate Software Developer (Brilliant Harvest) (Fall 2026)](https://jobright.ai/jobs/info/6a285916fd37e62bb47a8826?utm_campaign=1079&utm_source=git)** | Calgary | Hybrid | Jun 09 |
-| ↳ | **[Associate Software Developer (Brilliant Harvest) (Fall 2026)](https://jobright.ai/jobs/info/6a285916fd37e62bb47a8825?utm_campaign=1079&utm_source=git)** | Edmonton | Hybrid | Jun 09 |
+| ↳ | **[Intern Associate Software Developer](https://jobright.ai/jobs/info/6a286586883c0d3be6541b8d?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | On Site | Jun 09 |
+| **[AltaML](https://www.altaml.com/)** | **[Associate Software Developer (Brilliant Harvest) (Fall 2026)](https://jobright.ai/jobs/info/6a285916fd37e62bb47a8825?utm_campaign=1079&utm_source=git)** | Edmonton | Hybrid | Jun 09 |
+| ↳ | **[Associate Software Developer (Brilliant Harvest) (Fall 2026)](https://jobright.ai/jobs/info/6a285916fd37e62bb47a8826?utm_campaign=1079&utm_source=git)** | Calgary | Hybrid | Jun 09 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Cloud Software Intern, GeForce NOW - Fall 2026](https://jobright.ai/jobs/info/6a28570a883c0d3be6541499?utm_campaign=1079&utm_source=git)** | US, CA, Santa Clara, US | On Site | Jun 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Frontend Application Engineer)](https://jobright.ai/jobs/info/6a0b5a84963f7a67d95ced13?utm_campaign=1079&utm_source=git)** | Pensacola, FL, United States | On Site | Jun 09 |
 | **[United Imaging Intelligence](https://www.uii-ai.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a287d65883c0d3be65426d7?utm_campaign=1079&utm_source=git)** | Greater Boston | On Site | Jun 09 |
@@ -105,13 +109,12 @@ For a complete list, click the following sortable link below:
 | **[Nash](https://www.nash.ai/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a0b58fa4d9320363687001f?utm_campaign=1079&utm_source=git)** | San Francisco | Hybrid | Jun 09 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/69efe46c16b2612c2a12c54a?utm_campaign=1079&utm_source=git)** | New York, NY, US | On Site | Jun 09 |
 | **[Munich Re](https://www.munichre.com)** | **[IT Transformation Analyst Intern Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2816d5fd37e62bb47a6865?utm_campaign=1079&utm_source=git)** | Princeton, NJ, US | On Site | Jun 09 |
-| **[Exactech](http://www.exac.com)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a2814c81dbd8437bebc8947?utm_campaign=1079&utm_source=git)** | Gainesville, FL | On Site | Jun 09 |
 | **[Layup Parts](www.layupparts.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a16e03ad6a04f21602e0f69?utm_campaign=1079&utm_source=git)** | Huntington Beach | On Site | Jun 09 |
-| **[Crest Industries](http://www.crestoperations.com/)** | **[CIS/CS Internship](https://jobright.ai/jobs/info/6a1f8ff5c5277c00c648729d?utm_campaign=1079&utm_source=git)** | Pineville, Louisiana | On Site | Jun 09 |
+| **[Crest Industries](http://www.crestoperations.com/)** | **[CIS/CS Internship](https://jobright.ai/jobs/info/696a72fcdb26b618950da468?utm_campaign=1079&utm_source=git)** | Pineville, Louisiana | On Site | Jun 09 |
 | **[SoloPulse](https://www.solopulseco.com/)** | **[Software Engineer Intern/Co-Op - Spring/Summer 2026](https://jobright.ai/jobs/info/6a28075b7061b51a3a5f2e09?utm_campaign=1079&utm_source=git)** | Emeryville, CA | On Site | Jun 09 |
 | **[Podium](https://www.podium.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0ba516538d03366dc87963?utm_campaign=1079&utm_source=git)** | Lehi, UT | On Site | Jun 09 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0b8d61963f7a67d95d1023?utm_campaign=1079&utm_source=git)** | Lehi, Utah | On Site | Jun 09 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a1c784a6b135014dbc927f9?utm_campaign=1079&utm_source=git)** | Lehi | On Site | Jun 09 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a0b8d5c963f7a67d95d101c?utm_campaign=1079&utm_source=git)** | Lehi | On Site | Jun 09 |
 | **[Aechelon Technology Inc.](http://www.aechelon.com)** | **[RTK - Junior Software Engineer - Internship](https://jobright.ai/jobs/info/6a27e72f2d6c332ee52e2cd7?utm_campaign=1079&utm_source=git)** | Farmer's Branch, Texas | On Site | Jun 09 |
 | **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a27e56b7061b51a3a5f27de?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Jun 09 |
 | ↳ | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a27e5697061b51a3a5f27dc?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jun 09 |
@@ -124,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Platform User Operations Project Intern (TikTok Platform Responsibility) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2786ab7061b51a3a5f15fc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 08 |
 | ↳ | **[Platform User Operations Project Intern (TikTok Platform Responsibility) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2762b2ca77fd3096d26fff?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jun 08 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Cloud Distributed Systems Backend Intern, GeForce NOW - Summer 2026](https://jobright.ai/jobs/info/6a2830212d6c332ee52e4350?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 08 |
-| **[Joby Aviation](http://www.jobyaviation.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a190481abc8f63abac7e1a4?utm_campaign=1079&utm_source=git)** | US-CA-San Carlos | On Site | Jun 08 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a190481abc8f63abac7e1a3?utm_campaign=1079&utm_source=git)** | San Carlos, CA, US | On Site | Jun 08 |
+| **[Joby Aviation](http://www.jobyaviation.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a190481abc8f63abac7e1a3?utm_campaign=1079&utm_source=git)** | San Carlos, CA, US | On Site | Jun 08 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a190481abc8f63abac7e1a4?utm_campaign=1079&utm_source=git)** | US-CA-San Carlos | On Site | Jun 08 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Amazon Leo, Fall 2026 (US)](https://jobright.ai/jobs/info/6a275b0630042e75390888a4?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
 | ↳ | **[Software Development Engineer Internship - Amazon Leo, Fall 2026 (US)](https://jobright.ai/jobs/info/6a275b03ca77fd3096d26da9?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jun 08 |
 | **[Bybit](https://www.bybit.com)** | **[Backend Development Engineer Intern](https://jobright.ai/jobs/info/6a275a0d30042e7539088834?utm_campaign=1079&utm_source=git)** | APAC - Remote | Remote | Jun 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TrendAI](http://www.trendmicro.com)** | **[Software Developer Co-Op - Fall 2026](https://jobright.ai/jobs/info/6a26f61930042e7539086249?utm_campaign=1079&utm_source=git)** | Ottawa, CA | On Site | Jun 08 |
 | **[CAE](http://www.cae.com)** | **[C-GE-102 - Software Developer Intern – GUI Framework, Services and User Experience (UX)](https://jobright.ai/jobs/info/6a26f56412f0202342261a36?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 08 |
 | **[Redwire](https://redwirespace.com)** | **[Intern – Space Software Engineering, National Security Space](https://jobright.ai/jobs/info/6a26f4404ec8d737d6dfce2a?utm_campaign=1079&utm_source=git)** | 14401 Penrose Place, Unit 220, Chantilly, VA | On Site | Jun 08 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a26f0e72056260dd6e84126?utm_campaign=1079&utm_source=git)** | Leawood, KS, US, 66211 | Hybrid | Jun 08 |
-| **[CAE](http://www.cae.com)** | **[C-GE-055 - Software Developer Intern– Operating System Image & Configuration](https://jobright.ai/jobs/info/6a26f0d94ec8d737d6dfcc7d?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 08 |
-| **[AerSale, Inc.](https://www.aersale.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a26d07b4ec8d737d6dfbf51?utm_campaign=1079&utm_source=git)** | Doral - FL, US | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
