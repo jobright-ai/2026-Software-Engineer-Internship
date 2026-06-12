@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Trading System Engineering Internship: Summer 2027](https://jobright.ai/jobs/info/6a2a484b495d985b994285aa?utm_campaign=1079&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jun 12 |
+| **[GenPark](https://genpark.ai)** | **[Web Development Intern](https://jobright.ai/jobs/info/6a2bcab47cd40a338fae3c0f?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Jun 12 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Ads Measurement Signal and Privacy) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2bc975fc064474905474fc?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jun 12 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Engineer, NodeJS Services & AI (Spring 2027)](https://jobright.ai/jobs/info/6a2bb8261de59e0682a89fce?utm_campaign=1079&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a2bb8e0d3ec8317fe149363?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jun 11 |
 | **[Atrium Management Company](https://www.atriummanagement.com/)** | **[Computer Science Intern](https://jobright.ai/jobs/info/6a2ae7341de59e0682a86a83?utm_campaign=1079&utm_source=git)** | ORLANDO,FL,US | On Site | Jun 11 |
@@ -119,9 +122,9 @@ For a complete list, click the following sortable link below:
 | **[Quaker Houghton](https://home.quakerhoughton.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a2a67239bf7365df0899029?utm_campaign=1079&utm_source=git)** | Pennsylvania, United States | Hybrid | Jun 11 |
 | **[Nokia](http://www.nokia.com)** | **[Software Developer Co-op/Intern](https://jobright.ai/jobs/info/69f2b061ab4ec4779fffa6e4?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 11 |
 | ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/69f302e4ecbc8c2f7320f81c?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | On Site | Jun 11 |
-| ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/6a0f244583d714428981d232?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Jun 11 |
-| ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/6a1153a99f654b3359cf0a97?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 11 |
 | ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b0648feca91f149264d6?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 11 |
+| ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/6a1153a99f654b3359cf0a97?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 11 |
+| ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/6a0f244583d714428981d232?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Jun 11 |
 | ↳ | **[Software Tester – Co-op/Intern](https://jobright.ai/jobs/info/6a157ec0128680351d961cdb?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 11 |
 | **[Arlo Technologies, Inc.](https://www.arlo.com)** | **[SW Engineer Intern, iOS (AI-Assisted Development)](https://jobright.ai/jobs/info/69bbbdd53b74eb1e2c8a375a?utm_campaign=1079&utm_source=git)** | Milpitas, CA | Hybrid | Jun 11 |
 | **[Trillium Flow Technologies](https://www.trilliumflow.com/)** | **[AI & Automation Intern Job Details / Trillium Flow Technologies](https://jobright.ai/jobs/info/6a2aad102cde2824469c2998?utm_campaign=1079&utm_source=git)** | Fresno, CA, US, 93706 | On Site | Jun 11 |
@@ -143,18 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Andson Biotech](https://andsonbiotech.com)** | **[Front-End Development Intern](https://jobright.ai/jobs/info/6a2a2ea3d3ec8317fe1429e0?utm_campaign=1079&utm_source=git)** | Atlanta, GA | Hybrid | Jun 10 |
 | **[Circleback](https://circleback.ai)** | **[Software Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6a2a2ba52cde2824469c0824?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jun 10 |
 | **[Sanctuary AI](https://www.sanctuary.ai)** | **[Firmware Engineering Intern (September 2026 - April 2027)](https://jobright.ai/jobs/info/6a2a28a6d3ec8317fe1424e9?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 10 |
-| **[Anduril Industries](https://www.anduril.com)** | **[2027 Software Engineer Intern](https://jobright.ai/jobs/info/6a2a2a1ec07d4b6ae1c4480c?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, United States | On Site | Jun 10 |
-| ↳ | **[2027 Software Engineer Intern](https://jobright.ai/jobs/info/6a2a2a23c07d4b6ae1c4482d?utm_campaign=1079&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jun 10 |
+| **[Anduril Industries](https://www.anduril.com)** | **[2027 Software Engineer Intern](https://jobright.ai/jobs/info/6a2a2a24c07d4b6ae1c44833?utm_campaign=1079&utm_source=git)** | Costa Mesa, California, United States | On Site | Jun 10 |
 | ↳ | **[2027 Software Engineer Intern](https://jobright.ai/jobs/info/6a2a2a1cc07d4b6ae1c447d7?utm_campaign=1079&utm_source=git)** | Seattle, Washington, United States | On Site | Jun 10 |
-| ↳ | **[2027 Software Engineer Intern](https://jobright.ai/jobs/info/6a2a2a24c07d4b6ae1c44833?utm_campaign=1079&utm_source=git)** | Costa Mesa, California, United States | On Site | Jun 10 |
+| ↳ | **[2027 Software Engineer Intern](https://jobright.ai/jobs/info/6a2a2a1ec07d4b6ae1c4480c?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, United States | On Site | Jun 10 |
 | ↳ | **[2027 Software Engineer Intern](https://jobright.ai/jobs/info/6a2a2a1dc07d4b6ae1c447ef?utm_campaign=1079&utm_source=git)** | Irvine, California, United States | On Site | Jun 10 |
+| ↳ | **[2027 Software Engineer Intern](https://jobright.ai/jobs/info/6a2a2a23c07d4b6ae1c4482d?utm_campaign=1079&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jun 10 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Software Applications Undergraduate Internship](https://jobright.ai/jobs/info/6a29fb892cde2824469bf78a?utm_campaign=1079&utm_source=git)** | Panama City, FL | On Site | Jun 10 |
 | **[Unity](https://unity.com/)** | **[ML Infrastructure Engineer - (Early Career/Internship)](https://jobright.ai/jobs/info/6a2a271bd3ec8317fe1421ec?utm_campaign=1079&utm_source=git)** | Bellevue, WA | Hybrid | Jun 10 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2027 Software Developer Internship - Undergraduate](https://jobright.ai/jobs/info/6a29efca2cde2824469bf6dd?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Software Developer Internship - Undergraduate](https://jobright.ai/jobs/info/6a2a29ef2cde2824469c0473?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Software Developer Internship - Graduate](https://jobright.ai/jobs/info/6a2a2dd2495d985b99427900?utm_campaign=1079&utm_source=git)** | Longmont, CO | On Site | Jun 10 |
 | ↳ | **[Spring 2027 Software Developer Internship - Graduate](https://jobright.ai/jobs/info/6a2a2b72495d985b99427753?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Software Developer Internship - Undergraduate](https://jobright.ai/jobs/info/6a2a1e1e2cde2824469bfd54?utm_campaign=1079&utm_source=git)** | Greater Seattle Area | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Software Developer Internship - Graduate](https://jobright.ai/jobs/info/6a2a28c5c07d4b6ae1c445d9?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jun 10 |
-| ↳ | **[Spring 2027 Software Developer Internship - Graduate](https://jobright.ai/jobs/info/6a2a28b3c07d4b6ae1c44564?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
