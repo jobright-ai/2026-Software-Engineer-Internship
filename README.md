@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JM Test Systems, LLC.](https://jmtest.com/)** | **[Spring 2026 - IT Internship](https://jobright.ai/jobs/info/6a355b161232144fb1562d7f?utm_campaign=1079&utm_source=git)** | Baton Rouge, Louisiana, 70806, United States | Hybrid | Jun 19 |
+| **[Rudler,PSC](https://rudler.cpa)** | **[Software Developer / Intern or Junior](https://jobright.ai/jobs/info/6a35576929c90c607e4e1d58?utm_campaign=1079&utm_source=git)** | Fort Wright, KY | On Site | Jun 19 |
+| **[Prospect Equities®](http://ProspectEquities.com/)** | **[Backend / Frontend Developer Intern](https://jobright.ai/jobs/info/6a178b3d5b0a497d5210d8a5?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jun 19 |
+| **[Generac](https://www.generac.com)** | **[Computer Engineering Intern](https://jobright.ai/jobs/info/6a355511f6b55d12c791f556?utm_campaign=1079&utm_source=git)** | Waukesha, WI - USA, US | On Site | Jun 19 |
 | **[Excelitas Technologies Corp.](http://www.excelitas.com)** | **[Intern / HVP-Software Engineering](https://jobright.ai/jobs/info/6a0f062312f8b43cf397b54e?utm_campaign=1079&utm_source=git)** | Billerica, MA | On Site | Jun 19 |
 | **[Skydio](https://www.skydio.com)** | **[Software Engineer Intern Fall 2026/Winter 2027](https://jobright.ai/jobs/info/69fb9cb9ffa73664aeb0146f?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Jun 19 |
 | **[Copart](http://www.copart.com)** | **[SDET Intern](https://jobright.ai/jobs/info/6a3541bbf6b55d12c791f172?utm_campaign=1079&utm_source=git)** | Dallas, TX - Headquarters, US | On Site | Jun 19 |
 | **[hillclimb](https://www.hillclimb.ing)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a35408b649fdf16292f83c7?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jun 19 |
 | **[Copart](http://www.copart.com)** | **[SDET Intern](https://jobright.ai/jobs/info/6a354003649fdf16292f83b3?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jun 19 |
-| **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a2bb8e0d3ec8317fe149363?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jun 19 |
+| **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a191a276243320e8d16a6ac?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a2bb8e0d3ec8317fe149363?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Experimentation & Evaluation, Data Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d56443732c05812e3e0b?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
 | ↳ | **[Software Engineer Intern (Quality and Efficiency Technology) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30beee89f8f147d3736b17?utm_campaign=1079&utm_source=git)** | San Jose, CA | Hybrid | Jun 19 |
 | **[Blackbird Labs](https://www.blackbird.xyz)** | **[Engineering Intern](https://jobright.ai/jobs/info/69fa3e2c0b36ff0354761565?utm_campaign=1079&utm_source=git)** | New York | On Site | Jun 19 |
@@ -70,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ee8a1c4b0fa35a70786f35?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Business Applications](https://jobright.ai/jobs/info/6a18d85fc2a87d6cd3df50e3?utm_campaign=1079&utm_source=git)** | Tucson, AZ - Downtown, US | On Site | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Backend Software Engineer Intern(Foundation Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d52743732c05812e3e04?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
-| **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern, IT Software Engineering](https://jobright.ai/jobs/info/6a35450af6b55d12c791f1ed?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
 | **[ByteDance](http://bytedance.com)** | **[Software Development Engineer Intern (Network Automation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3386ca29c90c607e4dba44?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
 | **[GoQuant](https://goquant.io)** | **[Back End Developer Intern](https://jobright.ai/jobs/info/6a34b23429c90c607e4e02e2?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Bugcrowd](https://bugcrowd.com)** | **[Engineering Intern - Summer '26](https://jobright.ai/jobs/info/6a346c817f3fdd180d4ca786?utm_campaign=1079&utm_source=git)** | Remote - US | Remote | Jun 18 |
@@ -124,11 +128,11 @@ For a complete list, click the following sortable link below:
 | **[Unity South APAC (SEA, ANZ, IND Subcont.)](http://www.unity3d.com)** | **[ML Infrastructure Engineer - (Early Career/Internship)](https://jobright.ai/jobs/info/6a337fed649fdf16292f23d8?utm_campaign=1079&utm_source=git)** | Washington, United States | On Site | Jun 17 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[UICC Engineering Intern Job Details / Giesecke+Devrient](https://jobright.ai/jobs/info/6a337980649fdf16292f22b4?utm_campaign=1079&utm_source=git)** | Dulles, VA, US | On Site | Jun 17 |
 | **[iHerb](http://www.iherb.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a3347fdf6b55d12c79186e9?utm_campaign=1079&utm_source=git)** | United States | On Site | Jun 17 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Software Development - C++](https://jobright.ai/jobs/info/6a185c48dbc80963f9342eae?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | Jun 17 |
-| ↳ | **[Co-op/Intern Software Development - C++](https://jobright.ai/jobs/info/6a21092b338c01230511caa4?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | Hybrid | Jun 17 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Software Development - C++](https://jobright.ai/jobs/info/6a21092b338c01230511caa4?utm_campaign=1079&utm_source=git)** | Ottawa, ON, CA | Hybrid | Jun 17 |
+| ↳ | **[Co-op/Intern Software Development - C++](https://jobright.ai/jobs/info/6a185c48dbc80963f9342eae?utm_campaign=1079&utm_source=git)** | CA-ON-Ottawa | Hybrid | Jun 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3328c27f3fdd180d4c5d7c?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jun 17 |
-| **[Navaide](https://navaide.com)** | **[Technology & Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/6a33255cf6b55d12c7917f8c?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jun 17 |
-| ↳ | **[Technology & Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/6a33255cf6b55d12c7917f8d?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Jun 17 |
+| **[Navaide](https://navaide.com)** | **[Technology & Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/6a33255cf6b55d12c7917f8d?utm_campaign=1079&utm_source=git)** | Arlington, VA | On Site | Jun 17 |
+| ↳ | **[Technology & Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/6a33255cf6b55d12c7917f8c?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jun 17 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Flight Software Intern (Fall 2026)](https://jobright.ai/jobs/info/6a331abd7f3fdd180d4c5906?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Jun 17 |
 | **[Unity](https://unity.com/)** | **[ML Infrastructure Engineer - (Early Career/Internship)](https://jobright.ai/jobs/info/6a2a2ce30c4972328e7e75fc?utm_campaign=1079&utm_source=git)** | Remote, Washington, USA | Remote | Jun 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Experimentation & Evaluation, Data Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a32b752649fdf16292ee426?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jun 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Research Intern](https://jobright.ai/jobs/info/6a32fa41f6b55d12c7916dbe?utm_campaign=1079&utm_source=git)** | St. Paul, MN, US | On Site | Jun 17 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Continuous Improvement & AI - IT (Fall 2026)](https://jobright.ai/jobs/info/6a334ded7f3fdd180d4c651e?utm_campaign=1079&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 17 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer (SkillBridge Intern) - 23875](https://jobright.ai/jobs/info/6a173798f45c6530ce9aa543?utm_campaign=1079&utm_source=git)** | Greater Roanoke Area | On Site | Jun 17 |
-| **[AARP](http://www.aarp.org)** | **[Information Technology Intern (Graduate Student)](https://jobright.ai/jobs/info/6a32dcf1649fdf16292eefda?utm_campaign=1079&utm_source=git)** | Washington, DC | Hybrid | Jun 17 |
-| **[MaintainX](https://www.getmaintainx.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a161a151935fa61b3c6e8e6?utm_campaign=1079&utm_source=git)** | Montreal, Quebec | Hybrid | Jun 17 |
-| ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/6a161a171935fa61b3c6e8e8?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jun 17 |
-| **[HARMAN International](https://www.harman.com/)** | **[Intern – Software Engineering](https://jobright.ai/jobs/info/6a32a4167f3fdd180d4c2a1a?utm_campaign=1079&utm_source=git)** | Sunnyvale - California, USA, US | On Site | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
