@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ByteDance](http://bytedance.com)** | **[Research Intern (Video Data Compression and Application) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a1b7a0e6b135014dbc8eea3?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jun 21 |
+| **[Nuclear Promise X](https://www.npxinnovation.ca)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a2088fdc00e701fe8369fda?utm_campaign=1079&utm_source=git)** | Ontario | Hybrid | Jun 21 |
+| ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/6a0f2e84619335383fb29995?utm_campaign=1079&utm_source=git)** | Ontario | Remote | Jun 21 |
+| ↳ | **[Software Developer Intern](https://jobright.ai/jobs/info/69fe6444f363bc4dc339e62c?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jun 21 |
+| **[ByteDance](http://bytedance.com)** | **[Software Development Engineer Intern (Network Automation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a34d4a57f3fdd180d4cbe58?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jun 21 |
+| ↳ | **[Software Engineer Intern (Developer Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a28dd8c40ac8e32932a40a1?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 21 |
+| ↳ | **[Research Intern (Video Data Compression and Application) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a1b7a0e6b135014dbc8eea3?utm_campaign=1079&utm_source=git)** | San Diego, CA | On Site | Jun 21 |
 | **[Snowflake](https://www.snowflake.com)** | **[Software Engineer Intern (Infrastructure Automation) - Fall 2026](https://jobright.ai/jobs/info/6a296b6ed3ec8317fe13dccf?utm_campaign=1079&utm_source=git)** | Menlo Park, California, United States | On Site | Jun 21 |
 | ↳ | **[Software Engineer Intern (Infrastructure Automation) - Fall 2026](https://jobright.ai/jobs/info/6a296b70d3ec8317fe13dcd0?utm_campaign=1079&utm_source=git)** | Bellevue, Washington, United States | On Site | Jun 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972e45498522904c697b808?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jun 21 |
@@ -71,15 +76,15 @@ For a complete list, click the following sortable link below:
 | **[SRC](http://srctecinc.com)** | **[Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/69e12029ff71e82d604b53b6?utm_campaign=1079&utm_source=git)** | Syracuse, NY | On Site | Jun 20 |
 | **[XPENG](https://www.xiaopeng.com)** | **[Agentic Infrastructure Engineer Intern](https://jobright.ai/jobs/info/6a2130f4902d19201c7b68b0?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 20 |
 | **[Tech Jobs for Good](https://techjobsforgood.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a36b4a4f6b55d12c79231b3?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jun 20 |
-| **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d4d5b78b4502f12a3f294?utm_campaign=1079&utm_source=git)** | Carle Place, New York, USA | On Site | Jun 20 |
-| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/6a0334b56c07461fe170169f?utm_campaign=1079&utm_source=git)** | Denver, Colorado, USA | On Site | Jun 20 |
-| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/6a0334b46c07461fe170169e?utm_campaign=1079&utm_source=git)** | Brooklyn, New York, USA | On Site | Jun 20 |
+| **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d46e90f6f7e7a2ce91a35?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Jun 20 |
+| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d4d5b78b4502f12a3f294?utm_campaign=1079&utm_source=git)** | Carle Place, New York, USA | On Site | Jun 20 |
 | ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d4f06f64d441a164f5fbf?utm_campaign=1079&utm_source=git)** | Arlington, Virginia, USA | On Site | Jun 20 |
-| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d432478b4502f12a3ddc6?utm_campaign=1079&utm_source=git)** | Jersey City, New Jersey, USA | On Site | Jun 20 |
-| ↳ | **[Software Development Engineer Fall Intern - Military Veteran](https://jobright.ai/jobs/info/698d46c70f6f7e7a2ce919f7?utm_campaign=1079&utm_source=git)** | Santa Clara, California, USA | On Site | Jun 20 |
-| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d4455f64d441a164f496d?utm_campaign=1079&utm_source=git)** | New York, New York, USA | On Site | Jun 20 |
 | ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d46ce0f6f7e7a2ce91a07?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, USA | On Site | Jun 20 |
-| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d46e90f6f7e7a2ce91a35?utm_campaign=1079&utm_source=git)** | San Francisco, California, USA | On Site | Jun 20 |
+| ↳ | **[Software Development Engineer Fall Intern - Military Veteran](https://jobright.ai/jobs/info/698d46c70f6f7e7a2ce919f7?utm_campaign=1079&utm_source=git)** | Santa Clara, California, USA | On Site | Jun 20 |
+| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/6a0334b46c07461fe170169e?utm_campaign=1079&utm_source=git)** | Brooklyn, New York, USA | On Site | Jun 20 |
+| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d432478b4502f12a3ddc6?utm_campaign=1079&utm_source=git)** | Jersey City, New Jersey, USA | On Site | Jun 20 |
+| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/698d4455f64d441a164f496d?utm_campaign=1079&utm_source=git)** | New York, New York, USA | On Site | Jun 20 |
+| ↳ | **[Software Development Engineer Internship - Military Veteran](https://jobright.ai/jobs/info/6a0334b56c07461fe170169f?utm_campaign=1079&utm_source=git)** | Denver, Colorado, USA | On Site | Jun 20 |
 | ↳ | **[Software Development Engineer Fall Intern - Military Veteran](https://jobright.ai/jobs/info/698da47bf64d441a164fcb69?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 20 |
 | **[Layer5](https://layer5.io)** | **[Software Engineer Internship](https://jobright.ai/jobs/info/6a36a7601232144fb15664f7?utm_campaign=1079&utm_source=git)** | Indiana, United States | Remote | Jun 20 |
 | **[Lyten](http://www.lyten.com)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/6a19dc90547e292ae13956fc?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jun 20 |
@@ -121,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/695a169aaa05c26e7ab3b2f6?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jun 19 |
 | **[Pulsewave](https://www.pulsewave.app/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a356dfd649fdf16292f8efb?utm_campaign=1079&utm_source=git)** | San Francisco Bay Area | Remote | Jun 19 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Fall Intern - Military Veteran](https://jobright.ai/jobs/info/698daa1678b4502f12a46455?utm_campaign=1079&utm_source=git)** | Denver, CO | On Site | Jun 19 |
-| **[Joby Aviation](http://www.jobyaviation.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a190481abc8f63abac7e1a4?utm_campaign=1079&utm_source=git)** | US-CA-San Carlos | On Site | Jun 19 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a190481abc8f63abac7e1a3?utm_campaign=1079&utm_source=git)** | San Carlos, CA, US | On Site | Jun 19 |
+| **[Joby Aviation](http://www.jobyaviation.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a190481abc8f63abac7e1a3?utm_campaign=1079&utm_source=git)** | San Carlos, CA, US | On Site | Jun 19 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a190481abc8f63abac7e1a4?utm_campaign=1079&utm_source=git)** | US-CA-San Carlos | On Site | Jun 19 |
 | **[JM Test Systems, LLC.](https://jmtest.com/)** | **[Spring 2026 - IT Internship](https://jobright.ai/jobs/info/6a355b161232144fb1562d7f?utm_campaign=1079&utm_source=git)** | Baton Rouge, Louisiana, 70806, United States | Hybrid | Jun 19 |
 | **[Prospect Equities®](http://ProspectEquities.com/)** | **[Backend / Frontend Developer Intern](https://jobright.ai/jobs/info/6a178b3d5b0a497d5210d8a5?utm_campaign=1079&utm_source=git)** | Chicago, IL | On Site | Jun 19 |
 | **[Excelitas Technologies Corp.](http://www.excelitas.com)** | **[Intern / HVP-Software Engineering](https://jobright.ai/jobs/info/6a0f062312f8b43cf397b54e?utm_campaign=1079&utm_source=git)** | Billerica, MA | On Site | Jun 19 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Textron Aviation](http://txtav.com)** | **[Stage automne 2026 - Technologie de l'information / 2026 fall Internship - Information Technology (Mirabel, QC)](https://jobright.ai/jobs/info/6a347df4649fdf16292f6324?utm_campaign=1079&utm_source=git)** | Mirabel, Quebec, Canada | On Site | Jun 18 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[IT Enterprise Architecture Student Internship](https://jobright.ai/jobs/info/6a2701c74ec8d737d6dfd389?utm_campaign=1079&utm_source=git)** | Tampa, Flor, US | On Site | Jun 18 |
 | **[Salt AI](https://www.salt.ai)** | **[Solutions Engineering Intern - Commerical Team (Chicago)](https://jobright.ai/jobs/info/6a34772029c90c607e4df680?utm_campaign=1079&utm_source=git)** | Hybrid in Chicago, IL | Hybrid | Jun 18 |
-| **[Savvas Learning Company](https://www.savvas.com)** | **[Intern](https://jobright.ai/jobs/info/6a3473281232144fb15601c1?utm_campaign=1079&utm_source=git)** | Boston, MA, USA | Hybrid | Jun 18 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a3473281232144fb15601c3?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 18 |
+| **[Savvas Learning Company](https://www.savvas.com)** | **[Intern](https://jobright.ai/jobs/info/6a3473281232144fb15601c3?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 18 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a3473281232144fb15601c1?utm_campaign=1079&utm_source=git)** | Boston, MA, USA | Hybrid | Jun 18 |
 | **[Salt AI](https://www.salt.ai)** | **[Solutions Engineering Intern - Commerical Team (Chicago)](https://jobright.ai/jobs/info/6a345cbbce501060b5cf0e38?utm_campaign=1079&utm_source=git)** | Chicago, IL | Remote | Jun 18 |
-| **[Parsec Education](https://www.parseceducation.com)** | **[Jr Software Engineer Intern](https://jobright.ai/jobs/info/6a3456141232144fb155f7ca?utm_campaign=1079&utm_source=git)** | Fresno, CA | On Site | Jun 18 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Embedded Software Engineer](https://jobright.ai/jobs/info/6a344d627f3fdd180d4c9c9f?utm_campaign=1079&utm_source=git)** | Livermore, CA | On Site | Jun 18 |
-| **[Gen](https://www.gendigital.com)** | **[Software Engineer - Intern - Payments & Wallets](https://jobright.ai/jobs/info/6a341706ce501060b5cef3e6?utm_campaign=1079&utm_source=git)** | USA - Mountain View, CA | On Site | Jun 18 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Firmware Engineer](https://jobright.ai/jobs/info/6a28f6f7fd37e62bb47ac246?utm_campaign=1079&utm_source=git)** | Andover, MA | On Site | Jun 18 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Software Performance at Scale Intern - Fall 2026](https://jobright.ai/jobs/info/6a17839d81fe455c705a980d?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
