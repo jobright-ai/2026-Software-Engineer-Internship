@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Binance.US](https://www.binance.us)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a3c91144d047136e0931245?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 24 |
-| **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0c10d94d93203636875a7e?utm_campaign=1079&utm_source=git)** | CAN Kanata (2), ON | On Site | Jun 24 |
-| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6a0c10d94d93203636875a7d?utm_campaign=1079&utm_source=git)** | WR, CA | On Site | Jun 24 |
+| **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0c10d94d93203636875a7d?utm_campaign=1079&utm_source=git)** | WR, CA | On Site | Jun 24 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6a0c10d94d93203636875a7e?utm_campaign=1079&utm_source=git)** | CAN Kanata (2), ON | On Site | Jun 24 |
 | **[Pony.ai](https://www.pony.ai)** | **[Software Engineer Intern - Generalist](https://jobright.ai/jobs/info/6a2e9442f1751b183c81c6c7?utm_campaign=1079&utm_source=git)** | Fremont, CA, US | On Site | Jun 24 |
 | **[MBZUAI (Mohamed bin Zayed University of Artificial Intelligence)](https://mbzuai.ac.ae)** | **[Inference Optimization Intern – Performance Modeling](https://jobright.ai/jobs/info/6a3c70d14d047136e0930d52?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA | On Site | Jun 24 |
 | **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, System Software and I/O Architecture - Fall 2026](https://jobright.ai/jobs/info/6a3c6e26982bb239f812fa02?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 24 |
@@ -116,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Ciena](http://www.ciena.com)** | **[Product Verification Engineer Intern (12 months)](https://jobright.ai/jobs/info/6a0fa0ae12f8b43cf3980a19?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 23 |
 | **[Orchestrator](https://www.orchestrator.ca)** | **[Software Quality Assurance Tester](https://jobright.ai/jobs/info/6a3b1c1b06a4fd4b1fac0655?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jun 23 |
 | **[Synchrony](https://www.synchrony.com/)** | **[Emerging Technology Intern - Fall 2026](https://jobright.ai/jobs/info/6a3ac440649fdf1629305914?utm_campaign=1079&utm_source=git)** | University of Illinois Hub, US | Hybrid | Jun 23 |
-| **[Desjardins](https://www.desjardins.com/ca/about-us/desjardins/governance-democracy/structure/desjardins-securities/)** | **[Internship, IT sector, Fall 2026](https://jobright.ai/jobs/info/6a015ce5c4b08448a0b1e851?utm_campaign=1079&utm_source=git)** | Lévis, Canada | Hybrid | Jun 23 |
-| ↳ | **[Internship, IT sector, Fall 2026](https://jobright.ai/jobs/info/6a015cdac2ffb31f45365774?utm_campaign=1079&utm_source=git)** | Montréal, Canada | Hybrid | Jun 23 |
+| **[Desjardins](https://www.desjardins.com/ca/about-us/desjardins/governance-democracy/structure/desjardins-securities/)** | **[Internship, IT sector, Fall 2026](https://jobright.ai/jobs/info/6a015cdac2ffb31f45365774?utm_campaign=1079&utm_source=git)** | Montréal, Canada | Hybrid | Jun 23 |
+| ↳ | **[Internship, IT sector, Fall 2026](https://jobright.ai/jobs/info/6a015ce5c4b08448a0b1e851?utm_campaign=1079&utm_source=git)** | Lévis, Canada | Hybrid | Jun 23 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Year at Palantir - Software Engineer, Internship](https://jobright.ai/jobs/info/6a1ef68309442629a6855f9b?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 23 |
 | **[Community Financial System, Inc.](https://communityfinancialsystem.com)** | **[Web Testing Intern](https://jobright.ai/jobs/info/6a3af7081232144fb1571067?utm_campaign=1079&utm_source=git)** | Utica, NY | On Site | Jun 23 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Stagiaire, assurance qualité logiciel / Internship, software quality assurance](https://jobright.ai/jobs/info/6a3a9834797099171917ab21?utm_campaign=1079&utm_source=git)** | Brossard, Quebec, Canada | Hybrid | Jun 23 |
