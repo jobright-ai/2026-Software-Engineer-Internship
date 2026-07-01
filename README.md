@@ -63,8 +63,8 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Torque Path & Chassis Controls (Fall 2026)](https://jobright.ai/jobs/info/6a44a962ef17a815538a4708?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jun 30 |
 | **[Rippling](https://www.rippling.com)** | **[Software Engineer Intern - Backend Focused - Winter 2027](https://jobright.ai/jobs/info/6a2d15adfc0644749054bc61?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[Deepiri](https://deepiri.com)** | **[QA Software Developement Intern (Open Source, Summer 2026)](https://jobright.ai/jobs/info/6a4489ae57ffc220294078ed?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 30 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Year at Palantir - Software Engineer, Internship](https://jobright.ai/jobs/info/6a1de8459111f771d1a1be26?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 30 |
-| ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/6a4298496faf756060967309?utm_campaign=1079&utm_source=git)** | Washington, D.C. | On Site | Jun 30 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Software Engineer, Internship](https://jobright.ai/jobs/info/6a4298496faf756060967309?utm_campaign=1079&utm_source=git)** | Washington, D.C. | On Site | Jun 30 |
+| ↳ | **[Year at Palantir - Software Engineer, Internship](https://jobright.ai/jobs/info/6a1de8459111f771d1a1be26?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | ↳ | **[Year at Palantir - Software Engineer, Internship](https://jobright.ai/jobs/info/6a063968320bff2205eaa361?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[Gumloop](https://www.gumloop.com)** | **[Design Engineer Intern](https://jobright.ai/jobs/info/6a4459f8b156014e414bc49a?utm_campaign=1079&utm_source=git)** | San Francisco Office | On Site | Jun 30 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobright.ai/jobs/info/6a18bdfbabc8f63abac7bc4e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 30 |
@@ -88,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Truveta](https://www.truveta.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a275813ca77fd3096d26c45?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jun 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Trust and Safety -Engineer-AI Safety)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a43d4dd105260150b71e51b?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jun 30 |
 | **[Etched](https://www.etched.com)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/6a14b085dc845f4be5bd2d56?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jun 30 |
-| **[Dexmate](https://www.dexmate.ai/vega)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/69ecf5367820c036924fc1e7?utm_campaign=1079&utm_source=git)** | Santa Clara Office | On Site | Jun 30 |
+| **[Dexmate](https://www.dexmate.ai/vega)** | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/6a109df49fdbf21f36cafc67?utm_campaign=1079&utm_source=git)** | Santa Clara Office | On Site | Jun 30 |
 | ↳ | **[Frontend Engineer Intern](https://jobright.ai/jobs/info/6a02702fc4b08448a0b263ee?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jun 30 |
 | **[Persona AI](https://personainc.ai/)** | **[Teleoperation Software Engineering Internship](https://jobright.ai/jobs/info/69aa30c99ca4e908ec658234?utm_campaign=1079&utm_source=git)** | Greater Houston | On Site | Jun 30 |
 | **[Saronic Technologies](https://www.saronic.com)** | **[Software Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a0ba04da235d749afa875f7?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jun 30 |
@@ -151,8 +151,8 @@ For a complete list, click the following sortable link below:
 | **[Rippling](https://www.rippling.com)** | **[Software Engineer Intern - Backend Focused - Winter 2027](https://jobright.ai/jobs/info/6a2991e20c4972328e7e4390?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jun 27 |
 | **[Quadrillion Labs](https://quadrillion.io/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a40a4dbd528ac2915f96d12?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 27 |
 | **[MASIV | Mercedes and Singh Innovative Ventures](http://www.mercedesandsingh.com)** | **[Software Engineer Intern (Fall 2026) 12-16 months](https://jobright.ai/jobs/info/6a4093979dd7f954cafe82eb?utm_campaign=1079&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Jun 27 |
-| **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0c10d94d93203636875a7d?utm_campaign=1079&utm_source=git)** | WR, CA | On Site | Jun 27 |
-| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6a0c10d94d93203636875a7e?utm_campaign=1079&utm_source=git)** | CAN Kanata (2), ON | On Site | Jun 27 |
+| **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0c10d94d93203636875a7e?utm_campaign=1079&utm_source=git)** | CAN Kanata (2), ON | On Site | Jun 27 |
+| ↳ | **[Engineering Intern](https://jobright.ai/jobs/info/6a0c10d94d93203636875a7d?utm_campaign=1079&utm_source=git)** | WR, CA | On Site | Jun 27 |
 | **[Gemini](https://gemini.com)** | **[Software Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a40816416b14939532835d3?utm_campaign=1079&utm_source=git)** | New York, New York | On Site | Jun 27 |
 | **[Quadrillion Labs](https://quadrillion.io/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a41d266b526a24fc31321c2?utm_campaign=1079&utm_source=git)** | New York City | On Site | Jun 27 |
 | **[Zipline](https://www.getzipline.com)** | **[Software Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4117c89dd7f954cafe890f?utm_campaign=1079&utm_source=git)** | South San Francisco, CA, US | On Site | Jun 27 |
