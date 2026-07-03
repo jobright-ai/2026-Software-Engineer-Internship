@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saronic Technologies](https://www.saronic.com)** | **[Enterprise Technology Intern - AI and Automation (Fall 2026)](https://jobright.ai/jobs/info/6a46ebe90dd56c76cc2fb86e?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jul 02 |
+| ↳ | **[Enterprise Technology Intern - Technical Delivery (Fall 2026)](https://jobright.ai/jobs/info/6a46eb19971cd25b06f90c5d?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jul 02 |
+| **[Todd](https://toddagriscience.com)** | **[Backend Software Engineer Intern (Fall '26)](https://jobright.ai/jobs/info/6a46ea3e3dbab558e29a93e0?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | Remote | Jul 02 |
+| **[ONEBIT](https://onebitapp.com/)** | **[Mobile App Development Intern](https://jobright.ai/jobs/info/6a46e7b54f64ba41dcb55630?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 02 |
 | **[University of South Florida](http://www.research.usf.edu/rf/sii/)** | **[IAE Software Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/6a46b72b3dbab558e29a8589?utm_campaign=1079&utm_source=git)** | 4202 E Fowler Ave, Tampa, FL, 33620, US | On Site | Jul 02 |
 | **[RSA Security](http://www.rsa.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a432c7e501d340b4a82d771?utm_campaign=1079&utm_source=git)** | Burlington, MA | On Site | Jul 02 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: Software Developer](https://jobright.ai/jobs/info/6a46c72ac2d11a6a4667072c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 02 |
-| **[MNJ SOFTWARE](http://www.mnjsoftware.com)** | **[Node Js Developer - Intern](https://jobright.ai/jobs/info/6a42b1b26c326942b4e83bf4?utm_campaign=1079&utm_source=git)** | Remote (Work From Home) | Remote | Jul 02 |
-| ↳ | **[Python Developer - Intern](https://jobright.ai/jobs/info/6a46c71b0dd56c76cc2fad79?utm_campaign=1079&utm_source=git)** | Remote (Work From Home) | Remote | Jul 02 |
+| **[MNJ SOFTWARE](http://www.mnjsoftware.com)** | **[Python Developer - Intern](https://jobright.ai/jobs/info/6a46c71b0dd56c76cc2fad79?utm_campaign=1079&utm_source=git)** | Remote (Work From Home) | Remote | Jul 02 |
+| ↳ | **[Node Js Developer - Intern](https://jobright.ai/jobs/info/6a42b1b26c326942b4e83bf4?utm_campaign=1079&utm_source=git)** | Remote (Work From Home) | Remote | Jul 02 |
 | ↳ | **[PHP Developer - Intern](https://jobright.ai/jobs/info/6a4562170dd56c76cc2f341c?utm_campaign=1079&utm_source=git)** | Remote (Work From Home) | Remote | Jul 02 |
 | **[Aechelon Technology Inc.](http://www.aechelon.com)** | **[RTK - Junior Software Engineer - Internship](https://jobright.ai/jobs/info/6a3ce22d982bb239f8130a1f?utm_campaign=1079&utm_source=git)** | Farmer's Branch, Texas | On Site | Jul 02 |
 | **[Zipline](https://www.zipline.com/)** | **[Software Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a46c4e74f64ba41dcb54be6?utm_campaign=1079&utm_source=git)** | South San Francisco, California, USA | On Site | Jul 02 |
@@ -139,12 +143,12 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, Torque Path & Chassis Controls (Fall 2026)](https://jobright.ai/jobs/info/6a44a962ef17a815538a4708?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jun 30 |
 | **[Rippling](https://www.rippling.com)** | **[Software Engineer Intern - Backend Focused - Winter 2027](https://jobright.ai/jobs/info/6a2d15adfc0644749054bc61?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[Deepiri](https://deepiri.com)** | **[QA Software Developement Intern (Open Source, Summer 2026)](https://jobright.ai/jobs/info/6a4489ae57ffc220294078ed?utm_campaign=1079&utm_source=git)** | United States | Remote | Jun 30 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Year at Palantir - Software Engineer, Internship](https://jobright.ai/jobs/info/6a1de8459111f771d1a1be26?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 30 |
-| ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/6a4298496faf756060967309?utm_campaign=1079&utm_source=git)** | Washington, D.C. | On Site | Jun 30 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Software Engineer, Internship](https://jobright.ai/jobs/info/6a4298496faf756060967309?utm_campaign=1079&utm_source=git)** | Washington, D.C. | On Site | Jun 30 |
 | ↳ | **[Year at Palantir - Software Engineer, Internship](https://jobright.ai/jobs/info/6a063968320bff2205eaa361?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 30 |
+| ↳ | **[Year at Palantir - Software Engineer, Internship](https://jobright.ai/jobs/info/6a1de8459111f771d1a1be26?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[Gumloop](https://www.gumloop.com)** | **[Design Engineer Intern](https://jobright.ai/jobs/info/6a4459f8b156014e414bc49a?utm_campaign=1079&utm_source=git)** | San Francisco Office | On Site | Jun 30 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobright.ai/jobs/info/6a0639446c07461fe171e004?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 30 |
-| ↳ | **[Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobright.ai/jobs/info/6a18bdfbabc8f63abac7bc4e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 30 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobright.ai/jobs/info/6a18bdfbabc8f63abac7bc4e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 30 |
+| ↳ | **[Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobright.ai/jobs/info/6a0639446c07461fe171e004?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[Junior](https://www.myjunior.ai/)** | **[Software Engineering Intern — Fall 2026](https://jobright.ai/jobs/info/6a447b3bef17a815538a41a1?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | **[Mujin US](https://mujin-corp.com/)** | **[Intern - Software Development (Spring 2027)](https://jobright.ai/jobs/info/6a4445c1105260150b721879?utm_campaign=1079&utm_source=git)** | Suwanee, Georgia, United States | On Site | Jun 30 |
 | ↳ | **[Intern - Software Integration (Spring 2027)](https://jobright.ai/jobs/info/6a4445bf0153061b8b3dff72?utm_campaign=1079&utm_source=git)** | Suwanee, Georgia, United States | On Site | Jun 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Software Integration (Spring 2027)](https://jobright.ai/jobs/info/6a4443b7ef17a815538a3966?utm_campaign=1079&utm_source=git)** | Suwanee, GA | On Site | Jun 30 |
 | **[University of South Florida](http://www.research.usf.edu/rf/sii/)** | **[IAE Computer Science Internship - Fall 2026](https://jobright.ai/jobs/info/6a440cc50153061b8b3df122?utm_campaign=1079&utm_source=git)** | 4202 E Fowler Ave, Tampa, FL, 33620, US | On Site | Jun 30 |
 | **[Mujin](https://www.mujin.co.jp)** | **[Intern - Software Integration (Spring 2027)](https://jobright.ai/jobs/info/6a45584748d2f00f2a86d484?utm_campaign=1079&utm_source=git)** | Suwanee, GA, US | On Site | Jun 30 |
-| ↳ | **[Intern - Software Development (Spring 2027)](https://jobright.ai/jobs/info/6a45579748d2f00f2a86d432?utm_campaign=1079&utm_source=git)** | Suwanee, GA, US | On Site | Jun 30 |
-| **[Island Facades](https://www.islandfacades.com)** | **[IT Intern - Software Engineering](https://jobright.ai/jobs/info/6a441099105260150b720b50?utm_campaign=1079&utm_source=git)** | Boston, MA 02111, USA | On Site | Jun 30 |
-| **[Nash](https://www.nash.ai/)** | **[Full Stack Engineering Intern](https://jobright.ai/jobs/info/6a0b58fa4d9320363687001f?utm_campaign=1079&utm_source=git)** | San Francisco | Hybrid | Jun 30 |
-| **[Fintech](https://www.fintech.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a43f30c57ffc22029405b88?utm_campaign=1079&utm_source=git)** | Tampa, Florida, United States | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
