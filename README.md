@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Computer Graphics Software Developer Intern](https://jobright.ai/jobs/info/6a0f077612f8b43cf397b5b7?utm_campaign=1079&utm_source=git)** | Champaign, IL, US | On Site | Jul 03 |
 | **[Ciena](http://www.ciena.com)** | **[Software Engineer and Tools Developer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2c43efa1d15e3c552faeec?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jul 03 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Software Developer Intern - Dewar (Hybrid)](https://jobright.ai/jobs/info/6a47e1ae4f64ba41dcb5795f?utm_campaign=1079&utm_source=git)** | Quincy, MA | Hybrid | Jul 03 |
 | **[Travelers](https://upstateinsurance.com)** | **[Engineering Development Program (EDP) - Intern](https://jobright.ai/jobs/info/6a47c3d53dbab558e29ab24e?utm_campaign=1079&utm_source=git)** | Hartford, CT, US | Hybrid | Jul 03 |
@@ -74,14 +75,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/6a1ee523b61b2c65b37ad6a8?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
 | ↳ | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/6a0f4cb283d714428981e70e?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jul 03 |
 | **[ePlannerPro](https://www.eplannerpro.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a47e84fc2d11a6a466733b3?utm_campaign=1079&utm_source=git)** | Atlanta, GA | On Site | Jul 03 |
-| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, BCI Applications](https://jobright.ai/jobs/info/683a4f10018e850cfc42a5fe?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
-| ↳ | **[Software Engineer Intern, BCI Applications](https://jobright.ai/jobs/info/6a0717b424dcb03739f20bd3?utm_campaign=1079&utm_source=git)** | Fremont - Campus | On Site | Jul 03 |
+| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, BCI Applications](https://jobright.ai/jobs/info/6a0717b424dcb03739f20bd3?utm_campaign=1079&utm_source=git)** | Fremont - Campus | On Site | Jul 03 |
+| ↳ | **[Software Engineer Intern, BCI Applications](https://jobright.ai/jobs/info/683a4f10018e850cfc42a5fe?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
 | ↳ | **[Software Engineer Intern, BCI Applications](https://jobright.ai/jobs/info/6a213236902d19201c7b690a?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 03 |
-| ↳ | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a06ffa64a0a6a7e7d81f207?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
 | ↳ | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a14c85a554b0e12c0580009?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 03 |
 | ↳ | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a06ffa64a0a6a7e7d81f205?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
-| ↳ | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/6a07b5bd939a5f01db952f55?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
+| ↳ | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a06ffa64a0a6a7e7d81f207?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
 | ↳ | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/6a07b5be939a5f01db952f57?utm_campaign=1079&utm_source=git)** | Fremont - Campus | On Site | Jul 03 |
+| ↳ | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/6a07b5bd939a5f01db952f55?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
 | **[Quaker Houghton](https://home.quakerhoughton.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a2a67239bf7365df0899029?utm_campaign=1079&utm_source=git)** | Pennsylvania, United States | Hybrid | Jul 03 |
 | **[Limex](http://whotrades.com/feed)** | **[Beta Tester Intern (Trading & Fintech Products)](https://jobright.ai/jobs/info/6a47d39b971cd25b06f92c3a?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 03 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Software Engineer Intern - OVIP](https://jobright.ai/jobs/info/6a389511ce501060b5cf9bd0?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Jul 03 |
@@ -125,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Software Engineer Intern](https://jobright.ai/jobs/info/6a2a29e72cde2824469c0471?utm_campaign=1079&utm_source=git)** | Seattle, WA | On Site | Jul 02 |
 | **[Legacy.com](https://www.legacy.com/)** | **[Intern-Tech](https://jobright.ai/jobs/info/6a466d560dd56c76cc2f952b?utm_campaign=1079&utm_source=git)** | Remote, United States | Remote | Jul 02 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer – Amazon Leo (US)](https://jobright.ai/jobs/info/6a0c8c1e538d03366dc8e575?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jul 02 |
-| **[Nokia](http://www.nokia.com)** | **[IP R&D Lab Technologist Co-op/Intern](https://jobright.ai/jobs/info/6a1ddedc9111f771d1a1b9e9?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Jul 02 |
-| ↳ | **[IP R&D Lab Technologist Co-op/Intern](https://jobright.ai/jobs/info/6a35b747ce501060b5cf554b?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | Hybrid | Jul 02 |
+| **[Nokia](http://www.nokia.com)** | **[IP R&D Lab Technologist Co-op/Intern](https://jobright.ai/jobs/info/6a35b747ce501060b5cf554b?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | Hybrid | Jul 02 |
+| ↳ | **[IP R&D Lab Technologist Co-op/Intern](https://jobright.ai/jobs/info/6a1ddedc9111f771d1a1b9e9?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2T6, CA | On Site | Jul 02 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[UICC Engineering Intern Job Details / Giesecke+Devrient](https://jobright.ai/jobs/info/6a337980649fdf16292f22b4?utm_campaign=1079&utm_source=git)** | Dulles, VA, US | On Site | Jul 02 |
 | **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[IT Intern, Digital Customer Experience Job Details / A. O. Smith Corporation](https://jobright.ai/jobs/info/6a465d74971cd25b06f8dd0b?utm_campaign=1079&utm_source=git)** | Nashville, TN, US, 37228 | On Site | Jul 02 |
 | **[Hermeus](http://www.hermeus.com)** | **[Software Engineering Intern (Modeling & Simulation) - Fall 2026](https://jobright.ai/jobs/info/6a29b3f1d3ec8317fe13fec0?utm_campaign=1079&utm_source=git)** | Los Angeles, CA | On Site | Jul 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cohere](https://cohere.com)** | **[Software Engineer Intern (Fall / Winter 2026)](https://jobright.ai/jobs/info/6a2d7ee0fc0644749054c56b?utm_campaign=1079&utm_source=git)** | San Francisco, CA | Hybrid | Jul 01 |
 | **[Teradyne](http://www.teradyne.com)** | **[Software Engineering Intern (Teradyne, Agoura Hills)](https://jobright.ai/jobs/info/6a457cc53dbab558e29a16e6?utm_campaign=1079&utm_source=git)** | Agoura Hills, California, USA | On Site | Jul 01 |
 | **[London Computer Systems](https://www.lcs.com/)** | **[Software Developer Co-op/Intern](https://jobright.ai/jobs/info/6a45795448d2f00f2a86daf2?utm_campaign=1079&utm_source=git)** | Cincinnati, OH, US | On Site | Jul 01 |
-| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2027 Summer Corporate Intern – Digital and Analytics](https://jobright.ai/jobs/info/6a4577233dbab558e29a159f?utm_campaign=1079&utm_source=git)** | Peoria, IL | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
