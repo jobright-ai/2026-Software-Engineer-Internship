@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Ads Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3028ab43732c05812e0ca4?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
+| ↳ | **[Frontend Software Engineer Intern (Ads Measurement Signal and Privacy) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30297a524fd5657fe0f2ad?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Software Engineer, Internship - Infrastructure](https://jobright.ai/jobs/info/6a4b615b6189f64e437eec95?utm_campaign=1079&utm_source=git)** | Palo Alto, CA | On Site | Jul 06 |
 | **[Stoke Space](https://www.stokespace.com)** | **[Spring 2027 Internship - Software](https://jobright.ai/jobs/info/6a3f6785882f121f56a3d0b5?utm_campaign=1079&utm_source=git)** | Kent, Washington | On Site | Jul 05 |
 | **[Collaborative Drug Discovery - CDD Vault](http://www.collaborativedrug.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a4b41aa5d7b097d2df3cea2?utm_campaign=1079&utm_source=git)** | Newport News, VA | Remote | Jul 05 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[MAHLE](https://www.mahle.com)** | **[Web Development Intern Job Details / MAHLE](https://jobright.ai/jobs/info/6a4afa984f64ba41dcb5b997?utm_campaign=1079&utm_source=git)** | Dayton, OH, US, 45404 | On Site | Jul 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer/Mobile Engineer Intern (Monetization Technology - Ads Core Demonstration) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3591e67f3fdd180d4ce0f6?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Jul 05 |
 | **[CCS](https://www.customonline.com/)** | **[Developer Intern](https://jobright.ai/jobs/info/6a4af1163dbab558e29af6e1?utm_campaign=1079&utm_source=git)** | Hauppauge, NY | On Site | Jul 05 |
-| **[Loriginal](http://www.loriginal.org)** | **[Développeur Full Stack (internship)](https://jobright.ai/jobs/info/6a4adfb2c2d11a6a466770ab?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jul 05 |
 | **[iHerb](http://www.iherb.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a4ad4d0c2d11a6a46676fa1?utm_campaign=1079&utm_source=git)** | United States of America - Remote / Home Office | Remote | Jul 05 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: Software Developer](https://jobright.ai/jobs/info/6a46c72ac2d11a6a4667072c?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 05 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a32ca8cce501060b5cea4a6?utm_campaign=1079&utm_source=git)** | San Diego, United States of America | Hybrid | Jul 05 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Rippling](https://www.rippling.com)** | **[Software Engineer Intern - Backend Focused - Winter 2027](https://jobright.ai/jobs/info/6a2d15adfc0644749054bc61?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 04 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer – Amazon Leo (US)](https://jobright.ai/jobs/info/6a0c8c1e538d03366dc8e575?utm_campaign=1079&utm_source=git)** | Redmond, WA | On Site | Jul 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Experimentation & Evaluation, Data Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a32b752649fdf16292ee426?utm_campaign=1079&utm_source=git)** | San Jose, California | On Site | Jul 04 |
+| **[ByteDance](http://bytedance.com)** | **[Test Software Engineer Intern (Intelligent Creation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a4b77f16189f64e437ef024?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 04 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a2f6d8743732c05812dee5c?utm_campaign=1079&utm_source=git)** | Woodridge, IL | On Site | Jul 04 |
 | **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a0f53b880bf0430c7632a5c?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jul 04 |
 | **[Copart](http://www.copart.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/69a7b7d776bbe83d3afb2b02?utm_campaign=1079&utm_source=git)** | Dallas, TX | On Site | Jul 04 |
@@ -98,14 +100,14 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Fall 2026 (Canada)](https://jobright.ai/jobs/info/69d7efaef4ea471a51fe28de?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jul 04 |
 | **[Skydio](https://www.skydio.com)** | **[Middleware Software Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a0fb0c39f654b3359ce7b98?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Jul 04 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a06ffa64a0a6a7e7d81f205?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Jul 04 |
-| ↳ | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a06ffa64a0a6a7e7d81f207?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jul 04 |
 | ↳ | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a14c85a554b0e12c0580009?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 04 |
+| ↳ | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a06ffa64a0a6a7e7d81f207?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jul 04 |
 | ↳ | **[Firmware Engineer Intern, Robotics and Surgery Engineering](https://jobright.ai/jobs/info/6a0f86f783d7144289821313?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Jul 04 |
 | **[PlusAI](https://www.plus.ai)** | **[Software Engineer Intern - Robotics](https://jobright.ai/jobs/info/6a10f1e812f8b43cf3988294?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jul 04 |
 | **[Nokia](http://www.nokia.com)** | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/69f30bd8ab4ec4779fffe565?utm_campaign=1079&utm_source=git)** | Kanata, Ontario, Canada | On Site | Jul 04 |
 | ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b0648feca91f149264d6?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jul 04 |
-| ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/6a4124b33bfa967791ec0c8a?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jul 04 |
 | ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/6a1153a99f654b3359cf0a97?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jul 04 |
+| ↳ | **[Software Designer Co-op/Intern](https://jobright.ai/jobs/info/6a4124b33bfa967791ec0c8a?utm_campaign=1079&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jul 04 |
 | **[Castelion](https://www.castelion.com)** | **[Embedded Software Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a48f3a34f64ba41dcb598f4?utm_campaign=1079&utm_source=git)** | Torrance, California, United States | On Site | Jul 04 |
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern - Systems Engineering (Fall-Spring Co-op)](https://jobright.ai/jobs/info/6a10fa6583d7144289829a98?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jul 04 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a0f484f83d714428981e3d4?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Jul 04 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/6a1ee523b61b2c65b37ad6a8?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
 | ↳ | **[Software Engineer Intern, BCI Applications](https://jobright.ai/jobs/info/6a0f6cec619335383fb2c41a?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Jul 03 |
 | ↳ | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/6a0f4cb283d714428981e70e?utm_campaign=1079&utm_source=git)** | Austin, TX | On Site | Jul 03 |
-| ↳ | **[Software Engineer Intern, BCI Applications](https://jobright.ai/jobs/info/6a213236902d19201c7b690a?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 03 |
 | ↳ | **[Software Engineer Intern, BCI Applications](https://jobright.ai/jobs/info/6a0717b424dcb03739f20bd3?utm_campaign=1079&utm_source=git)** | Fremont - Campus | On Site | Jul 03 |
 | ↳ | **[Software Engineer Intern, BCI Applications](https://jobright.ai/jobs/info/683a4f10018e850cfc42a5fe?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
-| ↳ | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/6a07b5bd939a5f01db952f55?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
+| ↳ | **[Software Engineer Intern, BCI Applications](https://jobright.ai/jobs/info/6a213236902d19201c7b690a?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 03 |
 | ↳ | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/6a07b5be939a5f01db952f57?utm_campaign=1079&utm_source=git)** | Fremont - Campus | On Site | Jul 03 |
+| ↳ | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/6a07b5bd939a5f01db952f55?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Jul 03 |
 | **[Quaker Houghton](https://home.quakerhoughton.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a2a67239bf7365df0899029?utm_campaign=1079&utm_source=git)** | Pennsylvania, United States | Hybrid | Jul 03 |
-| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/6a0f53f272b52f7225f3cc3a?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 03 |
-| ↳ | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a2bf0b2fc064474905479d1?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
