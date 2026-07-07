@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Ads Measurement Signal and Privacy) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2f9e96eace377055eb325d?utm_campaign=1079&utm_source=git)** | San Jose, United States | On Site | Jul 07 |
 | **[Fujitsu](https://www.fujitsu.com)** | **[Intern Researcher](https://jobright.ai/jobs/info/6a461e58076271587529ff40?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 07 |
 | **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Software Test Engineer (Summer 2026)](https://jobright.ai/jobs/info/6a2fd27feace377055eb3760?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Frontend Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696adf2bdb26b618950e3a8a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Concept Reply US](https://www.reply.com/concept-reply/en/)** | **[Android Developer Intern](https://jobright.ai/jobs/info/6a27790a7415cb4a5267ad91?utm_campaign=1079&utm_source=git)** | Detroit Metro | Hybrid | Jul 04 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Fall 2026 (Canada)](https://jobright.ai/jobs/info/69d7efaef4ea471a51fe28de?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jul 04 |
 | **[Skydio](https://www.skydio.com)** | **[Middleware Software Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a0fb0c39f654b3359ce7b98?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Jul 04 |
-| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a14c85a554b0e12c0580009?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 04 |
-| ↳ | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a06ffa64a0a6a7e7d81f207?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jul 04 |
+| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a06ffa64a0a6a7e7d81f207?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jul 04 |
+| ↳ | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a14c85a554b0e12c0580009?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 04 |
 | ↳ | **[Firmware Engineer Intern, Robotics and Surgery Engineering](https://jobright.ai/jobs/info/6a0f86f783d7144289821313?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Jul 04 |
 | **[PlusAI](https://www.plus.ai)** | **[Software Engineer Intern - Robotics](https://jobright.ai/jobs/info/6a10f1e812f8b43cf3988294?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jul 04 |
 | **[Castelion](https://www.castelion.com)** | **[Embedded Software Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a48f3a34f64ba41dcb598f4?utm_campaign=1079&utm_source=git)** | Torrance, California, United States | On Site | Jul 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Infrastructure Engineer - Cyber & Information Security - Armed Forces Internship](https://jobright.ai/jobs/info/6a486a764f64ba41dcb58e93?utm_campaign=1079&utm_source=git)** | Headquarters, KY | On Site | Jul 03 |
 | **[Dayforce](http://www.dayforce.com)** | **[Application Advisor Intern 8 Months - Fall 2026](https://jobright.ai/jobs/info/6a4805215d7b097d2df391cc?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jul 03 |
 | **[Kulicke & Soffa](http://www.kns.com)** | **[Intern, Software (Sys)](https://jobright.ai/jobs/info/6a47fca45d7b097d2df390f3?utm_campaign=1079&utm_source=git)** | Fort Washington, PA, United States | On Site | Jul 03 |
-| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Post-Bachelor's Intern](https://jobright.ai/jobs/info/69820fa8c3101f1400c3ba73?utm_campaign=1079&utm_source=git)** | Los Alamos, NM | Hybrid | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
