@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RightOn Education](https://www.rightoneducation.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a4c29f94f64ba41dcb5ec20?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Jul 06 |
+| **[PulseSync Pte Ltd](http://pulsesync.com/)** | **[Intern (Software Engineering) – KL](https://jobright.ai/jobs/info/6a4c29a64f64ba41dcb5ec0c?utm_campaign=1079&utm_source=git)** | Lane County, OR | On Site | Jul 06 |
+| ↳ | **[Intern (Software Development) – SG](https://jobright.ai/jobs/info/6a4c294a4f64ba41dcb5ebf7?utm_campaign=1079&utm_source=git)** | Lane County, OR | On Site | Jul 06 |
 | **[ada CX](https://www.ada.cx)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a4c26ed5d7b097d2df3faed?utm_campaign=1079&utm_source=git)** | Remote - Canada | Remote | Jul 06 |
 | **[Figure](https://www.figure.ai)** | **[Firmware Intern [Fall 2026]](https://jobright.ai/jobs/info/6a39965ff6b55d12c7928f2e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
 | **[KRAFZEN](https://krafzeninc.com)** | **[Tech Lead Intern (Unpaid)](https://jobright.ai/jobs/info/6a4c1a0f4f64ba41dcb5e879?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jul 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WiCi AI](https://wici.ai/)** | **[Member of Technical Staff](https://jobright.ai/jobs/info/6a47bce13dbab558e29ab176?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 03 |
 | **[Neuralink](https://www.neuralink.com)** | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a0f53f272b52f7225f3cc3e?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Jul 03 |
 | ↳ | **[Firmware Engineer Intern, Robotics and Surgery Engineering](https://jobright.ai/jobs/info/6a0f8d9b72b52f7225f3ef02?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 03 |
-| ↳ | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/6a06fecf9f57175bd581d0e4?utm_campaign=1079&utm_source=git)** | Fremont - Campus | On Site | Jul 03 |
-| ↳ | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/6a1ee529b61b2c65b37ad6ab?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 03 |
-| ↳ | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/6a1ee523b61b2c65b37ad6a8?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
