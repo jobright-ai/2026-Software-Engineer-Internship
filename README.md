@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Frontend Software Engineer Intern](https://jobright.ai/jobs/info/6a4c6a1cd27b2c4dda9b4ba6?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 06 |
+| **[Elevated Web Design](https://www.elevatedwebdesign.com/)** | **[Software Engineering Internship – Hackathon Winners Wanted](https://jobright.ai/jobs/info/6a4c673fc2d11a6a4667ad8d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 06 |
+| **[QA Consultants](http://www.qaconsultants.com)** | **[QA Software Testing Training Internship](https://jobright.ai/jobs/info/6a4c66134eb370649b27d1e1?utm_campaign=1079&utm_source=git)** | Toronto, Canada | On Site | Jul 06 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Software Engineering Internship (Fall 2026 Co-op)](https://jobright.ai/jobs/info/6a4c50706189f64e437f1c57?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Jul 06 |
 | **[Find Me](https://fyndme.net)** | **[Flutter Application Developer (Android & iOS) – Unpaid Internship](https://jobright.ai/jobs/info/6a4c4af16189f64e437f1b7d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 06 |
 | **[ada CX](https://www.ada.cx)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a4c26ed5d7b097d2df3faed?utm_campaign=1079&utm_source=git)** | Remote - Canada | Remote | Jul 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eulerity](https://www.eulerity.com)** | **[Website Developer & Content Marketing Intern - AI & Automation](https://jobright.ai/jobs/info/6a47c1b8f9cbb100d1ab0e5f?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jul 03 |
 | **[AMAROK Security](https://www.amarok.com)** | **[Research and Development Intern](https://jobright.ai/jobs/info/6a2ac1bcc07d4b6ae1c46fd9?utm_campaign=1079&utm_source=git)** | South Carolina, Columbia | On Site | Jul 03 |
 | **[Creatuity Corp.](http://creatuity.com)** | **[Web Development Intern - Summer 2012](https://jobright.ai/jobs/info/6a3d1c64122f340d29cef3b1?utm_campaign=1079&utm_source=git)** | Richardson, Texas, United States | On Site | Jul 03 |
-| **[ARA](https://www.ara.com)** | **[Technical Intern 1](https://jobright.ai/jobs/info/69811ab9abff4c399a9feae7?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Jul 03 |
-| **[Concept Reply US](https://www.reply.com/concept-reply/en/)** | **[iOS Developer Intern](https://jobright.ai/jobs/info/6a0f7cbf80bf0430c7634759?utm_campaign=1079&utm_source=git)** | Detroit Metro | Hybrid | Jul 03 |
-| **[WiCi AI](https://wici.ai/)** | **[Member of Technical Staff](https://jobright.ai/jobs/info/6a47bce13dbab558e29ab176?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
