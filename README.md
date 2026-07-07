@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ada CX](https://www.ada.cx)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a4c26ed5d7b097d2df3faed?utm_campaign=1079&utm_source=git)** | Remote - Canada | Remote | Jul 06 |
 | **[RightOn Education](https://www.rightoneducation.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a4c29f94f64ba41dcb5ec20?utm_campaign=1079&utm_source=git)** | Philadelphia, PA | On Site | Jul 06 |
 | **[PulseSync Pte Ltd](http://pulsesync.com/)** | **[Intern (Software Engineering) – KL](https://jobright.ai/jobs/info/6a4c29a64f64ba41dcb5ec0c?utm_campaign=1079&utm_source=git)** | Lane County, OR | On Site | Jul 06 |
 | ↳ | **[Intern (Software Development) – SG](https://jobright.ai/jobs/info/6a4c294a4f64ba41dcb5ebf7?utm_campaign=1079&utm_source=git)** | Lane County, OR | On Site | Jul 06 |
-| **[ada CX](https://www.ada.cx)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a4c26ed5d7b097d2df3faed?utm_campaign=1079&utm_source=git)** | Remote - Canada | Remote | Jul 06 |
 | **[Figure](https://www.figure.ai)** | **[Firmware Intern [Fall 2026]](https://jobright.ai/jobs/info/6a39965ff6b55d12c7928f2e?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
 | **[KRAFZEN](https://krafzeninc.com)** | **[Tech Lead Intern (Unpaid)](https://jobright.ai/jobs/info/6a4c1a0f4f64ba41dcb5e879?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jul 06 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[IT Asset Management Intern (Hardware & Software) - 1 Year Hybrid](https://jobright.ai/jobs/info/6a4c15dfc2d11a6a46679ee0?utm_campaign=1079&utm_source=git)** | Riverton, UT | Hybrid | Jul 06 |
