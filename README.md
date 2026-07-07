@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Elevated Web Design](https://www.elevatedwebdesign.com/)** | **[Software Engineering Internship – Hackathon Winners Wanted](https://jobright.ai/jobs/info/6a4c673fc2d11a6a4667ad8d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 06 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Software Analyst Intern (Fall 2026, 12months)](https://jobright.ai/jobs/info/6a4c85e10209ea6fd684fbb1?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
+| ↳ | **[Software Analyst Intern (Fall 2026, 8 months)](https://jobright.ai/jobs/info/6a4c85dbd27b2c4dda9b4fa3?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
 | **[QA Consultants](http://www.qaconsultants.com)** | **[QA Software Testing Training Internship](https://jobright.ai/jobs/info/6a4c66134eb370649b27d1e1?utm_campaign=1079&utm_source=git)** | Toronto, Canada | On Site | Jul 06 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Software Engineering Internship (Fall 2026 Co-op)](https://jobright.ai/jobs/info/6a4c50706189f64e437f1c57?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Jul 06 |
 | **[Find Me](https://fyndme.net)** | **[Flutter Application Developer (Android & iOS) – Unpaid Internship](https://jobright.ai/jobs/info/6a4c4af16189f64e437f1b7d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 06 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Concept Reply US](https://www.reply.com/concept-reply/en/)** | **[Android Developer Intern](https://jobright.ai/jobs/info/6a27790a7415cb4a5267ad91?utm_campaign=1079&utm_source=git)** | Detroit Metro | Hybrid | Jul 04 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Internship - Fall 2026 (Canada)](https://jobright.ai/jobs/info/69d7efaef4ea471a51fe28de?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jul 04 |
 | **[Skydio](https://www.skydio.com)** | **[Middleware Software Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a0fb0c39f654b3359ce7b98?utm_campaign=1079&utm_source=git)** | San Mateo, CA | On Site | Jul 04 |
-| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a14c85a554b0e12c0580009?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 04 |
-| ↳ | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a06ffa64a0a6a7e7d81f207?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jul 04 |
+| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a06ffa64a0a6a7e7d81f207?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jul 04 |
+| ↳ | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a14c85a554b0e12c0580009?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Jul 04 |
 | ↳ | **[Firmware Engineer Intern, Robotics and Surgery Engineering](https://jobright.ai/jobs/info/6a0f86f783d7144289821313?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Jul 04 |
 | **[PlusAI](https://www.plus.ai)** | **[Software Engineer Intern - Robotics](https://jobright.ai/jobs/info/6a10f1e812f8b43cf3988294?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jul 04 |
 | **[Castelion](https://www.castelion.com)** | **[Embedded Software Engineer Intern - Fall 2026](https://jobright.ai/jobs/info/6a48f3a34f64ba41dcb598f4?utm_campaign=1079&utm_source=git)** | Torrance, California, United States | On Site | Jul 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eulerity](https://www.eulerity.com)** | **[Website Developer & Content Marketing Intern - AI & Automation](https://jobright.ai/jobs/info/6a47c1b8f9cbb100d1ab0e5f?utm_campaign=1079&utm_source=git)** | New York, NY | Hybrid | Jul 03 |
 | **[AMAROK Security](https://www.amarok.com)** | **[Research and Development Intern](https://jobright.ai/jobs/info/6a2ac1bcc07d4b6ae1c46fd9?utm_campaign=1079&utm_source=git)** | South Carolina, Columbia | On Site | Jul 03 |
 | **[Creatuity Corp.](http://creatuity.com)** | **[Web Development Intern - Summer 2012](https://jobright.ai/jobs/info/6a3d1c64122f340d29cef3b1?utm_campaign=1079&utm_source=git)** | Richardson, Texas, United States | On Site | Jul 03 |
-| **[ARA](https://www.ara.com)** | **[Technical Intern 1](https://jobright.ai/jobs/info/69811ab9abff4c399a9feae7?utm_campaign=1079&utm_source=git)** | Baton Rouge, LA | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
