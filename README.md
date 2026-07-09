@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Software Engineering Intern III, Summer 2027](https://jobright.ai/jobs/info/6a4ff66b9469c0662034f921?utm_campaign=1079&utm_source=git)** | Nashua, New Hampshire, United States | On Site | Jul 09 |
 | **[LYNA](https://www.lynacycle.app/)** | **[Senior Backend Engineer - Internship](https://jobright.ai/jobs/info/6a4ff2501544d7246c0d7238?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 09 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer (SkillBridge Intern) - 23875](https://jobright.ai/jobs/info/6a173798f45c6530ce9aa543?utm_campaign=1079&utm_source=git)** | Greater Roanoke Area | On Site | Jul 09 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 3](https://jobright.ai/jobs/info/6a4feab29469c0662034f682?utm_campaign=1079&utm_source=git)** | Nashua, NH, United States | On Site | Jul 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Ads Measurement Signal and Privacy) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2f9e96eace377055eb325d?utm_campaign=1079&utm_source=git)** | San Jose, United States | On Site | Jul 07 |
 | **[Fujitsu](https://www.fujitsu.com/jp/group/fsas/about/subsidiaries/ffsys/)** | **[Intern Researcher](https://jobright.ai/jobs/info/6a461e58076271587529ff40?utm_campaign=1079&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Security Software Engineer Project Intern (Product Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30cdd743732c05812e3be3?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
-| **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Software Test Engineer (Summer 2026)](https://jobright.ai/jobs/info/6a2fd27feace377055eb3760?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
