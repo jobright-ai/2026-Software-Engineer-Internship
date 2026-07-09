@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Autonomy Software Engineering and Systems Engineering Intern - Fall 2026 - ASL](https://jobright.ai/jobs/info/69fb685a38179b6f1ae78545?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 09 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology - Ads Creative) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d55c89f8f147d3736fdf?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 09 |
+| **[iHerb](http://www.iherb.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a4ad4d0c2d11a6a46676fa1?utm_campaign=1079&utm_source=git)** | United States of America - Remote / Home Office | Remote | Jul 09 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Software Developer](https://jobright.ai/jobs/info/6a4f271915b4965afd585921?utm_campaign=1079&utm_source=git)** | Montreal, Quebec, CA, H3B 0B3 | Hybrid | Jul 08 |
 | **[National Digital Trust Company (In Organization)](www.nationaldigital.com)** | **[Technical Analyst (Contractor or Paid Internship)](https://jobright.ai/jobs/info/6a4f020a9469c0662034d2bd?utm_campaign=1079&utm_source=git)** | Washington, United States | On Site | Jul 08 |
 | **[Argmax, Inc.](https://www.takeargmax.com/)** | **[On-device AI Frameworks Engineer (Intern)](https://jobright.ai/jobs/info/6a3edc60882f121f56a3bab8?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Jul 08 |
@@ -125,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Year at Palantir - Forward Deployed Software Engineer, Internship - USG](https://jobright.ai/jobs/info/6a06719e6c07461fe172085a?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
 | ↳ | **[Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobright.ai/jobs/info/6a18bdfbabc8f63abac7bc4e?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 07 |
 | ↳ | **[Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobright.ai/jobs/info/6a0639446c07461fe171e004?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 07 |
-| **[Octo (formerly Connexta)](https://connexta.com/)** | **[Software Engineer](https://jobright.ai/jobs/info/6a43e8a6ef17a815538a22df?utm_campaign=1079&utm_source=git)** | Denver, CO, United States | On Site | Jul 07 |
 | **[Magnet Forensics](http://magnetforensics.com)** | **[Software Developer Engineer in Test Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a304f4443732c05812e1b0f?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jul 07 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Software Engineer, Internship - Production Infrastructure](https://jobright.ai/jobs/info/6a42b3796faf7560609679b2?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Jul 07 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Software Engineer Intern - Air Taxi](https://jobright.ai/jobs/info/6a3028f9afabbe533fb89541?utm_campaign=1079&utm_source=git)** | San Carlos, CA, US | On Site | Jul 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Software Developer Intern - Dewar (Hybrid)](https://jobright.ai/jobs/info/6a47e1ae4f64ba41dcb5795f?utm_campaign=1079&utm_source=git)** | Quincy, MA | Hybrid | Jul 06 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Computer Graphics Software Developer Intern](https://jobright.ai/jobs/info/6a0f309283d714428981d6d2?utm_campaign=1079&utm_source=git)** | Champaign, IL | On Site | Jul 06 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern Job Details / Ascend Learning, LLC](https://jobright.ai/jobs/info/6a4a51f03dbab558e29aee99?utm_campaign=1079&utm_source=git)** | Leawood, KS, US, 66211 | Hybrid | Jul 06 |
-| **[iHerb](http://www.iherb.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a4ad4d0c2d11a6a46676fa1?utm_campaign=1079&utm_source=git)** | United States of America - Remote / Home Office | Remote | Jul 06 |
-| **[Ramp](https://ramp.com)** | **[Software Engineer Internship, Android](https://jobright.ai/jobs/info/68cc0cd5128dc347fd91e2a0?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
