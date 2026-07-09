@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a2bb8e0d3ec8317fe149363?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 09 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Autonomy Software Engineering and Systems Engineering Intern - Fall 2026 - ASL](https://jobright.ai/jobs/info/69fb685a38179b6f1ae78545?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology - Ads Creative) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d55c89f8f147d3736fdf?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 09 |
 | **[iHerb](http://www.iherb.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a4ad4d0c2d11a6a46676fa1?utm_campaign=1079&utm_source=git)** | United States of America - Remote / Home Office | Remote | Jul 09 |
@@ -102,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[commonsku](https://www.commonsku.com/)** | **[QA Engineer - Internship](https://jobright.ai/jobs/info/6a4e258715b4965afd58263d?utm_campaign=1079&utm_source=git)** | Ontario, Canada | Remote | Jul 08 |
 | **[Clera](https://www.getclera.com/)** | **[Founding Engineer Intern](https://jobright.ai/jobs/info/6a20c18e338c01230511b40f?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Jul 08 |
 | **[Besimple AI](https://besimple.ai/)** | **[Mobile Engineer - Full time On-site (Internships available too)](https://jobright.ai/jobs/info/6a4e45a9397d8d353c288472?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 07 |
-| **[Replit](https://replit.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/6a2051b0c00e701fe836880c?utm_campaign=1079&utm_source=git)** | Foster City, CA | Hybrid | Jul 07 |
+| **[Replit](https://replit.com)** | **[Software Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68dd5bfba125e75c422aa1ec?utm_campaign=1079&utm_source=git)** | Foster City, CA | Hybrid | Jul 07 |
 | **[Gumloop](https://www.gumloop.com)** | **[Design Engineer Intern](https://jobright.ai/jobs/info/6a4459f8b156014e414bc49a?utm_campaign=1079&utm_source=git)** | San Francisco Office | On Site | Jul 07 |
 | **[Fintech](https://www.fintech.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a43f30c57ffc22029405b88?utm_campaign=1079&utm_source=git)** | Tampa, Florida, United States | On Site | Jul 07 |
 | **[Rieke](http://riekepackaging.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a4eda6a397d8d353c28a936?utm_campaign=1079&utm_source=git)** | Bloomfield Hills, MI, United States | On Site | Jul 07 |
@@ -134,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Test Systems Software Intern - Fall 2026 - ELSYS](https://jobright.ai/jobs/info/6a300de2093df201d07af3af?utm_campaign=1079&utm_source=git)** | Smyrna, GA | On Site | Jul 07 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a28dbfd40ac8e32932a401f?utm_campaign=1079&utm_source=git)** | Scottsdale, AZ, United States | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Ads Measurement Signal and Privacy) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2f9e96eace377055eb325d?utm_campaign=1079&utm_source=git)** | San Jose, United States | On Site | Jul 07 |
-| **[Fujitsu](http://www.fujitsu.com)** | **[Intern Researcher](https://jobright.ai/jobs/info/6a461e58076271587529ff40?utm_campaign=1079&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 07 |
+| **[Fujitsu](https://www.fujitsu.com/jp/group/fsas/about/subsidiaries/ffsys/)** | **[Intern Researcher](https://jobright.ai/jobs/info/6a461e58076271587529ff40?utm_campaign=1079&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Security Software Engineer Project Intern (Product Security) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30cdd743732c05812e3be3?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
 | **[Persistent Systems, LLC](https://www.persistentsystems.com/)** | **[Intern - Software Test Engineer (Summer 2026)](https://jobright.ai/jobs/info/6a2fd27feace377055eb3760?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Frontend Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696adf2bdb26b618950e3a8a?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Optiver](http://www.optiver.com)** | **[Software Engineer Intern (Summer 2027 - Chicago)](https://jobright.ai/jobs/info/6a486a44971cd25b06f942af?utm_campaign=1079&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 06 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[Software Developer Intern - Dewar (Hybrid)](https://jobright.ai/jobs/info/6a47e1ae4f64ba41dcb5795f?utm_campaign=1079&utm_source=git)** | Quincy, MA | Hybrid | Jul 06 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Computer Graphics Software Developer Intern](https://jobright.ai/jobs/info/6a0f309283d714428981d6d2?utm_campaign=1079&utm_source=git)** | Champaign, IL | On Site | Jul 06 |
-| **[Ascend Learning](http://www.ascendlearning.com)** | **[Software Engineer Intern Job Details / Ascend Learning, LLC](https://jobright.ai/jobs/info/6a4a51f03dbab558e29aee99?utm_campaign=1079&utm_source=git)** | Leawood, KS, US, 66211 | Hybrid | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
