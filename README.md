@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Applications Engineering](https://jobright.ai/jobs/info/6a4fbb584649561ec08aeba2?utm_campaign=1079&utm_source=git)** | Roseville, CA, United States | On Site | Jul 10 |
 | **[BSV Association](https://bitcoinassociation.net)** | **[Internship Opportunities](https://jobright.ai/jobs/info/6a50b0f35165966a1161b040?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[Intern - Technical Implementation Engineer](https://jobright.ai/jobs/info/6a50b0d6ddd293054ccab7ae?utm_campaign=1079&utm_source=git)** | Alpharetta, GA, United States | On Site | Jul 10 |
 | **[Sanctuary AI](https://www.sanctuary.ai)** | **[Firmware Engineering Intern (September 2026 - April 2027)](https://jobright.ai/jobs/info/6a3e3a40882f121f56a39aaf?utm_campaign=1079&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jul 10 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Gemini](https://gemini.com)** | **[Software Engineering Intern (Fall 2026)](https://jobright.ai/jobs/info/6a40816416b14939532835d3?utm_campaign=1079&utm_source=git)** | New York, New York | On Site | Jul 09 |
 | **[Rippling](https://www.rippling.com)** | **[Software Engineer Intern - Backend Focused - Winter 2027](https://jobright.ai/jobs/info/6a2991e20c4972328e7e4390?utm_campaign=1079&utm_source=git)** | Seattle, WA | Hybrid | Jul 09 |
 | **[TD](https://www.td.com)** | **[Software Engineer Intern/Co-op (Fall 2026) Preferred Candidate](https://jobright.ai/jobs/info/6a4e6708397d8d353c288bb2?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 09 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Applications Engineering](https://jobright.ai/jobs/info/6a4fbb584649561ec08aeba2?utm_campaign=1079&utm_source=git)** | CA - Roseville, United States | On Site | Jul 09 |
 | **[mOVE  - Meritrium OmniVentures](https://meritrium.com/move.html)** | **[Software Testing Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/6a4fd8564649561ec08af41b?utm_campaign=1079&utm_source=git)** | Canada | Remote | Jul 09 |
 | **[Rippling](https://www.rippling.com)** | **[Software Engineer Intern - Backend Focused - Winter 2027](https://jobright.ai/jobs/info/6a2d15adfc0644749054bc61?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 09 |
 | **[Ramp](https://ramp.com)** | **[Software Engineer Internship, Android](https://jobright.ai/jobs/info/68cc0cd5128dc347fd91e2a0?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Jul 09 |
