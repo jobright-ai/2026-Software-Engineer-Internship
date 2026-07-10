@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aechelon Technology Inc.](http://www.aechelon.com)** | **[Junior Software Engineer - Internship](https://jobright.ai/jobs/info/6a3da6a58bfad862bc99e17f?utm_campaign=1079&utm_source=git)** | Overland Park, KS, United States | On Site | Jul 10 |
+| **[Skydio](https://www.skydio.com)** | **[Software Engineer Intern Fall 2026/Winter 2027](https://jobright.ai/jobs/info/69fa8f02582f810f9c8d682c?utm_campaign=1079&utm_source=git)** | US CA San Mateo | On Site | Jul 10 |
+| **[Optiver](http://www.optiver.com)** | **[Software Engineer Intern (Summer 2027 - Austin)](https://jobright.ai/jobs/info/6a50ba8b42c6dc326e8ebb08?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Jul 10 |
 | **[Coveo](http://www.coveo.com)** | **[Software Developer Intern (Professional Services team), Fall 2026](https://jobright.ai/jobs/info/6a50ec3c57513b72e0c62648?utm_campaign=1079&utm_source=git)** | Montreal (Province of Quebec, Canada) | Hybrid | Jul 10 |
 | **[ByteDance](http://bytedance.com)** | **[Research Intern (AML) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a50e96b8d7d3e6cf1cbd565?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 10 |
 | **[BREVIAN](https://brevian.ai/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a50e5b557513b72e0c62264?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, United States | On Site | Jul 10 |
@@ -95,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Vital Lyfe](https://www.vital-lyfe.com)** | **[Software Engineering Internship - Fall 2026](https://jobright.ai/jobs/info/6a4ffeb9397d8d353c28d66e?utm_campaign=1079&utm_source=git)** | Torrance, CA, United States | On Site | Jul 09 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer (SkillBridge Intern) - 23875](https://jobright.ai/jobs/info/6a173798f45c6530ce9aa543?utm_campaign=1079&utm_source=git)** | Greater Roanoke Area | On Site | Jul 09 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 3](https://jobright.ai/jobs/info/6a4feab29469c0662034f682?utm_campaign=1079&utm_source=git)** | Nashua, NH, United States | On Site | Jul 09 |
-| **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Onsite Internship: IT - Web Development (Fall & Spring)](https://jobright.ai/jobs/info/6a463fac4f64ba41dcb51a28?utm_campaign=1079&utm_source=git)** | Brookfield, WI, United States | On Site | Jul 09 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Software Engineering Intern, JAX - Fall 2026](https://jobright.ai/jobs/info/69ec115e58811370cb13e717?utm_campaign=1079&utm_source=git)** | Santa Clara, CA | On Site | Jul 09 |
 | **[iHerb](http://www.iherb.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a4ad4d0c2d11a6a46676fa1?utm_campaign=1079&utm_source=git)** | United States of America - Remote / Home Office | Remote | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Monetization Technology - Ads Creative) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d55c89f8f147d3736fdf?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern(Live Service) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a19588ec2a87d6cd3df8ac7?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 08 |
 | ↳ | **[Software Engineer Intern (Capital Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977014e52f3c27ec64310b7?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
 | **[Audiokinetic](https://www.audiokinetic.com/)** | **[Intern, Software Development, Wwise Acoustics (Autumn 2026)](https://jobright.ai/jobs/info/6a4e219d0ea38951a6ff23fa?utm_campaign=1079&utm_source=git)** | Montréal, Quebec, Canada | Hybrid | Jul 08 |
-| ↳ | **[Intern, Software Development, Wwise Integrations (Autumn 2026)](https://jobright.ai/jobs/info/6a4e21980ea38951a6ff23f8?utm_campaign=1079&utm_source=git)** | Montréal, Quebec, Canada | Hybrid | Jul 08 |
-| **[Varda Space Industries](http://varda.com)** | **[Flight Software (C++) Internship - Summer 2026](https://jobright.ai/jobs/info/6a3f12fa882f121f56a3c711?utm_campaign=1079&utm_source=git)** | El Segundo, California, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
