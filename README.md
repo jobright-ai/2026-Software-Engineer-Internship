@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern - CD1](https://jobright.ai/jobs/info/6a502e851544d7246c0d8023?utm_campaign=1079&utm_source=git)** | Kanata, ON, Canada | On Site | Jul 09 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/6a5042fd397d8d353c28e6c3?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, United States | On Site | Jul 09 |
 | ↳ | **[Software Development Engineer Intern](https://jobright.ai/jobs/info/6a504085f57ed168c3418836?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, United States | Hybrid | Jul 09 |
 | **[LuMATH](https://www.lumath.com)** | **[Python Intelligence System Intern](https://jobright.ai/jobs/info/6a503dec1544d7246c0d832d?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 09 |
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[Intern - Technical Implementation Engineer](https://jobright.ai/jobs/info/6a503b0b397d8d353c28e4f3?utm_campaign=1079&utm_source=git)** | Alpharetta, GA, United States | On Site | Jul 09 |
-| **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern - CD1](https://jobright.ai/jobs/info/6a502e851544d7246c0d8023?utm_campaign=1079&utm_source=git)** | Kanata, ON, Canada | On Site | Jul 09 |
 | **[Pylon](https://www.usepylon.com)** | **[Software Engineer, Intern](https://jobright.ai/jobs/info/6a4fe2e1fc327f422fef6e39?utm_campaign=1079&utm_source=git)** | San Francisco, United States | On Site | Jul 09 |
 | **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Software Engineering Intern III, Summer 2027](https://jobright.ai/jobs/info/6a4ff66b9469c0662034f921?utm_campaign=1079&utm_source=git)** | Nashua, New Hampshire, United States | On Site | Jul 09 |
 | **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a501e464649561ec08b056c?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 09 |
