@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Software Engineer, Internship](https://jobright.ai/jobs/info/6a53f3128576ec69c0151779?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 12 |
+| **[Moda Health](https://www.modahealth.com/index.shtml)** | **[Software Engineer (Intern)](https://jobright.ai/jobs/info/6a53e9d18ef95364ead93ce5?utm_campaign=1079&utm_source=git)** | Portland, OR, United States | Remote | Jul 12 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/6a53e6bd8ef95364ead93c63?utm_campaign=1079&utm_source=git)** | South San Francisco, CA, United States | On Site | Jul 12 |
 | **[Radix Trading LLC](https://radix.trade)** | **[Quantitative Technologist (C++ Intern)](https://jobright.ai/jobs/info/6a53dace8576ec69c0151300?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Jul 12 |
 | **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[Software Intern Fall 2026](https://jobright.ai/jobs/info/6a53cf96c8eb0843027add1b?utm_campaign=1079&utm_source=git)** | Albuquerque, NM, United States | On Site | Jul 12 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Backend Development Engineer Intern (Infrastructure Platform Delivery) - 2026 Fall (BS/MS)](https://jobright.ai/jobs/info/6a523a35d007ee02d95f6a01?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 11 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Forward Deployed Software Engineer, Internship - US Government](https://jobright.ai/jobs/info/6a52311ee726ec56126a1ece?utm_campaign=1079&utm_source=git)** | Honolulu, HI, United States | On Site | Jul 11 |
 | **[Blackbird Labs](https://www.blackbird.xyz)** | **[Engineering Intern](https://jobright.ai/jobs/info/69fb2667e156000841156c1c?utm_campaign=1079&utm_source=git)** | New York, United States | On Site | Jul 11 |
-| **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Business Applications](https://jobright.ai/jobs/info/6a18d85fc2a87d6cd3df50e3?utm_campaign=1079&utm_source=git)** | Tucson, AZ - Downtown, US | On Site | Jul 11 |
-| ↳ | **[Student Intern, Business Applications](https://jobright.ai/jobs/info/6a512bf157513b72e0c648e7?utm_campaign=1079&utm_source=git)** | Tucson, AZ - Downtown, United States | On Site | Jul 11 |
+| **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Business Applications](https://jobright.ai/jobs/info/6a512bf157513b72e0c648e7?utm_campaign=1079&utm_source=git)** | Tucson, AZ - Downtown, United States | On Site | Jul 11 |
+| ↳ | **[Student Intern, Business Applications](https://jobright.ai/jobs/info/6a18d85fc2a87d6cd3df50e3?utm_campaign=1079&utm_source=git)** | Tucson, AZ - Downtown, US | On Site | Jul 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Quality and Efficiency Technology) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30beee89f8f147d3736b17?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 11 |
 | ↳ | **[Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ee8a1c4b0fa35a70786f35?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 11 |
 | ↳ | **[Backend Software Engineer Intern(Foundation Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d52743732c05812e3e04?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Jul 11 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Isuzu North America](http://www.isuzu.com/)** | **[Autonomous Driving Intern](https://jobright.ai/jobs/info/6a51c6aa02522b5b722eb516?utm_campaign=1079&utm_source=git)** | Plymouth, MI, United States | On Site | Jul 10 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Design Verification Engineer, Intern](https://jobright.ai/jobs/info/6a42cf48ff87fd527f98593e?utm_campaign=1079&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Jul 10 |
 | **[Layup Parts](www.layupparts.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a51c2058d7d3e6cf1cc2738?utm_campaign=1079&utm_source=git)** | Huntington Beach, CA, United States | On Site | Jul 10 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Software Engineer, Internship - Defense Tech](https://jobright.ai/jobs/info/6a51c8bfae4052672fe9acff?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
-| ↳ | **[Forward Deployed Software Engineer, Internship - Defense Tech](https://jobright.ai/jobs/info/6a51c72257513b72e0c67b64?utm_campaign=1079&utm_source=git)** | Washington, DC, United States | On Site | Jul 10 |
-| **[Salt AI](https://www.salt.ai)** | **[Solutions Engineering Intern - Commerical Team (Chicago)](https://jobright.ai/jobs/info/6a4562663dbab558e29a11c0?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | Remote | Jul 10 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Software Engineer, Internship - Production Infrastructure](https://jobright.ai/jobs/info/6a42b3796faf7560609679b2?utm_campaign=1079&utm_source=git)** | Washington, DC | On Site | Jul 10 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Forward Deployed Software Engineer, Internship - Defense Tech](https://jobright.ai/jobs/info/6a51c72257513b72e0c67b64?utm_campaign=1079&utm_source=git)** | Washington, DC, United States | On Site | Jul 10 |
+| ↳ | **[Software Engineer, Internship - Defense Tech](https://jobright.ai/jobs/info/6a51c8bfae4052672fe9acff?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
