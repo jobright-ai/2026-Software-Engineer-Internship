@@ -57,23 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PulseSync Pte Ltd](http://pulsesync.com/)** | **[Intern (Software Development) – SG](https://jobright.ai/jobs/info/6a56c3a2f7517b519ad5814c?utm_campaign=1079&utm_source=git)** | Lane County, OR, United States | On Site | Jul 14 |
+| **[General Dynamics](https://www.gd.com)** | **[Intern Engineer - (Co-Op)](https://jobright.ai/jobs/info/6a56c2c7e9b77f668bd65b04?utm_campaign=1079&utm_source=git)** | Ft. Wayne, IN, United States | Hybrid | Jul 14 |
 | **[Tenant Inc.](https://www.tenantinc.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a56be4d10c4d945d864bd2f?utm_campaign=1079&utm_source=git)** | Irvine, CA, United States | On Site | Jul 14 |
-| **[eAI](https://eazifunds.com)** | **[Front-End Developer Intern (Remote)](https://jobright.ai/jobs/info/6a56be4621f64463ad356c40?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 14 |
 | **[NextGen Federal Systems](https://www.nextgenfed.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a567a12efb06a45240d6007?utm_campaign=1079&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Travelers](https://upstateinsurance.com)** | **[Engineering Development Program (EDP) - Intern](https://jobright.ai/jobs/info/6a56b4cb53b3962b910b2109?utm_campaign=1079&utm_source=git)** | Hartford, CT, US | Hybrid | Jul 14 |
 | ↳ | **[Engineering Development Program (EDP) - Intern](https://jobright.ai/jobs/info/6a56b1f4f7517b519ad57769?utm_campaign=1079&utm_source=git)** | Hartford, CT, United States | On Site | Jul 14 |
 | **[DRW](http://drw.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a550063268af95237be89af?utm_campaign=1079&utm_source=git)** | Montreal, Canada | On Site | Jul 14 |
 | **[NetApp](http://netapp.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a56a26ff7517b519ad57272?utm_campaign=1079&utm_source=git)** | Wichita, KS, United States | On Site | Jul 14 |
 | **[TikTok](https://www.tiktok.com)** | **[GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a569d1521f64463ad355b7c?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 14 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Year at Palantir - Software Engineer, Internship](https://jobright.ai/jobs/info/6a063968320bff2205eaa361?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 14 |
-| ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/6a552986377f983ce8a982eb?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
-| ↳ | **[Year at Palantir - Software Engineer, Internship](https://jobright.ai/jobs/info/6a5489e68a74e077472fc23d?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
-| ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/6a4298496faf756060967309?utm_campaign=1079&utm_source=git)** | Washington, D.C. | On Site | Jul 14 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Year at Palantir - Software Engineer, Internship](https://jobright.ai/jobs/info/6a1de8459111f771d1a1be26?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 14 |
 | ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/6a53f3128576ec69c0151779?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 14 |
-| ↳ | **[Year at Palantir - Software Engineer, Internship](https://jobright.ai/jobs/info/6a1de8459111f771d1a1be26?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 14 |
+| ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/6a4298496faf756060967309?utm_campaign=1079&utm_source=git)** | Washington, D.C. | On Site | Jul 14 |
+| ↳ | **[Year at Palantir - Software Engineer, Internship](https://jobright.ai/jobs/info/6a063968320bff2205eaa361?utm_campaign=1079&utm_source=git)** | New York, NY | On Site | Jul 14 |
+| ↳ | **[Year at Palantir - Software Engineer, Internship](https://jobright.ai/jobs/info/6a5489e68a74e077472fc23d?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
+| ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/6a552986377f983ce8a982eb?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
 | **[First Solar](http://www.firstsolar.com)** | **[Software Engineer Intern (1st Shift)](https://jobright.ai/jobs/info/6a56963c21f64463ad3557c4?utm_campaign=1079&utm_source=git)** | Perrysburg, OH, United States | On Site | Jul 14 |
-| **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - C# .NET Desktop, Summer 2027](https://jobright.ai/jobs/info/6a552d95377f983ce8a985fa?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
-| ↳ | **[Software Engineer Intern - Full Stack Web, Summer 2027](https://jobright.ai/jobs/info/6a552da4ae07d60a8d00f7de?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
+| **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - Full Stack Web, Summer 2027](https://jobright.ai/jobs/info/6a552da4ae07d60a8d00f7de?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
+| ↳ | **[Software Engineer Intern - C# .NET Desktop, Summer 2027](https://jobright.ai/jobs/info/6a552d95377f983ce8a985fa?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
 | ↳ | **[Software Engineer Intern - Python, Summer 2027](https://jobright.ai/jobs/info/6a552da2f2c46727285f0607?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Software Engineer Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5654a653b3962b910af7a2?utm_campaign=1079&utm_source=git)** | South San Francisco, CA, United States | On Site | Jul 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Trust and Safety -Engineer-AI Safety)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a43d4dd105260150b71e51b?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Jul 14 |
@@ -142,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Huawei Canada](https://www.huawei.com/ca/)** | **[Intern Researcher – Multimodal & Voice Interaction (HCI)](https://jobright.ai/jobs/info/6a55529e4119652ff3864fbc?utm_campaign=1079&utm_source=git)** | Markham, Canada | On Site | Jul 13 |
 | **[Ad Hoc Research](http://www.adhoc-recherche.com/en/home/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a554fbe268af95237beacbc?utm_campaign=1079&utm_source=git)** | Plano, TX, United States | On Site | Jul 13 |
 | **[Quantiq](https://www.quantiqpartners.com)** | **[Software Developer Internship (Summer 2027)](https://jobright.ai/jobs/info/6a50aaabd5d2a327b664cef3?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Jul 13 |
-| **[Bookmyhelp](https://bookmyhelp.com)** | **[Frontend Developer Intern - Unpaid (Fall 2026 Co-op) / Mississauga, ON](https://jobright.ai/jobs/info/6a5505a54119652ff3862bec?utm_campaign=1079&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jul 13 |
 | **[Persona AI](https://personainc.ai/)** | **[Teleoperation Software Engineering Internship](https://jobright.ai/jobs/info/6a5544d42084cd792b477489?utm_campaign=1079&utm_source=git)** | Pensacola, FL, United States | On Site | Jul 13 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Software Engineer Intern - C++, Summer 2027](https://jobright.ai/jobs/info/6a5535a1ae07d60a8d00fc0e?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Quantitative Development & Strategy Intern, Summer 2027](https://jobright.ai/jobs/info/6a553180f2c46727285f0831?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
