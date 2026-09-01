@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medpace](http://www.medpace.com)** | **[IT Infrastructure Intern- Spring 2027](https://jobright.ai/jobs/info/6a7a7e38bb6ca93ae561be8d?utm_campaign=1079&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 01 |
+| **[Google](https://www.google.com)** | **[Software Developer Intern, BS, Summer 2027](https://jobright.ai/jobs/info/6a953bbbd18f7567482803bc?utm_campaign=1079&utm_source=git)** | Waterloo, ON, Canada | On Site | Sep 01 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (TikTok Search Data Infra) - 2027 Summer](https://jobright.ai/jobs/info/6a84192ce459fa3baa85cf48?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Sep 01 |
+| ↳ | **[Software Engineer Intern (TikTok Search Data Infra) - 2027 Fall](https://jobright.ai/jobs/info/6a84194d85e0d023aaea2841?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Sep 01 |
+| **[WebFX](https://www.webfx.com)** | **[Web Developer Internship](https://jobright.ai/jobs/info/6a1984569111f771d1a06393?utm_campaign=1079&utm_source=git)** | Harrisburg, PA | On Site | Sep 01 |
+| ↳ | **[Web Developer Internship](https://jobright.ai/jobs/info/6a5a36ad4da96a42cfd948f6?utm_campaign=1079&utm_source=git)** | Harrisburg, PA, United States | On Site | Sep 01 |
+| **[Medpace](http://www.medpace.com)** | **[Software Development Co-Op - Spring 2027](https://jobright.ai/jobs/info/6a7a7e3bb17cba5690367550?utm_campaign=1079&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 01 |
+| ↳ | **[Software QA Test Engineer Intern - Spring 2027](https://jobright.ai/jobs/info/6a7a7e58a26ccc369f83e88e?utm_campaign=1079&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 01 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Fullstack Engineer, Infrastructure Engineering (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a969d57b22f636c814135e3?utm_campaign=1079&utm_source=git)** | Fremont, CA, United States | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2027 Internship - Software Engineer - Aftermarket Programs (TRU Simulation - Lutz, FL)](https://jobright.ai/jobs/info/6a966431b22f636c8141253d?utm_campaign=1079&utm_source=git)** | Lutz, FL, United States | On Site | Sep 01 |
-| ↳ | **[2027 Internship - Quality Assurance Engineer (Independence, KS)](https://jobright.ai/jobs/info/6a96642d455eaf6a08c17221?utm_campaign=1079&utm_source=git)** | Independence, KS, United States | On Site | Sep 01 |
 | ↳ | **[2027 Summer Intern - Software/Computer Science Engineering - Fort Worth](https://jobright.ai/jobs/info/6a966430e4e60e4b8da5886e?utm_campaign=1079&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 01 |
+| ↳ | **[2027 Internship - Quality Assurance Engineer (Independence, KS)](https://jobright.ai/jobs/info/6a96642d455eaf6a08c17221?utm_campaign=1079&utm_source=git)** | Independence, KS, United States | On Site | Sep 01 |
 | ↳ | **[2027 Internship - Quality Assurance Engineer (Customer Quality)](https://jobright.ai/jobs/info/6a96643669b865490a631c8d?utm_campaign=1079&utm_source=git)** | Wichita, KS, United States | On Site | Sep 01 |
 | ↳ | **[2027 Internship - Quality Assurance Engineer (Supplier Quality)](https://jobright.ai/jobs/info/6a96642d26613756de6d7bad?utm_campaign=1079&utm_source=git)** | Wichita, KS, United States | On Site | Sep 01 |
 | ↳ | **[2027 Internship - Quality Assurance Engineer (Components Manufacturing Facility)](https://jobright.ai/jobs/info/6a96642e26613756de6d7bae?utm_campaign=1079&utm_source=git)** | Wichita, KS, United States | On Site | Sep 01 |
@@ -73,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[AMD](http://www.amd.com)** | **[Short Term 2027 Graphics Software Engineering Intern/Co-Op](https://jobright.ai/jobs/info/6a968f9e455eaf6a08c18000?utm_campaign=1079&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 01 |
 | ↳ | **[Short Term 2027 Software Engineering Intern/Co-Op](https://jobright.ai/jobs/info/6a968f99b22f636c81413317?utm_campaign=1079&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 01 |
 | ↳ | **[Short Term 2027 Software Engineering Intern/Co-Op](https://jobright.ai/jobs/info/6a968f9669b865490a632a16?utm_campaign=1079&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Sep 01 |
-| ↳ | **[Short Term 2027 Firmware Engineering Intern/Co-Op](https://jobright.ai/jobs/info/6a967bead13b4819f39dc1f4?utm_campaign=1079&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 01 |
 | ↳ | **[Short Term 2027 Firmware Engineering Intern/Co-Op](https://jobright.ai/jobs/info/6a967be0d13b4819f39dc1ec?utm_campaign=1079&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Sep 01 |
+| ↳ | **[Short Term 2027 Firmware Engineering Intern/Co-Op](https://jobright.ai/jobs/info/6a96897f455eaf6a08c17e83?utm_campaign=1079&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 01 |
 | ↳ | **[Summer 2027 Long Term Software Engineering Intern/Co-op](https://jobright.ai/jobs/info/6a968a16e4e60e4b8da594fa?utm_campaign=1079&utm_source=git)** | Calgary, AB, Canada | Hybrid | Sep 01 |
 | ↳ | **[Summer 2027 Long Term Software Test Engineering Intern/Co-Op](https://jobright.ai/jobs/info/6a968901d13b4819f39dc4eb?utm_campaign=1079&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 01 |
 | ↳ | **[Summer 2027 Long Term Firmware Engineering Intern/Co-op](https://jobright.ai/jobs/info/6a96893426613756de6d8819?utm_campaign=1079&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Sep 01 |
@@ -115,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Internship Information Technology (20097565)](https://jobright.ai/jobs/info/6a9664f1b22f636c81412582?utm_campaign=1079&utm_source=git)** | Columbus, OH, United States | Hybrid | Aug 31 |
 | **[Textron](http://textron.com)** | **[2027 Co-Op - Software Engineer (Uncrewed Land & Air) - Hunt Valley, MD](https://jobright.ai/jobs/info/6a96643769b865490a631c95?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD, United States | On Site | Aug 31 |
 | ↳ | **[2027 Intern - Software Enginer (Sea Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6a966435e4e60e4b8da58892?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD, United States | On Site | Aug 31 |
-| ↳ | **[2027 Intern - Firmware Engineer (Weapons) - Hunt Valley, MD](https://jobright.ai/jobs/info/6a96643269b865490a631c77?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD, United States | On Site | Aug 31 |
 | ↳ | **[2027 Internship - Quality Assurance Engineer](https://jobright.ai/jobs/info/6a966432b22f636c81412545?utm_campaign=1079&utm_source=git)** | Wichita, KS, United States | On Site | Aug 31 |
+| ↳ | **[2027 Intern - Firmware Engineer (Weapons) - Hunt Valley, MD](https://jobright.ai/jobs/info/6a96643269b865490a631c77?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD, United States | On Site | Aug 31 |
 | ↳ | **[2027 Intern - Software Engineer (Electronic Systems) - Hunt Valley, MD](https://jobright.ai/jobs/info/6a96642db22f636c81412522?utm_campaign=1079&utm_source=git)** | Hunt Valley, MD, United States | On Site | Aug 31 |
 | **[Emerson](http://www.emerson.com)** | **[Test Engineering Intern](https://jobright.ai/jobs/info/6a9625809fcec54423731c03?utm_campaign=1079&utm_source=git)** | Shakopee, MN, United States | On Site | Aug 31 |
 | ↳ | **[Test Engineering Intern](https://jobright.ai/jobs/info/6a96257b4c22023a07938688?utm_campaign=1079&utm_source=git)** | Boulder, CO, United States | On Site | Aug 31 |
@@ -148,13 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern, Cloud Services (Summer 2027)](https://jobright.ai/jobs/info/6a95d647cabc9f6703e1a496?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 31 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2027 - Software Engineering](https://jobright.ai/jobs/info/6a95c28f4c22023a079359b8?utm_campaign=1079&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 31 |
 | ↳ | **[Summer Intern 2027 - Software Engineering](https://jobright.ai/jobs/info/6a95c2874c22023a079359ab?utm_campaign=1079&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Aug 31 |
-| ↳ | **[Summer Intern 2027 - Software Engineering](https://jobright.ai/jobs/info/6a9091a70bd89e205d24b0d1?utm_campaign=1079&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 31 |
 | ↳ | **[Summer Intern 2027 - Software Engineering (8 Months)](https://jobright.ai/jobs/info/6a95c29d4c22023a079359c6?utm_campaign=1079&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 31 |
-| **[HP IQ](https://www.hp-iq.com/join-us)** | **[Software Engineering Intern, AML Platform (Summer 2027)](https://jobright.ai/jobs/info/6a95d646cabc9f6703e1a495?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 31 |
-| ↳ | **[Software Engineering Intern, Product Security (Summer 2027)](https://jobright.ai/jobs/info/6a95d65b9fcec5442372f84c?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 31 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/6a91dc403603630099194ef3?utm_campaign=1079&utm_source=git)** | Spring, TX, United States | Hybrid | Aug 31 |
-| **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - Software Engineering (8 Months)](https://jobright.ai/jobs/info/6a959be23843db0159906065?utm_campaign=1079&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 31 |
-| **[GIRO](http://www.giro.ca/en/)** | **[Winter 2027 - Software Development Intern (Algorithms and Operations Research)](https://jobright.ai/jobs/info/6a95da02cabc9f6703e1a5ce?utm_campaign=1079&utm_source=git)** | Rosemont, Canada | On Site | Aug 31 |
-| **[HP IQ](https://www.hp-iq.com/join-us)** | **[Software Engineering Intern, Software Systems (Summer 2027)](https://jobright.ai/jobs/info/6a95d648f28891320e85e545?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 31 |
-| **[Sierra](https://sierra.ai)** | **[APX (New Grad 2027)](https://jobright.ai/jobs/info/6a9605733843db0159909021?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
