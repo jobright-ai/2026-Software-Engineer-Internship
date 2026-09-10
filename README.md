@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zipline](https://www.zipline.com/)** | **[Software Systems Validation Intern (Summer 2027)](https://jobright.ai/jobs/info/6a865ea0cc81eb647e9f2a74?utm_campaign=1079&utm_source=git)** | South San Francisco, CA, United States | On Site | Sep 10 |
 | **[Formlabs](http://www.formlabs.com)** | **[Embedded Software Intern (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aa185792f936e4a53dac126?utm_campaign=1079&utm_source=git)** | Somerville, MA, United States | On Site | Sep 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Fall](https://jobright.ai/jobs/info/6a86675174e02153f145bc5b?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Sep 10 |
 | ↳ | **[Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Fall](https://jobright.ai/jobs/info/6a86674c2f4f0014cae2996a?utm_campaign=1079&utm_source=git)** | Seattle, WA, United States | On Site | Sep 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Space Capital](https://www.spacecapital.com)** | **[Internship: Forward Deployed Engineer, Test](https://jobright.ai/jobs/info/6aa1c57f500b01124c77ee96?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 09 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6a9ac6d42cdc5958f53e873e?utm_campaign=1079&utm_source=git)** | Florence, SC, United States | On Site | Sep 09 |
 | **[Asure Software](http://www.asuresoftware.com)** | **[Intern - Software Engineering](https://jobright.ai/jobs/info/6aa171d40ffb3d4fea6b4c0d?utm_campaign=1079&utm_source=git)** | Addison, TX, United States | Remote | Sep 09 |
-| **[GreatAmerica](http://www.greatamerica.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6aa1b6ca2f936e4a53dad9ac?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
