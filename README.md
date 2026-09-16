@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://rtx.com/)** | **[Software Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6aaa0cdfa2db131437b60706?utm_campaign=1079&utm_source=git)** | St. Petersburg, FL, United States | On Site | Sep 16 |
+| **[Epic Games](https://epicgames.com)** | **[Gameplay Programmer Intern](https://jobright.ai/jobs/info/6a8e2ffa25fc4e7ae3dc0040?utm_campaign=1079&utm_source=git)** | Cary, NC, United States | On Site | Sep 16 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[Application Developer Co Op MES (Jan-Aug 2027)](https://jobright.ai/jobs/info/6a8dc9fdd34f700f87fd609d?utm_campaign=1079&utm_source=git)** | West Fargo, ND, United States | On Site | Sep 16 |
 | **[Antares](https://antaresindustries.com)** | **[Software Intern - Summer 2027](https://jobright.ai/jobs/info/6aaa49038639d5e4fdc8694f?utm_campaign=1079&utm_source=git)** | Torrance, CA, United States | On Site | Sep 16 |
 | ↳ | **[Software Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6aaa35d2120c360b6bd4ad87?utm_campaign=1079&utm_source=git)** | Torrance, CA, United States | On Site | Sep 16 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2027 Aerospace Software Engineer Undergraduate Intern](https://jobright.ai/jobs/info/6aaa22a328e24cb38513e5c8?utm_campaign=1079&utm_source=git)** | El Segundo, CA, United States | On Site | Sep 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clarendale West End](https://clarendalewestend.com/)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/6aa9da946d0edc2d91b0c039?utm_campaign=1079&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 15 |
 | **[Casa de las Campanas](https://www.casadelascampanas.com)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/6aa9cc2e6d0edc2d91b0b97d?utm_campaign=1079&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 15 |
 | **[Bellingham at West Chester](https://www.seniorlivingbellingham.com/)** | **[Infrastructure Intern](https://jobright.ai/jobs/info/6aa9cc2eeff87f571fc9b9fb?utm_campaign=1079&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 15 |
-| **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[App Dev Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9ccd409ae03adcacdf5dd?utm_campaign=1079&utm_source=git)** | Des Moines, IA, United States | Hybrid | Sep 15 |
-| **[Nelnet](https://nelnetinc.com)** | **[2026 Summer Intern - IT Software Engineer - .NET/Web](https://jobright.ai/jobs/info/6aa9640428e24cb38513a233?utm_campaign=1079&utm_source=git)** | Madison, WI, United States | On Site | Sep 15 |
-| ↳ | **[Intern - UX/UI Front End Engineer](https://jobright.ai/jobs/info/6aa964426d0edc2d91b096ea?utm_campaign=1079&utm_source=git)** | Madison, WI, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
