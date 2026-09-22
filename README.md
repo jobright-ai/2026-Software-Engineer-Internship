@@ -57,8 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SingleStore](https://www.singlestore.com/)** | **[MIT- Software Engineer Intern /Helios/](https://jobright.ai/jobs/info/6ab224c6d43eb922ca0c205f?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 21 |
-| **[Classifiedy](https://classifiedy.com)** | **[Web Developer - Unpaid Internship](https://jobright.ai/jobs/info/6ab223c6d43eb922ca0c204e?utm_campaign=1079&utm_source=git)** | United States | Remote | Sep 21 |
 | **[HellermannTyton France](https://www.hellermanntyton.fr)** | **[ERP Technical Analyst Intern](https://jobright.ai/jobs/info/6ab2224df9692ca98b04cbd0?utm_campaign=1079&utm_source=git)** | Milwaukee, WI 53224, United States | Hybrid | Sep 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Engineer Intern (Ads ML Infra) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a51030078e364789ca57f82?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Sep 21 |
 | **[CCI Systems](http://www.ccisystems.com)** | **[MTU Career Fair-Software Developer Internship](https://jobright.ai/jobs/info/6ab2083cf9692ca98b04c889?utm_campaign=1079&utm_source=git)** | Houghton, MI, United States | Remote | Sep 21 |
@@ -87,12 +85,12 @@ For a complete list, click the following sortable link below:
 | **[Rivian](http://www.rivian.com)** | **[Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op)](https://jobright.ai/jobs/info/6ab1cd90d43eb922ca0c11d7?utm_campaign=1079&utm_source=git)** | Plymouth, MI, United States | On Site | Sep 21 |
 | ↳ | **[Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op](https://jobright.ai/jobs/info/6ab1cd84d43eb922ca0c11d2?utm_campaign=1079&utm_source=git)** | Normal, IL, United States | On Site | Sep 21 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6ab1c7f7d2a93d5a97ebcd01?utm_campaign=1079&utm_source=git)** | Arden Hills, MN, United States | Hybrid | Sep 21 |
-| **[Genesys](https://www.genesys.com)** | **[Software Developer, Intern (Genesys Cloud)](https://jobright.ai/jobs/info/6ab20ce823005eee3545d5ef?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 21 |
-| ↳ | **[Software Developer Full-Stack Intern, AI Scoring, Evaluations and Surveys](https://jobright.ai/jobs/info/6ab20cf0d2a93d5a97ebda04?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 21 |
-| ↳ | **[Software Developer in Test, Intern (Genesys Cloud)](https://jobright.ai/jobs/info/6ab20d0123005eee3545d5f1?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 21 |
-| ↳ | **[Web Software Developer Intern (WFM)](https://jobright.ai/jobs/info/6ab20cd0191d8c340dbdda0e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 21 |
-| ↳ | **[Web Software Developer, Intern (WFM)](https://jobright.ai/jobs/info/6ab20cc532552369083e50ea?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 21 |
+| **[Genesys](https://www.genesys.com)** | **[Web Software Developer, Intern (WFM)](https://jobright.ai/jobs/info/6ab20cc532552369083e50ea?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 21 |
 | ↳ | **[Software Developer in Test, Intern (WEM)](https://jobright.ai/jobs/info/6ab20ce7f9692ca98b04c9a3?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 21 |
+| ↳ | **[Software Developer in Test, Intern (Genesys Cloud)](https://jobright.ai/jobs/info/6ab20d63f9692ca98b04c9aa?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 21 |
+| ↳ | **[Software Developer, Intern (Genesys Cloud)](https://jobright.ai/jobs/info/6ab20ce823005eee3545d5ef?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 21 |
+| ↳ | **[Web Software Developer Intern (WFM)](https://jobright.ai/jobs/info/6ab20cd0191d8c340dbdda0e?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 21 |
+| ↳ | **[Software Developer Full-Stack Intern, AI Scoring, Evaluations and Surveys](https://jobright.ai/jobs/info/6ab20cf0d2a93d5a97ebda04?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 21 |
 | ↳ | **[Software Developer in Test, Intern (Agent Development)](https://jobright.ai/jobs/info/6ab20ce832552369083e50f2?utm_campaign=1079&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 21 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Software Development Intern - Summer 2027](https://jobright.ai/jobs/info/6ab16edb23005eee3545a564?utm_campaign=1079&utm_source=git)** | Highland Heights, OH, United States | On Site | Sep 21 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Motorsports Intern (Summer 2027)](https://jobright.ai/jobs/info/6ab1a436f9692ca98b04ae95?utm_campaign=1079&utm_source=git)** | Huntersville, NC, United States | On Site | Sep 21 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[IGS Energy](http://www.igsenergy.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6aa8aa7283a6750b1adf95ad?utm_campaign=1079&utm_source=git)** | Ohio, United States | Remote | Sep 21 |
 | **[Wellmark Blue Cross and Blue Shield](https://www.wellmark.com/)** | **[Software Engineer Internship - Technology Healthcare Innovation](https://jobright.ai/jobs/info/6ab161a3f9692ca98b0493dd?utm_campaign=1079&utm_source=git)** | Des Moines, IA, United States | Hybrid | Sep 21 |
 | **[The Nuclear Company](https://www.thenuclearcompany.com)** | **[Spring 2027 Software Engineering Intern](https://jobright.ai/jobs/info/6a76229767a1ad0bc53c8e9f?utm_campaign=1079&utm_source=git)** | Washington, DC, United States | On Site | Sep 21 |
+| **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2027 Summer Internship – Information Technology](https://jobright.ai/jobs/info/6ab0d241dd960b415641a1a4?utm_campaign=1079&utm_source=git)** | Memphis, TN, United States | On Site | Sep 21 |
+| **[Upbound Group](https://www.upbound.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6ab1377832552369083e0b4b?utm_campaign=1079&utm_source=git)** | Plano, TX, United States | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
