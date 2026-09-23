@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DRW](http://drw.com/)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6a550063268af95237be89af?utm_campaign=1079&utm_source=git)** | Montreal, QC, Canada | On Site | Sep 22 |
+| **[Tesla](https://tesla.com)** | **[Internship, IT Support Technician, Infrastructure Engineering (Winter/Spring 2027)](https://jobright.ai/jobs/info/6ab35f14762be1c53fc35d72?utm_campaign=1079&utm_source=git)** | Fremont, CA, United States | On Site | Sep 22 |
 | **[Logistics Plus Inc.](https://www.logisticsplus.com/)** | **[Internship: Information Technology](https://jobright.ai/jobs/info/6ab3593e835ccf4a281179e1?utm_campaign=1079&utm_source=git)** | Erie, PA, United States | On Site | Sep 22 |
 | ↳ | **[Internship: Development Team](https://jobright.ai/jobs/info/6ab3592a16511e254891bece?utm_campaign=1079&utm_source=git)** | Erie, PA, United States | On Site | Sep 22 |
 | **[K2 Space Corporation](https://www.k2space.com)** | **[Simulation Software Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6aa0d339ea127c3794699159?utm_campaign=1079&utm_source=git)** | Torrance, CA, United States | On Site | Sep 22 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Software Engineer Intern - San Diego CA](https://jobright.ai/jobs/info/6ab2f6031508734c1530ce4e?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | On Site | Sep 22 |
-| ↳ | **[2027 Embedded Software Engineer Intern - Baltimore MD](https://jobright.ai/jobs/info/6ab0c2dc3d96632d741b40fa?utm_campaign=1079&utm_source=git)** | Baltimore, MD, United States | On Site | Sep 22 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Embedded Software Engineer Intern - Baltimore MD](https://jobright.ai/jobs/info/6ab0c2dc3d96632d741b40fa?utm_campaign=1079&utm_source=git)** | Baltimore, MD, United States | On Site | Sep 22 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)](https://jobright.ai/jobs/info/6a8e3d1c4b1bf45646962703?utm_campaign=1079&utm_source=git)** | Irvine, CA, United States | On Site | Sep 22 |
 | ↳ | **[2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)](https://jobright.ai/jobs/info/6a8e3d1bc137ff2317e68ba9?utm_campaign=1079&utm_source=git)** | North Chicago, IL, United States | On Site | Sep 22 |
 | ↳ | **[2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)](https://jobright.ai/jobs/info/6a8e3d1aef981311b92fba99?utm_campaign=1079&utm_source=git)** | Irvine, CA, United States | On Site | Sep 22 |
@@ -109,9 +110,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Software Engineer](https://jobright.ai/jobs/info/6ab2bf6a78c69ff506c404b6?utm_campaign=1079&utm_source=git)** | Carmel, IN, United States | Hybrid | Sep 22 |
 | **[Mesirow](http://www.mesirow.com)** | **[Summer 2027 Intern - IT, Cloud Engineering](https://jobright.ai/jobs/info/6ab2db5930340229a32301c4?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Sep 22 |
 | **[AbaData](https://www.abadata.ca)** | **[Student Software Developer - Spring 2027](https://jobright.ai/jobs/info/6ab29833326574570a001a21?utm_campaign=1079&utm_source=git)** | Calgary, AB, Canada | On Site | Sep 22 |
-| **[Visa](https://www.visa.com)** | **[Software Engineer, Intern - 2027 Austin, TX](https://jobright.ai/jobs/info/6aabe61b2e757fcb5c8b2ad8?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 22 |
-| ↳ | **[2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch](https://jobright.ai/jobs/info/6aadad8f6956574eac8b71cc?utm_campaign=1079&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 22 |
+| **[Visa](https://www.visa.com)** | **[2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch](https://jobright.ai/jobs/info/6aadad8f6956574eac8b71cc?utm_campaign=1079&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 22 |
 | ↳ | **[2027 Sophomore Internship Program - Software Engineer Intern, Foster City](https://jobright.ai/jobs/info/6aadada92e757fcb5c8b9da0?utm_campaign=1079&utm_source=git)** | Foster City, CA, United States | Hybrid | Sep 22 |
+| ↳ | **[Software Engineer, Intern - 2027 Austin, TX](https://jobright.ai/jobs/info/6aabe61b2e757fcb5c8b2ad8?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 22 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer or Winter)](https://jobright.ai/jobs/info/6a95fec94c22023a07937674?utm_campaign=1079&utm_source=git)** | San Francisco, California, United States | On Site | Sep 22 |
 | **[Citadel](https://www.citadel.com)** | **[Software Engineer – Intern (US)](https://jobright.ai/jobs/info/6a9d74fb2c964816f65ead1b?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | **[Walmart](http://www.walmart.com)** | **[Summer 2027 Intern:: Software Engineer II](https://jobright.ai/jobs/info/6aa3d0c54233a2201a2b3f0d?utm_campaign=1079&utm_source=git)** | Bentonville, AR, United States | On Site | Sep 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amtrak](https://www.amtrak.com/)** | **[Fall 2026/Spring 2027 - Software Engineering Intern - 90413041 - Washington Job Details / Amtrak](https://jobright.ai/jobs/info/6aa7b8c242411952ff9ad8ac?utm_campaign=1079&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 22 |
 | **[Newrez](https://www.newrez.com)** | **[2027 Summer Internship - Software Developer](https://jobright.ai/jobs/info/6a96f115d13b4819f39ddd92?utm_campaign=1079&utm_source=git)** | Coppell, TX, United States | On Site | Sep 22 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Summer 2027 Internship - Software Engineer (Hybrid) - 30267](https://jobright.ai/jobs/info/6ab2aeb11e4847ddae915bd3?utm_campaign=1079&utm_source=git)** | San Antonio, TX, United States | Hybrid | Sep 22 |
-| ↳ | **[Summer 2027 Internship - Software Engineer (Hybrid) - 30268](https://jobright.ai/jobs/info/6ab2b58230340229a322f4b5?utm_campaign=1079&utm_source=git)** | Columbia, MD, United States | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
