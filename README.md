@@ -50,6 +50,12 @@ For a complete list, click the following sortable link below:
 </div>
 
 ---
+
+## Canada-specific companion resource 🇨🇦
+
+For students looking specifically in Canada, [Hanzilla Jobs — Software Engineering](https://jobs.hanzilla.co/categories/software-engineering/) is a free daily-updated Canadian student/recent-grad job board covering software engineering internships, co-ops, new-grad, junior, and entry-level roles. It can be a useful companion to this list when filtering for Canadian cities, co-op terms, and Canada-based early-career roles.
+
+---
 ## Daily Job List  🌐 🧭 🏆
 
 
