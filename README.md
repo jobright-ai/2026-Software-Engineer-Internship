@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Docusign](http://www.docusign.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6ac566114ac55253f5d7684d?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 09 |
+| **[ECS](https://www.ecstech.com)** | **[Junior Software Engineer - Intern](https://jobright.ai/jobs/info/6ab7502ed7fde2c08ec8b7be?utm_campaign=1079&utm_source=git)** | Fairfax, VA, United States | On Site | Oct 09 |
+| **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/6aa51cc52ed333b4ea5c592b?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Oct 09 |
+| **[GoDaddy](https://www.godaddy.com)** | **[OSU ColorStack - Summer 2027 Internships](https://jobright.ai/jobs/info/6ab74be03a2ec87116e25ea0?utm_campaign=1079&utm_source=git)** | Tempe, AZ, United States | Remote | Oct 09 |
 | **[Gesture](https://gesture.vip)** | **[AI Full Stack Engineer Intern](https://jobright.ai/jobs/info/6a7d450e7c52154b59f5e384?utm_campaign=1079&utm_source=git)** | Denver, CO, United States | Remote | Oct 09 |
 | **[Hermeus](http://www.hermeus.com)** | **[Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027](https://jobright.ai/jobs/info/6a971af3246d697dcee0365e?utm_campaign=1079&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 09 |
 | ↳ | **[Software Engineering Intern (Command & Control) - Spring/Summer 2027](https://jobright.ai/jobs/info/6a99ea6c13883870605915ef?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 09 |
@@ -86,9 +90,9 @@ For a complete list, click the following sortable link below:
 | **[Prox Shopping](www.joinprox.com)** | **[Software Engineering Intern (Unpaid)](https://jobright.ai/jobs/info/6ac9801ed4a5a03707412902?utm_campaign=1079&utm_source=git)** | California, United States | Remote | Oct 09 |
 | **[Buildertrend](https://buildertrend.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6ac95f85fcdafb60c6a4c2fa?utm_campaign=1079&utm_source=git)** | Omaha, NE, United States | On Site | Oct 09 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: AI Simulation Cloud Engineer](https://jobright.ai/jobs/info/6ac97bbfd4a5a0370741284b?utm_campaign=1079&utm_source=git)** | Johnston, RI, United States | On Site | Oct 09 |
-| **[Rivian](http://www.rivian.com)** | **[Software Engineering - Summer 2027 Internships](https://jobright.ai/jobs/info/6ac9309cd4a5a0370741136c?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 09 |
-| ↳ | **[Controls, Automation & Embedded Software - Summer 2027 Internships](https://jobright.ai/jobs/info/6ac931c9fcdafb60c6a4b458?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 09 |
+| **[Rivian](http://www.rivian.com)** | **[Controls, Automation & Embedded Software - Summer 2027 Internships](https://jobright.ai/jobs/info/6ac931c9fcdafb60c6a4b458?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 09 |
 | ↳ | **[Software Engineering - Summer 2027 Internships](https://jobright.ai/jobs/info/6ac9353bfcdafb60c6a4b5f9?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 09 |
+| ↳ | **[Software Engineering - Summer 2027 Internships](https://jobright.ai/jobs/info/6ac9309cd4a5a0370741136c?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 09 |
 | **[Zipline](https://www.zipline.com/)** | **[Firmware Engineer Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac96b386355f8776ff18f4c?utm_campaign=1079&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 09 |
 | ↳ | **[Firmware Engineer Intern (Spring 2027)](https://jobright.ai/jobs/info/6ac96b29c3a8af9c54a0aaeb?utm_campaign=1079&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 09 |
 | **[Enterprise Fleet Management](https://www.efleets.com/)** | **[Intern - Software Analyst (EFM IT), Summer 2027](https://jobright.ai/jobs/info/6ac9726dd4a5a0370741266b?utm_campaign=1079&utm_source=git)** | St. Louis, MO, United States | Hybrid | Oct 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6aa43cd9f7baf881567cdfa0?utm_campaign=1079&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Oct 09 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Software Development Engineer](https://jobright.ai/jobs/info/6aac27ea2e757fcb5c8b4005?utm_campaign=1079&utm_source=git)** | Arlington, TX, United States | Hybrid | Oct 09 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - Agile Management Solutions](https://jobright.ai/jobs/info/6aac0e843e3ce93970c7b5e9?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 09 |
-| **[Space Kinetic Corp.](https://spacekinetic.com/)** | **[Test Engineering Development Program (3 months - Path to Hire)](https://jobright.ai/jobs/info/6ac92fdcfe8f33a85d502b1c?utm_campaign=1079&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 09 |
-| **[Marvell Technology](https://www.marvell.com)** | **[Design For Test Intern, MS - Summer 2027](https://jobright.ai/jobs/info/6aac24113e3ce93970c7bddf?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 09 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Winter 2027, 8-12months)](https://jobright.ai/jobs/info/6ac92b61c3a8af9c54a096e4?utm_campaign=1079&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 09 |
-| **[ByteDance](http://bytedance.com)** | **[Software Engineer Project Intern (Developer Infrastructure) - 2027 Start](https://jobright.ai/jobs/info/6ac8fd34fcdafb60c6a4a261?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
