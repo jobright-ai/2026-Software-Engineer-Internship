@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2027 Software Engineering Summer Intern](https://jobright.ai/jobs/info/6ac90374d4a5a0370741032b?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 10 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobright.ai/jobs/info/6ab5f5cec6fe0dec811a3cc3?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Oct 09 |
 | ↳ | **[Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobright.ai/jobs/info/6ab5f5cd9d4843569fe4c7f1?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 09 |
 | ↳ | **[Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobright.ai/jobs/info/6ab5f5ce4873fd3fd852c486?utm_campaign=1079&utm_source=git)** | Washington, D.C., United States | On Site | Oct 09 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Buildertrend](https://buildertrend.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6ac95f85fcdafb60c6a4c2fa?utm_campaign=1079&utm_source=git)** | Omaha, NE, United States | On Site | Oct 09 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: AI Simulation Cloud Engineer](https://jobright.ai/jobs/info/6ac97bbfd4a5a0370741284b?utm_campaign=1079&utm_source=git)** | Johnston, RI, United States | On Site | Oct 09 |
 | **[Rivian](http://www.rivian.com)** | **[Software Engineering - Summer 2027 Internships](https://jobright.ai/jobs/info/6ac9353bfcdafb60c6a4b5f9?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 09 |
-| ↳ | **[Software Engineering - Summer 2027 Internships](https://jobright.ai/jobs/info/6ac9309cd4a5a0370741136c?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 09 |
 | ↳ | **[Controls, Automation & Embedded Software - Summer 2027 Internships](https://jobright.ai/jobs/info/6ac931c9fcdafb60c6a4b458?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 09 |
+| ↳ | **[Software Engineering - Summer 2027 Internships](https://jobright.ai/jobs/info/6ac9309cd4a5a0370741136c?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 09 |
 | **[Zipline](https://www.zipline.com/)** | **[Firmware Engineer Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac96b386355f8776ff18f4c?utm_campaign=1079&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 09 |
 | ↳ | **[Firmware Engineer Intern (Spring 2027)](https://jobright.ai/jobs/info/6ac96b29c3a8af9c54a0aaeb?utm_campaign=1079&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 09 |
 | **[Enterprise Fleet Management](https://www.efleets.com/)** | **[Intern - Software Analyst (EFM IT), Summer 2027](https://jobright.ai/jobs/info/6ac9726dd4a5a0370741266b?utm_campaign=1079&utm_source=git)** | St. Louis, MO, United States | Hybrid | Oct 09 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[SageSure](https://www.sagesure.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6ac957796355f8776ff18b27?utm_campaign=1079&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 09 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Information Technology Intern, Chartwells Higher Ed / Miami University](https://jobright.ai/jobs/info/6ac95621af788e6ad3b5b1fc?utm_campaign=1079&utm_source=git)** | Oxford, OH, United States | On Site | Oct 09 |
 | **[GlobalFoundries](https://gf.com/)** | **[Software Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac94210af788e6ad3b5aa90?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Oct 09 |
-| **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2027 Software Engineering Summer Intern](https://jobright.ai/jobs/info/6ac90374d4a5a0370741032b?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 09 |
 | **[Arcesium](http://www.arcesium.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6ac93f52af788e6ad3b5aa1a?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Oct 09 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations](https://jobright.ai/jobs/info/6ab6da0339fd8792cb73c5eb?utm_campaign=1079&utm_source=git)** | Mountain View, CA, United States | Hybrid | Oct 09 |
 | **[EA SPORTS](http://www.EASports.com)** | **[Software Engineer Intern (Summer 2027 - 8-Months - Sports Technology - Undergraduate)](https://jobright.ai/jobs/info/6ac9502efcdafb60c6a4bd62?utm_campaign=1079&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Oct 09 |
