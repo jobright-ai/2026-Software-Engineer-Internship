@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Software Developer Intern -Tucson, AZ](https://jobright.ai/jobs/info/6a9e393f27c94c3d5a1cb8db?utm_campaign=1079&utm_source=git)** | Tucson, AZ, United States | Hybrid | Oct 11 |
 | **[Amway](http://www.amway.com)** | **[Software Engineer Intern – MyBiz, Summer 2027 (REQ#43551)](https://jobright.ai/jobs/info/6acb6915a56e5406e57bc3d8?utm_campaign=1079&utm_source=git)** | Ada, MI, United States | Hybrid | Oct 11 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Software Analyst Intern (Winter 2027, 8-12months)](https://jobright.ai/jobs/info/6acb8221a56e5406e57bc48e?utm_campaign=1079&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 11 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[SW Building Group Intern - Business Dev](https://jobright.ai/jobs/info/6a91b8359864261ccd29e627?utm_campaign=1079&utm_source=git)** | Tucson, Arizona, United States | On Site | Oct 11 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Honeywell Aerospace](https://www.honeywellaerospace.com/)** | **[Embedded Engineering Intern - Summer 2027 (U.S. Person Required)](https://jobright.ai/jobs/info/6a91e27c9864261ccd29f747?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 11 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Software Engineer - P&T](https://jobright.ai/jobs/info/6acb5792002e496d4beed062?utm_campaign=1079&utm_source=git)** | Maryland Heights, MO, United States | On Site | Oct 11 |
 | **[Meta](https://www.meta.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915?utm_campaign=1079&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 11 |
-| **[Hydromenta Systems](hydromentasystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6acb3def002e496d4beecefb?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Oct 11 |
 | **[Propio Language Services](http://propio-ls.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/6ab2df7e30340229a3230284?utm_campaign=1079&utm_source=git)** | Overland Park, KS, United States | On Site | Oct 11 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[EA & Cloud Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6ac91b74c3a8af9c54a09274?utm_campaign=1079&utm_source=git)** | Franklin, TN, United States | On Site | Oct 11 |
 | **[Intel](http://www.intel.com)** | **[Software Engineering - Intern, Graduate](https://jobright.ai/jobs/info/6ab33c031e4847ddae918b26?utm_campaign=1079&utm_source=git)** | Hillsboro, OR, United States | On Site | Oct 10 |
@@ -144,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/6aadce1d2e757fcb5c8ba6c1?utm_campaign=1079&utm_source=git)** | Cary, NC, United States | On Site | Oct 10 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2027 Software Engineering Summer Intern](https://jobright.ai/jobs/info/6ac90374d4a5a0370741032b?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 10 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobright.ai/jobs/info/6ab5f5cec6fe0dec811a3cc3?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Oct 09 |
-| ↳ | **[Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobright.ai/jobs/info/6ab5f5ce4873fd3fd852c486?utm_campaign=1079&utm_source=git)** | Washington, D.C., United States | On Site | Oct 09 |
 | ↳ | **[Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobright.ai/jobs/info/6ab5f5cd9d4843569fe4c7f1?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 09 |
+| ↳ | **[Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobright.ai/jobs/info/6ab5f5ce4873fd3fd852c486?utm_campaign=1079&utm_source=git)** | Washington, D.C., United States | On Site | Oct 09 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Summer - Resilient Embedded Systems, Onsite](https://jobright.ai/jobs/info/6ac9d7bff7905ed3daff0ca7?utm_campaign=1079&utm_source=git)** | Albuquerque, NM, United States | On Site | Oct 09 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Software Development Intern, Summer 2027](https://jobright.ai/jobs/info/6ac9d686a6c6acb7de35d915?utm_campaign=1079&utm_source=git)** | Plano, TX, United States | On Site | Oct 09 |
 | **[ECS](https://www.ecstech.com)** | **[Junior Software Engineer - Intern](https://jobright.ai/jobs/info/6ab7502ed7fde2c08ec8b7be?utm_campaign=1079&utm_source=git)** | Fairfax, VA, United States | On Site | Oct 09 |
