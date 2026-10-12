@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer](https://jobright.ai/jobs/info/6accb964d113c967e3c7aac9?utm_campaign=1079&utm_source=git)** | Seattle, WA, United States | On Site | Oct 12 |
+| **[Google](https://www.google.com)** | **[Forward Deployed Engineering Intern, BS/MS, Summer 2027](https://jobright.ai/jobs/info/6accb482002e496d4beeef71?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, United States | On Site | Oct 12 |
+| **[Nordson Corporation](http://www.nordson.com)** | **[Intern – Manufacturing Electronics / Software Engineering](https://jobright.ai/jobs/info/6ab095dc3dbb1f8967cf33a1?utm_campaign=1079&utm_source=git)** | Allen, TX, United States | On Site | Oct 12 |
+| **[Astronics Corporation](http://www.astronics.com)** | **[Software Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6accad78ddd23cce28a0f0b8?utm_campaign=1079&utm_source=git)** | Kirkland, WA, United States | On Site | Oct 12 |
+| **[Fujitsu](http://www.fujitsu.com)** | **[Intern - Software Development Engineer - 1Finity](https://jobright.ai/jobs/info/6ac048310e027c0f3b3a0ab2?utm_campaign=1079&utm_source=git)** | Richardson, TX, United States | On Site | Oct 11 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 3](https://jobright.ai/jobs/info/6aa78bffa77a53f5a15757f5?utm_campaign=1079&utm_source=git)** | Maple Grove, MN, United States | Hybrid | Oct 11 |
 | **[Point72](https://www.point72.com)** | **[Quantitative Software Developer Intern](https://jobright.ai/jobs/info/6a609b51cf6cf477a0561778?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Oct 11 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Spring 2027 - Software Engineering Intern - 90413033 - Washington](https://jobright.ai/jobs/info/6ac8ae9afcdafb60c6a490df?utm_campaign=1079&utm_source=git)** | Washington, DC, United States | On Site | Oct 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acron Aviation](https://acronaviation.com)** | **[Software Engineer Intern - St. Pete Site](https://jobright.ai/jobs/info/6aad8dc40ebc8fb2313ea44f?utm_campaign=1079&utm_source=git)** | St. Petersburg, FL, United States | On Site | Oct 10 |
 | **[RTX](http://rtx.com/)** | **[Software Engineering Co-op (Spring/Summer 2027)](https://jobright.ai/jobs/info/6ac91b77d4a5a03707410c51?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Oct 10 |
 | **[Athene](https://www.athene.com/)** | **[Software Developer Internship ](https://jobright.ai/jobs/info/6abd17a6064da25272dfb4d1?utm_campaign=1079&utm_source=git)** | West Des Moines, IA, United States | On Site | Oct 10 |
-| **[RTX](http://rtx.com/)** | **[Software Project Engineer Intern (Summer 2027) Onsite](https://jobright.ai/jobs/info/6aae1cf4de327d3e210d50fd?utm_campaign=1079&utm_source=git)** | Windsor Locks, CT, United States | On Site | Oct 10 |
-| **[Aptiv](http://www.aptiv.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6a0c10d94d93203636875a7e?utm_campaign=1079&utm_source=git)** | CAN Kanata (2), ON | On Site | Oct 10 |
-| **[RTX](http://rtx.com/)** | **[Software Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac9c3d254d2d210b6dd0ff0?utm_campaign=1079&utm_source=git)** | Melbourne, FL, United States | On Site | Oct 10 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Software Engineer, Internship - Defense Tech](https://jobright.ai/jobs/info/6a51c8bfae4052672fe9acff?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Oct 10 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - 2027 Summer Games Software Developer Intern - Atlanta, GA](https://jobright.ai/jobs/info/6a9b0fc313883870605966a6?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
