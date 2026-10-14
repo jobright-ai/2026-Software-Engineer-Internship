@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aureum AI](https://www.aureumai.co/landing)** | **[Software QA Intern](https://jobright.ai/jobs/info/6acf39f6680c80c8753bfe2d?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 14 |
 | **[Golden Analytics](https://www.goldenanalytics.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6ace76b8680c80c8753bcc16?utm_campaign=1079&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 14 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6aceedc14f3229123da3e981?utm_campaign=1079&utm_source=git)** | Irving, TX, United States | On Site | Oct 13 |
 | **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Quality Assurance Test Engineer Intern](https://jobright.ai/jobs/info/6aceceb070e50ec1b37f1dd5?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Oct 13 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sparse Linear Algebra Libraries Intern - Summer 2027](https://jobright.ai/jobs/info/6acec6404391691a335ae8a2?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 13 |
 | **[Hometap](https://www.hometap.com)** | **[Full Stack Engineering Co-op - Spring 2027](https://jobright.ai/jobs/info/6aa9c1b63387a3d9b67d69ee?utm_campaign=1079&utm_source=git)** | Boston, MA, United States | Remote | Oct 13 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6acec0924f3229123da3de9a?utm_campaign=1079&utm_source=git)** | King of Prussia, PA, United States | Remote | Oct 13 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/6acd8fb43c831dc4086c2afe?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, United States | On Site | Oct 13 |
-| ↳ | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/6a91dc403603630099194ef3?utm_campaign=1079&utm_source=git)** | Spring, TX, United States | Hybrid | Oct 13 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Firmware Engineer Intern](https://jobright.ai/jobs/info/6a91dc403603630099194ef3?utm_campaign=1079&utm_source=git)** | Spring, TX, United States | Hybrid | Oct 13 |
+| ↳ | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/6acd8fb43c831dc4086c2afe?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, United States | On Site | Oct 13 |
 | **[GITAI](http://gitai.tech)** | **[Field-Deployed Software Engineering Intern – Fall 2026 / Spring 2027](https://jobright.ai/jobs/info/6abc417d7119e56191cec541?utm_campaign=1079&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 13 |
 | **[D2L](http://www.d2l.com)** | **[Software Developer - Winter 2027 Co-op - Vancouver](https://jobright.ai/jobs/info/6ace79debb78de94580d63a6?utm_campaign=1079&utm_source=git)** | Vancouver, BC, Canada | On Site | Oct 13 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Software Engineering Internship (Summer 2027)](https://jobright.ai/jobs/info/6ace9b4870e50ec1b37f0e87?utm_campaign=1079&utm_source=git)** | Kearney, NE, United States | On Site | Oct 13 |
@@ -103,12 +104,12 @@ For a complete list, click the following sortable link below:
 | **[Five Rings](https://fiverings.com)** | **[LINK 2027: Software Development Intensive Program](https://jobright.ai/jobs/info/6a84be2d2f4f0014cae2295a?utm_campaign=1079&utm_source=git)** | New York City, NY, United States | On Site | Oct 13 |
 | **[Ryzoe](https://ryzoe.com)** | **[Trainee (Intern) Full Stack Developer](https://jobright.ai/jobs/info/6acead504391691a335ae18f?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 13 |
 | **[Netflix](https://www.netflix.com)** | **[Software Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6aceacef680c80c8753be35d?utm_campaign=1079&utm_source=git)** | Los Gatos, CA, United States | On Site | Oct 13 |
-| **[Wing](https://www.wing.com)** | **[Execution & Topology Software Engineering Intern, Summer 2027](https://jobright.ai/jobs/info/6aceaa684f3229123da3d867?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Oct 13 |
-| ↳ | **[Software Engineering Intern, Summer 2027](https://jobright.ai/jobs/info/6aceaa5c680c80c8753be27a?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Oct 13 |
+| **[Wing](https://www.wing.com)** | **[Software Engineering Intern, Summer 2027](https://jobright.ai/jobs/info/6aceaa5c680c80c8753be27a?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Oct 13 |
+| ↳ | **[Execution & Topology Software Engineering Intern, Summer 2027](https://jobright.ai/jobs/info/6aceaa684f3229123da3d867?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Oct 13 |
 | **[RTX](http://rtx.com/)** | **[Summer Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6aceb5f74391691a335ae519?utm_campaign=1079&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Oct 13 |
 | ↳ | **[Software Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6aceb60070e50ec1b37f18cf?utm_campaign=1079&utm_source=git)** | Huntsville, AL, United States | On Site | Oct 13 |
 | **[Moody's Corporation](https://www.moodys.com)** | **[Software Engineering Summer Intern](https://jobright.ai/jobs/info/6ace7abea0453f9ba6248db9?utm_campaign=1079&utm_source=git)** | Newark, CA, United States | On Site | Oct 13 |
-| **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6abd58750e027c0f3b3952ab?utm_campaign=1079&utm_source=git)** | Milpitas, CA, United States | On Site | Oct 13 |
+| **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6abd3ab94ac55253f5d5bf73?utm_campaign=1079&utm_source=git)** | Milpitas, CA, United States | On Site | Oct 13 |
 | **[Emergent](https://emergent.sh)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6aaaeb884be87a72913a229d?utm_campaign=1079&utm_source=git)** | San Francisco | On Site | Oct 13 |
 | **[WiCell](http://www.wicell.org/)** | **[Quality Assurance Intern](https://jobright.ai/jobs/info/6ace9ae0ba99f15ef4125ebc?utm_campaign=1079&utm_source=git)** | Madison, WI, United States | On Site | Oct 13 |
 | **[Greystone](https://www.greystone.com)** | **[Summer 2027 - Salesforce Developer Intern](https://jobright.ai/jobs/info/6ace8babba99f15ef41259ae?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Oct 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Quantum Control Distributed Runtime Internship 2027](https://jobright.ai/jobs/info/6ab160d0d43eb922ca0be757?utm_campaign=1079&utm_source=git)** | Yorktown Heights, New York, United States | On Site | Oct 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Full Stack Software Engineer - Team Pickle - Winter 2027](https://jobright.ai/jobs/info/6ab13e85191d8c340dbd95df?utm_campaign=1079&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 13 |
 | **[IBM](http://www.ibm.com)** | **[Power Firmware Developer Intern - Rochester, MN & Austin, TX - 2027](https://jobright.ai/jobs/info/6a9e309e68f82b4036738d34?utm_campaign=1079&utm_source=git)** | Rochester, Minnesota, United States | Hybrid | Oct 13 |
-| **[Heartland Business Systems](https://www.hbs.net)** | **[Dynamics 365 CRM Engineering Associate - Summer 2027 Internship Program](https://jobright.ai/jobs/info/6a96ced6e4e60e4b8da5a0a0?utm_campaign=1079&utm_source=git)** | Little Chute, WI, United States | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
