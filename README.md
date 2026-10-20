@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Technology Assurance Intern / Miami Summer 2027](https://jobright.ai/jobs/info/6ad6e63b52aa6152bb698ecf?utm_campaign=1079&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 19 |
+| **[Interclypse](https://interclypse.com/)** | **[Junior Full Stack Software Engineer (Part-Time/Internship)](https://jobright.ai/jobs/info/6ad629e2950ef68d51836af2?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD, United States | On Site | Oct 19 |
 | **[Park My Ride, LLC](http://parkmyride.io)** | **[Full-Stack Developer - Internship (React Native/Kotlin)](https://jobright.ai/jobs/info/6ad6d46ae4b94611ab841f48?utm_campaign=1079&utm_source=git)** | San Diego Metropolitan Area, United States | Remote | Oct 19 |
 | **[Samsara](http://www.samsara.com)** | **[Software Engineering Internship - San Francisco](https://jobright.ai/jobs/info/6a70bcdbe2b7476e7b20a819?utm_campaign=1079&utm_source=git)** | San Francisco, California, United States | Hybrid | Oct 19 |
-| **[Todd](https://toddagriscience.com)** | **[UI/UX Engineer Intern (Spring '27)](https://jobright.ai/jobs/info/6ad6ceef67bec1d0d9c72074?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 19 |
 | **[Arc](https://arcboats.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6ad6b8b6e4b94611ab8415ea?utm_campaign=1079&utm_source=git)** | Torrance, CA, United States | On Site | Oct 19 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - ET Asset Analyst (Digital Solutions Team)](https://jobright.ai/jobs/info/6ad680b252aa6152bb6960af?utm_campaign=1079&utm_source=git)** | Glen Allen, VA, United States | On Site | Oct 19 |
-| **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/6ac80f1a0e573df8adc75eba?utm_campaign=1079&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 19 |
-| ↳ | **[R&D Software Engineering, Intern](https://jobright.ai/jobs/info/6ac027434ac55253f5d67ef1?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 19 |
-| ↳ | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/6ad694423dc655658d8e7976?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 19 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/6ad694423dc655658d8e7976?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 19 |
+| ↳ | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/6ac80f1a0e573df8adc75eba?utm_campaign=1079&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 19 |
 | ↳ | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/6abc2f4c92b2612ef0f8d921?utm_campaign=1079&utm_source=git)** | Santa Rosa, CA, United States | On Site | Oct 19 |
+| ↳ | **[R&D Software Engineering, Intern](https://jobright.ai/jobs/info/6ac027434ac55253f5d67ef1?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 19 |
 | **[Netflix](https://www.netflix.com)** | **[Software Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6ad695de950ef68d5183b772?utm_campaign=1079&utm_source=git)** | Los Gatos, CA, United States | On Site | Oct 19 |
 | **[Patreon](http://www.patreon.com)** | **[Software Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6ad694d2e4b94611ab840542?utm_campaign=1079&utm_source=git)** | New York, NY, United States | Hybrid | Oct 19 |
 | **[Arcafeed](https://www.arcafeed.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6ad6bdf454bbabbab06faf32?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 19 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6ab14d88d2a93d5a97eb9b0f?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Oct 19 |
 | ↳ | **[Embedded Software Engineer Intern, Implant Embedded Systems](https://jobright.ai/jobs/info/6a3ebf1cce7cce40b3421996?utm_campaign=1079&utm_source=git)** | Austin, Texas, United States | On Site | Oct 19 |
 | **[H-E-B, Inc.](https://www.linkedin.com/company/28983013)** | **[Internship - Software Engineer](https://jobright.ai/jobs/info/6ad660c83dc655658d8e5606?utm_campaign=1079&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 19 |
-| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/6a53e6bd8ef95364ead93c63?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Oct 19 |
-| ↳ | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/6a07b5bd939a5f01db952f55?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Oct 19 |
+| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/6a07b5bd939a5f01db952f55?utm_campaign=1079&utm_source=git)** | Fremont, California, United States | On Site | Oct 19 |
+| ↳ | **[Software Engineer Intern, Infrastructure](https://jobright.ai/jobs/info/6a53e6bd8ef95364ead93c63?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Oct 19 |
 | ↳ | **[Software Engineer Intern, Internal Apps](https://jobright.ai/jobs/info/6a0f484f83d714428981e3d4?utm_campaign=1079&utm_source=git)** | South San Francisco, CA | On Site | Oct 19 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2027 Internship - Software Engineering - California](https://jobright.ai/jobs/info/6abb27ccbe5f1e9325119d80?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Oct 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Frontend Software Engineer Intern (Ads Measurement Signal and Privacy) - 2027 Summer](https://jobright.ai/jobs/info/6a701a40f5953013637f727c?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Oct 19 |
-| **[Interclypse](https://interclypse.com/)** | **[Junior Full Stack Software Engineer (Part-Time/Internship)](https://jobright.ai/jobs/info/6ad629e2950ef68d51836af2?utm_campaign=1079&utm_source=git)** | Annapolis Junction, MD, United States | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
