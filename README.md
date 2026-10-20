@@ -64,9 +64,9 @@ For a complete list, click the following sortable link below:
 | **[Arc](https://arcboats.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6ad6b8b6e4b94611ab8415ea?utm_campaign=1079&utm_source=git)** | Torrance, CA, United States | On Site | Oct 19 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - ET Asset Analyst (Digital Solutions Team)](https://jobright.ai/jobs/info/6ad680b252aa6152bb6960af?utm_campaign=1079&utm_source=git)** | Glen Allen, VA, United States | On Site | Oct 19 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/6ad694423dc655658d8e7976?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 19 |
+| ↳ | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/6abc2f4c92b2612ef0f8d921?utm_campaign=1079&utm_source=git)** | Santa Rosa, CA, United States | On Site | Oct 19 |
 | ↳ | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/6ac80f1a0e573df8adc75eba?utm_campaign=1079&utm_source=git)** | Calabasas, CA, United States | On Site | Oct 19 |
 | ↳ | **[R&D Software Engineering, Intern](https://jobright.ai/jobs/info/6ac027434ac55253f5d67ef1?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 19 |
-| ↳ | **[R&D Software Engineer Intern](https://jobright.ai/jobs/info/6abc2f4c92b2612ef0f8d921?utm_campaign=1079&utm_source=git)** | Santa Rosa, CA, United States | On Site | Oct 19 |
 | **[Netflix](https://www.netflix.com)** | **[Software Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6ad695de950ef68d5183b772?utm_campaign=1079&utm_source=git)** | Los Gatos, CA, United States | On Site | Oct 19 |
 | **[Patreon](http://www.patreon.com)** | **[Software Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6ad694d2e4b94611ab840542?utm_campaign=1079&utm_source=git)** | New York, NY, United States | Hybrid | Oct 19 |
 | **[Arcafeed](https://www.arcafeed.com/)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6ad6bdf454bbabbab06faf32?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 19 |
