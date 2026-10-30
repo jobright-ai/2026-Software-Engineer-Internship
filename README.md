@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CNH](http://www.cnhindustrial.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6aab149bf6bd9d2d17c1b517?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, United States | On Site | Oct 30 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6ac021f1372c01f6cd72ad3a?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, United States | On Site | Oct 30 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6aa184c5dbc0e60e37e119f4?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, United States | On Site | Oct 30 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6aab1434c85610f4a48436fa?utm_campaign=1079&utm_source=git)** | Oak Brook, IL, United States | On Site | Oct 30 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6aaabff0c85610f4a484157a?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, United States | On Site | Oct 30 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6aa12d4aef23570cae242f49?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, United States | On Site | Oct 30 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6aa1852b0ffb3d4fea6b517b?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, United States | On Site | Oct 30 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a9b3fec90a313642c6595ce?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, United States | On Site | Oct 30 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6abd2b26064da25272dfbbac?utm_campaign=1079&utm_source=git)** | Tempe, AZ, United States | On Site | Oct 30 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Firmware Engineer](https://jobright.ai/jobs/info/6aaaca8c76707040fb082420?utm_campaign=1079&utm_source=git)** | Longmont, CO, United States | On Site | Oct 30 |
+| ↳ | **[Intern - Firmware Engineer](https://jobright.ai/jobs/info/6aa9a3c0eff87f571fc9a8bb?utm_campaign=1079&utm_source=git)** | Longmont, CO, United States | On Site | Oct 30 |
 | **[Profluent](https://www.profluent.bio/)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/6abf45c6d9621c5b283934f6?utm_campaign=1079&utm_source=git)** | Emeryville, CA, United States | Hybrid | Oct 29 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer, Intern - Summer 2027 - 30942](https://jobright.ai/jobs/info/6ae426d2eab1f967309798e4?utm_campaign=1079&utm_source=git)** | Crane, IN, United States | On Site | Oct 29 |
 | **[Affiliated Engineers, Inc.](http://www.aeieng.com)** | **[Technology Services Engineer Intern](https://jobright.ai/jobs/info/6ae417afd45dc30fb7d2ec12?utm_campaign=1079&utm_source=git)** | Gainesville, FL, United States | On Site | Oct 29 |
@@ -77,9 +88,9 @@ For a complete list, click the following sortable link below:
 | **[Nintendo](http://nintendo.com)** | **[Intern - Software Engineer, Connectivity (NTD)](https://jobright.ai/jobs/info/6ae38eba77c09cb3bd4a6fd3?utm_campaign=1079&utm_source=git)** | Redmond, WA, United States | On Site | Oct 29 |
 | **[NorthPoint Development](https://northpointdiversified.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6ae3b656d7424a2a828e2523?utm_campaign=1079&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 29 |
 | **[Samsara](http://www.samsara.com)** | **[Software Engineering Internship - San Francisco](https://jobright.ai/jobs/info/6a70bcdbe2b7476e7b20a819?utm_campaign=1079&utm_source=git)** | San Francisco, California, United States | Hybrid | Oct 29 |
-| **[Emerson](http://www.emerson.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a96257d9fcec54423731c02?utm_campaign=1079&utm_source=git)** | Houston, TX, United States | On Site | Oct 29 |
+| **[Emerson](http://www.emerson.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6ae1045c829a3bada15f9a54?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 29 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a96257bc8763a3a87ffebef?utm_campaign=1079&utm_source=git)** | Shakopee, MN, United States | On Site | Oct 29 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6ae1045c829a3bada15f9a54?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 29 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6a96257d9fcec54423731c02?utm_campaign=1079&utm_source=git)** | Houston, TX, United States | On Site | Oct 29 |
 | **[Garda Capital Partners](https://www.gardacp.com/)** | **[Software Engineer Intern (C#)](https://jobright.ai/jobs/info/6ae378efeab1f96730974474?utm_campaign=1079&utm_source=git)** | Wayzata, MN, United States | On Site | Oct 29 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Firmware Engineering](https://jobright.ai/jobs/info/6ad296fb810010ec72f58fa3?utm_campaign=1079&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 29 |
 | **[Viasat](http://www.viasat.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6ae396bafb2cd420ace524e6?utm_campaign=1079&utm_source=git)** | Germantown, MD, United States | On Site | Oct 29 |
@@ -142,19 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Embedded Engineer - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6ac3fbc08ff3fb9b3bc834dd?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Eide Bailly](http://www.eidebailly.com)** | **[ERP Intern - NetSuite (Spring 2027)](https://jobright.ai/jobs/info/6ae37d86d45dc30fb7d29f7e?utm_campaign=1079&utm_source=git)** | Denver, CO, United States | Remote | Oct 29 |
 | **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Embedded Software Engineer Co-op  - Audio Tech](https://jobright.ai/jobs/info/6ac67519d9621c5b283a8dd2?utm_campaign=1079&utm_source=git)** | Framingham, MA, United States | On Site | Oct 29 |
-| **[Honeywell Technologies](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6a8e185fd34f700f87fd7e0c?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 29 |
+| **[Honeywell Technologies](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6a8e149ecc0cf27068527092?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 29 |
+| ↳ | **[Software Engineer & Computer Science - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6a8e185fd34f700f87fd7e0c?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 29 |
 | ↳ | **[Software Engineer & Computer Science - Summer 2027 Intern](https://jobright.ai/jobs/info/6a8e14c4cc0cf270685270a8?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 29 |
-| ↳ | **[Software Engineer & Computer Science - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6a8e149ecc0cf27068527092?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 29 |
 | ↳ | **[Software Engineer & Computer Science - Summer 2027 Intern](https://jobright.ai/jobs/info/6a8e183125fc4e7ae3dbfac6?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 29 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6adf13419e3e874dbfbaa425?utm_campaign=1079&utm_source=git)** | Huntsville, AL, United States | On Site | Oct 29 |
-| ↳ | **[Software Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6ae11c18829a3bada15faa97?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, United States | On Site | Oct 29 |
-| ↳ | **[Software Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6ad63b61950ef68d518374df?utm_campaign=1079&utm_source=git)** | King of Prussia, PA, United States | On Site | Oct 29 |
-| ↳ | **[Software Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6ae3d762d45dc30fb7d2d02c?utm_campaign=1079&utm_source=git)** | King of Prussia, PA, United States | On Site | Oct 29 |
-| **[Ricursive Intelligence](https://www.ricursive.com)** | **[ICCAD 2026 — Introduce Yourself](https://jobright.ai/jobs/info/6ae37753fb2cd420ace51115?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 29 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Software Engineering](https://jobright.ai/jobs/info/6ae38802d45dc30fb7d2a4fc?utm_campaign=1079&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 29 |
-| ↳ | **[Summer 2027 Intern, Software Engineering](https://jobright.ai/jobs/info/6ae387f4c3139b475b5adeb3?utm_campaign=1079&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 29 |
-| **[Virginia Tech Applied Research Corporation](https://vt-arc.org/)** | **[Intern, Research - Applied AI & Software Development](https://jobright.ai/jobs/info/6ae3725bfb2cd420ace50e39?utm_campaign=1079&utm_source=git)** | Arlington, VA, United States | Hybrid | Oct 29 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Year at Palantir - Forward Deployed Software Engineer, Internship - USG](https://jobright.ai/jobs/info/6a590144856af468ab001219?utm_campaign=1079&utm_source=git)** | Washington, D.C., United States | On Site | Oct 29 |
-| **[York Space Systems](http://www.yorkspacesystems.com)** | **[Ground Software Engineering Intern](https://jobright.ai/jobs/info/6ae027dd9a8c91d5c358be7a?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO, United States | Hybrid | Oct 29 |
-| **[Sonos, Inc.](http://www.sonos.com)** | **[Software Partner Engineering Intern (Boston)](https://jobright.ai/jobs/info/6ae34842d7424a2a828de7b4?utm_campaign=1079&utm_source=git)** | Boston, MA, United States | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
