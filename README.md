@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lord Abbett](https://www.lordabbett.com/en.html)** | **[Technology Associate, Internship - Summer 2027](https://jobright.ai/jobs/info/6ae6cd9fd45dc30fb7d39c2c?utm_campaign=1079&utm_source=git)** | Jersey City, NJ, United States | On Site | Nov 01 |
 | **[Reflect Orbital](https://www.reflectorbital.com)** | **[Flight Software Engineering Intern](https://jobright.ai/jobs/info/6a989cc6c8ed473c5c7651bf?utm_campaign=1079&utm_source=git)** | Hawthorne, CA, United States | On Site | Nov 01 |
-| **[Lord Abbett](https://www.lordabbett.com/en.html)** | **[Technology Associate, Internship - Summer 2027](https://jobright.ai/jobs/info/6ae6cd9fd45dc30fb7d39c2c?utm_campaign=1079&utm_source=git)** | Jersey City, NJ, United States | On Site | Oct 31 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer, Intern - Summer 2027 - 30942 Job Details / HII's Mission Technologies division](https://jobright.ai/jobs/info/6ae68f5cd7424a2a828efa08?utm_campaign=1079&utm_source=git)** | Crane, IN, United States | On Site | Oct 31 |
 | **[Arango](https://arango.ai)** | **[Software Engineer Intern - Arango Cookbooks](https://jobright.ai/jobs/info/6ae640fc77c09cb3bd4b5692?utm_campaign=1079&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Software Engineer](https://jobright.ai/jobs/info/6ae685fdc3139b475b5bcc61?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO, United States | On Site | Oct 31 |
