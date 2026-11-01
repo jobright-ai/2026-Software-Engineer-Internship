@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KnowBe4](http://www.KnowBe4.com)** | **[Software Engineer Summer Internship](https://jobright.ai/jobs/info/6ae7923ebad9293a40a42997?utm_campaign=1079&utm_source=git)** | Clearwater, FL, United States | Hybrid | Nov 01 |
 | **[York Space Systems](http://www.yorkspacesystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6ae027ea065c4e77efafe2d8?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO, United States | On Site | Nov 01 |
 | **[Cohere](https://cohere.com)** | **[Software Engineer Intern (Winter 2027)](https://jobright.ai/jobs/info/6a559a6c13cd7d29d5e32d4b?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond](https://jobright.ai/jobs/info/6ae6f340fb2cd420ace61a35?utm_campaign=1079&utm_source=git)** | Redmond, WA, United States | On Site | Nov 01 |
@@ -93,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://rtx.com/)** | **[Software Project Engineer Intern (Summer 2027) Onsite](https://jobright.ai/jobs/info/6aae1cf4de327d3e210d50fd?utm_campaign=1079&utm_source=git)** | Windsor Locks, CT, United States | On Site | Nov 01 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2027 Summer Games Software Developer Intern - Colorado Springs, CO](https://jobright.ai/jobs/info/6a91949c3603630099193197?utm_campaign=1079&utm_source=git)** | Colorado Springs, CO, United States | On Site | Nov 01 |
 | ↳ | **[University, 2027 Summer Games Software Developer Intern - Rome, NY](https://jobright.ai/jobs/info/6ae704b277c09cb3bd4b6e22?utm_campaign=1079&utm_source=git)** | Rome, NY, United States | Hybrid | Nov 01 |
-| **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/6a864beae459fa3baa866fec?utm_campaign=1079&utm_source=git)** | Cary, NC, United States | On Site | Nov 01 |
+| **[Epic Games](https://epicgames.com)** | **[Tools Programmer Intern](https://jobright.ai/jobs/info/6aadce1d2e757fcb5c8ba6c1?utm_campaign=1079&utm_source=git)** | Cary, NC, United States | On Site | Nov 01 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - IT Software Engineer](https://jobright.ai/jobs/info/6ae7023ac3139b475b5bdb91?utm_campaign=1079&utm_source=git)** | Boise, ID, United States | On Site | Nov 01 |
 | ↳ | **[Intern - SSD Firmware - CICD](https://jobright.ai/jobs/info/6ac970f86355f8776ff190b3?utm_campaign=1079&utm_source=git)** | Longmont, CO, United States | On Site | Nov 01 |
 | **[Lord Abbett](https://www.lordabbett.com/en.html)** | **[Technology Associate, Internship - Summer 2027](https://jobright.ai/jobs/info/6ae6cd9fd45dc30fb7d39c2c?utm_campaign=1079&utm_source=git)** | Jersey City, NJ, United States | On Site | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acron Aviation](https://acronaviation.com)** | **[Software Engineer Intern - St. Pete Site](https://jobright.ai/jobs/info/6aad8dc40ebc8fb2313ea44f?utm_campaign=1079&utm_source=git)** | St. Petersburg, FL, United States | On Site | Oct 31 |
 | **[Netic](https://www.netic.ai)** | **[Forward Deployed Engineer (FDE) - Intern - 2026-2027](https://jobright.ai/jobs/info/6a581dd368d16a30e2411ca3?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 31 |
 | ↳ | **[Software Engineer (Agent Platform) - Intern - 2026-2027](https://jobright.ai/jobs/info/6a58487a8f51964c040477c9?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 31 |
-| **[TikTok USDS Joint Venture](https://usdsjv.tiktok.com)** | **[Software Engineer Intern (E-commerce) - 2027 Summer](https://jobright.ai/jobs/info/6a863c902f4f0014cae29277?utm_campaign=1079&utm_source=git)** | Seattle, WA, United States | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
