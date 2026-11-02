@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Intel](http://www.intel.com)** | **[Software Engineering - Intern, Bachelor’s](https://jobright.ai/jobs/info/6a984018def18223c854e3ec?utm_campaign=1079&utm_source=git)** | Hillsboro, OR, United States | On Site | Nov 01 |
-| ↳ | **[Software Engineering - Intern, Graduate](https://jobright.ai/jobs/info/6ab33c031e4847ddae918b26?utm_campaign=1079&utm_source=git)** | Hillsboro, OR, United States | On Site | Nov 01 |
+| **[Intel](http://www.intel.com)** | **[Software Engineering - Intern, Graduate](https://jobright.ai/jobs/info/6ab33c031e4847ddae918b26?utm_campaign=1079&utm_source=git)** | Hillsboro, OR, United States | On Site | Nov 01 |
+| ↳ | **[Software Engineering - Intern, Bachelor’s](https://jobright.ai/jobs/info/6a984018def18223c854e3ec?utm_campaign=1079&utm_source=git)** | Hillsboro, OR, United States | On Site | Nov 01 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Software Engineer Intern (2027) - Austin, TX](https://jobright.ai/jobs/info/6ad7c355950ef68d51843977?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Nov 01 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Software Engineer Summer Internship](https://jobright.ai/jobs/info/6ae7c95bbad9293a40a430ab?utm_campaign=1079&utm_source=git)** | Clearwater, FL, United States | Hybrid | Nov 01 |
 | **[Twitch](https://www.twitch.tv)** | **[Undergrad Software Engineering Intern (Grad Year: Spring 2028)](https://jobright.ai/jobs/info/6ada6be803d2da7528914e57?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 01 |
@@ -70,9 +70,9 @@ For a complete list, click the following sortable link below:
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, MS/PhD, Software Engineer, Multiverse](https://jobright.ai/jobs/info/6aadbe6ede327d3e210d42e0?utm_campaign=1079&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 01 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Software Engineer Intern, Undergraduate - Summer 2027 (Mountain View, CA)](https://jobright.ai/jobs/info/6ad8092f54bbabbab0704cc7?utm_campaign=1079&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 01 |
 | **[Coinbase](https://www.coinbase.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6aa08a88500b01124c779b34?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 01 |
-| **[Waymo](https://waymo.com)** | **[2027 Summer Intern, MS/PhD, Software Engineer](https://jobright.ai/jobs/info/6ab42bc8ef911c35dffa3bb0?utm_campaign=1079&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 01 |
+| **[Waymo](https://waymo.com)** | **[2027 Summer Intern, MS, PhD, Software Engineer](https://jobright.ai/jobs/info/6ac560594ac55253f5d76608?utm_campaign=1079&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 01 |
 | ↳ | **[2027 Summer Intern, MS, PhD, Quantitative Software Engineer](https://jobright.ai/jobs/info/6aaafa86c85610f4a4842cbb?utm_campaign=1079&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 01 |
-| ↳ | **[2027 Summer Intern, MS, PhD, Software Engineer](https://jobright.ai/jobs/info/6ac560594ac55253f5d76608?utm_campaign=1079&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 01 |
+| ↳ | **[2027 Summer Intern, MS/PhD, Software Engineer](https://jobright.ai/jobs/info/6ab42bc8ef911c35dffa3bb0?utm_campaign=1079&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 01 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (CIS Knowledge Bank) - 2027 Fall](https://jobright.ai/jobs/info/6ac29dcf372c01f6cd72fef0?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 01 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Software Engineering Summer Intern (Masters - Santa Clara, CA)](https://jobright.ai/jobs/info/6ac97d15d4a5a03707412893?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 01 |
 | **[York Space Systems](http://www.yorkspacesystems.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6ae027ea065c4e77efafe2d8?utm_campaign=1079&utm_source=git)** | Greenwood Village, CO, United States | On Site | Nov 01 |
