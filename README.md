@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Software Engineering Intern - Roy UT](https://jobright.ai/jobs/info/6aeb3067a0b134121d9986c5?utm_campaign=1079&utm_source=git)** | Roy, UT, United States | On Site | Nov 05 |
+| **[HP](http://www.hp.com)** | **[Software Product Security Intern - HP IQ](https://jobright.ai/jobs/info/6ae2baaa1f9d9308370b4126?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 05 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Spring Co-op Software Engineer Intern – McClellan CA](https://jobright.ai/jobs/info/6aeba5b1fbe13dfb53df628f?utm_campaign=1079&utm_source=git)** | McClellan, CA, United States | On Site | Nov 05 |
+| **[RTX](http://rtx.com/)** | **[Software Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6aecf810ab48a707938202c0?utm_campaign=1079&utm_source=git)** | Aurora, CO, United States | On Site | Nov 05 |
 | **[Zoox](https://www.zoox.com/)** | **[Information Technology & Applications Intern [Summer 2027]](https://jobright.ai/jobs/info/6aed15bc465e3d23713845ed?utm_campaign=1079&utm_source=git)** | Foster City, CA, United States | Hybrid | Nov 05 |
 | ↳ | **[Software Engineer Intern, Software Platforms & Product [Summer 2027]](https://jobright.ai/jobs/info/6aed15bc465e3d23713845ec?utm_campaign=1079&utm_source=git)** | Foster City, CA, United States | Hybrid | Nov 05 |
 | ↳ | **[Software Engineer Intern, Software Systems [Summer 2027]](https://jobright.ai/jobs/info/6aed15bd465e3d23713845ee?utm_campaign=1079&utm_source=git)** | Foster City, CA, United States | Hybrid | Nov 05 |
@@ -132,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[KUKA](https://www.kuka-robotics.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6aecd30aa2661405dc2c6ad7?utm_campaign=1079&utm_source=git)** | Clinton Township, MI, United States | On Site | Nov 05 |
 | **[Shield AI](http://www.shield.ai)** | **[June 2027 Co-Op - Software Engineer Intern](https://jobright.ai/jobs/info/6aecc8c53967d67f6359fa3e?utm_campaign=1079&utm_source=git)** | Dallas, TX, United States | On Site | Nov 05 |
 | **[Mitsubishi Electric Trane US](https://metahvac.com/)** | **[Automotive Cloud & Middleware Validation Intern](https://jobright.ai/jobs/info/6ae1bc34eb7e8f715a6077fa?utm_campaign=1079&utm_source=git)** | Northville, MI, United States | On Site | Nov 05 |
-| **[Shure](http://www.shure.com)** | **[Application Systems Development Intern (Motive Mix)](https://jobright.ai/jobs/info/6a99cf391388387060590896?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 05 |
-| ↳ | **[Cloud Applications Development Intern](https://jobright.ai/jobs/info/6a989e0011f73b6462c8faec?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Remote | Nov 05 |
+| **[Shure](http://www.shure.com)** | **[Application Systems Development Intern (Motive Mix)](https://jobright.ai/jobs/info/6a989ddedd171c728579345b?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 05 |
+| ↳ | **[Cloud Applications Development Intern](https://jobright.ai/jobs/info/6a9a4451e6c97d4b970ae7d4?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Remote | Nov 05 |
 | **[Deltek](http://www.deltek.com)** | **[Software Development Internship](https://jobright.ai/jobs/info/6aeccbdc3a3fa7f03ea8943a?utm_campaign=1079&utm_source=git)** | Herndon, VA, United States | On Site | Nov 05 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6aeccbd9a9ea762a0409235d?utm_campaign=1079&utm_source=git)** | Herndon, VA, United States | On Site | Nov 05 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6aeccbd6a9ea762a0409235b?utm_campaign=1079&utm_source=git)** | Herndon, VA, United States | On Site | Nov 05 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer, Internship - Production Infrastructure](https://jobright.ai/jobs/info/6a5529f32084cd792b476915?utm_campaign=1079&utm_source=git)** | Seattle, WA, United States | On Site | Nov 05 |
 | ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/6a5fd8fa8c7fd835513bb729?utm_campaign=1079&utm_source=git)** | Denver, CO, United States | On Site | Nov 05 |
 | ↳ | **[Software Engineer, Internship](https://jobright.ai/jobs/info/6a4298496faf756060967309?utm_campaign=1079&utm_source=git)** | Washington, D.C., United States | On Site | Nov 05 |
-| ↳ | **[Privacy and Civil Liberties Software Engineer, Internship](https://jobright.ai/jobs/info/6a42d0df6a9c2774b3fa7686?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | ↳ | **[Year at Palantir - Forward Deployed Software Engineer, Internship - USG](https://jobright.ai/jobs/info/6a60b50e2a30b85637874f1d?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
-| ↳ | **[Forward Deployed Software Engineer, Internship - US Government](https://jobright.ai/jobs/info/6a52311ee726ec56126a1ece?utm_campaign=1079&utm_source=git)** | Honolulu, HI, United States | On Site | Nov 05 |
+| ↳ | **[Privacy and Civil Liberties Software Engineer, Internship](https://jobright.ai/jobs/info/6a42d0df6a9c2774b3fa7686?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | ↳ | **[Software Engineer, Internship - Defense Tech](https://jobright.ai/jobs/info/6a429849ff87fd527f984c59?utm_campaign=1079&utm_source=git)** | Washington, D.C., United States | On Site | Nov 05 |
+| ↳ | **[Forward Deployed Software Engineer, Internship - US Government](https://jobright.ai/jobs/info/6a52311ee726ec56126a1ece?utm_campaign=1079&utm_source=git)** | Honolulu, HI, United States | On Site | Nov 05 |
 | ↳ | **[Forward Deployed Software Engineer, Internship - Commercial](https://jobright.ai/jobs/info/6a427c4e1cc9cc2b12febbdf?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | ↳ | **[Year at Palantir - Forward Deployed Software Engineer, Internship - USG](https://jobright.ai/jobs/info/6a590144856af468ab001219?utm_campaign=1079&utm_source=git)** | Washington, D.C., United States | On Site | Nov 05 |
-| ↳ | **[Year at Palantir - Software Engineer, Internship](https://jobright.ai/jobs/info/6a5489e68a74e077472fc23d?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
-| **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Quantum Simulation and AI - 2027](https://jobright.ai/jobs/info/6ae56a7d77c09cb3bd4b373f?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 05 |
-| **[BiblioCommons](http://www.bibliocommons.com)** | **[PEY - Junior Fullstack Engineer](https://jobright.ai/jobs/info/6aecb3fd465e3d2371380b97?utm_campaign=1079&utm_source=git)** | Ontario, Canada | On Site | Nov 05 |
-| **[Hakkōda, an IBM Company](https://hakkoda.io)** | **[Software Engineer Intern 2027](https://jobright.ai/jobs/info/6aed4721a3da3840d4aba9c6?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
