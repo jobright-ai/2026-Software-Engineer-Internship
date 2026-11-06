@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bobcat Company](https://www.bobcat.com)** | **[Embedded Software Engineer Student Experience - Spring 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6a996f3b040e5c3d0759629a?utm_campaign=1079&utm_source=git)** | Bismarck, ND, United States | On Site | Nov 06 |
+| **[Adobe](http://www.adobe.com)** | **[2027 Intern - Software Engineer](https://jobright.ai/jobs/info/6aac52253d96632d741aa73c?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 06 |
+| ↳ | **[2027 Intern - Software Engineer](https://jobright.ai/jobs/info/6a99bd37ad752e2ad55018ea?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 06 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[Embedded Software Engineer Student Experience - Summer 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6ad881cb67bec1d0d9c7db75?utm_campaign=1079&utm_source=git)** | Bismarck, ND, United States | On Site | Nov 06 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/6ac5bb624ac55253f5d78041?utm_campaign=1079&utm_source=git)** | Baltic, SD, United States | On Site | Nov 06 |
+| ↳ | **[Test Engineer Intern](https://jobright.ai/jobs/info/6ac021ee372c01f6cd72ad37?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 06 |
 | **[MechSpire](https://www.linkedin.com/company/92823876)** | **[Capabilities and Innovation Internship](https://jobright.ai/jobs/info/6aed7de4134c4306250a95aa?utm_campaign=1079&utm_source=git)** | Milwaukee, WI, United States | Remote | Nov 05 |
 | **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Investments Technology Research Intern](https://jobright.ai/jobs/info/6aed7cdbf46c27c797e9cdd6?utm_campaign=1079&utm_source=git)** | Denver, Colorado, United States | Hybrid | Nov 05 |
 | **[Riverlane](https://riverlane.com)** | **[Engineering Internship 2027](https://jobright.ai/jobs/info/6ad77bbf54bbabbab06fecb0?utm_campaign=1079&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 05 |
@@ -144,17 +150,11 @@ For a complete list, click the following sortable link below:
 | **[KUKA](https://www.kuka-robotics.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6aecd30aa2661405dc2c6ad7?utm_campaign=1079&utm_source=git)** | Clinton Township, MI, United States | On Site | Nov 05 |
 | **[Shield AI](http://www.shield.ai)** | **[June 2027 Co-Op - Software Engineer Intern](https://jobright.ai/jobs/info/6aecc8c53967d67f6359fa3e?utm_campaign=1079&utm_source=git)** | Dallas, TX, United States | On Site | Nov 05 |
 | **[Mitsubishi Electric Trane US](https://metahvac.com/)** | **[Automotive Cloud & Middleware Validation Intern](https://jobright.ai/jobs/info/6ae1bc34eb7e8f715a6077fa?utm_campaign=1079&utm_source=git)** | Northville, MI, United States | On Site | Nov 05 |
-| **[Shure](http://www.shure.com)** | **[Application Systems Development Intern (Motive Mix)](https://jobright.ai/jobs/info/6a99cf391388387060590896?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 05 |
-| ↳ | **[Cloud Applications Development Intern](https://jobright.ai/jobs/info/6a989e0011f73b6462c8faec?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Remote | Nov 05 |
+| **[Shure](http://www.shure.com)** | **[Application Systems Development Intern (Motive Mix)](https://jobright.ai/jobs/info/6a989ddedd171c728579345b?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 05 |
+| ↳ | **[Cloud Applications Development Intern](https://jobright.ai/jobs/info/6a9a4451e6c97d4b970ae7d4?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Remote | Nov 05 |
 | **[Deltek](http://www.deltek.com)** | **[Software Development Internship](https://jobright.ai/jobs/info/6aeccbdc3a3fa7f03ea8943a?utm_campaign=1079&utm_source=git)** | Herndon, VA, United States | On Site | Nov 05 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6aeccbd9a9ea762a0409235d?utm_campaign=1079&utm_source=git)** | Herndon, VA, United States | On Site | Nov 05 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6aeccbd6a9ea762a0409235b?utm_campaign=1079&utm_source=git)** | Herndon, VA, United States | On Site | Nov 05 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Forward Deployed Software Engineer, Internship - France](https://jobright.ai/jobs/info/6a59a9bbc8e3a473cb8a7ea6?utm_campaign=1079&utm_source=git)** | New York, NY, United States | Hybrid | Nov 05 |
 | ↳ | **[Forward Deployed Software Engineer, Internship - Commercial](https://jobright.ai/jobs/info/6a56ce6210c4d945d864c0bb?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Nov 05 |
-| ↳ | **[Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobright.ai/jobs/info/6a3c3915d261407de97fce46?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Nov 05 |
-| ↳ | **[Software Engineer, Internship - Production Infrastructure](https://jobright.ai/jobs/info/6a50aa075165966a1161a9b2?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
-| ↳ | **[Software Engineer, Internship - Production Infrastructure](https://jobright.ai/jobs/info/6a5529e1f2c46727285f02da?utm_campaign=1079&utm_source=git)** | Washington, D.C., United States | On Site | Nov 05 |
-| ↳ | **[Software Engineer, Internship - Infrastructure](https://jobright.ai/jobs/info/6a5312428576ec69c014e7de?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
-| ↳ | **[Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobright.ai/jobs/info/6a50e0046a85fe03ca8562c9?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
-| ↳ | **[Software Engineer, Internship - Production Infrastructure](https://jobright.ai/jobs/info/6a5529f32084cd792b476915?utm_campaign=1079&utm_source=git)** | Seattle, WA, United States | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
