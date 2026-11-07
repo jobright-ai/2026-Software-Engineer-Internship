@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Torentify](https://torentify.com/)** | **[Full Stack Developer - Intern (Remote)](https://jobright.ai/jobs/info/6aeec8939f8e479a8bcfaacf?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 06 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Research and Engineering Intern, Agentic Systems Intelligence – Summer 2027](https://jobright.ai/jobs/info/6aed48c6c3da5933b81366fb?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 06 |
+| **[Torentify](https://torentify.com/)** | **[Full Stack Developer - Intern (Remote)](https://jobright.ai/jobs/info/6aeec8939f8e479a8bcfaacf?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Engineer Intern (TikTok Generalized Arch) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aeeb166676e3f91d326949e?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 06 |
 | ↳ | **[Software Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6aeeaa2b0fe787d00ed18114?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 06 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer Internship - IT Applications (ASI) Job Details / PACCAR](https://jobright.ai/jobs/info/6aeeace70fe787d00ed18228?utm_campaign=1079&utm_source=git)** | Renton, WA, United States | On Site | Nov 06 |
@@ -79,7 +79,7 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Software Engineer HR Data Products Internship](https://jobright.ai/jobs/info/6aee6391d20350c7a507ce6f?utm_campaign=1079&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 06 |
 | ↳ | **[Summer 2027 Software Engineering Internship](https://jobright.ai/jobs/info/6aeccd3fa9ea762a04092470?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 06 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Integration Engineer, High Voltage Systems (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aee6fc8c7498922fe0ccbcb?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 06 |
-| **[Schneider](https://schneider.com)** | **[Software Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6aee3a215c81f621d3114297?utm_campaign=1079&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 06 |
+| **[Schneider](https://schneider.com)** | **[Software Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6aee3f6f5c81f621d3114746?utm_campaign=1079&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 06 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Applications Engineer](https://jobright.ai/jobs/info/6aee6ee15c81f621d31167b7?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 06 |
 | **[Citadel](https://www.citadel.com)** | **[Software Engineer – Intern (US)](https://jobright.ai/jobs/info/6aed1bc1ab48a707938214d2?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | **[Republic Finance](http://republicfinance.com/)** | **[React Developer Intern](https://jobright.ai/jobs/info/6aee54e8bd2f33eea72dadcf?utm_campaign=1079&utm_source=git)** | Plano, TX, United States | Hybrid | Nov 06 |
@@ -91,7 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering Intern, Frontend (Summer 2027)](https://jobright.ai/jobs/info/6aee20b7e0c9de7b05f8a97c?utm_campaign=1079&utm_source=git)** | New York, NY, United States | Hybrid | Nov 06 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Embedded Software Developer, Network/Payload Intern (Winter 2027)](https://jobright.ai/jobs/info/6aee55a0c7498922fe0cb994?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 06 |
 | **[KLA](https://www.kla.com)** | **[Software Intern](https://jobright.ai/jobs/info/6ae380c6eab1f96730974a43?utm_campaign=1079&utm_source=git)** | Milpitas, CA, United States | On Site | Nov 06 |
-| ↳ | **[Software Intern](https://jobright.ai/jobs/info/6aee160d5c81f621d3111561?utm_campaign=1079&utm_source=git)** | Milpitas, CA, United States | On Site | Nov 06 |
+| ↳ | **[Software Intern](https://jobright.ai/jobs/info/6aee32c15c81f621d31139e6?utm_campaign=1079&utm_source=git)** | Milpitas, CA, United States | On Site | Nov 06 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Test Engineer Intern](https://jobright.ai/jobs/info/6aee12765c81f621d3111407?utm_campaign=1079&utm_source=git)** | Lexington Park, MD, United States | On Site | Nov 06 |
 | ↳ | **[Test Engineer Intern](https://jobright.ai/jobs/info/6ae0de3867c31ab34899dffe?utm_campaign=1079&utm_source=git)** | Lexington Park, MD, United States | On Site | Nov 06 |
 | **[Daiichi Sankyo](https://daiichisankyo.us)** | **[DTX Infrastructure Intern](https://jobright.ai/jobs/info/6aee599a5c81f621d3115aec?utm_campaign=1079&utm_source=git)** | Basking Ridge, NJ, United States | On Site | Nov 06 |
@@ -115,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Brave](https://www.brave.com/)** | **[Software Engineering Intern - Waterloo University - Winter Session](https://jobright.ai/jobs/info/6aee29e85c81f621d3112ca4?utm_campaign=1079&utm_source=git)** | Canada | Remote | Nov 06 |
 | **[Applied Concepts, Inc.](https://www.stalkerradar.com/)** | **[Web and Apps Developer - Intern (Nov-26 to May-27)](https://jobright.ai/jobs/info/6ae69186d45dc30fb7d3935a?utm_campaign=1079&utm_source=git)** | Richardson, TX, United States | Remote | Nov 06 |
 | **[Arconic](https://www.arconic.com)** | **[Software Developer Intern](https://jobright.ai/jobs/info/6ab524004873fd3fd8527e97?utm_campaign=1079&utm_source=git)** | Bettendorf, IA, United States | On Site | Nov 06 |
-| **[Shure](http://www.shure.com)** | **[Mobile Applications (Android) Intern](https://jobright.ai/jobs/info/6a989ddbaf954907d6574696?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 06 |
+| **[Shure](http://www.shure.com)** | **[Mobile Applications (Android) Intern](https://jobright.ai/jobs/info/6a991eccdef18223c855109a?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 06 |
 | ↳ | **[Embedded Software Intern](https://jobright.ai/jobs/info/6a995f9a2b714347bbbe9f62?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 06 |
 | **[Machina Cognita Technologies](https://www.machinacognita.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/6aee2461d20350c7a507937a?utm_campaign=1079&utm_source=git)** | Lafayette, IN, United States | On Site | Nov 06 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/6aedfba7caf8e660b87d90e3?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Nov 06 |
