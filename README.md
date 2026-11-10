@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Contezy](https://www.contezy.com/)** | **[Code Audit Intern](https://jobright.ai/jobs/info/6af2f2627666e3c5fb7162a6?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 10 |
+| **[Teledyne Brown Engineering](http://www.tbe.com)** | **[NHRC Software Engineering Internship (Summer 2027) with Security Clearance](https://jobright.ai/jobs/info/6af2fe7b80020ca3a8971d26?utm_campaign=1079&utm_source=git)** | Huntsville, AL, United States | On Site | Nov 10 |
+| **[Seagate Technology](http://www.seagate.com)** | **[Summer Intern - Software Engineering](https://jobright.ai/jobs/info/6aea48ef4f991d64376cc971?utm_campaign=1079&utm_source=git)** | Shakopee, MN, United States | On Site | Nov 10 |
+| **[GlobalFoundries](https://gf.com/)** | **[Design Verification Engineer Intern (Summer 2027)](https://jobright.ai/jobs/info/6af2e1eb4ac248020e8ccba9?utm_campaign=1079&utm_source=git)** | Richardson, TX, United States | On Site | Nov 10 |
 | **[Databricks](https://www.databricks.com)** | **[Software Engineering Intern (2027)](https://jobright.ai/jobs/info/6acd0d11002e496d4bef03f5?utm_campaign=1079&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 10 |
+| **[Contezy](https://www.contezy.com/)** | **[Code Audit Intern](https://jobright.ai/jobs/info/6af2f2627666e3c5fb7162a6?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Eulerity](https://www.eulerity.com)** | **[Backend Developer Intern](https://jobright.ai/jobs/info/6a9740adb22f636c81416f5d?utm_campaign=1079&utm_source=git)** | New York, NY, United States | Hybrid | Nov 10 |
 | **[Amplify](http://www.amplify.com)** | **[Summer 2027: Software Engineering Intern](https://jobright.ai/jobs/info/6ad66a8967bec1d0d9c6eb68?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Patreon](http://www.patreon.com)** | **[Software Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6ad694d2e4b94611ab840542?utm_campaign=1079&utm_source=git)** | New York, NY, United States | Hybrid | Nov 10 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[TTM Technologies](https://www.ttm.com)** | **[Software Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6aee0ecfe0c9de7b05f8999e?utm_campaign=1079&utm_source=git)** | Syracuse, NY, United States | On Site | Nov 10 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Software & Systems Testing Engineering Intern Job Details / Boston Scientific](https://jobright.ai/jobs/info/6af2dce6f6053e296fc7829a?utm_campaign=1079&utm_source=git)** | Arden Hills, MN, United States | On Site | Nov 10 |
 | **[Dana Incorporated](https://www.dana.com/)** | **[Embedded Software Intern Job Details / Dana Incorporated](https://jobright.ai/jobs/info/6af2dce22ae170adbeb8e699?utm_campaign=1079&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Nov 10 |
-| **[youbloom](https://youbloom.com)** | **[Software Quality Assurance Analyst Intern](https://jobright.ai/jobs/info/6af2cc1656fd115cb6941794?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Meta](https://www.meta.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6ac5387e0e027c0f3b3ad915?utm_campaign=1079&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 09 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Software Engineering Internship](https://jobright.ai/jobs/info/6af2e9ca80020ca3a89715ea?utm_campaign=1079&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 09 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6af2694d0cb834dad9326c97?utm_campaign=1079&utm_source=git)** | Bellevue, Washington, United States | On Site | Nov 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineering - Intern, Graduate](https://jobright.ai/jobs/info/6ab33c031e4847ddae918b26?utm_campaign=1079&utm_source=git)** | Hillsboro, OR, United States | On Site | Nov 09 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Software Engineer, Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3f4c6778237a036d5e6df5?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Nov 09 |
 | **[Citadel](https://www.citadel.com)** | **[Software Engineer – Intern (US)](https://jobright.ai/jobs/info/6aed1b4a3a3fa7f03ea8c083?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
-| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Systems Software Engineering](https://jobright.ai/jobs/info/6ae3c387d7424a2a828e2baa?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 09 |
-| **[Cair Health](https://www.cairhealth.com/)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6af239df1aaffa49f7382dd0?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
