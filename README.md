@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neuralink](https://www.neuralink.com)** | **[Firmware Engineer Intern, Robotics and Surgery Engineering](https://jobright.ai/jobs/info/6a3e325f78237a036d5e388a?utm_campaign=1079&utm_source=git)** | South San Francisco, California, United States | On Site | Nov 10 |
+| **[Google](https://www.google.com)** | **[Forward Deployed Engineering Intern, BS/MS, Summer 2027](https://jobright.ai/jobs/info/6accb482002e496d4beeef71?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, United States | On Site | Nov 10 |
+| **[New York Life](https://www.newyorklife.com/)** | **[2027 New York Life Direct Summer Internship Program - IBM i Developer Job Details / New York Life Insurance Co](https://jobright.ai/jobs/info/6af3114a7c81de7a524bc09e?utm_campaign=1079&utm_source=git)** | Tampa, FL, United States | Hybrid | Nov 10 |
 | **[Teledyne Brown Engineering](http://www.tbe.com)** | **[NHRC Software Engineering Internship (Summer 2027) with Security Clearance](https://jobright.ai/jobs/info/6af2fe7b80020ca3a8971d26?utm_campaign=1079&utm_source=git)** | Huntsville, AL, United States | On Site | Nov 10 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Summer Intern - Software Engineering](https://jobright.ai/jobs/info/6aea48ef4f991d64376cc971?utm_campaign=1079&utm_source=git)** | Shakopee, MN, United States | On Site | Nov 10 |
 | **[GlobalFoundries](https://gf.com/)** | **[Design Verification Engineer Intern (Summer 2027)](https://jobright.ai/jobs/info/6af2e1eb4ac248020e8ccba9?utm_campaign=1079&utm_source=git)** | Richardson, TX, United States | On Site | Nov 10 |
@@ -111,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer, Internship - Production Infrastructure](https://jobright.ai/jobs/info/6a50aa075165966a1161a9b2?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
 | ↳ | **[Software Engineer, Internship - Infrastructure](https://jobright.ai/jobs/info/6a4b615b6189f64e437eec95?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 09 |
 | ↳ | **[Forward Deployed Software Engineer, Internship - France](https://jobright.ai/jobs/info/6a59a9bbc8e3a473cb8a7ea6?utm_campaign=1079&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
-| ↳ | **[Software Engineer, Internship - Defense Tech](https://jobright.ai/jobs/info/6a429849ff87fd527f984c59?utm_campaign=1079&utm_source=git)** | Washington, D.C., United States | On Site | Nov 09 |
 | ↳ | **[Forward Deployed Software Engineer, Internship - US Government](https://jobright.ai/jobs/info/6a5f7fdfb0f20036bc631318?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
+| ↳ | **[Software Engineer, Internship - Defense Tech](https://jobright.ai/jobs/info/6a429849ff87fd527f984c59?utm_campaign=1079&utm_source=git)** | Washington, D.C., United States | On Site | Nov 09 |
 | ↳ | **[Forward Deployed Software Engineer, Internship - US Government](https://jobright.ai/jobs/info/6a52311ee726ec56126a1ece?utm_campaign=1079&utm_source=git)** | Honolulu, HI, United States | On Site | Nov 09 |
 | ↳ | **[Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobright.ai/jobs/info/6a3c3915d261407de97fce46?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Nov 09 |
 | ↳ | **[Year at Palantir - Forward Deployed Software Engineer, Internship - USG](https://jobright.ai/jobs/info/6a60b50e2a30b85637874f1d?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, SI Software Engineer, Core Infrastructure (Winter/Spring 2027)](https://jobright.ai/jobs/info/6af1169b0fe787d00ed20198?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 09 |
 | ↳ | **[Internship, Software Engineer, Finance Programs (Winter/Spring 2027)](https://jobright.ai/jobs/info/6af116a09f8e479a8bd021ce?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 09 |
 | **[Intel](http://www.intel.com)** | **[Software Engineering - Intern, Bachelor’s](https://jobright.ai/jobs/info/6a984018def18223c854e3ec?utm_campaign=1079&utm_source=git)** | Hillsboro, OR, United States | On Site | Nov 09 |
-| ↳ | **[Software Engineering - Intern, Graduate](https://jobright.ai/jobs/info/6ab33c031e4847ddae918b26?utm_campaign=1079&utm_source=git)** | Hillsboro, OR, United States | On Site | Nov 09 |
-| **[Aquatic Capital Management](https://aquatic.com)** | **[Software Engineer, Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3f4c6778237a036d5e6df5?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Nov 09 |
-| **[Citadel](https://www.citadel.com)** | **[Software Engineer – Intern (US)](https://jobright.ai/jobs/info/6aed1b4a3a3fa7f03ea8c083?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
