@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ECZ Management Partners](https://www.eczmanagement.com/)** | **[Technology Internship](https://jobright.ai/jobs/info/6af41b0ee841cc0145ad767b?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
+| **[Job Hunting U](http://jobhuntingu.com/)** | **[AI Backend Engineer Intern](https://jobright.ai/jobs/info/6af41812ebe39ae3299da4b3?utm_campaign=1079&utm_source=git)** | Vancouver, BC, Canada | Remote | Nov 10 |
+| **[Cisco](http://www.cisco.com)** | **[Software Engineer Embedded Systems I (Intern) - United States](https://jobright.ai/jobs/info/6af3bab7f6053e296fc7f9a1?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 10 |
 | **[Optimum](https://www.optimum.com/)** | **[Intern - Developer, Financial & People Systems](https://jobright.ai/jobs/info/6af408ed50da4f72009244ab?utm_campaign=1079&utm_source=git)** | Bethpage, NY, United States | On Site | Nov 10 |
 | **[Syncere](https://syncere.com)** | **[SLAM Engineer](https://jobright.ai/jobs/info/6af4055939bc2e330fdbd01d?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 10 |
 | **[Kestra Holdings](https://www.kestraholdings.com/)** | **[Summer Internship, Advisor Platform Engineering](https://jobright.ai/jobs/info/6aee59c6d20350c7a507c7e8?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Nov 10 |
@@ -64,7 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern, Oracle ERP – Summer 2027](https://jobright.ai/jobs/info/6af3cef110c7aed77861dfdc?utm_campaign=1079&utm_source=git)** | Schiller Park, IL, United States | On Site | Nov 10 |
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Software Engineering Intern - Vehicle Controls (January - August 2027)](https://jobright.ai/jobs/info/6aa041d9ea127c379469602d?utm_campaign=1079&utm_source=git)** | Irvine, CA, United States | Hybrid | Nov 10 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Software Testing Engineering Intern - Apopka FL](https://jobright.ai/jobs/info/6af25bbf905985ccaa40c0cf?utm_campaign=1079&utm_source=git)** | Apopka, FL, United States | On Site | Nov 10 |
-| **[Cisco](http://www.cisco.com)** | **[Software Engineer Embedded Systems I (Intern) - United States](https://jobright.ai/jobs/info/6af3bab7f6053e296fc7f9a1?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 10 |
 | **[Siemens](https://www.siemens.com)** | **[Building X Software Developer Internship](https://jobright.ai/jobs/info/6af36956769e9374033c612d?utm_campaign=1079&utm_source=git)** | Buffalo Grove, IL, United States | Hybrid | Nov 10 |
 | **[RTX](http://rtx.com/)** | **[Software Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6af3bad67c81de7a524c291f?utm_campaign=1079&utm_source=git)** | Largo, FL, United States | On Site | Nov 10 |
 | ↳ | **[Software Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6af3b88080020ca3a8978985?utm_campaign=1079&utm_source=git)** | St. Petersburg, FL, United States | On Site | Nov 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AllianceBernstein](http://www.alliancebernstein.com)** | **[Infrastructure Engineering Summer Intern](https://jobright.ai/jobs/info/6aa8a91ef5332f8b86243dfb?utm_campaign=1079&utm_source=git)** | Nashville, TN, United States | On Site | Nov 10 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Summer 2027 FOX Technology Internship Program - Los Angeles, CA](https://jobright.ai/jobs/info/6ad6178054bbabbab06f460f?utm_campaign=1079&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 10 |
 | **[Braze](https://www.braze.com)** | **[Intern, Software Engineering](https://jobright.ai/jobs/info/6ad6849754bbabbab06f92ab?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
-| **[Neuralink](https://www.neuralink.com)** | **[Firmware Engineer Intern, Robotics and Surgery Engineering](https://jobright.ai/jobs/info/6a0f8d9b72b52f7225f3ef02?utm_campaign=1079&utm_source=git)** | San Francisco, CA | On Site | Nov 10 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Software Engineering Test Intern (Summer 2027)](https://jobright.ai/jobs/info/6ab920e53a2ec87116e28359?utm_campaign=1079&utm_source=git)** | Delaware, OH, United States | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
