@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[ServiceNow - Intern Application Developer 2027](https://jobright.ai/jobs/info/6ab7020639fd8792cb73d1b6?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Nov 12 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Internship (Summer 2027)](https://jobright.ai/jobs/info/6aa026465b2d5633ef3bca75?utm_campaign=1079&utm_source=git)** | Delaware, OH, United States | On Site | Nov 12 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer Intern, Implant](https://jobright.ai/jobs/info/6a8ca19725fc4e7ae3db985e?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Nov 12 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Design Engineering Intern (Graduate-Level) (Summer 2027)](https://jobright.ai/jobs/info/6aa02645ea127c3794695330?utm_campaign=1079&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 12 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Intern (Transaction Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a71a3e702d93145bf89022e?utm_campaign=1079&utm_source=git)** | San Jose | On Site | Nov 12 |
 | ↳ | **[Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer](https://jobright.ai/jobs/info/6a750c7c20b26a6e93f4a733?utm_campaign=1079&utm_source=git)** | Seattle, WA, United States | On Site | Nov 12 |
 | ↳ | **[Recommendation Architecture AI/ML Infrastructure Engineer Intern (Data-Arch-TikTok Live) - 2027 Summer](https://jobright.ai/jobs/info/6a75b46f7b3417772ade4eee?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 12 |
-| ↳ | **[Research Engineer Intern (Ads ML Infra) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a312ec50ff23769fdb1c5ee?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 12 |
 | ↳ | **[Research Engineer Intern (Ads ML Infra) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a51030078e364789ca57f82?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 12 |
+| ↳ | **[Research Engineer Intern (Ads ML Infra) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a312ec50ff23769fdb1c5ee?utm_campaign=1079&utm_source=git)** | San Jose, CA | On Site | Nov 12 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - SSD Firmware](https://jobright.ai/jobs/info/6ad7d1df67bec1d0d9c79585?utm_campaign=1079&utm_source=git)** | Boise, ID, United States | On Site | Nov 12 |
 | ↳ | **[Intern - SSD Firmware](https://jobright.ai/jobs/info/6ad7d1dd950ef68d5184438a?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Intern (Creative Intelligence and Brand Innovation) - 2027 Summer](https://jobright.ai/jobs/info/6a701a44cd3bac13d3709855?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rivian](http://www.rivian.com)** | **[Software Engineering Intern - Product Development Portal (Spring Co-Op)](https://jobright.ai/jobs/info/6ab1bda632552369083e418f?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 11 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineering, People Products (Winter/Spring 2027)](https://jobright.ai/jobs/info/6af270a80cb834dad9326f53?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 11 |
 | **[Netflix](https://www.netflix.com)** | **[Software Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6ad695de950ef68d5183b772?utm_campaign=1079&utm_source=git)** | Los Gatos, CA, United States | On Site | Nov 11 |
-| **[PTC](https://www.ptc.com/en)** | **[Creo Graphics Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6af4e9b4cd7be4db20d8996b?utm_campaign=1079&utm_source=git)** | Boston, MA, United States | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
