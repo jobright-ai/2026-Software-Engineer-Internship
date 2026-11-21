@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NVIDIA](https://www.nvidia.com)** | **[Software Engineer, DL Kernel Libraries - New College Grad 2027](https://jobright.ai/jobs/info/6b00c8e7e0dc96195928435e?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
+| **[TikTok](https://www.tiktok.com)** | **[Research Engineer Intern (TikTok Generalized Arch) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6b013a142ad6cde5ef2514df?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 20 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start](https://jobright.ai/jobs/info/6b0120f8df73191d2e6b0a34?utm_campaign=1079&utm_source=git)** | Seattle, WA, United States | On Site | Nov 20 |
 | **[Parker Hannifin](http://www.parker.com)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6b00761589d8ca1e84956428?utm_campaign=1079&utm_source=git)** | Woburn, MA, United States | On Site | Nov 20 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineering Intern (Web/Mobile)](https://jobright.ai/jobs/info/6b00be760f536e0ba7276daa?utm_campaign=1079&utm_source=git)** | Yarmouth, ME, United States | On Site | Nov 20 |
@@ -113,14 +115,14 @@ For a complete list, click the following sortable link below:
 | **[Renesas Electronics](https://www.renesas.com)** | **[Firmware Engineering Intern](https://jobright.ai/jobs/info/6b0089aed1fe3bc162e3c87c?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Nov 20 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Software Engineering Intern III, Summer 2027](https://jobright.ai/jobs/info/6ae3bb3477c09cb3bd4a8a3f?utm_campaign=1079&utm_source=git)** | Nashua, NH, United States | On Site | Nov 20 |
 | **[Etched](https://www.etched.com)** | **[Performance Tools Intern](https://jobright.ai/jobs/info/6a70d5071003bd7b70d6cdd4?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 20 |
-| **[Q-Block Computing](https://www.q-block.ca/)** | **[Embedded Systems Developer Intern](https://jobright.ai/jobs/info/6a5333d4e726ec56126a6084?utm_campaign=1079&utm_source=git)** | Ottawa, ON, Canada | On Site | Nov 20 |
-| ↳ | **[Embedded Systems Developer Intern](https://jobright.ai/jobs/info/692efc3c4c474121999dba3b?utm_campaign=1079&utm_source=git)** | AB, CA | Hybrid | Nov 20 |
+| **[Q-Block Computing](https://www.q-block.ca/)** | **[Embedded Systems Developer Intern](https://jobright.ai/jobs/info/692efc3c4c474121999dba3b?utm_campaign=1079&utm_source=git)** | AB, CA | Hybrid | Nov 20 |
+| ↳ | **[Embedded Systems Developer Intern](https://jobright.ai/jobs/info/6a5333d4e726ec56126a6084?utm_campaign=1079&utm_source=git)** | Ottawa, ON, Canada | On Site | Nov 20 |
 | **[CAI](https://cai.io/)** | **[GIS Software Developer Intern](https://jobright.ai/jobs/info/6b005fd5e0dc9619592805fb?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Summer 2027 Intern](https://jobright.ai/jobs/info/6a8e183125fc4e7ae3dbfac6?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 20 |
 | **[STERIS](http://steris.com)** | **[Software Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6ae394add7424a2a828e1161?utm_campaign=1079&utm_source=git)** | Plymouth, MN, United States | On Site | Nov 20 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Software Development Intern - Digital Grid Management - Summer 2027](https://jobright.ai/jobs/info/6aaaeb05f6bd9d2d17c1a5b7?utm_campaign=1079&utm_source=git)** | Medina, MN, United States | On Site | Nov 20 |
-| **[Honeywell Technologies](http://www.honeywell.com)** | **[Embedded Engineer - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6ac3fbc08ff3fb9b3bc834dd?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 20 |
-| ↳ | **[Embedded Engineer - Summer 2027 Intern](https://jobright.ai/jobs/info/6a8dfbda25fc4e7ae3dbf019?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 20 |
+| **[Honeywell Technologies](http://www.honeywell.com)** | **[Embedded Engineer - Summer 2027 Intern](https://jobright.ai/jobs/info/6a8df59925fc4e7ae3dbed31?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 20 |
+| ↳ | **[Embedded Engineer - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6ac3fbc08ff3fb9b3bc834dd?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, BS/MS, Software Engineer, Multiverse](https://jobright.ai/jobs/info/6aede36dbd2f33eea72d4c7d?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 20 |
 | **[Galaxy](https://www.galaxy.com)** | **[2027 Digital Infrastructure Intern - NYC](https://jobright.ai/jobs/info/6aff0b3597dcc4fc8dca81ac?utm_campaign=1079&utm_source=git)** | New York City, NY, United States | On Site | Nov 20 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Intern - Software Engineer, Summer 2027](https://jobright.ai/jobs/info/6abd66684ac55253f5d5d3a7?utm_campaign=1079&utm_source=git)** | St. Louis, MO, United States | Hybrid | Nov 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PTC](https://www.ptc.com/en)** | **[Arena Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae39f58fb2cd420ace529f6?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | Hybrid | Nov 20 |
 | **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern - Circuit Simulation infrastructure](https://jobright.ai/jobs/info/6b0002ee80dbbb90153930ad?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 20 |
 | ↳ | **[Software Engineering Intern - Circuit Simulation infrastructure](https://jobright.ai/jobs/info/6b00066d3a9a0230ab025596?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 20 |
-| **[Danaher](https://www.danaher.com)** | **[Intern - Application Integration Developer](https://jobright.ai/jobs/info/6ae3b1fac3139b475b5af717?utm_campaign=1079&utm_source=git)** | Brea, CA, United States | On Site | Nov 20 |
-| **[Altera](https://www.altera.com)** | **[Quartus Compiler Software - Intern](https://jobright.ai/jobs/info/6af74a85c7349029d70941d2?utm_campaign=1079&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
