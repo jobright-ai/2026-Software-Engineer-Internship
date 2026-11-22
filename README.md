@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Software Engineer, SI Hardware Architecture Simulation (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b023f81505c87ccb3a2ecea?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 21 |
 | **[Neros Technologies](https://www.neros.tech)** | **[Autonomy Intern - Summer 2027](https://jobright.ai/jobs/info/6b021f29b2c65d24f91ed365?utm_campaign=1079&utm_source=git)** | Torrance, CA, United States | On Site | Nov 21 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, BS/MS, Software Engineer, Multiverse](https://jobright.ai/jobs/info/6aede36dbd2f33eea72d4c7d?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 21 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2027] Software Engineer Intern](https://jobright.ai/jobs/info/6a7360428cd88e7ccbf57fa1?utm_campaign=1079&utm_source=git)** | San Mateo, CA, United States | Hybrid | Nov 21 |
-| **[SpaceX Super Intelligence](https://x.ai)** | **[Spring 2027 Software Engineering Internship/Co-op](https://jobright.ai/jobs/info/6ac003048ff3fb9b3bc7a2b5?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 21 |
-| ↳ | **[Summer 2027 Software Engineering Internship/Co-op](https://jobright.ai/jobs/info/6ad27923f04335fc70ed5c44?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 21 |
+| **[SpaceX Super Intelligence](https://x.ai)** | **[Summer 2027 Software Engineering Internship/Co-op](https://jobright.ai/jobs/info/6ad27923f04335fc70ed5c44?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 21 |
+| ↳ | **[Spring 2027 Software Engineering Internship/Co-op](https://jobright.ai/jobs/info/6ac003048ff3fb9b3bc7a2b5?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 21 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Full-Stack Software Engineer](https://jobright.ai/jobs/info/6af3a2e5f6053e296fc7ef0b?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Nov 21 |
 | **[Netflix](https://www.netflix.com)** | **[Software Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6ad695de950ef68d5183b772?utm_campaign=1079&utm_source=git)** | Los Gatos, CA, United States | On Site | Nov 21 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Software Engineering Internship (Summer 2027)](https://jobright.ai/jobs/info/6aa06a0b3b5aa83237b08ec8?utm_campaign=1079&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Deeplocal](http://deeplocal.com)** | **[Creative Technology Intern- Summer 2027](https://jobright.ai/jobs/info/6aee41bbcaf8e660b87ddbe8?utm_campaign=1079&utm_source=git)** | Sharpsburg, PA, United States | On Site | Nov 20 |
 | **[Teradata](https://www.teradata.com)** | **[Software Engineer Intern – Database Systems](https://jobright.ai/jobs/info/6b00f683a512f514bbde1bb5?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | On Site | Nov 20 |
 | **[STMicroelectronics](https://www.st.com)** | **[Software Algorithm Embedded Intern](https://jobright.ai/jobs/info/6abc262bb23c6fb2b81a57e2?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
-| ↳ | **[Software Algorithm Embedded Intern](https://jobright.ai/jobs/info/6b008e930f536e0ba7275053?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
 | ↳ | **[Software Algorithm Embedded Intern](https://jobright.ai/jobs/info/6b008e673a9a0230ab0285bd?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
+| ↳ | **[Software Algorithm Embedded Intern](https://jobright.ai/jobs/info/6b008e930f536e0ba7275053?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[Intern - Technical](https://jobright.ai/jobs/info/6b009c0fd1fe3bc162e3d38c?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 20 |
 | **[Teradata](https://www.teradata.com)** | **[Tera Agents Software Engineering Intern](https://jobright.ai/jobs/info/6b00e852df73191d2e6af8a0?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | On Site | Nov 20 |
 | ↳ | **[Software Engineer Intern — Agentic Database](https://jobright.ai/jobs/info/6b00e8510ae14188d58c24f1?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | On Site | Nov 20 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Hilti North America](https://www.hilti.com/)** | **[Information Technology Intern - Summer 2027](https://jobright.ai/jobs/info/6ae3fc19eab1f96730978adb?utm_campaign=1079&utm_source=git)** | Tulsa, OK, United States | On Site | Nov 20 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer, Intern - Summer 2027 - 30942](https://jobright.ai/jobs/info/6af825ed42ae65e2c8f3b2fc?utm_campaign=1079&utm_source=git)** | Crane, IN, United States | On Site | Nov 20 |
 | ↳ | **[Software Engineer (SkillBridge Intern) - 23875](https://jobright.ai/jobs/info/6af54c19a3cce217be6c9274?utm_campaign=1079&utm_source=git)** | Roanoke, Virginia, United States | On Site | Nov 20 |
-| **[STMicroelectronics](https://www.st.com)** | **[Embedded Software Sensor Algorithm Intern](https://jobright.ai/jobs/info/6b008e6ae0dc961959281fc6?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
-| ↳ | **[Embedded Software Sensor Algorithm Intern](https://jobright.ai/jobs/info/6ae3b9ddd45dc30fb7d2c200?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
-| **[Ciena](http://www.ciena.com)** | **[Embedded Software Engineer – Co-op Winter 2027](https://jobright.ai/jobs/info/6ae397f5fb2cd420ace525a9?utm_campaign=1079&utm_source=git)** | Ottawa, ON, Canada | On Site | Nov 20 |
+| **[STMicroelectronics](https://www.st.com)** | **[Embedded Software Sensor Algorithm Intern](https://jobright.ai/jobs/info/6ae3b9ddd45dc30fb7d2c200?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
+| ↳ | **[Embedded Software Sensor Algorithm Intern](https://jobright.ai/jobs/info/6b008e6ae0dc961959281fc6?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
