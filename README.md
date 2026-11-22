@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lennox](http://www.lennox.com)** | **[Cloud Advance Admin/Developer Intern](https://jobright.ai/jobs/info/6ae3bc4e77c09cb3bd4a8ac9?utm_campaign=1079&utm_source=git)** | Richardson, TX, United States | On Site | Nov 22 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - 2027 Summer Games Software Developer Intern - Charleston, SC](https://jobright.ai/jobs/info/6a9b0fc7fe45b8490f606a5f?utm_campaign=1079&utm_source=git)** | Charleston, SC, United States | On Site | Nov 22 |
+| ↳ | **[University - 2027 Summer Games Software Developer Intern - Atlanta, GA](https://jobright.ai/jobs/info/6a9b0fc313883870605966a6?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 22 |
+| ↳ | **[University - 2027 Summer Games Software Developer Intern - San Diego, CA](https://jobright.ai/jobs/info/6ae5b36ac3139b475b5bb177?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 22 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - SSD Firmware - CICD](https://jobright.ai/jobs/info/6ac970f86355f8776ff190b3?utm_campaign=1079&utm_source=git)** | Longmont, CO, United States | On Site | Nov 22 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Accounting AI Solution Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6b012ca32ad6cde5ef2513ae?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 21 |
 | **[Neros Technologies](https://www.neros.tech)** | **[Firmware/Embedded Software Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6b024a7fb2c65d24f91ed6b6?utm_campaign=1079&utm_source=git)** | Torrance, CA, United States | On Site | Nov 21 |
@@ -124,14 +128,14 @@ For a complete list, click the following sortable link below:
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Software Engineering Intern (Web/Mobile)](https://jobright.ai/jobs/info/6b00be760f536e0ba7276daa?utm_campaign=1079&utm_source=git)** | Yarmouth, ME, United States | On Site | Nov 20 |
 | **[Deeplocal](http://deeplocal.com)** | **[Creative Technology Intern- Summer 2027](https://jobright.ai/jobs/info/6aee41bbcaf8e660b87ddbe8?utm_campaign=1079&utm_source=git)** | Sharpsburg, PA, United States | On Site | Nov 20 |
 | **[Teradata](https://www.teradata.com)** | **[Software Engineer Intern – Database Systems](https://jobright.ai/jobs/info/6b00f683a512f514bbde1bb5?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | On Site | Nov 20 |
-| **[STMicroelectronics](https://www.st.com)** | **[Software Algorithm Embedded Intern](https://jobright.ai/jobs/info/6b008e930f536e0ba7275053?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
+| **[STMicroelectronics](https://www.st.com)** | **[Software Algorithm Embedded Intern](https://jobright.ai/jobs/info/6abc262bb23c6fb2b81a57e2?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
 | ↳ | **[Software Algorithm Embedded Intern](https://jobright.ai/jobs/info/6b008e673a9a0230ab0285bd?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
-| ↳ | **[Software Algorithm Embedded Intern](https://jobright.ai/jobs/info/6abc262bb23c6fb2b81a57e2?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
+| ↳ | **[Software Algorithm Embedded Intern](https://jobright.ai/jobs/info/6b008e930f536e0ba7275053?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[Intern - Technical](https://jobright.ai/jobs/info/6b009c0fd1fe3bc162e3d38c?utm_campaign=1079&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 20 |
 | **[Teradata](https://www.teradata.com)** | **[Tera Agents Software Engineering Intern](https://jobright.ai/jobs/info/6b00e852df73191d2e6af8a0?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | On Site | Nov 20 |
 | ↳ | **[Software Engineer Intern — Agentic Database](https://jobright.ai/jobs/info/6b00e8510ae14188d58c24f1?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | On Site | Nov 20 |
-| ↳ | **[Software Engineering Intern - Fabric Agentic Integration](https://jobright.ai/jobs/info/6b00e84da512f514bbde15fb?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | On Site | Nov 20 |
 | ↳ | **[Software Engineering Intern — AI Observability](https://jobright.ai/jobs/info/6b00e84da512f514bbde15fa?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | On Site | Nov 20 |
+| ↳ | **[Software Engineering Intern - Fabric Agentic Integration](https://jobright.ai/jobs/info/6b00e84da512f514bbde15fb?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | On Site | Nov 20 |
 | **[Applied Physical Sciences Corp (APS)](https://www.aphysci.com/)** | **[Intern – Firmware Engineer -REQ (367)](https://jobright.ai/jobs/info/6b00e7cfdf73191d2e6af853?utm_campaign=1079&utm_source=git)** | Groton, CT, United States | On Site | Nov 20 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Validation Engineer, Crash Safety (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b00e758af6fea8c089b5514?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 20 |
 | **[Tektronix](http://www.tek.com)** | **[Software Design Engineer Intern (Summer 2027)](https://jobright.ai/jobs/info/6b00e67ea512f514bbde150a?utm_campaign=1079&utm_source=git)** | Beaverton, OR, United States | On Site | Nov 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Palantir Technologies](http://www.palantir.com)** | **[Forward Deployed Software Engineer, Internship - Commercial](https://jobright.ai/jobs/info/6a56ce6210c4d945d864c0bb?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Nov 20 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, Intern (Summer or Winter)](https://jobright.ai/jobs/info/6a95fec94c22023a07937674?utm_campaign=1079&utm_source=git)** | San Francisco, California, United States | On Site | Nov 20 |
 | **[Danaher](https://www.danaher.com)** | **[Intern - Application Integration Developer](https://jobright.ai/jobs/info/6ae3b1fac3139b475b5af717?utm_campaign=1079&utm_source=git)** | Brea, CA, United States | On Site | Nov 20 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6ac91117d4a5a03707410887?utm_campaign=1079&utm_source=git)** | Vista, CA, United States | On Site | Nov 20 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6aa8b51d17ddad6a8a47cd5c?utm_campaign=1079&utm_source=git)** | Chaska, MN, United States | On Site | Nov 20 |
-| **[Alexander Innovation Centre](https://www.alexic.ca/)** | **[Full Stack Developer Intern / AI Voice](https://jobright.ai/jobs/info/6b00be170f536e0ba7276d63?utm_campaign=1079&utm_source=git)** | Vancouver, BC, Canada | On Site | Nov 20 |
-| **[Ralliant](https://investors.ralliant.com/)** | **[Software Design Engineer Intern (Summer 2027)](https://jobright.ai/jobs/info/6b00bae8dfa58e4c244ddfe5?utm_campaign=1079&utm_source=git)** | Beaverton, OR, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
