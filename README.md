@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Match](http://www.lifeatmatch.com)** | **[Android Engineer Intern](https://jobright.ai/jobs/info/6aedea71d20350c7a50761d8?utm_campaign=1079&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 23 |
+| **[Veolia](https://www.veolia.com/fr)** | **[Manufacturing Software Engineer Intern](https://jobright.ai/jobs/info/6b050d2c7bec27df08f95ae2?utm_campaign=1079&utm_source=git)** | Boulder, CO, United States | On Site | Nov 23 |
 | **[Rambus](http://www.rambus.com/us)** | **[Intern](https://jobright.ai/jobs/info/6af272a7905985ccaa40c933?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 23 |
 | **[Illumio](http://www.illumio.com)** | **[Engineering Intern, Architecture Platform](https://jobright.ai/jobs/info/6b04d6247fd2e33bde097c61?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, United States | On Site | Nov 23 |
 | ↳ | **[AI-Based Scale & Performance Test Automation Intern](https://jobright.ai/jobs/info/6b04d4f258147eafa2996884?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, United States | On Site | Nov 23 |
@@ -77,13 +79,13 @@ For a complete list, click the following sortable link below:
 | **[Philips](https://www.philips.com)** | **[Intern – AI-Agentic Embedded Software Development - Bothell, WA - Summer 2027](https://jobright.ai/jobs/info/6b04a51bb4933fb9f4360041?utm_campaign=1079&utm_source=git)** | Bothell, WA, United States | On Site | Nov 23 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 3](https://jobright.ai/jobs/info/6b049e422d88b678f1177d30?utm_campaign=1079&utm_source=git)** | Durham, NC, United States | On Site | Nov 23 |
 | **[Fours (formerly Suger)](https://www.fours.com)** | **[QA Engineering Intern (Contract)](https://jobright.ai/jobs/info/6b04ce232d88b678f1179ed5?utm_campaign=1079&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Nov 23 |
-| **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern - Circuit Simulation](https://jobright.ai/jobs/info/6b04c92bb4933fb9f436176d?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Nov 23 |
+| **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern - Circuit Simulation infrastructure](https://jobright.ai/jobs/info/6b00066d3a9a0230ab025596?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 23 |
+| ↳ | **[Software Engineering Intern - Circuit Simulation](https://jobright.ai/jobs/info/6b04949e7bec27df08f9231b?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Nov 23 |
 | ↳ | **[Software Engineering Intern - Circuit Simulation infrastructure](https://jobright.ai/jobs/info/6b0002ee80dbbb90153930ad?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 23 |
-| ↳ | **[Software Engineering Intern - Circuit Simulation infrastructure](https://jobright.ai/jobs/info/6b00066d3a9a0230ab025596?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 23 |
 | **[Illumio](http://www.illumio.com)** | **[Engineering Intern, Security Platforms](https://jobright.ai/jobs/info/6b04d05913646880439e5af8?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, United States | On Site | Nov 23 |
 | **[BWXT](http://www.bwxt.com)** | **[Quality Assurance Engineer Intern (Summer 2027)](https://jobright.ai/jobs/info/6aff9bcd1126e09fee091b5f?utm_campaign=1079&utm_source=git)** | Mt Vernon, Indiana, United States | On Site | Nov 23 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Software Engineering Internship](https://jobright.ai/jobs/info/6b04a6502d88b678f1178655?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 23 |
-| ↳ | **[Summer 2027 Software Engineering Internship](https://jobright.ai/jobs/info/6b04c113b4933fb9f4361259?utm_campaign=1079&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 23 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Software Engineering Internship](https://jobright.ai/jobs/info/6b04c113b4933fb9f4361259?utm_campaign=1079&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 23 |
+| ↳ | **[Summer 2027 Software Engineering Internship](https://jobright.ai/jobs/info/6b04a6502d88b678f1178655?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 23 |
 | **[Viasat](http://www.viasat.com)** | **[Embedded Software Engineer Intern - Viasat Government](https://jobright.ai/jobs/info/6b04792421f0a1e0c849b4e7?utm_campaign=1079&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 23 |
 | ↳ | **[Embedded Software Engineer Intern - Viasat Government](https://jobright.ai/jobs/info/6b04799aa72582cade08dd9f?utm_campaign=1079&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 23 |
 | **[Shield](https://shield.ai)** | **[2027 Summer Intern - Software Engineering - 5815](https://jobright.ai/jobs/info/6b048ed57fd2e33bde094fe5?utm_campaign=1079&utm_source=git)** | Dallas, TX, United States | On Site | Nov 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Qualcomm](http://www.qualcomm.com)** | **[Embedded Engineering Internship - Summer 2027](https://jobright.ai/jobs/info/6acb6a41002e496d4beed245?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Nov 23 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer intern (Global Traffic Architecture) - 2027 Summer](https://jobright.ai/jobs/info/6b04188f4c822a415e66ee7b?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 23 |
 | **[First Resonance](https://firstresonance.io)** | **[Software Engineering Intern, Platform (Summer 2027)](https://jobright.ai/jobs/info/6b03d6cd6300701fae1ae914?utm_campaign=1079&utm_source=git)** | El Segundo, CA, United States | On Site | Nov 23 |
-| ↳ | **[Forward Deployed Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6b03d6cb5da88988c83fe145?utm_campaign=1079&utm_source=git)** | El Segundo, CA, United States | On Site | Nov 23 |
-| **[Emerson](http://www.emerson.com)** | **[Application Engineering Intern](https://jobright.ai/jobs/info/6a908c480bd89e205d24af0e?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
