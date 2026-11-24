@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Aptiv](http://www.aptiv.com)** | **[HVP/Cert Engineering Intern](https://jobright.ai/jobs/info/6acd728c002e496d4bef23e7?utm_campaign=1079&utm_source=git)** | Kanata, ON, Canada | On Site | Nov 24 |
-| ↳ | **[HVP/Cert  Engineer Intern](https://jobright.ai/jobs/info/6ada4d02e4b94611ab85b141?utm_campaign=1079&utm_source=git)** | Kanata, ON, Canada | On Site | Nov 24 |
-| ↳ | **[HVP/Cert  Engineering Intern](https://jobright.ai/jobs/info/6acd7279e7a1d93332111abe?utm_campaign=1079&utm_source=git)** | Kanata, ON, Canada | On Site | Nov 24 |
+| **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Implementation Intern](https://jobright.ai/jobs/info/6a832f299b859b227766cfb0?utm_campaign=1079&utm_source=git)** | United States | On Site | Nov 24 |
+| **[Aptiv](http://www.aptiv.com)** | **[HVP/Cert  Engineer Intern](https://jobright.ai/jobs/info/6ada4d02e4b94611ab85b141?utm_campaign=1079&utm_source=git)** | Kanata, ON, Canada | On Site | Nov 24 |
+| ↳ | **[HVP/Cert Engineering Intern](https://jobright.ai/jobs/info/6acd728c002e496d4bef23e7?utm_campaign=1079&utm_source=git)** | Kanata, ON, Canada | On Site | Nov 24 |
 | ↳ | **[HVP/Cert   Engineering Intern](https://jobright.ai/jobs/info/6acd7273ddd23cce28a125a2?utm_campaign=1079&utm_source=git)** | Kanata, ON, Canada | On Site | Nov 24 |
+| ↳ | **[HVP/Cert  Engineering Intern](https://jobright.ai/jobs/info/6acd7279e7a1d93332111abe?utm_campaign=1079&utm_source=git)** | Kanata, ON, Canada | On Site | Nov 24 |
 | **[Whatnot](https://www.whatnot.com)** | **[Software Engineer Intern (Summer 2027)](https://jobright.ai/jobs/info/6a962810c8763a3a87ffec45?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 24 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Software Engineering Internship](https://jobright.ai/jobs/info/6b0539593210e87f92af82d8?utm_campaign=1079&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 23 |
 | ↳ | **[Summer 2027 Software Engineering Internship](https://jobright.ai/jobs/info/6b052bebb4933fb9f43631c2?utm_campaign=1079&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 23 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Illumio](http://www.illumio.com)** | **[Engineering Intern, Security Platforms](https://jobright.ai/jobs/info/6b04d05913646880439e5af8?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, United States | On Site | Nov 23 |
 | ↳ | **[AI-Based Scale & Performance Test Automation Intern](https://jobright.ai/jobs/info/6b04d4f258147eafa2996884?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, United States | On Site | Nov 23 |
 | **[Veolia](https://www.veolia.com/fr)** | **[Manufacturing Software Engineer Intern](https://jobright.ai/jobs/info/6b050d2c7bec27df08f95ae2?utm_campaign=1079&utm_source=git)** | Boulder, CO, United States | On Site | Nov 23 |
-| **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6afdc1580324c008a17e0ae0?utm_campaign=1079&utm_source=git)** | Milpitas, CA, United States | On Site | Nov 23 |
-| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6b04efe7b4933fb9f43624ad?utm_campaign=1079&utm_source=git)** | Milpitas, CA, United States | On Site | Nov 23 |
+| **[KLA](https://www.kla.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6b04efe7b4933fb9f43624ad?utm_campaign=1079&utm_source=git)** | Milpitas, CA, United States | On Site | Nov 23 |
+| ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6afdc1580324c008a17e0ae0?utm_campaign=1079&utm_source=git)** | Milpitas, CA, United States | On Site | Nov 23 |
 | ↳ | **[Software Engineering Intern](https://jobright.ai/jobs/info/6b051576b4933fb9f4362c68?utm_campaign=1079&utm_source=git)** | Milpitas, CA, United States | On Site | Nov 23 |
 | **[Leidos](https://www.leidos.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6affb28cdd029d798066e2e4?utm_campaign=1079&utm_source=git)** | Arlington, VA, United States | On Site | Nov 23 |
 | **[Tinder](http://www.tinder.com)** | **[iOS Engineer Intern](https://jobright.ai/jobs/info/6aee2b99d20350c7a5079acf?utm_campaign=1079&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Nov 23 |
@@ -100,14 +101,14 @@ For a complete list, click the following sortable link below:
 | **[Philips](https://www.philips.com)** | **[Intern – AI-Agentic Embedded Software Development - Bothell, WA - Summer 2027](https://jobright.ai/jobs/info/6b04a51bb4933fb9f4360041?utm_campaign=1079&utm_source=git)** | Bothell, WA, United States | On Site | Nov 23 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 3](https://jobright.ai/jobs/info/6b049e422d88b678f1177d30?utm_campaign=1079&utm_source=git)** | Durham, NC, United States | On Site | Nov 23 |
 | **[Fours (formerly Suger)](https://www.fours.com)** | **[QA Engineering Intern (Contract)](https://jobright.ai/jobs/info/6b04ce232d88b678f1179ed5?utm_campaign=1079&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Nov 23 |
-| **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern - Circuit Simulation](https://jobright.ai/jobs/info/6b04c92bb4933fb9f436176d?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Nov 23 |
+| **[Cadence](https://www.cadence.com)** | **[Software Engineering Intern - Circuit Simulation infrastructure](https://jobright.ai/jobs/info/6b00066d3a9a0230ab025596?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 23 |
 | ↳ | **[Software Engineering Intern - Circuit Simulation infrastructure](https://jobright.ai/jobs/info/6b0002ee80dbbb90153930ad?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 23 |
-| ↳ | **[Software Engineering Intern - Circuit Simulation infrastructure](https://jobright.ai/jobs/info/6b00066d3a9a0230ab025596?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 23 |
+| ↳ | **[Software Engineering Intern - Circuit Simulation](https://jobright.ai/jobs/info/6b04949e7bec27df08f9231b?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | On Site | Nov 23 |
 | **[BWXT](http://www.bwxt.com)** | **[Quality Assurance Engineer Intern (Summer 2027)](https://jobright.ai/jobs/info/6aff9bcd1126e09fee091b5f?utm_campaign=1079&utm_source=git)** | Mt Vernon, Indiana, United States | On Site | Nov 23 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Software Engineering Internship](https://jobright.ai/jobs/info/6b04a6502d88b678f1178655?utm_campaign=1079&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 23 |
 | ↳ | **[Summer 2027 Software Engineering Internship](https://jobright.ai/jobs/info/6b04c113b4933fb9f4361259?utm_campaign=1079&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 23 |
-| **[Viasat](http://www.viasat.com)** | **[Embedded Software Engineer Intern - Viasat Government](https://jobright.ai/jobs/info/6b04792421f0a1e0c849b4e7?utm_campaign=1079&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 23 |
-| ↳ | **[Embedded Software Engineer Intern - Viasat Government](https://jobright.ai/jobs/info/6b04799aa72582cade08dd9f?utm_campaign=1079&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 23 |
+| **[Viasat](http://www.viasat.com)** | **[Embedded Software Engineer Intern - Viasat Government](https://jobright.ai/jobs/info/6b04799aa72582cade08dd9f?utm_campaign=1079&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 23 |
+| ↳ | **[Embedded Software Engineer Intern - Viasat Government](https://jobright.ai/jobs/info/6b04792421f0a1e0c849b4e7?utm_campaign=1079&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 23 |
 | **[Shield](https://shield.ai)** | **[2027 Summer Intern - Software Engineering - 5815](https://jobright.ai/jobs/info/6b048ed57fd2e33bde094fe5?utm_campaign=1079&utm_source=git)** | Dallas, TX, United States | On Site | Nov 23 |
 | **[Ryzoe](https://ryzoe.com)** | **[Trainee (Intern) Full Stack Developer](https://jobright.ai/jobs/info/6b04c4f0b4933fb9f4361583?utm_campaign=1079&utm_source=git)** | United States | Remote | Nov 23 |
 | **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6b04c5267bec27df08f94571?utm_campaign=1079&utm_source=git)** | Chelmsford, MA, United States | On Site | Nov 23 |
@@ -136,9 +137,9 @@ For a complete list, click the following sortable link below:
 | **[Willowglen Systems](http://www.willowglensystems.com/)** | **[Co-op Intern - Corporate IT Development](https://jobright.ai/jobs/info/6af20c651aaffa49f7380094?utm_campaign=1079&utm_source=git)** | Edmonton, AB, Canada | On Site | Nov 23 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Public Protection - Office of Information Technology](https://jobright.ai/jobs/info/6aff1e7897dcc4fc8dca8ccd?utm_campaign=1079&utm_source=git)** | Frankfort, KY, United States | On Site | Nov 23 |
 | **[Strava](http://www.strava.com)** | **[Software Engineering Intern, Server, Security](https://jobright.ai/jobs/info/6b04718e4c822a415e670df2?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 23 |
-| ↳ | **[Software Engineering Intern, Server, Comms](https://jobright.ai/jobs/info/6b04716621f0a1e0c849b0ce?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 23 |
-| ↳ | **[Software Engineering Intern, Android, Subscriptions](https://jobright.ai/jobs/info/6b0473b421f0a1e0c849b1b6?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 23 |
 | ↳ | **[Software Engineering Intern, Server, Next Sports](https://jobright.ai/jobs/info/6b0473b1a72582cade08da33?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 23 |
+| ↳ | **[Software Engineering Intern, Android, Subscriptions](https://jobright.ai/jobs/info/6b0473b421f0a1e0c849b1b6?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 23 |
+| ↳ | **[Software Engineering Intern, Server, Comms](https://jobright.ai/jobs/info/6b04716621f0a1e0c849b0ce?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 23 |
 | ↳ | **[Software Engineering Intern, Server, User Lifecycle](https://jobright.ai/jobs/info/6b04717021f0a1e0c849b0d4?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 23 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Product Engineering Intern - Threat Detection](https://jobright.ai/jobs/info/6b048ac258147eafa29937c9?utm_campaign=1079&utm_source=git)** | Sunnyvale, CA, United States | Hybrid | Nov 23 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Software Development Engineer - Intern](https://jobright.ai/jobs/info/6b0480a9c8533c23e3c36657?utm_campaign=1079&utm_source=git)** | Mountain View, CA, United States | On Site | Nov 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zebra Technologies](https://www.zebra.com)** | **[2027 Summer Internship (US) – WWAN Cellular Engineer](https://jobright.ai/jobs/info/6b04674b566251ad7b8616c5?utm_campaign=1079&utm_source=git)** | Holtsville, NY, United States | Hybrid | Nov 23 |
 | **[Constellation](https://www.constellationenergy.com)** | **[2027 IT Development Intern - San Diego, CA](https://jobright.ai/jobs/info/6aeb6757f40efa43f4a16fcc?utm_campaign=1079&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 23 |
 | ↳ | **[2027 Summer Information Technology Software Development Intern (Remote)](https://jobright.ai/jobs/info/6ab74534ba1c25652c611e11?utm_campaign=1079&utm_source=git)** | Baltimore, MD, United States | Remote | Nov 23 |
-| **[ParetoHealth](https://paretohealth.com)** | **[Software Engineering Summer Intern](https://jobright.ai/jobs/info/6ae88d45061d6d7ff3d7ae76?utm_campaign=1079&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
