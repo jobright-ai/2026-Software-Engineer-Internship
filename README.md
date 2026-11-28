@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CN](http://www.cn.ca)** | **[Intern-Stage Software Engineering Developer - Développeur en génie logiciel](https://jobright.ai/jobs/info/6b0a6218dd884ad2cc58ff76?utm_campaign=1079&utm_source=git)** | Quebec, Canada | Hybrid | Nov 27 |
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op Winter 2027 - Software Engineering - 8 Months](https://jobright.ai/jobs/info/6a9b0203fe45b8490f606621?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Nov 27 |
 | **[Affirm](https://www.affirm.com)** | **[Software Engineer Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac028e90e027c0f3b3a02a9?utm_campaign=1079&utm_source=git)** | New York, NY, United States | Hybrid | Nov 27 |
 | **[Impulse Space](https://www.impulsespace.com)** | **[Enterprise Software Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6ad258adf04335fc70ed4f8b?utm_campaign=1079&utm_source=git)** | Redondo Beach, CA, United States | On Site | Nov 27 |
@@ -69,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[AFL](http://www.AFLglobal.com)** | **[Web Design/Development Intern- Summer 2027](https://jobright.ai/jobs/info/6aed02f43a3fa7f03ea8b326?utm_campaign=1079&utm_source=git)** | Duncan, SC, United States | On Site | Nov 27 |
 | **[Citi](https://www.citi.com)** | **[Technology, Application Development, Summer Analyst, Jacksonville - USA, 2027](https://jobright.ai/jobs/info/6aff7b2eb47661ae4a62d32b?utm_campaign=1079&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 27 |
 | **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6aecfe823967d67f635a197b?utm_campaign=1079&utm_source=git)** | Westerville, OH, United States | On Site | Nov 27 |
-| **[Shure](http://www.shure.com)** | **[Cloud Software Engineering Intern](https://jobright.ai/jobs/info/6a9a5221fe45b8490f603859?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 27 |
+| **[Shure](http://www.shure.com)** | **[Cloud Software Engineering Intern](https://jobright.ai/jobs/info/6a989dff83fc633357632945?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 27 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 2](https://jobright.ai/jobs/info/6b0845020bd5d5fe945f4068?utm_campaign=1079&utm_source=git)** | Wayne, NJ, United States | On Site | Nov 27 |
 | **[Citi](https://www.citi.com)** | **[Technology, Application Development, Summer Analyst, Irving - USA, 2027](https://jobright.ai/jobs/info/6adbad22389e06bb41ad34a4?utm_campaign=1079&utm_source=git)** | Irving, TX, United States | On Site | Nov 27 |
 | ↳ | **[Technology, Production Support, Summer Analyst, Tampa - USA, 2027](https://jobright.ai/jobs/info/6adbe4555dc7953215a3558d?utm_campaign=1079&utm_source=git)** | Tampa, FL, United States | On Site | Nov 27 |
@@ -86,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Hadrian](https://hadrian.co)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a989a41def18223c855067c?utm_campaign=1079&utm_source=git)** | Torrance, CA, United States | On Site | Nov 27 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Software Test Intern](https://jobright.ai/jobs/info/6afb8430b2e06df257974fa7?utm_campaign=1079&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 27 |
 | **[Raft](https://teamraft.com)** | **[Full Stack Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6aed23b43a3fa7f03ea8c453?utm_campaign=1079&utm_source=git)** | McLean, VA, United States | On Site | Nov 27 |
-| **[Shure](http://www.shure.com)** | **[Cloud Applications Development Intern](https://jobright.ai/jobs/info/6a989e0011f73b6462c8faec?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Remote | Nov 27 |
+| **[Shure](http://www.shure.com)** | **[Cloud Applications Development Intern](https://jobright.ai/jobs/info/6a9a4451e6c97d4b970ae7d4?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Remote | Nov 27 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[C++ Software Intern](https://jobright.ai/jobs/info/6ab412dc7bd081371331593c?utm_campaign=1079&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 27 |
 | **[Innovative Systems, Inc.](http://www.innovativesystems.com/)** | **[Intern/Co-op- Summer 2027 - Software Engineering](https://jobright.ai/jobs/info/6a99cdda040e5c3d07599006?utm_campaign=1079&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Nov 27 |
 | **[Daiichi Sankyo](https://daiichisankyo.us)** | **[Regional Applications Intern](https://jobright.ai/jobs/info/6b099162b80cc2b409d84bbb?utm_campaign=1079&utm_source=git)** | Basking Ridge, NJ, United States | On Site | Nov 27 |
@@ -141,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Atoms](https://atoms.co)** | **[Software Engineering Intern - 2027 Summer Term](https://jobright.ai/jobs/info/6b0884fe03dd5bd15ba47926?utm_campaign=1079&utm_source=git)** | New York, NY, United States | On Site | Nov 26 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Cloud Engineer](https://jobright.ai/jobs/info/6aebc01dfbe13dfb53df6fbd?utm_campaign=1079&utm_source=git)** | Irving, TX, United States | Hybrid | Nov 26 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Sparse Linear Algebra Libraries Intern - Summer 2027](https://jobright.ai/jobs/info/6aff5cf1c1c02a9acd80b2ed?utm_campaign=1079&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 26 |
-| **[Shure](http://www.shure.com)** | **[Application Systems Development Intern (Motive Mix)](https://jobright.ai/jobs/info/6a99cf391388387060590896?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 26 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Information Technology Summer Intern](https://jobright.ai/jobs/info/6a97084ce4e60e4b8da5bac0?utm_campaign=1079&utm_source=git)** | Grafton, WI, United States | Hybrid | Nov 26 |
+| **[Shure](http://www.shure.com)** | **[Application Systems Development Intern (Motive Mix)](https://jobright.ai/jobs/info/6a989ddedd171c728579345b?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 26 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Information Technology Summer Intern](https://jobright.ai/jobs/info/6a970421246d697dcee02c94?utm_campaign=1079&utm_source=git)** | Grafton, WI, United States | Hybrid | Nov 26 |
 | **[Etched](https://www.etched.com)** | **[Firmware Intern](https://jobright.ai/jobs/info/6a56084353b3962b910ad99a?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 26 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Digital Integration Intern (Year-Round)](https://jobright.ai/jobs/info/6ab2f00d1508734c1530cb09?utm_campaign=1079&utm_source=git)** | Mequon, WI, United States | Hybrid | Nov 26 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Intern - Summer 2027 (USA)](https://jobright.ai/jobs/info/6aac8191636cddf7396f4523?utm_campaign=1079&utm_source=git)** | Detroit, MI, United States | On Site | Nov 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Digital/Information Technology (Summer 2027)](https://jobright.ai/jobs/info/6a835812b5a0ac0e84a252c1?utm_campaign=1079&utm_source=git)** | Findlay, OH, United States | On Site | Nov 26 |
 | **[C3 AI](https://c3.ai)** | **[Software Engineer - Intern (Summer 2027)](https://jobright.ai/jobs/info/6a95c3b94c22023a07935a09?utm_campaign=1079&utm_source=git)** | Redwood City, CA, United States | On Site | Nov 26 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Firmware Engineer Intern](https://jobright.ai/jobs/info/6aceb5084391691a335ae4db?utm_campaign=1079&utm_source=git)** | Costa Mesa, CA, United States | On Site | Nov 26 |
-| **[Figma](https://www.figma.com)** | **[PhD Intern, Software Engineer - Interaction Design (2027)](https://jobright.ai/jobs/info/6aeb63a1765815f7d745fc89?utm_campaign=1079&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
