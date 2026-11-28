@@ -58,14 +58,15 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Samsara](http://www.samsara.com)** | **[Software Engineering Internship - San Francisco](https://jobright.ai/jobs/info/6aee00fac7498922fe0c666a?utm_campaign=1079&utm_source=git)** | San Francisco, California, United States | Hybrid | Nov 28 |
+| **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[Investments Technology Research Intern](https://jobright.ai/jobs/info/6af82c6442ae65e2c8f3b4f8?utm_campaign=1079&utm_source=git)** | Denver, Colorado, United States | Hybrid | Nov 28 |
 | **[DriveTime](https://www.drivetime.com)** | **[Software Engineering Intern (Summer 2027)](https://jobright.ai/jobs/info/6a99b4bead752e2ad5501567?utm_campaign=1079&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 28 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Application Developer](https://jobright.ai/jobs/info/6aedfba7caf8e660b87d90e3?utm_campaign=1079&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Nov 28 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Embedded Software Engineer Student Experience - Spring 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6af904da1465de0d45f839c1?utm_campaign=1079&utm_source=git)** | Bismarck, ND, United States | On Site | Nov 28 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a9b3fec90a313642c6595ce?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 28 |
-| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6aaabff0c85610f4a484157a?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 28 |
-| ↳ | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/6aa4c642930bff471a29b88b?utm_campaign=1079&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 28 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Software Engineer Intern](https://jobright.ai/jobs/info/6aaabff0c85610f4a484157a?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 28 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6aa1852b0ffb3d4fea6b517b?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 28 |
 | ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6aab1434c85610f4a48436fa?utm_campaign=1079&utm_source=git)** | Oak Brook, IL, United States | On Site | Nov 28 |
+| ↳ | **[Embedded Software Engineer Intern](https://jobright.ai/jobs/info/6aa4c642930bff471a29b88b?utm_campaign=1079&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 28 |
+| ↳ | **[Software Engineer Intern](https://jobright.ai/jobs/info/6a9b3fec90a313642c6595ce?utm_campaign=1079&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 28 |
 | **[CN](http://www.cn.ca)** | **[Intern-Stage Software Engineering Developer - Développeur en génie logiciel](https://jobright.ai/jobs/info/6b0a6218dd884ad2cc58ff76?utm_campaign=1079&utm_source=git)** | Quebec, Canada | Hybrid | Nov 27 |
 | **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op Winter 2027 - Software Engineering - 8 Months](https://jobright.ai/jobs/info/6a9b0203fe45b8490f606621?utm_campaign=1079&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Nov 27 |
 | **[Affirm](https://www.affirm.com)** | **[Software Engineer Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac028e90e027c0f3b3a02a9?utm_campaign=1079&utm_source=git)** | New York, NY, United States | Hybrid | Nov 27 |
@@ -79,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[AFL](http://www.AFLglobal.com)** | **[Web Design/Development Intern- Summer 2027](https://jobright.ai/jobs/info/6aed02f43a3fa7f03ea8b326?utm_campaign=1079&utm_source=git)** | Duncan, SC, United States | On Site | Nov 27 |
 | **[Citi](https://www.citi.com)** | **[Technology, Application Development, Summer Analyst, Jacksonville - USA, 2027](https://jobright.ai/jobs/info/6aff7b2eb47661ae4a62d32b?utm_campaign=1079&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 27 |
 | **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Software Engineering Intern](https://jobright.ai/jobs/info/6aecfe823967d67f635a197b?utm_campaign=1079&utm_source=git)** | Westerville, OH, United States | On Site | Nov 27 |
-| **[Shure](http://www.shure.com)** | **[Cloud Software Engineering Intern](https://jobright.ai/jobs/info/6a9a5221fe45b8490f603859?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 27 |
+| **[Shure](http://www.shure.com)** | **[Cloud Software Engineering Intern](https://jobright.ai/jobs/info/6a989dff83fc633357632945?utm_campaign=1079&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 27 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 2](https://jobright.ai/jobs/info/6b0845020bd5d5fe945f4068?utm_campaign=1079&utm_source=git)** | Wayne, NJ, United States | On Site | Nov 27 |
 | **[Citi](https://www.citi.com)** | **[Technology, Application Development, Summer Analyst, Irving - USA, 2027](https://jobright.ai/jobs/info/6adbad22389e06bb41ad34a4?utm_campaign=1079&utm_source=git)** | Irving, TX, United States | On Site | Nov 27 |
 | ↳ | **[Technology, Production Support, Summer Analyst, Tampa - USA, 2027](https://jobright.ai/jobs/info/6adbe4555dc7953215a3558d?utm_campaign=1079&utm_source=git)** | Tampa, FL, United States | On Site | Nov 27 |
@@ -132,7 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University Master’s, 2026 Fall Technologist Intern](https://jobright.ai/jobs/info/6aa43bc18275e3a21175f8bf?utm_campaign=1079&utm_source=git)** | Honolulu, HI, United States | On Site | Nov 27 |
 | ↳ | **[Test Engineer Intern](https://jobright.ai/jobs/info/6ae0de3867c31ab34899dffe?utm_campaign=1079&utm_source=git)** | Lexington Park, MD, United States | On Site | Nov 27 |
 | ↳ | **[University, 2026 Fall Technologist Intern](https://jobright.ai/jobs/info/6aa43700f7baf881567cdd26?utm_campaign=1079&utm_source=git)** | Honolulu, HI, United States | On Site | Nov 27 |
-| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a9741d1b22f636c81416fea?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Nov 27 |
+| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Software Development Intern](https://jobright.ai/jobs/info/6a9741c2455eaf6a08c1bcdf?utm_campaign=1079&utm_source=git)** | Chicago, IL, United States | On Site | Nov 27 |
 | ↳ | **[Software Development Intern](https://jobright.ai/jobs/info/6a9741ccb22f636c81416fe5?utm_campaign=1079&utm_source=git)** | Boise, ID, United States | On Site | Nov 27 |
 | **[Snaphomz](https://www.snaphomz.com/)** | **[Full Stack Engineer - Intern](https://jobright.ai/jobs/info/6afa95639331e23f79cdd71f?utm_campaign=1079&utm_source=git)** | United States | On Site | Nov 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Frontend Engineer Project Intern (TikTok Multimedia Arch) - 2026 (BS/MS)](https://jobright.ai/jobs/info/6a49a575971cd25b06f95bbc?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Etched](https://www.etched.com)** | **[Firmware Intern](https://jobright.ai/jobs/info/6a56084353b3962b910ad99a?utm_campaign=1079&utm_source=git)** | San Jose, CA, United States | On Site | Nov 26 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Digital Integration Intern (Year-Round)](https://jobright.ai/jobs/info/6ab2f00d1508734c1530cb09?utm_campaign=1079&utm_source=git)** | Mequon, WI, United States | Hybrid | Nov 26 |
 | **[Amazon](https://amazon.com)** | **[Software Development Engineer Intern - Summer 2027 (USA)](https://jobright.ai/jobs/info/6aac8191636cddf7396f4523?utm_campaign=1079&utm_source=git)** | Detroit, MI, United States | On Site | Nov 26 |
-| **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 2](https://jobright.ai/jobs/info/6b084c6eaa59d5ea1da51185?utm_campaign=1079&utm_source=git)** | Wayne, NJ, United States | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
